@@ -14,8 +14,8 @@ STATE = HERE / "state.json"
 WEBHOOK = os.environ.get("DISCORD_WEBHOOK")
 
 if not WEBHOOK:
-    print("DISCORD_WEBHOOK not found.")
-    raise SystemExit()
+    print("ERROR: DISCORD_WEBHOOK environment variable is missing.")
+    raise SystemExit(1)
 
 
 def load_state():
@@ -23,32 +23,56 @@ def load_state():
         return {"last_guid": 0}
 
     try:
-        return json.loads(STATE.read_text())
-    except:
+        return json.loads(STATE.read_text(encoding="utf-8"))
+    except Exception:
         return {"last_guid": 0}
 
 
 def save_state(last_guid):
     STATE.write_text(
-        json.dumps(
-            {
-                "last_guid": last_guid
-            },
-            indent=2,
-        )
+        json.dumps({"last_guid": last_guid}, indent=2),
+        encoding="utf-8",
     )
+
+
+def get_title(headline: str):
+    text = headline.upper()
+
+    if "CPI" in text:
+        return "🔴 CPI RELEASE"
+
+    if "PPI" in text:
+        return "🔴 PPI RELEASE"
+
+    if "NFP" in text or "NONFARM" in text:
+        return "🔴 NONFARM PAYROLLS"
+
+    if "FOMC" in text:
+        return "🔴 FOMC"
+
+    if "POWELL" in text:
+        return "🟠 POWELL SPEECH"
+
+    if "GDP" in text:
+        return "🔴 GDP"
+
+    if "PCE" in text:
+        return "🔴 PCE"
+
+    if "PMI" in text:
+        return "🟠 PMI"
+
+    if "BREAKING" in text:
+        return "🚨 BREAKING NEWS"
+
+    return "🚨 HIGH IMPACT NEWS"
 
 
 state = load_state()
 last_guid = state["last_guid"]
 
-with open(LATEST, "r", encoding="utf8") as f:
-    data = json.load(f)
-
-items = data["items"]
-
-# oldest -> newest
-items.reverse()
+data = json.loads(LATEST.read_text(encoding="utf-8"))
+items = list(reversed(data["items"]))  # oldest → newest
 
 highest_guid = last_guid
 
@@ -63,42 +87,44 @@ for item in items:
 
     ok, color = is_high_impact(headline)
 
+    highest_guid = max(highest_guid, guid)
+
     if not ok:
-        highest_guid = max(highest_guid, guid)
         continue
 
-    ts = item.get("ts")
-
     embed = {
-        "title": "🚨 HIGH IMPACT BREAKING",
+        "title": get_title(headline),
         "description": headline,
         "color": color,
         "footer": {
-            "text": "FinancialJuice"
+            "text": "FinancialJuice RSS"
         },
-        "timestamp": ts
     }
+
+    ts = item.get("ts")
+    if ts:
+        embed["timestamp"] = ts
 
     payload = {
         "embeds": [embed]
     }
 
-    r = requests.post(
-        WEBHOOK,
-        json=payload,
-        timeout=20,
-    )
+    try:
+        response = requests.post(
+            WEBHOOK,
+            json=payload,
+            timeout=20,
+        )
 
-    print(
-        guid,
-        headline,
-        r.status_code,
-    )
+        print(
+            f"[{response.status_code}] {headline}"
+        )
 
-    highest_guid = max(highest_guid, guid)
+    except Exception as e:
+        print(e)
 
-    time.sleep(0.8)
+    time.sleep(1)
 
 save_state(highest_guid)
 
-print("Done.")
+print("Finished Discord notifications.")
