@@ -11,6 +11,7 @@ No secrets required: the RSS feed is keyless.
 
 import json
 import re
+import subprocess
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -99,26 +100,26 @@ def main() -> int:
          "items": list(reversed(window))}, indent=1), encoding="utf-8")
 
     print(f"added {len(new)} headlines "
-      f"(archive total {len(existing) + len(new)})")
+          f"(archive total {len(existing) + len(new)})")
 
-# -----------------------------
-# Send Discord notifications
-# -----------------------------
-if new:
-    import subprocess
-    import sys
+    # -----------------------------
+    # Send Discord notifications
+    # -----------------------------
+    # Only runs when new headlines exist, after latest.json is written.
+    # A Discord failure must never crash the collector.
+    if new:
+        print("Checking Discord alerts...")
+        try:
+            result = subprocess.run(
+                [sys.executable, str(HERE / "discord.py")],
+                capture_output=False,
+            )
+            if result.returncode != 0:
+                print("Discord notification failed.")
+        except Exception as exc:
+            print(f"Discord notification failed: {exc}")
 
-    print("Checking Discord alerts...")
-
-    result = subprocess.run(
-        [sys.executable, "discord.py"],
-        capture_output=False,
-    )
-
-    if result.returncode != 0:
-        print("Discord notification failed.")
-
-return 0
+    return 0
 
 
 if __name__ == "__main__":
