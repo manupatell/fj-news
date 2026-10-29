@@ -43,5 +43,10 @@ jobs:
             echo "no changes"
           else
             git commit -m "collect: $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git push
+            # market.yml also pushes to this repo; rebase and retry so a
+            # rejected push can never lose state.json (lost state = resends)
+            for i in 1 2 3; do
+              git pull --rebase && git push && break
+              sleep 3
+            done
           fi
