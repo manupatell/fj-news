@@ -32,7 +32,9 @@ HIGH_IMPACT_KEYWORDS = [
     "UEDA",
     "BREAKING",
     "TARIFF",
+    "TARIFFS",
     "SANCTION",
+    "SANCTIONS",
     "WAR",
     "MISSILE",
     "IRAN",
@@ -42,18 +44,18 @@ HIGH_IMPACT_KEYWORDS = [
     "CHINA",
     "TAIWAN",
     "OPEC",
-    "TRUMP"
+    "TRUMP",
 ]
 
 RED = [
     "CPI",
-    "NFP",
-    "RATE",
-    "FOMC",
-    "POWELL",
     "PPI",
+    "NFP",
+    "FOMC",
+    "RATE",
+    "POWELL",
     "GDP",
-    "PCE"
+    "PCE",
 ]
 
 ORANGE = [
@@ -65,18 +67,27 @@ ORANGE = [
     "ECB",
     "BOE",
     "BOJ",
+    "SNB",
+    "RBA",
+    "BOC",
 ]
 
-def is_high_impact(text: str):
-    t = text.upper()
+def is_high_impact(headline: str):
+    """
+    Returns:
+        (True, color)  -> if headline should be sent
+        (False, None)  -> ignore
+    """
 
-    if not any(k in t for k in HIGH_IMPACT_KEYWORDS):
+    text = headline.upper()
+
+    if not any(word in text for word in HIGH_IMPACT_KEYWORDS):
         return False, None
 
-    if any(k in t for k in RED):
-        return True, 0xFF0000
+    if any(word in text for word in RED):
+        return True, 0xE74C3C  # Red
 
-    if any(k in t for k in ORANGE):
-        return True, 0xFFA500
+    if any(word in text for word in ORANGE):
+        return True, 0xF39C12  # Orange
 
-    return True, 0xFFD700
+    return True, 0xF1C40F      # Yellow
