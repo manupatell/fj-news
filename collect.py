@@ -99,8 +99,26 @@ def main() -> int:
          "items": list(reversed(window))}, indent=1), encoding="utf-8")
 
     print(f"added {len(new)} headlines "
-          f"(archive total {len(existing) + len(new)})")
-    return 0
+      f"(archive total {len(existing) + len(new)})")
+
+# -----------------------------
+# Send Discord notifications
+# -----------------------------
+if new:
+    import subprocess
+    import sys
+
+    print("Checking Discord alerts...")
+
+    result = subprocess.run(
+        [sys.executable, "discord.py"],
+        capture_output=False,
+    )
+
+    if result.returncode != 0:
+        print("Discord notification failed.")
+
+return 0
 
 
 if __name__ == "__main__":
