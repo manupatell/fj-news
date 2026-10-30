@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T15:13:05.151105+00:00",
+ "updated": "2026-10-30T15:23:05.169448+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829759,
+   "ts": "2026-10-30T15:21:43+00:00",
+   "ingested": "2026-10-30T15:23:05.169050+00:00",
+   "headline": "Ukraine's Tykhyi: Ukraine wants trilateral talks in Nov., no dates yet.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829751,
    "ts": "2026-10-30T15:12:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T05:06:40+00:00",
    "ingested": "2026-10-29T05:44:01.923352+00:00",
    "headline": "China commerce ministry on U.S. listing Chinese firms on Xinjiang-related entity list: China firmly opposes this",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826585,
-   "ts": "2026-10-29T05:00:05+00:00",
-   "ingested": "2026-10-29T05:44:01.923359+00:00",
-   "headline": "Japanese Consumer Confidence Actual 35 (Forecast 35.1, Previous 35.4)",
    "channel": "rss",
    "source": "financialjuice"
   }
