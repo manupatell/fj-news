@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:16:26.146249+00:00",
+ "updated": "2026-10-30T20:19:46.111216+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830182,
+   "ts": "2026-10-30T20:18:10+00:00",
+   "ingested": "2026-10-30T20:19:46.110830+00:00",
+   "headline": "UKMTO: Received a time-late report of an incident in the Strait of Hormuz. Crude tanker hit by projectile transiting Hormuz strait",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830165,
    "ts": "2026-10-30T20:15:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:54:28+00:00",
    "ingested": "2026-10-29T15:32:21.124478+00:00",
    "headline": "ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827449,
-   "ts": "2026-10-29T13:53:58+00:00",
-   "ingested": "2026-10-29T15:32:21.124490+00:00",
-   "headline": "ECB President Lagarde: energy prices have risen beyond baseline",
    "channel": "rss",
    "source": "financialjuice"
   }
