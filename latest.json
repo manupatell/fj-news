@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T14:38:05.164108+00:00",
+ "updated": "2026-10-30T14:46:25.134439+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829710,
+   "ts": "2026-10-30T14:46:08+00:00",
+   "ingested": "2026-10-30T14:46:25.134021+00:00",
+   "headline": "Fitch Ratings on UK budget: Broad policy continuity leaves sizeable delivery challenge",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829707,
+   "ts": "2026-10-30T14:45:26+00:00",
+   "ingested": "2026-10-30T14:46:25.134044+00:00",
+   "headline": "Russia's Novak: Attacks on oil refineries will have negative impact on diesel fuel supplies to global market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829704,
    "ts": "2026-10-30T14:37:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T03:58:23+00:00",
    "ingested": "2026-10-29T05:44:01.923411+00:00",
    "headline": "North Korean missile seems to have landed beyond Japan's EEZ: Kyodo",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826521,
-   "ts": "2026-10-29T03:45:10+00:00",
-   "ingested": "2026-10-29T05:44:01.923418+00:00",
-   "headline": "Projectile believed to be North Korea-launched ballistic missile has already fallen: Japan Coast Guard",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826520,
-   "ts": "2026-10-29T03:40:51+00:00",
-   "ingested": "2026-10-29T05:44:01.923425+00:00",
-   "headline": "North Korea fires possible ballistic missile: Japan coast guard",
    "channel": "rss",
    "source": "financialjuice"
   }
