@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:17:42.416734+00:00",
+ "updated": "2026-10-30T12:24:22.389872+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829460,
+   "ts": "2026-10-30T12:22:32+00:00",
+   "ingested": "2026-10-30T12:24:22.389424+00:00",
+   "headline": "IRIB News: A super tanker exploded an hour ago after hitting a sea mine on the unauthorized route of the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829453,
    "ts": "2026-10-30T12:16:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T21:47:19+00:00",
    "ingested": "2026-10-29T00:09:48.060519+00:00",
    "headline": "IMF announces departure of deputy managing director Bo Li, proposes appointment of Min Liao as deputy managing director",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826123,
-   "ts": "2026-10-28T21:46:40+00:00",
-   "ingested": "2026-10-29T00:09:48.060526+00:00",
-   "headline": "Microsoft CEO: accelerating demand prompts addition of 24 new data centers across five continents this quarter - conf call",
    "channel": "rss",
    "source": "financialjuice"
   }
