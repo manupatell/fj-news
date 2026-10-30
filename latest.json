@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:08:06.085053+00:00",
+ "updated": "2026-10-30T20:11:26.135012+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830161,
+   "ts": "2026-10-30T20:10:18+00:00",
+   "ingested": "2026-10-30T20:11:26.134635+00:00",
+   "headline": "Yemen's Houthis deny launching attacks against Saudi Arabia's Medina - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830160,
    "ts": "2026-10-30T20:07:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:53:57+00:00",
    "ingested": "2026-10-29T15:32:21.124504+00:00",
    "headline": "ECB President Lagarde: negotiated wage growth to range 2.5%-2.8% for remainder of year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827447,
-   "ts": "2026-10-29T13:53:45+00:00",
-   "ingested": "2026-10-29T15:32:21.124517+00:00",
-   "headline": "ECB President Lagarde: most gauges of long-term inflation expectations near 2%",
    "channel": "rss",
    "source": "financialjuice"
   }
