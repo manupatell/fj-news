@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T11:01:03.583254+00:00",
+ "updated": "2026-10-30T11:02:42.352456+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829306,
+   "ts": "2026-10-30T11:00:56+00:00",
+   "ingested": "2026-10-30T11:02:42.352070+00:00",
+   "headline": "ECB's Kocher: Inflation risks have clearly increased, but neither acting prematurely nor waiting idly will ensure price stability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829305,
    "ts": "2026-10-30T11:00:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T20:38:29+00:00",
    "ingested": "2026-10-29T00:09:48.060622+00:00",
    "headline": "Alphabet's CEO Pichai: New AI model Carbon first rolls out to cyber partners. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826020,
-   "ts": "2026-10-28T20:37:29+00:00",
-   "ingested": "2026-10-29T00:09:48.060628+00:00",
-   "headline": "Alphabet's CEO Pichai: New AI model Carbon outperforms Gemini 4 Argon. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
