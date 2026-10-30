@@ -1,8 +1,12 @@
 name: Collect FJ headlines
 
+# One long-running job polls the feed every few seconds. GitHub's cron is
+# unreliable (runs minutes-to-hours apart), so cron here is only a
+# "keep-alive": a new run queues behind the current one (concurrency) and
+# starts the moment it finishes, so polling is effectively continuous.
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,6 +19,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
 
     steps:
       - uses: actions/checkout@v4
@@ -27,26 +32,10 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Collect headlines
+      - name: Live collector (polls every 10s for ~340 min)
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: python collect.py
-
-      - name: Commit if changed
-        run: |
-          git config user.name "fj-collector"
-          git config user.email "actions@users.noreply.github.com"
-
-          git add archive.jsonl latest.json state.json
-
-          if git diff --cached --quiet; then
-            echo "no changes"
-          else
-            git commit -m "collect: $(date -u +'%Y-%m-%d %H:%M') UTC"
-            # market.yml also pushes to this repo; rebase and retry so a
-            # rejected push can never lose state.json (lost state = resends)
-            for i in 1 2 3; do
-              git pull --rebase && git push && break
-              sleep 3
-            done
-          fi
+          LIVE_COMMIT: "1"
+          LIVE_INTERVAL: "10"
+          LIVE_DURATION_SEC: "20400"
+        run: python live.py
