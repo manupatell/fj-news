@@ -6,7 +6,7 @@ from pathlib import Path
 
 import requests
 
-from filters import is_high_impact
+from filters import get_tag, is_high_impact
 
 HERE = Path(__file__).parent
 LATEST = HERE / "latest.json"
@@ -53,7 +53,7 @@ def save_state(last_guid, seen):
     )
 
 
-def get_title(headline: str):
+def _data_title(headline: str):
     text = headline.upper()
 
     if "CPI" in text:
@@ -84,6 +84,25 @@ def get_title(headline: str):
         return "🚨 BREAKING NEWS"
 
     return "🚨 HIGH IMPACT NEWS"
+
+
+TAG_TITLES = {
+    "GOLD": "🥇 GOLD / XAUUSD",
+    "NASDAQ": "📈 NASDAQ / MNQ",
+    "GEOPOLITICS": "🌍 GEOPOLITICS",
+    "FED": "🏦 FED",
+    "FED SPEAKER": "🏦 FED SPEAKER",
+    "YIELDS": "💵 YIELDS / USD",
+    "US POLICY": "🇺🇸 US POLICY",
+    "TRUMP": "🇺🇸 TRUMP",
+}
+
+
+def get_title(headline: str):
+    tag = get_tag(headline)
+    if tag in TAG_TITLES:
+        return TAG_TITLES[tag]
+    return _data_title(headline)
 
 
 def age_minutes(item):
