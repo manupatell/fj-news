@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T11:46:02.374928+00:00",
+ "updated": "2026-10-30T11:47:42.380263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829404,
+   "ts": "2026-10-30T11:47:18+00:00",
+   "ingested": "2026-10-30T11:47:42.379869+00:00",
+   "headline": "$ABBV AbbVie Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829377,
    "ts": "2026-10-30T11:44:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T20:59:25+00:00",
    "ingested": "2026-10-29T00:09:48.060554+00:00",
    "headline": "Google attributes $8.2 bln other income loss to SpaceX share drop. $GOOGL $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826043,
-   "ts": "2026-10-28T20:58:31+00:00",
-   "ingested": "2026-10-29T00:09:48.060562+00:00",
-   "headline": "Google's Ashkenazi: R&D spending up 36% driven by AI hires and depreciation. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
