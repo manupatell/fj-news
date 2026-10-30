@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T17:12:36.038352+00:00",
+ "updated": "2026-10-30T17:22:46.044025+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829930,
+   "ts": "2026-10-30T17:21:57+00:00",
+   "ingested": "2026-10-30T17:22:46.043645+00:00",
+   "headline": "Ford CEO aims for a 20% sales jump by 2032 - WSJ. $F",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829915,
    "ts": "2026-10-30T17:01:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T09:09:16+00:00",
    "ingested": "2026-10-29T11:48:22.294178+00:00",
    "headline": "US suspected spy helped China evade constraints on AI chips - NYT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826869,
-   "ts": "2026-10-29T09:01:13+00:00",
-   "ingested": "2026-10-29T11:48:22.294192+00:00",
-   "headline": "Italian Unemployment Rate Actual 6.3% (Forecast 6.2%, Previous 6.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
