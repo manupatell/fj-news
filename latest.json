@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T13:04:22.401086+00:00",
+ "updated": "2026-10-30T13:11:02.422995+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829557,
+   "ts": "2026-10-30T13:09:34+00:00",
+   "ingested": "2026-10-30T13:11:02.422480+00:00",
+   "headline": "Kremlin: Ukrainian attacks on oil refineries do not cast doubt on upcoming negotiations on Ukraine - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829556,
    "ts": "2026-10-30T13:03:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T23:51:34+00:00",
    "ingested": "2026-10-29T00:09:48.060405+00:00",
    "headline": "Japanese Foreign Bond Investment Actual -92.6B (Forecast -, Previous -161.6B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826254,
-   "ts": "2026-10-28T23:51:34+00:00",
-   "ingested": "2026-10-29T00:09:48.060412+00:00",
-   "headline": "Foreign Investment Japanese Stocks Actual 1,180.9B (Forecast -, Previous -66.5B)",
    "channel": "rss",
    "source": "financialjuice"
   }
