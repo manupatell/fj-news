@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T14:28:05.128197+00:00",
+ "updated": "2026-10-30T14:34:45.113535+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829702,
+   "ts": "2026-10-30T14:33:44+00:00",
+   "ingested": "2026-10-30T14:34:45.113133+00:00",
+   "headline": "Exxon: UAE production has returned to levels consistent with historical output.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829692,
    "ts": "2026-10-30T14:26:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T02:30:08+00:00",
    "ingested": "2026-10-29T05:44:01.923440+00:00",
    "headline": "China's onshore yuan strengthens to 6.6621 per dollar, strongest since June 7, 2022",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826459,
-   "ts": "2026-10-29T02:14:42+00:00",
-   "ingested": "2026-10-29T05:44:01.923447+00:00",
-   "headline": "Haiti delays first presidential election in 10 years to July 18, 2027: electoral council",
    "channel": "rss",
    "source": "financialjuice"
   }
