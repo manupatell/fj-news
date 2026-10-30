@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:31:26.098543+00:00",
+ "updated": "2026-10-30T20:36:26.141965+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830202,
+   "ts": "2026-10-30T20:35:30+00:00",
+   "ingested": "2026-10-30T20:36:26.141592+00:00",
+   "headline": "Monday FX Option Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830185,
    "ts": "2026-10-30T20:30:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:55:26+00:00",
    "ingested": "2026-10-29T15:32:21.124453+00:00",
    "headline": "ECB's Lagarde: Worsening of market sentiment could tighten financing conditions, dampen demand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827451,
-   "ts": "2026-10-29T13:54:35+00:00",
-   "ingested": "2026-10-29T15:32:21.124465+00:00",
-   "headline": "ECB President Lagarde: growth risks point downward",
    "channel": "rss",
    "source": "financialjuice"
   }
