@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T15:11:25.141776+00:00",
+ "updated": "2026-10-30T15:13:05.151105+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829751,
+   "ts": "2026-10-30T15:12:20+00:00",
+   "ingested": "2026-10-30T15:13:05.150738+00:00",
+   "headline": "Japan asks Anthropic and OpenAI for more access to advanced models - Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829735,
    "ts": "2026-10-30T15:00:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T05:00:05+00:00",
    "ingested": "2026-10-29T05:44:01.923359+00:00",
    "headline": "Japanese Consumer Confidence Actual 35 (Forecast 35.1, Previous 35.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826552,
-   "ts": "2026-10-29T04:30:04+00:00",
-   "ingested": "2026-10-29T05:44:01.923368+00:00",
-   "headline": "Bank of Korea board member Hwang: upward revision to 2026 current account surplus to $500 billion from $450 billion previously",
    "channel": "rss",
    "source": "financialjuice"
   }
