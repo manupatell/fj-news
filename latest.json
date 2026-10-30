@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:29:46.117716+00:00",
+ "updated": "2026-10-30T20:31:26.098543+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830185,
+   "ts": "2026-10-30T20:30:24+00:00",
+   "ingested": "2026-10-30T20:31:26.098189+00:00",
+   "headline": "Week Ahead: Midterms, Earnings, Geopolitics, Bank Rates, & Treasury Refunding - What Could Go Wrong?",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830182,
    "ts": "2026-10-30T20:18:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:54:35+00:00",
    "ingested": "2026-10-29T15:32:21.124465+00:00",
    "headline": "ECB President Lagarde: growth risks point downward",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827450,
-   "ts": "2026-10-29T13:54:28+00:00",
-   "ingested": "2026-10-29T15:32:21.124478+00:00",
-   "headline": "ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation",
    "channel": "rss",
    "source": "financialjuice"
   }
