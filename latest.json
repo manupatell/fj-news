@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T14:48:05.140016+00:00",
+ "updated": "2026-10-30T14:49:45.146485+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829728,
+   "ts": "2026-10-30T14:48:07+00:00",
+   "ingested": "2026-10-30T14:49:45.146098+00:00",
+   "headline": "Fitch on UK budget: We see moderately more policy risk closer to next general election.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829727,
    "ts": "2026-10-30T14:47:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T04:30:04+00:00",
    "ingested": "2026-10-29T05:44:01.923383+00:00",
    "headline": "Bank of Korea board member Hwang: Monitoring FX market carefully, dollar-won shift quicker than anticipated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826549,
-   "ts": "2026-10-29T04:30:04+00:00",
-   "ingested": "2026-10-29T05:44:01.923390+00:00",
-   "headline": "Bank of Korea board member Hwang: time to concentrate on inflation",
    "channel": "rss",
    "source": "financialjuice"
   }
