@@ -20620,3 +20620,8 @@
 {"guid": 9830088, "ts": "2026-10-30T19:25:59+00:00", "ingested": "2026-10-30T19:26:26.105778+00:00", "headline": "Big tech holds $3 trillion in spending commitments for the AI boom.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9830090, "ts": "2026-10-30T19:30:58+00:00", "ingested": "2026-10-30T19:31:26.082319+00:00", "headline": "CFTC Positions in the Week of October 27th 2026", "channel": "rss", "source": "financialjuice"}
 {"guid": 9830102, "ts": "2026-10-30T19:42:39+00:00", "ingested": "2026-10-30T19:43:06.080110+00:00", "headline": "Gold CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830103, "ts": "2026-10-30T19:42:57+00:00", "ingested": "2026-10-30T19:44:46.122784+00:00", "headline": "Copper CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830104, "ts": "2026-10-30T19:43:13+00:00", "ingested": "2026-10-30T19:44:46.122775+00:00", "headline": "WTI CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830105, "ts": "2026-10-30T19:43:31+00:00", "ingested": "2026-10-30T19:44:46.122765+00:00", "headline": "ES CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830106, "ts": "2026-10-30T19:43:49+00:00", "ingested": "2026-10-30T19:44:46.122753+00:00", "headline": "NQ CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830107, "ts": "2026-10-30T19:44:07+00:00", "ingested": "2026-10-30T19:44:46.122737+00:00", "headline": "VIX Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}

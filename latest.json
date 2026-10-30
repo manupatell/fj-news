@@ -1,7 +1,47 @@
 {
- "updated": "2026-10-30T19:43:06.080464+00:00",
+ "updated": "2026-10-30T19:44:46.123171+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830107,
+   "ts": "2026-10-30T19:44:07+00:00",
+   "ingested": "2026-10-30T19:44:46.122737+00:00",
+   "headline": "VIX Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830106,
+   "ts": "2026-10-30T19:43:49+00:00",
+   "ingested": "2026-10-30T19:44:46.122753+00:00",
+   "headline": "NQ CFTC Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830105,
+   "ts": "2026-10-30T19:43:31+00:00",
+   "ingested": "2026-10-30T19:44:46.122765+00:00",
+   "headline": "ES CFTC Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830104,
+   "ts": "2026-10-30T19:43:13+00:00",
+   "ingested": "2026-10-30T19:44:46.122775+00:00",
+   "headline": "WTI CFTC Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830103,
+   "ts": "2026-10-30T19:42:57+00:00",
+   "ingested": "2026-10-30T19:44:46.122784+00:00",
+   "headline": "Copper CFTC Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830102,
    "ts": "2026-10-30T19:42:39+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-10-29T13:18:30+00:00",
    "ingested": "2026-10-29T15:32:21.124789+00:00",
    "headline": "Traders pare ECB rate hike bets. Price 68 BPS by end of 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827376,
-   "ts": "2026-10-29T13:17:16+00:00",
-   "ingested": "2026-10-29T15:32:21.124805+00:00",
-   "headline": "ECB: Financing conditions have tightened since the governing council's last meeting, which is likely to weigh on inflation and growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827374,
-   "ts": "2026-10-29T13:16:59+00:00",
-   "ingested": "2026-10-29T15:32:21.124817+00:00",
-   "headline": "ECB: We remain well positioned to navigate the current elevated uncertainty.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827371,
-   "ts": "2026-10-29T13:16:47+00:00",
-   "ingested": "2026-10-29T15:32:21.124832+00:00",
-   "headline": "ECB: Energy prices have continued to rise, posing upside risks to the inflation outlook and downside risks to the growth outlook.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827370,
-   "ts": "2026-10-29T13:16:47+00:00",
-   "ingested": "2026-10-29T15:32:21.124848+00:00",
-   "headline": "ECB: APP and PEPP portfolios are declining at a measured and predictable pace, as euro system no longer reinvests principal payments from maturing security.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827364,
-   "ts": "2026-10-29T13:16:31+00:00",
-   "ingested": "2026-10-29T15:32:21.124866+00:00",
-   "headline": "ECB: We stand ready to adjust all of its instruments within its mandate to ensure that inflation stabilises at its 2% target in medium term and to preserve smooth functioning of monetary policy transmission.",
    "channel": "rss",
    "source": "financialjuice"
   }
