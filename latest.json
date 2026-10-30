@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T13:51:02.451367+00:00",
+ "updated": "2026-10-30T14:01:02.456333+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829641,
+   "ts": "2026-10-30T13:59:36+00:00",
+   "ingested": "2026-10-30T14:01:02.455778+00:00",
+   "headline": "Strike notice at French utility EDF to start Wednesday at 2100 CET and finish Thursday at 2100 CET",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829640,
    "ts": "2026-10-30T13:50:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T00:34:04+00:00",
    "ingested": "2026-10-29T05:44:01.923546+00:00",
    "headline": "Justice Department loses initial attempt to stop California counting mail ballots from suspected noncitizens",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826287,
-   "ts": "2026-10-29T00:30:04+00:00",
-   "ingested": "2026-10-29T05:44:01.923553+00:00",
-   "headline": "Australia Q3 export prices rise 1.4% quarter on quarter",
    "channel": "rss",
    "source": "financialjuice"
   }
