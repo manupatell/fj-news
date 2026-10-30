@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:24:22.389872+00:00",
+ "updated": "2026-10-30T12:27:42.396975+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829461,
+   "ts": "2026-10-30T12:26:15+00:00",
+   "ingested": "2026-10-30T12:27:42.396529+00:00",
+   "headline": "Exxon CEO: Reason energy prices high today is not enough supply.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829460,
    "ts": "2026-10-30T12:22:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T21:50:39+00:00",
    "ingested": "2026-10-29T00:09:48.060510+00:00",
    "headline": "Microsoft CFO: capital expenditures were below guidance in Q1 as some third-party capacity deliveries expected in Q1 were postponed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826124,
-   "ts": "2026-10-28T21:47:19+00:00",
-   "ingested": "2026-10-29T00:09:48.060519+00:00",
-   "headline": "IMF announces departure of deputy managing director Bo Li, proposes appointment of Min Liao as deputy managing director",
    "channel": "rss",
    "source": "financialjuice"
   }
