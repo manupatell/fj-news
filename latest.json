@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T14:49:45.146485+00:00",
+ "updated": "2026-10-30T14:51:25.158412+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829729,
+   "ts": "2026-10-30T14:50:06+00:00",
+   "ingested": "2026-10-30T14:51:25.158045+00:00",
+   "headline": "Russia's Novak: Russia will draw up plan for December diesel exports at the end of November",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829728,
    "ts": "2026-10-30T14:48:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T04:30:04+00:00",
    "ingested": "2026-10-29T05:44:01.923375+00:00",
    "headline": "Bank of Korea board member Hwang: high borrowing costs limit economic gains for struggling small and medium businesses",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826550,
-   "ts": "2026-10-29T04:30:04+00:00",
-   "ingested": "2026-10-29T05:44:01.923383+00:00",
-   "headline": "Bank of Korea board member Hwang: Monitoring FX market carefully, dollar-won shift quicker than anticipated",
    "channel": "rss",
    "source": "financialjuice"
   }
