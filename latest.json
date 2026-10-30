@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-30T14:46:25.134439+00:00",
+ "updated": "2026-10-30T14:48:05.140016+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829727,
+   "ts": "2026-10-30T14:47:54+00:00",
+   "ingested": "2026-10-30T14:48:05.139535+00:00",
+   "headline": "Fitch on UK budget: Continues to anticipate significant fiscal slippage against spending plans.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829726,
+   "ts": "2026-10-30T14:47:44+00:00",
+   "ingested": "2026-10-30T14:48:05.139600+00:00",
+   "headline": "Fitch on UK budget: Fiscal consolidation plan remains much more challenging to deliver from 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829725,
+   "ts": "2026-10-30T14:47:10+00:00",
+   "ingested": "2026-10-30T14:48:05.139623+00:00",
+   "headline": "Russia's Novak: Russian oil production in October is higher than in September.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829710,
    "ts": "2026-10-30T14:46:08+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-29T04:30:04+00:00",
    "ingested": "2026-10-29T05:44:01.923390+00:00",
    "headline": "Bank of Korea board member Hwang: time to concentrate on inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826548,
-   "ts": "2026-10-29T04:17:46+00:00",
-   "ingested": "2026-10-29T05:44:01.923396+00:00",
-   "headline": "North Korea launches about 10 missiles: media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826535,
-   "ts": "2026-10-29T04:07:05+00:00",
-   "ingested": "2026-10-29T05:44:01.923404+00:00",
-   "headline": "Russia shoots down most of 613 drones heading to Moscow overnight: Russian newswires cite mayor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826532,
-   "ts": "2026-10-29T03:58:23+00:00",
-   "ingested": "2026-10-29T05:44:01.923411+00:00",
-   "headline": "North Korean missile seems to have landed beyond Japan's EEZ: Kyodo",
    "channel": "rss",
    "source": "financialjuice"
   }
