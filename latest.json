@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T19:18:06.126132+00:00",
+ "updated": "2026-10-30T19:26:26.106122+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830088,
+   "ts": "2026-10-30T19:25:59+00:00",
+   "ingested": "2026-10-30T19:26:26.105778+00:00",
+   "headline": "Big tech holds $3 trillion in spending commitments for the AI boom.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830078,
    "ts": "2026-10-30T19:07:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:16:04+00:00",
    "ingested": "2026-10-29T15:32:21.124898+00:00",
    "headline": "ECB: Not pre-committing to a particular rate path",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827339,
-   "ts": "2026-10-29T13:15:46+00:00",
-   "ingested": "2026-10-29T15:32:21.124912+00:00",
-   "headline": "ECB: Will follow a data-dependent and meeting-by-meeting approach to determining appropriate monetary policy stance",
    "channel": "rss",
    "source": "financialjuice"
   }
