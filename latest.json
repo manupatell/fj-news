@@ -1,7 +1,191 @@
 {
- "updated": "2026-10-30T16:24:45.153966+00:00",
+ "updated": "2026-10-30T16:56:56.021161+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829897,
+   "ts": "2026-10-30T16:53:05+00:00",
+   "ingested": "2026-10-30T16:56:56.020536+00:00",
+   "headline": "Fed's Musalem: Policy rules are useful for monetary policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829896,
+   "ts": "2026-10-30T16:51:27+00:00",
+   "ingested": "2026-10-30T16:56:56.020555+00:00",
+   "headline": "Fed's Musalem: Communications is not necessarily the same as forward guidance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829895,
+   "ts": "2026-10-30T16:50:29+00:00",
+   "ingested": "2026-10-30T16:56:56.020569+00:00",
+   "headline": "Fed's Musalem: It's really important for public to understand how central bank thinks and acts.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829889,
+   "ts": "2026-10-30T16:46:59+00:00",
+   "ingested": "2026-10-30T16:56:56.020582+00:00",
+   "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829875,
+   "ts": "2026-10-30T16:46:07+00:00",
+   "ingested": "2026-10-30T16:56:56.020594+00:00",
+   "headline": "Canada's PM Carney: Canada and EU working towards deepest possible partnership, short of accession.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829873,
+   "ts": "2026-10-30T16:45:26+00:00",
+   "ingested": "2026-10-30T16:56:56.020604+00:00",
+   "headline": "Canada and EU sign agreements on digital trade and competition",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829868,
+   "ts": "2026-10-30T16:45:11+00:00",
+   "ingested": "2026-10-30T16:56:56.020616+00:00",
+   "headline": "Canada's PM Carney: Canada-EU talks to wrap at June EU council meetings. Canada aims to become EU's first associate member.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829867,
+   "ts": "2026-10-30T16:44:36+00:00",
+   "ingested": "2026-10-30T16:56:56.020626+00:00",
+   "headline": "Ukraine has requested an emergency UN security council meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829865,
+   "ts": "2026-10-30T16:34:52+00:00",
+   "ingested": "2026-10-30T16:56:56.020638+00:00",
+   "headline": "Canada, EU agree in joint statement to outline by 2027 summit idea of 'ever-closer association of Canada to EU, short of full membership'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829863,
+   "ts": "2026-10-30T16:33:38+00:00",
+   "ingested": "2026-10-30T16:56:56.020650+00:00",
+   "headline": "CD&R pursues buyout of $40bn payment processor Global Payments - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829859,
+   "ts": "2026-10-30T16:31:50+00:00",
+   "ingested": "2026-10-30T16:56:56.020661+00:00",
+   "headline": "Fed's Musalem: Q3 data confirm the underlying strength of the economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829849,
+   "ts": "2026-10-30T16:31:02+00:00",
+   "ingested": "2026-10-30T16:56:56.020670+00:00",
+   "headline": "Fed's Musalem: inflation expectations remain steady",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829848,
+   "ts": "2026-10-30T16:31:01+00:00",
+   "ingested": "2026-10-30T16:56:56.020680+00:00",
+   "headline": "Fed's Musalem: risks remain tilted toward elevated inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829847,
+   "ts": "2026-10-30T16:30:59+00:00",
+   "ingested": "2026-10-30T16:56:56.020689+00:00",
+   "headline": "Fed's Musalem: wider economy and labor market robust",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829846,
+   "ts": "2026-10-30T16:30:58+00:00",
+   "ingested": "2026-10-30T16:56:56.020699+00:00",
+   "headline": "Fed's Musalem: financial conditions are tighter, but only slightly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829845,
+   "ts": "2026-10-30T16:30:57+00:00",
+   "ingested": "2026-10-30T16:56:56.020711+00:00",
+   "headline": "Fed\u2019s Musalem: best move now is restoring price stability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829844,
+   "ts": "2026-10-30T16:30:56+00:00",
+   "ingested": "2026-10-30T16:56:56.020721+00:00",
+   "headline": "Fed's Musalem: financial conditions continue to be accommodative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829843,
+   "ts": "2026-10-30T16:30:56+00:00",
+   "ingested": "2026-10-30T16:56:56.020730+00:00",
+   "headline": "Fed's Musalem: current monetary policy remains accommodative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829842,
+   "ts": "2026-10-30T16:30:55+00:00",
+   "ingested": "2026-10-30T16:56:56.020740+00:00",
+   "headline": "Fed's Musalem: inflation remains elevated, unlikely to decline without central bank measures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829841,
+   "ts": "2026-10-30T16:30:55+00:00",
+   "ingested": "2026-10-30T16:56:56.020751+00:00",
+   "headline": "Fed\u2019s Musalem: elevated long-term bond yields fueled by anticipated higher policy rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829840,
+   "ts": "2026-10-30T16:30:54+00:00",
+   "ingested": "2026-10-30T16:56:56.020761+00:00",
+   "headline": "Fed's Musalem: gradual rate adjustments preferable to sudden moves",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829839,
+   "ts": "2026-10-30T16:30:53+00:00",
+   "ingested": "2026-10-30T16:56:56.020771+00:00",
+   "headline": "Fed's Musalem: US central bank to hike interest rates again soon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829838,
+   "ts": "2026-10-30T16:30:53+00:00",
+   "ingested": "2026-10-30T16:56:56.020781+00:00",
+   "headline": "Fed's Musalem: acting earlier with rate increases reduces risk to wider economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829825,
    "ts": "2026-10-30T16:11:51+00:00",
@@ -3815,190 +3999,6 @@
    "ts": "2026-10-29T08:46:53+00:00",
    "ingested": "2026-10-29T11:48:22.294222+00:00",
    "headline": "Iran's Revolutionary Guards Navy: 3 tankers caught fire after hitting mines over last 24 hours off southern coast of Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826857,
-   "ts": "2026-10-29T08:41:59+00:00",
-   "ingested": "2026-10-29T11:48:22.294239+00:00",
-   "headline": "Credit \u00c1gricole: Japan - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826856,
-   "ts": "2026-10-29T08:35:04+00:00",
-   "ingested": "2026-10-29T11:48:22.294252+00:00",
-   "headline": "Credit \u00c1gricole: FOMC Recap - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826819,
-   "ts": "2026-10-29T08:06:06+00:00",
-   "ingested": "2026-10-29T11:48:22.294265+00:00",
-   "headline": "Mizuho bank to raise yen term deposit rates from November 2.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826818,
-   "ts": "2026-10-29T08:04:58+00:00",
-   "ingested": "2026-10-29T11:48:22.294279+00:00",
-   "headline": "Spanish Retail Sales SA YoY Actual -1.4% (Forecast -, Previous -0.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826817,
-   "ts": "2026-10-29T08:03:08+00:00",
-   "ingested": "2026-10-29T11:48:22.294301+00:00",
-   "headline": "EU Energy Chief: We're better situated at dealing with this crisis than we were in 2022 because we've reduced our gas consumption. We use 18% less gas now than we did in 2022.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826816,
-   "ts": "2026-10-29T08:01:27+00:00",
-   "ingested": "2026-10-29T11:48:22.294315+00:00",
-   "headline": "South Korea to issue 12t won of treasury bonds in November.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826749,
-   "ts": "2026-10-29T07:23:47+00:00",
-   "ingested": "2026-10-29T11:48:22.294362+00:00",
-   "headline": "S&P 500 Stock Names Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826728,
-   "ts": "2026-10-29T07:02:34+00:00",
-   "ingested": "2026-10-29T11:48:22.294389+00:00",
-   "headline": "Currency Strength Chart: Strongest: CAD, JPY, USD, CHF, AUD, EUR, GBP, NZD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826709,
-   "ts": "2026-10-29T07:00:05+00:00",
-   "ingested": "2026-10-29T11:48:22.294444+00:00",
-   "headline": "Swedish GDP YoY Advance  Actual 2.8% (Forecast 2.9%, Previous 3.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826704,
-   "ts": "2026-10-29T06:41:54+00:00",
-   "ingested": "2026-10-29T11:48:22.294469+00:00",
-   "headline": "Russia's Rosatom is discussing with united states possibility of cooperation on small nuclear power plants to supply power to data centres for artificial intelligence - Ria",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826703,
-   "ts": "2026-10-29T06:32:12+00:00",
-   "ingested": "2026-10-29T11:48:22.294487+00:00",
-   "headline": "South Korea National Security Advisor: Continuing talks with US on Strait of Hormuz deployment, still considering various options.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826702,
-   "ts": "2026-10-29T06:31:54+00:00",
-   "ingested": "2026-10-29T11:48:22.294500+00:00",
-   "headline": "UKMTO gets report of incident 9NM North of Khasab, Oman.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826673,
-   "ts": "2026-10-29T06:03:30+00:00",
-   "ingested": "2026-10-29T11:48:22.294513+00:00",
-   "headline": "S.Korea spy agency: situation may shift around Apec - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826672,
-   "ts": "2026-10-29T06:03:20+00:00",
-   "ingested": "2026-10-29T11:48:22.294529+00:00",
-   "headline": "Equinor: new appraisal well in Afrodite find indicates recoverable gas volumes could be more than double earlier estimates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826671,
-   "ts": "2026-10-29T06:03:00+00:00",
-   "ingested": "2026-10-29T11:48:22.294543+00:00",
-   "headline": "Equinor doubles recoverable gas volume estimate at Afrodite find near Kvitebjorn field",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826670,
-   "ts": "2026-10-29T06:03:00+00:00",
-   "ingested": "2026-10-29T11:48:22.294557+00:00",
-   "headline": "Equinor estimates Afrodite recoverable volumes at 77-180 million barrels of oil equivalent",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826669,
-   "ts": "2026-10-29T06:03:00+00:00",
-   "ingested": "2026-10-29T11:48:22.294572+00:00",
-   "headline": "S.Korea spy agency: gaps endure between US and N.Korea on dialogue terms - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826668,
-   "ts": "2026-10-29T06:02:51+00:00",
-   "ingested": "2026-10-29T11:48:22.294584+00:00",
-   "headline": "doubles North Sea gas find estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826667,
-   "ts": "2026-10-29T06:02:31+00:00",
-   "ingested": "2026-10-29T11:48:22.294599+00:00",
-   "headline": "S.Korea spy agency: Kim Jong Un may have indicated stance on US-N.Korea talks during China visit - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826651,
-   "ts": "2026-10-29T06:00:55+00:00",
-   "ingested": "2026-10-29T11:48:22.294615+00:00",
-   "headline": "S.Korea spy agency: Kim Jong Un's China visit seemed to have additional motive beyond marking China's role in Korean War - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826648,
-   "ts": "2026-10-29T05:57:46+00:00",
-   "ingested": "2026-10-29T11:48:22.294629+00:00",
-   "headline": "Drone debris falls on industrial site territory in Russia's Sterlitamak: mayor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826647,
-   "ts": "2026-10-29T05:57:06+00:00",
-   "ingested": "2026-10-29T11:48:22.294645+00:00",
-   "headline": "S.Korea spy agency: N.Korea Kim Jong Un visit to China mostly with foreign ministry staff, no key military officials -Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826639,
-   "ts": "2026-10-29T05:40:01+00:00",
-   "ingested": "2026-10-29T05:44:01.923287+00:00",
-   "headline": "North Korea missiles traveled about 250 km: media",
    "channel": "rss",
    "source": "financialjuice"
   }
