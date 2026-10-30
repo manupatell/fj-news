@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T13:36:02.423329+00:00",
+ "updated": "2026-10-30T13:37:44.688908+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829609,
+   "ts": "2026-10-30T13:37:32+00:00",
+   "ingested": "2026-10-30T13:37:44.688458+00:00",
+   "headline": "Fed's Barkin: The resilience of consumer spending has been a surprise, given the relatively flat incomes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829608,
+   "ts": "2026-10-30T13:36:24+00:00",
+   "ingested": "2026-10-30T13:37:44.688480+00:00",
+   "headline": "Fed's Barkin: In the context of years of elevated inflation, it is easier for businesses to argue they need to raise prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829607,
    "ts": "2026-10-30T13:35:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T00:01:04+00:00",
    "ingested": "2026-10-29T00:09:48.060335+00:00",
    "headline": "UK vehicle output rose 36.3% yoy to 74,031 units in September: SMMT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826262,
-   "ts": "2026-10-29T00:00:05+00:00",
-   "ingested": "2026-10-29T00:09:48.060351+00:00",
-   "headline": "New Zealand business own activity outlook 46.2% in October vs 47.9% in prior survey: ANZ survey",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826261,
-   "ts": "2026-10-29T00:00:04+00:00",
-   "ingested": "2026-10-29T00:09:48.060361+00:00",
-   "headline": "New Zealand business confidence rises to 52.5% in October vs 51.9% in prior survey: ANZ Bank survey",
    "channel": "rss",
    "source": "financialjuice"
   }
