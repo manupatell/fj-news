@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T18:44:46.135913+00:00",
+ "updated": "2026-10-30T18:48:06.054785+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830059,
+   "ts": "2026-10-30T18:47:02+00:00",
+   "ingested": "2026-10-30T18:48:06.054384+00:00",
+   "headline": "Yemen Government Forces Spokesperson: The Houthis attacked Aden Airport and the Maashiq Presidential Palace Complex with ballistic missiles.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830050,
    "ts": "2026-10-30T18:43:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:15:20+00:00",
    "ingested": "2026-10-29T15:32:21.124955+00:00",
    "headline": "ECB: While full effects of energy shock are still unfolding, underlying inflation has remained broadly stable so far and wages do not show a material response at this stage.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827375,
-   "ts": "2026-10-29T13:15:04+00:00",
-   "ingested": "2026-10-29T15:32:21.124972+00:00",
-   "headline": "ECB: The increased magnitude and duration of the energy shock, as well as the implications for indirect and second-round effects, are likely to drive up inflation and lower growth.",
    "channel": "rss",
    "source": "financialjuice"
   }
