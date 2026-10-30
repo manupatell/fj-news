@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T12:32:42.397902+00:00",
+ "updated": "2026-10-30T12:37:42.410290+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829489,
+   "ts": "2026-10-30T12:37:14+00:00",
+   "ingested": "2026-10-30T12:37:42.409869+00:00",
+   "headline": "Russia plans to export 2.15m tons of diesel in November - Tass",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829488,
+   "ts": "2026-10-30T12:36:42+00:00",
+   "ingested": "2026-10-30T12:37:42.409890+00:00",
+   "headline": "Russia plans to extend ban on diesel exports, with certain exceptions, until the end of January - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829487,
    "ts": "2026-10-30T12:32:32+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-28T21:57:52+00:00",
    "ingested": "2026-10-29T00:09:48.060472+00:00",
    "headline": "Microsoft CFO: 2 agents and infrastructure revenue projected at $80.1 billion to $80.7 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826130,
-   "ts": "2026-10-28T21:55:13+00:00",
-   "ingested": "2026-10-29T00:09:48.060479+00:00",
-   "headline": "Microsoft CFO: paid M365 commercial seats increased 5%, affected by weaker sales execution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826129,
-   "ts": "2026-10-28T21:53:33+00:00",
-   "ingested": "2026-10-29T00:09:48.060486+00:00",
-   "headline": "USDA confirms new world screwworm found in Arizona",
    "channel": "rss",
    "source": "financialjuice"
   }
