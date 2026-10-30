@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T11:57:42.393580+00:00",
+ "updated": "2026-10-30T12:01:02.380191+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829406,
+   "ts": "2026-10-30T12:00:02+00:00",
+   "ingested": "2026-10-30T12:01:02.379806+00:00",
+   "headline": "Secured Overnight Financing Rate 3.94% October 29 vs 3.94% October 28",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829404,
    "ts": "2026-10-30T11:47:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T21:26:21+00:00",
    "ingested": "2026-10-29T00:09:48.060547+00:00",
    "headline": "Meta Platforms offers 40 million shares of class A common stock: SEC filing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826044,
-   "ts": "2026-10-28T20:59:25+00:00",
-   "ingested": "2026-10-29T00:09:48.060554+00:00",
-   "headline": "Google attributes $8.2 bln other income loss to SpaceX share drop. $GOOGL $SPCX",
    "channel": "rss",
    "source": "financialjuice"
   }
