@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T10:56:02.346467+00:00",
+ "updated": "2026-10-30T11:01:03.583254+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829305,
+   "ts": "2026-10-30T11:00:46+00:00",
+   "ingested": "2026-10-30T11:01:03.582834+00:00",
+   "headline": "ECB's Kocher: \u201cNeed for action\" if situation doesn't quickly improve.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829304,
+   "ts": "2026-10-30T11:00:35+00:00",
+   "ingested": "2026-10-30T11:01:03.582854+00:00",
+   "headline": "ECB's Kocher: Risks to inflation have increased.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829278,
    "ts": "2026-10-30T10:41:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-28T20:37:29+00:00",
    "ingested": "2026-10-29T00:09:48.060628+00:00",
    "headline": "Alphabet's CEO Pichai: New AI model Carbon outperforms Gemini 4 Argon. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826019,
-   "ts": "2026-10-28T20:36:52+00:00",
-   "ingested": "2026-10-29T00:09:48.060635+00:00",
-   "headline": "Pichai: New AI model carbon is in tests with US government. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826018,
-   "ts": "2026-10-28T20:36:34+00:00",
-   "ingested": "2026-10-29T00:09:48.060641+00:00",
-   "headline": "Alphabet's CEO Pichai: New AI model Carbon is Google's strongest. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
