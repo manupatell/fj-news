@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T13:11:02.422995+00:00",
+ "updated": "2026-10-30T13:12:42.424285+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829558,
+   "ts": "2026-10-30T13:11:13+00:00",
+   "ingested": "2026-10-30T13:12:42.423883+00:00",
+   "headline": "MUFG on ECB Rate Decision - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829557,
    "ts": "2026-10-30T13:09:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T23:52:12+00:00",
    "ingested": "2026-10-29T00:09:48.060399+00:00",
    "headline": "Japanese Foreign Stock Investment Actual 288.1B (Forecast -, Previous 128.3B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826255,
-   "ts": "2026-10-28T23:51:34+00:00",
-   "ingested": "2026-10-29T00:09:48.060405+00:00",
-   "headline": "Japanese Foreign Bond Investment Actual -92.6B (Forecast -, Previous -161.6B)",
    "channel": "rss",
    "source": "financialjuice"
   }
