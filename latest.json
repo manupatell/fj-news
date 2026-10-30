@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:03:06.080967+00:00",
+ "updated": "2026-10-30T20:04:46.076328+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830157,
+   "ts": "2026-10-30T20:03:34+00:00",
+   "ingested": "2026-10-30T20:04:46.075946+00:00",
+   "headline": "IRGC: 4th tanker explodes after hitting mine in Strait of Hormuz - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830155,
    "ts": "2026-10-30T20:02:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:53:18+00:00",
    "ingested": "2026-10-29T15:32:21.124541+00:00",
    "headline": "ECB President Lagarde: wage pressures stay moderate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827444,
-   "ts": "2026-10-29T13:53:11+00:00",
-   "ingested": "2026-10-29T15:32:21.124553+00:00",
-   "headline": "ECB's President Lagarde: Early stages of pricing chain point to upward pressure",
    "channel": "rss",
    "source": "financialjuice"
   }
