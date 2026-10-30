@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T13:37:44.688908+00:00",
+ "updated": "2026-10-30T13:39:22.434944+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829610,
+   "ts": "2026-10-30T13:38:58+00:00",
+   "ingested": "2026-10-30T13:39:22.434570+00:00",
+   "headline": "Barkin: The AI investment surge has pressured supply chains, and that is inflationary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829609,
    "ts": "2026-10-30T13:37:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T00:16:15+00:00",
    "ingested": "2026-10-29T05:44:01.923610+00:00",
    "headline": "Finland foreign ministry: Foreign minister Valtonen to meet US secretary of state Rubio in Washington",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826263,
-   "ts": "2026-10-29T00:01:04+00:00",
-   "ingested": "2026-10-29T00:09:48.060335+00:00",
-   "headline": "UK vehicle output rose 36.3% yoy to 74,031 units in September: SMMT",
    "channel": "rss",
    "source": "financialjuice"
   }
