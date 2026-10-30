@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:06:26.087958+00:00",
+ "updated": "2026-10-30T20:08:06.085053+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830160,
+   "ts": "2026-10-30T20:07:03+00:00",
+   "ingested": "2026-10-30T20:08:06.084614+00:00",
+   "headline": "Intel shares plunge 29% for worst day in at least four decades",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830158,
    "ts": "2026-10-30T20:04:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:53:45+00:00",
    "ingested": "2026-10-29T15:32:21.124517+00:00",
    "headline": "ECB President Lagarde: most gauges of long-term inflation expectations near 2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827446,
-   "ts": "2026-10-29T13:53:33+00:00",
-   "ingested": "2026-10-29T15:32:21.124530+00:00",
-   "headline": "ECB President Lagarde: Wage tracker shows 2.5%-2.8% growth in remaining months of 2026",
    "channel": "rss",
    "source": "financialjuice"
   }
