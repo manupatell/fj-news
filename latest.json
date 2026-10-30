@@ -1,7 +1,55 @@
 {
- "updated": "2026-10-30T19:44:46.123171+00:00",
+ "updated": "2026-10-30T19:46:26.089263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830117,
+   "ts": "2026-10-30T19:45:58+00:00",
+   "ingested": "2026-10-30T19:46:26.088861+00:00",
+   "headline": "GBP Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830116,
+   "ts": "2026-10-30T19:45:42+00:00",
+   "ingested": "2026-10-30T19:46:26.088876+00:00",
+   "headline": "CHF Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830114,
+   "ts": "2026-10-30T19:45:26+00:00",
+   "ingested": "2026-10-30T19:46:26.088887+00:00",
+   "headline": "NZD Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830110,
+   "ts": "2026-10-30T19:45:10+00:00",
+   "ingested": "2026-10-30T19:46:26.088897+00:00",
+   "headline": "CAD Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830109,
+   "ts": "2026-10-30T19:44:55+00:00",
+   "ingested": "2026-10-30T19:46:26.088906+00:00",
+   "headline": "ZN Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830108,
+   "ts": "2026-10-30T19:44:38+00:00",
+   "ingested": "2026-10-30T19:46:26.088914+00:00",
+   "headline": "ZT Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830107,
    "ts": "2026-10-30T19:44:07+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-10-29T13:46:57+00:00",
    "ingested": "2026-10-29T15:32:21.124708+00:00",
    "headline": "French Official: France cuts diesel stock requirements to free supply.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827424,
-   "ts": "2026-10-29T13:46:20+00:00",
-   "ingested": "2026-10-29T15:32:21.124720+00:00",
-   "headline": "WH Sr. Adviser Hassett: GDP is headed toward 4% growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827418,
-   "ts": "2026-10-29T13:45:34+00:00",
-   "ingested": "2026-10-29T15:32:21.124734+00:00",
-   "headline": "WH Sr. Adviser Hassett: Inflation was pretty much right on expectation - Fox Business",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827411,
-   "ts": "2026-10-29T13:44:43+00:00",
-   "ingested": "2026-10-29T15:32:21.124747+00:00",
-   "headline": "Gulf oil majors push to expand crude stockpiles in Asia amid Iran war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827409,
-   "ts": "2026-10-29T13:38:24+00:00",
-   "ingested": "2026-10-29T15:32:21.124760+00:00",
-   "headline": "Trump Administration Promised Tariff Relief in Talks to Secure US Audi Factory - WSJ.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827407,
-   "ts": "2026-10-29T13:33:36+00:00",
-   "ingested": "2026-10-29T15:32:21.124773+00:00",
-   "headline": "Alphabet shares fall 13%, set to erase $489 billion in value. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827377,
-   "ts": "2026-10-29T13:18:30+00:00",
-   "ingested": "2026-10-29T15:32:21.124789+00:00",
-   "headline": "Traders pare ECB rate hike bets. Price 68 BPS by end of 2027",
    "channel": "rss",
    "source": "financialjuice"
   }

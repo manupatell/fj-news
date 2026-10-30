@@ -20625,3 +20625,9 @@
 {"guid": 9830105, "ts": "2026-10-30T19:43:31+00:00", "ingested": "2026-10-30T19:44:46.122765+00:00", "headline": "ES CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9830106, "ts": "2026-10-30T19:43:49+00:00", "ingested": "2026-10-30T19:44:46.122753+00:00", "headline": "NQ CFTC Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9830107, "ts": "2026-10-30T19:44:07+00:00", "ingested": "2026-10-30T19:44:46.122737+00:00", "headline": "VIX Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830108, "ts": "2026-10-30T19:44:38+00:00", "ingested": "2026-10-30T19:46:26.088914+00:00", "headline": "ZT Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830109, "ts": "2026-10-30T19:44:55+00:00", "ingested": "2026-10-30T19:46:26.088906+00:00", "headline": "ZN Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830110, "ts": "2026-10-30T19:45:10+00:00", "ingested": "2026-10-30T19:46:26.088897+00:00", "headline": "CAD Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830114, "ts": "2026-10-30T19:45:26+00:00", "ingested": "2026-10-30T19:46:26.088887+00:00", "headline": "NZD Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830116, "ts": "2026-10-30T19:45:42+00:00", "ingested": "2026-10-30T19:46:26.088876+00:00", "headline": "CHF Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830117, "ts": "2026-10-30T19:45:58+00:00", "ingested": "2026-10-30T19:46:26.088861+00:00", "headline": "GBP Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
