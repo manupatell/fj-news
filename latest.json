@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:47:42.408447+00:00",
+ "updated": "2026-10-30T12:52:42.385245+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829518,
+   "ts": "2026-10-30T12:52:12+00:00",
+   "ingested": "2026-10-30T12:52:42.384845+00:00",
+   "headline": "US Sentiment: Terrible Tech Earnings Leads to Flight to Safety of Bonds - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829489,
    "ts": "2026-10-30T12:37:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T21:58:07+00:00",
    "ingested": "2026-10-29T00:09:48.060464+00:00",
    "headline": "Microsoft CFO: Azure expansion anticipated to reach 49%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826131,
-   "ts": "2026-10-28T21:57:52+00:00",
-   "ingested": "2026-10-29T00:09:48.060472+00:00",
-   "headline": "Microsoft CFO: 2 agents and infrastructure revenue projected at $80.1 billion to $80.7 billion",
    "channel": "rss",
    "source": "financialjuice"
   }
