@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T21:08:06.119675+00:00",
+ "updated": "2026-10-30T21:14:46.112137+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830223,
+   "ts": "2026-10-30T21:14:04+00:00",
+   "ingested": "2026-10-30T21:14:46.111759+00:00",
+   "headline": "North Korea: international sanctions ineffective against it - KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830221,
    "ts": "2026-10-30T21:07:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:58:02+00:00",
    "ingested": "2026-10-29T15:32:21.124404+00:00",
    "headline": "ECB's Lagarde: Financial conditions have tightened",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827455,
-   "ts": "2026-10-29T13:56:53+00:00",
-   "ingested": "2026-10-29T15:32:21.124416+00:00",
-   "headline": "ECB's President Lagarde: Fiscal uncertainty may further tighten financial conditions.",
    "channel": "rss",
    "source": "financialjuice"
   }
