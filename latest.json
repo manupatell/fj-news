@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T14:51:25.158412+00:00",
+ "updated": "2026-10-30T15:01:25.138073+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829735,
+   "ts": "2026-10-30T15:00:46+00:00",
+   "ingested": "2026-10-30T15:01:25.137709+00:00",
+   "headline": "Canadian Budget Balance Actual -5.36B (Forecast -, Previous -4.77B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829729,
    "ts": "2026-10-30T14:50:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T04:30:04+00:00",
    "ingested": "2026-10-29T05:44:01.923368+00:00",
    "headline": "Bank of Korea board member Hwang: upward revision to 2026 current account surplus to $500 billion from $450 billion previously",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826551,
-   "ts": "2026-10-29T04:30:04+00:00",
-   "ingested": "2026-10-29T05:44:01.923375+00:00",
-   "headline": "Bank of Korea board member Hwang: high borrowing costs limit economic gains for struggling small and medium businesses",
    "channel": "rss",
    "source": "financialjuice"
   }
