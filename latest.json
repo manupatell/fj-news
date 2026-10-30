@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T17:46:26.043758+00:00",
+ "updated": "2026-10-30T17:49:46.045108+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829987,
+   "ts": "2026-10-30T17:49:29+00:00",
+   "ingested": "2026-10-30T17:49:46.044736+00:00",
+   "headline": "US SEC Enforcement Director: Agency is examining AI company disclosures. Wants to ensure companies are giving investors a full picture of the risks as AI spending booms.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829972,
    "ts": "2026-10-30T17:45:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T12:44:54+00:00",
    "ingested": "2026-10-29T15:32:21.125052+00:00",
    "headline": "Kremlin Aide: If Ukraine launches massive attacks during November 4 celebrations, this could affect Russia's attitude towards the trilateral negotiations - IFX.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827150,
-   "ts": "2026-10-29T11:31:30+00:00",
-   "ingested": "2026-10-29T11:48:22.293864+00:00",
-   "headline": "Microsoft kicks off 10-part us dollar high-grade bond offering.",
    "channel": "rss",
    "source": "financialjuice"
   }
