@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:57:42.393825+00:00",
+ "updated": "2026-10-30T12:59:22.412231+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829520,
+   "ts": "2026-10-30T12:59:06+00:00",
+   "ingested": "2026-10-30T12:59:22.411866+00:00",
+   "headline": "MUFG on BoJ - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829519,
    "ts": "2026-10-30T12:56:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T22:02:14+00:00",
    "ingested": "2026-10-29T00:09:48.060449+00:00",
    "headline": "Microsoft CFO: calendar year capital expenditure to be about $170 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826133,
-   "ts": "2026-10-28T22:00:03+00:00",
-   "ingested": "2026-10-29T00:09:48.060457+00:00",
-   "headline": "Microsoft CFO: expects robust growth in commercial sales motions in Q2, but results affected by large Azure commitments from prior year",
    "channel": "rss",
    "source": "financialjuice"
   }
