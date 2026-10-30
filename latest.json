@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T11:39:22.385726+00:00",
+ "updated": "2026-10-30T11:41:02.398446+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829372,
+   "ts": "2026-10-30T11:40:31+00:00",
+   "ingested": "2026-10-30T11:41:02.398032+00:00",
+   "headline": "CENTCOM: Reached milestone this week helping Gulf export oil.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829371,
+   "ts": "2026-10-30T11:40:01+00:00",
+   "ingested": "2026-10-30T11:41:02.398056+00:00",
+   "headline": "ECB\u2019s Makhlouf: Holding rates doesn't signal ecb is finished.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829369,
    "ts": "2026-10-30T11:38:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-28T20:47:10+00:00",
    "ingested": "2026-10-29T00:09:48.060595+00:00",
    "headline": "Google YouTube subscriptions are growing faster than ads. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826032,
-   "ts": "2026-10-28T20:45:35+00:00",
-   "ingested": "2026-10-29T00:09:48.060602+00:00",
-   "headline": "Google Gemini helped advertisers generate over 1.5 bln assets. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826024,
-   "ts": "2026-10-28T20:43:44+00:00",
-   "ingested": "2026-10-29T00:09:48.060608+00:00",
-   "headline": "Google bringing ads to search AI mode in international markets. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
