@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-30T16:11:25.139512+00:00",
+ "updated": "2026-10-30T16:13:05.148850+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829825,
+   "ts": "2026-10-30T16:11:51+00:00",
+   "ingested": "2026-10-30T16:13:05.148333+00:00",
+   "headline": "Lane: AI companies are more vulnerable to monetary policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829824,
+   "ts": "2026-10-30T16:11:49+00:00",
+   "ingested": "2026-10-30T16:13:05.148355+00:00",
+   "headline": "Lane: Artificial intelligence could boost productivity significantly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829823,
+   "ts": "2026-10-30T16:11:48+00:00",
+   "ingested": "2026-10-30T16:13:05.148371+00:00",
+   "headline": "Lane: AI is driving both growth and credit trends",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829822,
+   "ts": "2026-10-30T16:11:31+00:00",
+   "ingested": "2026-10-30T16:13:05.148386+00:00",
+   "headline": "ECB's Lane: AI is already supporting euro area activity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829821,
    "ts": "2026-10-30T16:10:27+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-29T05:40:01+00:00",
    "ingested": "2026-10-29T05:44:01.923287+00:00",
    "headline": "North Korea missiles traveled about 250 km: media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826638,
-   "ts": "2026-10-29T05:32:02+00:00",
-   "ingested": "2026-10-29T05:44:01.923303+00:00",
-   "headline": "South Korea presidential office holds emergency meeting on North Korea missile launch: urges halt - Newsis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826627,
-   "ts": "2026-10-29T05:30:26+00:00",
-   "ingested": "2026-10-29T05:44:01.923313+00:00",
-   "headline": "Dutch Manufacturing Confidence Actual 2.3 (Forecast -, Previous 4.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826599,
-   "ts": "2026-10-29T05:07:47+00:00",
-   "ingested": "2026-10-29T05:44:01.923324+00:00",
-   "headline": "China commerce ministry on U.S. listing chinese firms on xinjiang-related entity list: China will take necessary steps to firmly protect its own interests",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826598,
-   "ts": "2026-10-29T05:07:28+00:00",
-   "ingested": "2026-10-29T05:44:01.923335+00:00",
-   "headline": "China commerce ministry: U.S. should immediately stop political manipulation, smear campaigns and unreasonable suppression over listing Chinese firms on Xinjiang-related entity list",
    "channel": "rss",
    "source": "financialjuice"
   }
