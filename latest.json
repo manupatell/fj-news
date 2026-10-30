@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T18:29:46.085278+00:00",
+ "updated": "2026-10-30T18:31:26.070484+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830042,
+   "ts": "2026-10-30T18:31:10+00:00",
+   "ingested": "2026-10-30T18:31:26.070131+00:00",
+   "headline": "NYMEX WTI Crude December futures settle at $104.12 a barrel, up $2.12, 2.08%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829987,
    "ts": "2026-10-30T17:49:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T12:46:34+00:00",
    "ingested": "2026-10-29T15:32:21.125036+00:00",
    "headline": "Kremlin: Trilateral talks date depends on Ukraine actions - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827267,
-   "ts": "2026-10-29T12:44:54+00:00",
-   "ingested": "2026-10-29T15:32:21.125052+00:00",
-   "headline": "Kremlin Aide: If Ukraine launches massive attacks during November 4 celebrations, this could affect Russia's attitude towards the trilateral negotiations - IFX.",
    "channel": "rss",
    "source": "financialjuice"
   }
