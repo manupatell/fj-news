@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T20:56:26.131330+00:00",
+ "updated": "2026-10-30T21:06:26.174070+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830219,
+   "ts": "2026-10-30T21:04:58+00:00",
+   "ingested": "2026-10-30T21:06:26.173709+00:00",
+   "headline": "S&P says Meta\u2019s capacity to monetize AI investments is more constrained than peers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830202,
    "ts": "2026-10-30T20:35:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:55:41+00:00",
    "ingested": "2026-10-29T15:32:21.124439+00:00",
    "headline": "US Treasury Secretary Bessent: Great GDP number",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827452,
-   "ts": "2026-10-29T13:55:26+00:00",
-   "ingested": "2026-10-29T15:32:21.124453+00:00",
-   "headline": "ECB's Lagarde: Worsening of market sentiment could tighten financing conditions, dampen demand.",
    "channel": "rss",
    "source": "financialjuice"
   }
