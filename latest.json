@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:01:02.380191+00:00",
+ "updated": "2026-10-30T12:02:42.405992+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829429,
+   "ts": "2026-10-30T12:02:14+00:00",
+   "ingested": "2026-10-30T12:02:42.405566+00:00",
+   "headline": "Kremlin: Ukraine is ignoring Trump's request to stop attacks on Russian refineries.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829406,
    "ts": "2026-10-30T12:00:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T21:26:26+00:00",
    "ingested": "2026-10-29T00:09:48.060541+00:00",
    "headline": "Meta Platforms enters forward sale pacts with Morgan Stanley and Goldman Sachs: SEC filing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826083,
-   "ts": "2026-10-28T21:26:21+00:00",
-   "ingested": "2026-10-29T00:09:48.060547+00:00",
-   "headline": "Meta Platforms offers 40 million shares of class A common stock: SEC filing",
    "channel": "rss",
    "source": "financialjuice"
   }
