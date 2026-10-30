@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:52:42.385245+00:00",
+ "updated": "2026-10-30T12:57:42.393825+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829519,
+   "ts": "2026-10-30T12:56:42+00:00",
+   "ingested": "2026-10-30T12:57:42.393425+00:00",
+   "headline": "BoJ Interest Rate Probabilities (Updated)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829518,
    "ts": "2026-10-30T12:52:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T22:00:03+00:00",
    "ingested": "2026-10-29T00:09:48.060457+00:00",
    "headline": "Microsoft CFO: expects robust growth in commercial sales motions in Q2, but results affected by large Azure commitments from prior year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826132,
-   "ts": "2026-10-28T21:58:07+00:00",
-   "ingested": "2026-10-29T00:09:48.060464+00:00",
-   "headline": "Microsoft CFO: Azure expansion anticipated to reach 49%",
    "channel": "rss",
    "source": "financialjuice"
   }
