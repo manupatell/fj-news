@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T13:44:22.436948+00:00",
+ "updated": "2026-10-30T13:46:02.431396+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829617,
+   "ts": "2026-10-30T13:45:00+00:00",
+   "ingested": "2026-10-30T13:46:02.430915+00:00",
+   "headline": "US Chicago PMI Actual 55.3 (Forecast 56, Previous 58.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829616,
+   "ts": "2026-10-30T13:44:52+00:00",
+   "ingested": "2026-10-30T13:46:02.430939+00:00",
+   "headline": "Fed's Barkin appearance on \u201cbusiness briefing\u2019 ends.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829615,
    "ts": "2026-10-30T13:44:01+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T00:30:04+00:00",
    "ingested": "2026-10-29T05:44:01.923559+00:00",
    "headline": "Australia Q3 import costs down 1.1% quarter on quarter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826285,
-   "ts": "2026-10-29T00:30:01+00:00",
-   "ingested": "2026-10-29T05:44:01.923566+00:00",
-   "headline": "Australian Import Prices QoQ Actual -1.1% (Forecast -, Previous 5.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826284,
-   "ts": "2026-10-29T00:30:01+00:00",
-   "ingested": "2026-10-29T05:44:01.923573+00:00",
-   "headline": "Australian Export Prices QoQ Actual 1.4% (Forecast -, Previous 1.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
