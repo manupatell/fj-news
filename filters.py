@@ -94,47 +94,90 @@ OFFICIAL_TOPIC = _rx([r"Fed", r"rates?", r"inflation", r"tariffs?", r"GDP",
                       r"sanctions?", r"trade"])
 
 
+# ---- XAUUSD (gold) --------------------------------------------------------
+GOLD = _rx([r"gold", r"XAU\w*", r"bullion", r"precious metals?",
+            r"safe[- ]haven"])
+YIELDS = _rx([r"10-?(?:yr|year)", r"Treasury yields?", r"US yields?",
+              r"real yields?", r"DXY", r"dollar index"])
+
+# ---- MNQ (Nasdaq futures) -------------------------------------------------
+NASDAQ = _rx([r"Nasdaq", r"MNQ", r"NQ", r"S&P 500 futures", r"S&P futures",
+              r"US stock futures", r"Dow futures", r"tech stocks?"])
+MEGACAP = _rx([r"Nvidia", r"NVDA", r"Microsoft", r"MSFT", r"Apple", r"AAPL",
+               r"Alphabet", r"Google", r"GOOGL", r"Amazon", r"AMZN", r"Meta",
+               r"Tesla", r"TSLA", r"Broadcom", r"AVGO", r"AMD", r"TSMC",
+               r"OpenAI", r"Anthropic"])
+MEGA_EVENT = _rx([r"shares? (?:fall|drop|jump|surge|plunge|rise|slide|tumble)s?",
+                  r"guidance", r"export (?:controls?|curbs?|ban)",
+                  r"downgrades?", r"upgrades?", r"beats?", r"misses?",
+                  r"plunges?", r"soars?", r"tumbles?", r"slumps?"])
+
+# ---- geopolitics that moves gold / risk (toggle) --------------------------
+GEOPOLITICS = True
+GEO = _rx([r"Iran", r"Hormuz", r"Israel", r"Taiwan"])
+GEO_EVENT = _rx([r"cease-?fire", r"peace deal", r"deal", r"strikes?",
+                 r"attacks? on", r"missiles?", r"escalat\w+", r"blockade",
+                 r"retaliat\w+"])
+
+
 def classify(headline: str):
-    """Return 'red' | 'orange' | 'yellow' | None."""
+    """Return (level, tag) or (None, None).
+    level: 'red' | 'orange' | 'yellow'"""
     h = headline.strip()
 
     if NOISE.search(h):
-        return None
+        return None, None
+
+    # ---- gold: any gold headline counts (even from non-US sources) ----
+    if GOLD.search(h):
+        return "orange", "GOLD"
+
+    # ---- Nasdaq / MNQ ----
+    if NASDAQ.search(h):
+        return "orange", "NASDAQ"
+    if MEGACAP.search(h) and MEGA_EVENT.search(h):
+        return "yellow", "NASDAQ"
+
+    # ---- geopolitics (gold / risk-off driver) ----
+    if GEOPOLITICS and GEO.search(h) and GEO_EVENT.search(h):
+        return "yellow", "GEOPOLITICS"
 
     us = bool(US_MARKER.search(h))
     foreign = bool(FOREIGN.search(h))
 
     # Non-US subject with no US marker -> not USD news.
-    # (A US marker alongside e.g. "ECB" is fine: "ECB's X says Fed ..." is
-    # rare; to stay strict we still require the US part to be the subject.)
     if foreign and not us:
-        return None
+        return None, None
 
     # US economic data release
     if US_DATA.search(h) and HAS_ACTUAL.search(h) and not foreign:
-        return "red"
+        return "red", "USD DATA"
 
     # FOMC / Fed chair / policy decisions
     if FED_RED.search(h) and not foreign:
-        return "red"
+        return "red", "FED"
 
     # Fed speakers / minutes
     if FED_SPEAKER.search(h):
-        return "orange"
+        return "orange", "FED SPEAKER"
+
+    # US yields / dollar index
+    if YIELDS.search(h) and not foreign:
+        return "orange", "YIELDS"
 
     # US officials (Bessent, Hassett, ...) only when talking markets/policy
     if OFFICIAL.search(h) and OFFICIAL_TOPIC.search(h) and not foreign:
-        return "orange"
+        return "orange", "US POLICY"
 
     # tariffs / sanctions / shutdown
     if US_POLICY.search(h) and (us or not foreign):
-        return "orange"
+        return "orange", "US POLICY"
 
     # Trump, only when it touches markets
     if TRUMP.search(h) and TRUMP_TOPIC.search(h):
-        return "yellow"
+        return "yellow", "TRUMP"
 
-    return None
+    return None, None
 
 
 _COLORS = {"red": RED_COLOR, "orange": ORANGE_COLOR, "yellow": YELLOW_COLOR}
@@ -146,7 +189,12 @@ def is_high_impact(headline: str):
         (True, color)  -> USD high-impact headline, send it
         (False, None)  -> ignore
     """
-    level = classify(headline)
+    level, _tag = classify(headline)
     if level is None:
         return False, None
     return True, _COLORS[level]
+
+
+def get_tag(headline: str):
+    """Category label for the headline (GOLD, NASDAQ, USD DATA, FED, ...)."""
+    return classify(headline)[1]
