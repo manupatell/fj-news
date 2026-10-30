@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T14:21:02.426060+00:00",
+ "updated": "2026-10-30T14:28:05.128197+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829692,
+   "ts": "2026-10-30T14:26:55+00:00",
+   "ingested": "2026-10-30T14:28:05.127827+00:00",
+   "headline": "China to expand cooperation with Germany in vehicles, AI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829690,
    "ts": "2026-10-30T14:19:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T02:14:42+00:00",
    "ingested": "2026-10-29T05:44:01.923447+00:00",
    "headline": "Haiti delays first presidential election in 10 years to July 18, 2027: electoral council",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826458,
-   "ts": "2026-10-29T02:09:02+00:00",
-   "ingested": "2026-10-29T05:44:01.923459+00:00",
-   "headline": "South Korea defense ministry: North Korea\u2019s use of older weapons near border seems performative",
    "channel": "rss",
    "source": "financialjuice"
   }
