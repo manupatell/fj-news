@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-30T17:43:06.037466+00:00",
+ "updated": "2026-10-30T17:46:26.043758+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829972,
+   "ts": "2026-10-30T17:45:40+00:00",
+   "ingested": "2026-10-30T17:46:26.043343+00:00",
+   "headline": "Pakistan military spokesman: additional forces for Saudi defense hinge on situation, political decision",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829971,
+   "ts": "2026-10-30T17:45:39+00:00",
+   "ingested": "2026-10-30T17:46:26.043361+00:00",
+   "headline": "Pakistan military spokesman: no restriction on Iran joining Mecca joint defense pact, decision rests with three main parties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829970,
+   "ts": "2026-10-30T17:45:29+00:00",
+   "ingested": "2026-10-30T17:46:26.043377+00:00",
+   "headline": "Pakistan Military Spokesman: Pakistan military is \u2018cautiously optimistic\u2019 on Iran-US mediation, warns of 'powerful spoilers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829964,
    "ts": "2026-10-30T17:31:43+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-29T11:31:30+00:00",
    "ingested": "2026-10-29T11:48:22.293864+00:00",
    "headline": "Microsoft kicks off 10-part us dollar high-grade bond offering.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827074,
-   "ts": "2026-10-29T11:02:27+00:00",
-   "ingested": "2026-10-29T11:48:22.293889+00:00",
-   "headline": "Italian Consumer Confidence Actual 90.3 (Forecast 91, Previous 91.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827073,
-   "ts": "2026-10-29T11:02:26+00:00",
-   "ingested": "2026-10-29T11:48:22.293908+00:00",
-   "headline": "Italian Mfg Business Confidence Actual 91.9 (Forecast 92, Previous 91.9 ,Revision 91.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827065,
-   "ts": "2026-10-29T10:48:17+00:00",
-   "ingested": "2026-10-29T11:48:22.293924+00:00",
-   "headline": "$LLY Eli Lilly Q3 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
