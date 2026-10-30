@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T18:34:46.068940+00:00",
+ "updated": "2026-10-30T18:44:46.135913+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830050,
+   "ts": "2026-10-30T18:43:42+00:00",
+   "ingested": "2026-10-30T18:44:46.135527+00:00",
+   "headline": "Anthropic is in talks to lease data centre near Edmonton - Globe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830049,
    "ts": "2026-10-30T18:34:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:15:04+00:00",
    "ingested": "2026-10-29T15:32:21.124972+00:00",
    "headline": "ECB: The increased magnitude and duration of the energy shock, as well as the implications for indirect and second-round effects, are likely to drive up inflation and lower growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827326,
-   "ts": "2026-10-29T13:15:02+00:00",
-   "ingested": "2026-10-29T15:32:21.124985+00:00",
-   "headline": "ECB Deposit Rate Actual 2.5% (Forecast 2.5%, Previous 2.50%)",
    "channel": "rss",
    "source": "financialjuice"
   }
