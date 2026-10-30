@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-30T13:41:02.442620+00:00",
+ "updated": "2026-10-30T13:44:22.436948+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829615,
+   "ts": "2026-10-30T13:44:01+00:00",
+   "ingested": "2026-10-30T13:44:22.436470+00:00",
+   "headline": "Fed's Barkin: I hear from businesses on plans to pass along price rises",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829614,
+   "ts": "2026-10-30T13:43:05+00:00",
+   "ingested": "2026-10-30T13:44:22.436490+00:00",
+   "headline": "Fed's Barkin: Businesses say that cost pressures are broad based.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829613,
+   "ts": "2026-10-30T13:42:57+00:00",
+   "ingested": "2026-10-30T13:44:22.436509+00:00",
+   "headline": "Fed's Barkin: Business owners say demand remains solid, with only weakness among non-profits and in the housing sector",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829612,
+   "ts": "2026-10-30T13:42:42+00:00",
+   "ingested": "2026-10-30T13:44:22.436526+00:00",
+   "headline": "BofA global research cuts intel to neutral from buy; cuts price objective to $100 from $145. $INTC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829611,
    "ts": "2026-10-30T13:39:31+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-29T00:30:01+00:00",
    "ingested": "2026-10-29T05:44:01.923573+00:00",
    "headline": "Australian Export Prices QoQ Actual 1.4% (Forecast -, Previous 1.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826283,
-   "ts": "2026-10-29T00:23:40+00:00",
-   "ingested": "2026-10-29T05:44:01.923580+00:00",
-   "headline": "China PBOC to set yuan midpoint at 6.6596 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826282,
-   "ts": "2026-10-29T00:18:46+00:00",
-   "ingested": "2026-10-29T05:44:01.923587+00:00",
-   "headline": "Australia's corporate regulator: engaging with joint lead managers of Firmus's $5 billion failed IPO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826281,
-   "ts": "2026-10-29T00:18:46+00:00",
-   "ingested": "2026-10-29T05:44:01.923593+00:00",
-   "headline": "In general, trade agreements are largely finalized",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826280,
-   "ts": "2026-10-29T00:18:08+00:00",
-   "ingested": "2026-10-29T05:44:01.923603+00:00",
-   "headline": "Finland foreign ministry: Valtonen and Rubio to discuss Russia\u2019s war in Ukraine and other key foreign policy topics on Oct. 29",
    "channel": "rss",
    "source": "financialjuice"
   }
