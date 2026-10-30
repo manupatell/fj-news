@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-30T13:31:02.445273+00:00",
+ "updated": "2026-10-30T13:36:02.423329+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829607,
+   "ts": "2026-10-30T13:35:29+00:00",
+   "ingested": "2026-10-30T13:36:02.422783+00:00",
+   "headline": "Fed's Barkin: A lot of cost pressures are hitting US businesses.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829606,
+   "ts": "2026-10-30T13:34:57+00:00",
+   "ingested": "2026-10-30T13:36:02.422816+00:00",
+   "headline": "Fed's Barkin: The direction of travel is \"straightforward\" for the Fed, the question is pace - SiriusXM Business Briefing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829605,
+   "ts": "2026-10-30T13:34:35+00:00",
+   "ingested": "2026-10-30T13:36:02.422840+00:00",
+   "headline": "Fed's Barkin: We'll see what we learn over the next period.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829604,
+   "ts": "2026-10-30T13:34:14+00:00",
+   "ingested": "2026-10-30T13:36:02.422862+00:00",
+   "headline": "Fed's Barkin: The Fed has signaled a gradual approach.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829569,
    "ts": "2026-10-30T13:20:43+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-29T00:00:04+00:00",
    "ingested": "2026-10-29T00:09:48.060361+00:00",
    "headline": "New Zealand business confidence rises to 52.5% in October vs 51.9% in prior survey: ANZ Bank survey",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826260,
-   "ts": "2026-10-29T00:00:00+00:00",
-   "ingested": "2026-10-29T00:09:48.060369+00:00",
-   "headline": "NBNZ Own Activity Actual 46.2 (Forecast -, Previous 47.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826259,
-   "ts": "2026-10-29T00:00:00+00:00",
-   "ingested": "2026-10-29T00:09:48.060378+00:00",
-   "headline": "NBNZ Business Outlook Actual 52.5 (Forecast -, Previous 51.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826258,
-   "ts": "2026-10-28T23:56:24+00:00",
-   "ingested": "2026-10-29T00:09:48.060386+00:00",
-   "headline": "Bank of Korea: will monitor financial and currency market conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826257,
-   "ts": "2026-10-28T23:52:12+00:00",
-   "ingested": "2026-10-29T00:09:48.060393+00:00",
-   "headline": "Foreign Investment Japanese Bonds Actual 43.3B (Forecast -, Previous 1,454.2B)",
    "channel": "rss",
    "source": "financialjuice"
   }
