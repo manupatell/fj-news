@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-30T21:06:26.174070+00:00",
+ "updated": "2026-10-30T21:08:06.119675+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830221,
+   "ts": "2026-10-30T21:07:52+00:00",
+   "ingested": "2026-10-30T21:08:06.119271+00:00",
+   "headline": "US DOJ files motion for preliminary injunction in Alaska election dispute",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830220,
+   "ts": "2026-10-30T21:07:42+00:00",
+   "ingested": "2026-10-30T21:08:06.119290+00:00",
+   "headline": "S&P: Uncertainty over Meta's future capital expenditures and ambitious multiyear AI investments casts doubt on expected spending cuts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830219,
    "ts": "2026-10-30T21:04:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T13:56:53+00:00",
    "ingested": "2026-10-29T15:32:21.124416+00:00",
    "headline": "ECB's President Lagarde: Fiscal uncertainty may further tighten financial conditions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827454,
-   "ts": "2026-10-29T13:56:08+00:00",
-   "ingested": "2026-10-29T15:32:21.124428+00:00",
-   "headline": "ECB's Lagarde: Risks to inflation are to the upside.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827453,
-   "ts": "2026-10-29T13:55:41+00:00",
-   "ingested": "2026-10-29T15:32:21.124439+00:00",
-   "headline": "US Treasury Secretary Bessent: Great GDP number",
    "channel": "rss",
    "source": "financialjuice"
   }
