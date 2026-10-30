@@ -20509,3 +20509,7 @@
 {"guid": 9829518, "ts": "2026-10-30T12:52:12+00:00", "ingested": "2026-10-30T12:52:42.384845+00:00", "headline": "US Sentiment: Terrible Tech Earnings Leads to Flight to Safety of Bonds - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9829519, "ts": "2026-10-30T12:56:42+00:00", "ingested": "2026-10-30T12:57:42.393425+00:00", "headline": "BoJ Interest Rate Probabilities (Updated)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9829520, "ts": "2026-10-30T12:59:06+00:00", "ingested": "2026-10-30T12:59:22.411866+00:00", "headline": "MUFG on BoJ - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9829521, "ts": "2026-10-30T13:00:02+00:00", "ingested": "2026-10-30T13:01:02.433881+00:00", "headline": "German HICP YoY Prelim  Actual 2.8% (Forecast 3.1%, Previous 3.30%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9829522, "ts": "2026-10-30T13:00:02+00:00", "ingested": "2026-10-30T13:01:02.433866+00:00", "headline": "German HICP MoM Prelim  Actual -0.1% (Forecast 0.1%, Previous 0.60%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9829523, "ts": "2026-10-30T13:00:03+00:00", "ingested": "2026-10-30T13:01:02.433850+00:00", "headline": "German CPI YoY Prelim  Actual 2.8% (Forecast 3%, Previous 3.30%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9829524, "ts": "2026-10-30T13:00:03+00:00", "ingested": "2026-10-30T13:01:02.433829+00:00", "headline": "German CPI MoM Prelim  Actual -0.2% (Forecast 0.1%, Previous 0.60%)", "channel": "rss", "source": "financialjuice"}

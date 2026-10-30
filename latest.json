@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-30T12:59:22.412231+00:00",
+ "updated": "2026-10-30T13:01:02.434259+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829524,
+   "ts": "2026-10-30T13:00:03+00:00",
+   "ingested": "2026-10-30T13:01:02.433829+00:00",
+   "headline": "German CPI MoM Prelim  Actual -0.2% (Forecast 0.1%, Previous 0.60%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829523,
+   "ts": "2026-10-30T13:00:03+00:00",
+   "ingested": "2026-10-30T13:01:02.433850+00:00",
+   "headline": "German CPI YoY Prelim  Actual 2.8% (Forecast 3%, Previous 3.30%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829522,
+   "ts": "2026-10-30T13:00:02+00:00",
+   "ingested": "2026-10-30T13:01:02.433866+00:00",
+   "headline": "German HICP MoM Prelim  Actual -0.1% (Forecast 0.1%, Previous 0.60%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9829521,
+   "ts": "2026-10-30T13:00:02+00:00",
+   "ingested": "2026-10-30T13:01:02.433881+00:00",
+   "headline": "German HICP YoY Prelim  Actual 2.8% (Forecast 3.1%, Previous 3.30%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829520,
    "ts": "2026-10-30T12:59:06+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-28T22:14:16+00:00",
    "ingested": "2026-10-29T00:09:48.060421+00:00",
    "headline": "Microsoft CFO: Azure growth expected at 49% to 50% in constant currency, clarifies range is 49% to 50%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826144,
-   "ts": "2026-10-28T22:04:28+00:00",
-   "ingested": "2026-10-29T00:09:48.060428+00:00",
-   "headline": "Microsoft CFO: We will tap additional funding sources when attractive to do so",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826143,
-   "ts": "2026-10-28T22:04:06+00:00",
-   "ingested": "2026-10-29T00:09:48.060436+00:00",
-   "headline": "Microsoft CFO: capex spending to speed up in second half of fiscal year with third-party capacity deliveries shifting to h2",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826142,
-   "ts": "2026-10-28T22:03:11+00:00",
-   "ingested": "2026-10-29T00:09:48.060443+00:00",
-   "headline": "Microsoft CFO: expects to remain cash flow positive in fiscal 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826138,
-   "ts": "2026-10-28T22:02:14+00:00",
-   "ingested": "2026-10-29T00:09:48.060449+00:00",
-   "headline": "Microsoft CFO: calendar year capital expenditure to be about $170 billion",
    "channel": "rss",
    "source": "financialjuice"
   }
