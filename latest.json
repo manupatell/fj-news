@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T18:48:06.054785+00:00",
+ "updated": "2026-10-30T18:49:46.091141+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830060,
+   "ts": "2026-10-30T18:48:03+00:00",
+   "ingested": "2026-10-30T18:49:46.090769+00:00",
+   "headline": "Brent Crude futures settle at $117.64/bbl, up $2.76, 2.4%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830059,
    "ts": "2026-10-30T18:47:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:15:28+00:00",
    "ingested": "2026-10-29T15:32:21.124938+00:00",
    "headline": "ECB: Energy prices have continued to rise, posing upside risks to inflation outlook and downside risks to growth outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827327,
-   "ts": "2026-10-29T13:15:20+00:00",
-   "ingested": "2026-10-29T15:32:21.124955+00:00",
-   "headline": "ECB: While full effects of energy shock are still unfolding, underlying inflation has remained broadly stable so far and wages do not show a material response at this stage.",
    "channel": "rss",
    "source": "financialjuice"
   }
