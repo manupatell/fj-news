@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T10:30:48.856609+00:00",
+ "updated": "2026-10-30T10:45:52.425696+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829278,
+   "ts": "2026-10-30T10:41:03+00:00",
+   "ingested": "2026-10-30T10:45:52.425300+00:00",
+   "headline": "IRGC Navy: Two oil tankers that switched off navigation systems were involved in incident, stopped south of Strait of Hormuz after ignoring radio warnings - Iranian Media.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829259,
    "ts": "2026-10-30T10:18:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T20:36:34+00:00",
    "ingested": "2026-10-29T00:09:48.060641+00:00",
    "headline": "Alphabet's CEO Pichai: New AI model Carbon is Google's strongest. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826017,
-   "ts": "2026-10-28T20:35:46+00:00",
-   "ingested": "2026-10-29T00:09:48.060647+00:00",
-   "headline": "Pichai: AI model argon has sped development of code at Google. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
