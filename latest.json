@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T19:26:26.106122+00:00",
+ "updated": "2026-10-30T19:31:26.082723+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830090,
+   "ts": "2026-10-30T19:30:58+00:00",
+   "ingested": "2026-10-30T19:31:26.082319+00:00",
+   "headline": "CFTC Positions in the Week of October 27th 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830088,
    "ts": "2026-10-30T19:25:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T13:16:16+00:00",
    "ingested": "2026-10-29T15:32:21.124886+00:00",
    "headline": "ECB: In particular, ECB\u2019s interest rate decisions will be based on its assessment of inflation outlook and risks surrounding it, in light of incoming economic and financial data, as well as dynamics of underlying economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827340,
-   "ts": "2026-10-29T13:16:04+00:00",
-   "ingested": "2026-10-29T15:32:21.124898+00:00",
-   "headline": "ECB: Not pre-committing to a particular rate path",
    "channel": "rss",
    "source": "financialjuice"
   }
