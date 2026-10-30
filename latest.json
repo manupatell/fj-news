@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T12:16:02.395209+00:00",
+ "updated": "2026-10-30T12:17:42.416734+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9829453,
+   "ts": "2026-10-30T12:16:34+00:00",
+   "ingested": "2026-10-30T12:17:42.416257+00:00",
+   "headline": "Exxon CEO: Diesel is key \u2018crunch point\u2019.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9829431,
    "ts": "2026-10-30T12:15:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-28T21:46:40+00:00",
    "ingested": "2026-10-29T00:09:48.060526+00:00",
    "headline": "Microsoft CEO: accelerating demand prompts addition of 24 new data centers across five continents this quarter - conf call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9826085,
-   "ts": "2026-10-28T21:29:47+00:00",
-   "ingested": "2026-10-29T00:09:48.060534+00:00",
-   "headline": "Meta Platforms: forward sellers propose 40 million shares of Class A common stock - SEC filing",
    "channel": "rss",
    "source": "financialjuice"
   }
