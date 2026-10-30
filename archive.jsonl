@@ -20631,3 +20631,7 @@
 {"guid": 9830114, "ts": "2026-10-30T19:45:26+00:00", "ingested": "2026-10-30T19:46:26.088887+00:00", "headline": "NZD Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9830116, "ts": "2026-10-30T19:45:42+00:00", "ingested": "2026-10-30T19:46:26.088876+00:00", "headline": "CHF Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9830117, "ts": "2026-10-30T19:45:58+00:00", "ingested": "2026-10-30T19:46:26.088861+00:00", "headline": "GBP Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830126, "ts": "2026-10-30T19:46:19+00:00", "ingested": "2026-10-30T19:48:06.074482+00:00", "headline": "JPY Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830128, "ts": "2026-10-30T19:46:43+00:00", "ingested": "2026-10-30T19:48:06.074472+00:00", "headline": "AUD Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830129, "ts": "2026-10-30T19:47:00+00:00", "ingested": "2026-10-30T19:48:06.074455+00:00", "headline": "EUR Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9830130, "ts": "2026-10-30T19:47:19+00:00", "ingested": "2026-10-30T19:48:06.074415+00:00", "headline": "DXY Positions Week of October 27th - FJElite", "channel": "rss", "source": "financialjuice"}

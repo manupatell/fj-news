@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-30T19:46:26.089263+00:00",
+ "updated": "2026-10-30T19:48:06.074823+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830130,
+   "ts": "2026-10-30T19:47:19+00:00",
+   "ingested": "2026-10-30T19:48:06.074415+00:00",
+   "headline": "DXY Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830129,
+   "ts": "2026-10-30T19:47:00+00:00",
+   "ingested": "2026-10-30T19:48:06.074455+00:00",
+   "headline": "EUR Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830128,
+   "ts": "2026-10-30T19:46:43+00:00",
+   "ingested": "2026-10-30T19:48:06.074472+00:00",
+   "headline": "AUD Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830126,
+   "ts": "2026-10-30T19:46:19+00:00",
+   "ingested": "2026-10-30T19:48:06.074482+00:00",
+   "headline": "JPY Positions Week of October 27th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830117,
    "ts": "2026-10-30T19:45:58+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-29T13:49:42+00:00",
    "ingested": "2026-10-29T15:32:21.124660+00:00",
    "headline": "ECB's Lagarde: Incoming data suggests economy expanding in Q3",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827431,
-   "ts": "2026-10-29T13:49:13+00:00",
-   "ingested": "2026-10-29T15:32:21.124673+00:00",
-   "headline": "WH Sr. Adviser Hassett: There's room to let inflation get under control",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827430,
-   "ts": "2026-10-29T13:47:42+00:00",
-   "ingested": "2026-10-29T15:32:21.124684+00:00",
-   "headline": "ECB's President Lagarde repeats ECB policy statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827429,
-   "ts": "2026-10-29T13:47:10+00:00",
-   "ingested": "2026-10-29T15:32:21.124696+00:00",
-   "headline": "Hassett: Supply side boom putting downward pressure on prices",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827428,
-   "ts": "2026-10-29T13:46:57+00:00",
-   "ingested": "2026-10-29T15:32:21.124708+00:00",
-   "headline": "French Official: France cuts diesel stock requirements to free supply.",
    "channel": "rss",
    "source": "financialjuice"
   }
