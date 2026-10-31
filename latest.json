@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T16:28:29.892525+00:00",
+ "updated": "2026-10-31T16:30:09.889021+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830901,
+   "ts": "2026-10-31T16:29:32+00:00",
+   "ingested": "2026-10-31T16:30:09.888536+00:00",
+   "headline": "US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830900,
+   "ts": "2026-10-31T16:29:19+00:00",
+   "ingested": "2026-10-31T16:30:09.888550+00:00",
+   "headline": "US Secretary of State Rubio: no known timeframe for Qatar-led talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830899,
    "ts": "2026-10-31T16:27:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T17:03:50+00:00",
    "ingested": "2026-10-29T20:52:09.586050+00:00",
    "headline": "US 7-Year Bid-to-Cover Actual 2.460 (Forecast -, Previous 2.420)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827774,
-   "ts": "2026-10-29T17:03:33+00:00",
-   "ingested": "2026-10-29T20:52:09.586061+00:00",
-   "headline": "US 7-Yr Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827772,
-   "ts": "2026-10-29T17:02:11+00:00",
-   "ingested": "2026-10-29T20:52:09.586074+00:00",
-   "headline": "US 7-Year High Yield Actual 4.894% (Forecast -, Previous 5.085%)",
    "channel": "rss",
    "source": "financialjuice"
   }
