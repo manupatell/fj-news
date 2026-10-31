@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T12:13:04.190224+00:00",
+ "updated": "2026-10-31T12:21:24.213006+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830785,
+   "ts": "2026-10-31T12:20:58+00:00",
+   "ingested": "2026-10-31T12:21:24.212573+00:00",
+   "headline": "Qatari mediation team in regular contact with US negotiators during talks: source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830784,
+   "ts": "2026-10-31T12:20:41+00:00",
+   "ingested": "2026-10-31T12:21:24.212598+00:00",
+   "headline": "Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830756,
    "ts": "2026-10-31T11:00:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T15:00:41+00:00",
    "ingested": "2026-10-29T15:32:21.123887+00:00",
    "headline": "US Treasury to sell $82 billion in six-month bills",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827580,
-   "ts": "2026-10-29T14:42:57+00:00",
-   "ingested": "2026-10-29T15:32:21.123898+00:00",
-   "headline": "Trump concludes remarks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827579,
-   "ts": "2026-10-29T14:42:17+00:00",
-   "ingested": "2026-10-29T15:32:21.123913+00:00",
-   "headline": "Iran insists on its seven conditions being met by US, any position that contradicts this framework is unacceptable - Tasnim News",
    "channel": "rss",
    "source": "financialjuice"
   }
