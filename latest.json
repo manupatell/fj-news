@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T10:39:44.162580+00:00",
+ "updated": "2026-10-31T10:41:24.230697+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830744,
+   "ts": "2026-10-31T10:40:25+00:00",
+   "ingested": "2026-10-31T10:41:24.230291+00:00",
+   "headline": "Iran\u2019s supreme leader directs armed forces to boost production of ammunition and weapons for reconnaissance, support and combat operations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830743,
    "ts": "2026-10-31T10:38:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T14:38:59+00:00",
    "ingested": "2026-10-29T15:32:21.123951+00:00",
    "headline": "WH Sr. Adviser Hassett: If Oct. inflation  is really high, Fed probably to act.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827574,
-   "ts": "2026-10-29T14:36:49+00:00",
-   "ingested": "2026-10-29T15:32:21.123963+00:00",
-   "headline": "WATCH LIVE: Trump Speaks",
    "channel": "rss",
    "source": "financialjuice"
   }
