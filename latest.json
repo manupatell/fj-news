@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T06:52:49.295602+00:00",
+ "updated": "2026-10-31T06:57:49.285814+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830667,
+   "ts": "2026-10-31T06:57:19+00:00",
+   "ingested": "2026-10-31T06:57:49.285434+00:00",
+   "headline": "Two killed, five hurt in Ukrainian drone strike on Russia's Bryansk region, governor says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830633,
    "ts": "2026-10-31T05:39:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T14:17:01+00:00",
    "ingested": "2026-10-29T15:32:21.124137+00:00",
    "headline": "ECB's Lagarde: We have no plan to restrict the number of meetings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827532,
-   "ts": "2026-10-29T14:16:34+00:00",
-   "ingested": "2026-10-29T15:32:21.124152+00:00",
-   "headline": "QatarEnergy CEO: Has met Iranian Acting Petroleum Minister twice in past two weeks, exploring postwar cooperation in oil and gas",
    "channel": "rss",
    "source": "financialjuice"
   }
