@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T19:00:09.911554+00:00",
+ "updated": "2026-10-31T19:01:49.917626+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830986,
+   "ts": "2026-10-31T19:01:29+00:00",
+   "ingested": "2026-10-31T19:01:49.917270+00:00",
+   "headline": "Iran\u2019s security chief Rezaei: Strait of Hormuz to stay closed until Tehran\u2019s conditions fulfilled",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830953,
    "ts": "2026-10-31T18:58:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T18:50:36+00:00",
    "ingested": "2026-10-29T20:52:09.585750+00:00",
    "headline": "Brent Crude futures settle at $114.88/bbl, down 44 cents, 0.38%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827892,
-   "ts": "2026-10-29T18:32:06+00:00",
-   "ingested": "2026-10-29T20:52:09.585764+00:00",
-   "headline": "NYMEX Natural Gas December futures settle at $2.9520/MMBtu.",
    "channel": "rss",
    "source": "financialjuice"
   }
