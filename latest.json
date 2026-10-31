@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T13:28:04.281402+00:00",
+ "updated": "2026-10-31T13:38:04.225988+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830837,
+   "ts": "2026-10-31T13:37:52+00:00",
+   "ingested": "2026-10-31T13:38:04.225559+00:00",
+   "headline": "Iran's armed forces chief: military compiles new list of US and Israeli targets, assets across expanded region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830836,
+   "ts": "2026-10-31T13:36:55+00:00",
+   "ingested": "2026-10-31T13:38:04.225580+00:00",
+   "headline": "Iran's armed forces chief: forces ready to retaliate against US, Israeli enemies beyond geographic limits",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830832,
    "ts": "2026-10-31T13:17:27+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T15:35:58+00:00",
    "ingested": "2026-10-29T16:22:29.679490+00:00",
    "headline": "ECB officials are ready to raise interest rates in December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827661,
-   "ts": "2026-10-29T15:32:10+00:00",
-   "ingested": "2026-10-29T16:22:29.679509+00:00",
-   "headline": "US 4-Week Bill High Yield Actual 3.91% (Forecast -, Previous 3.945%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827660,
-   "ts": "2026-10-29T15:32:10+00:00",
-   "ingested": "2026-10-29T16:22:29.679523+00:00",
-   "headline": "US 4-Week Bill Bid-to-Cover Actual 3.1 (Forecast -, Previous 2.820)",
    "channel": "rss",
    "source": "financialjuice"
   }
