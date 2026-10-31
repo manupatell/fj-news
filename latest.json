@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T16:25:09.878723+00:00",
+ "updated": "2026-10-31T16:28:29.892525+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830899,
+   "ts": "2026-10-31T16:27:42+00:00",
+   "ingested": "2026-10-31T16:28:29.892115+00:00",
+   "headline": "US Secretary of State Rubio: G20 foreign ministers agree on importance of food security, critical mineral supply chains and navigation freedom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830898,
    "ts": "2026-10-31T16:24:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T17:02:11+00:00",
    "ingested": "2026-10-29T20:52:09.586074+00:00",
    "headline": "US 7-Year High Yield Actual 4.894% (Forecast -, Previous 5.085%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827751,
-   "ts": "2026-10-29T17:00:18+00:00",
-   "ingested": "2026-10-29T20:52:09.586088+00:00",
-   "headline": "Treasury WI 7y yield 4.894% before $44 billion auction",
    "channel": "rss",
    "source": "financialjuice"
   }
