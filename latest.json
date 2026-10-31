@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T18:55:09.937709+00:00",
+ "updated": "2026-10-31T19:00:09.911554+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830953,
+   "ts": "2026-10-31T18:58:53+00:00",
+   "ingested": "2026-10-31T19:00:09.911228+00:00",
+   "headline": "Iran\u2019s Rezaei: Iran\u2019s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830952,
    "ts": "2026-10-31T18:53:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T18:32:06+00:00",
    "ingested": "2026-10-29T20:52:09.585764+00:00",
    "headline": "NYMEX Natural Gas December futures settle at $2.9520/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827891,
-   "ts": "2026-10-29T18:31:33+00:00",
-   "ingested": "2026-10-29T20:52:09.585778+00:00",
-   "headline": "NYMEX Diesel November futures settle at $4.7360 a gallon.",
    "channel": "rss",
    "source": "financialjuice"
   }
