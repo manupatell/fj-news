@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T16:01:49.871333+00:00",
+ "updated": "2026-10-31T16:03:29.874738+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830891,
+   "ts": "2026-10-31T16:03:02+00:00",
+   "ingested": "2026-10-31T16:03:29.874361+00:00",
+   "headline": "Meta and Fourier constructed the roughly 106-pound humanoid known as Max in just three months: The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830890,
+   "ts": "2026-10-31T16:02:23+00:00",
+   "ingested": "2026-10-31T16:03:29.874375+00:00",
+   "headline": "Meta builds humanoid prototype with Chinese startup to accelerate robotics drive - The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830889,
    "ts": "2026-10-31T16:01:38+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T16:37:22+00:00",
    "ingested": "2026-10-29T20:52:09.586131+00:00",
    "headline": "EU Commissioner Jorgensen: EU member states have reaffirmed their commitment to an accelerated release of 42.6 million barrels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827742,
-   "ts": "2026-10-29T16:36:46+00:00",
-   "ingested": "2026-10-29T20:52:09.586150+00:00",
-   "headline": "EU Commissioner Jorgensen: We do not expect security of oil, gas supply, but citizens struggling to pay bills.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827713,
-   "ts": "2026-10-29T16:21:12+00:00",
-   "ingested": "2026-10-29T16:22:29.679398+00:00",
-   "headline": "Microsoft expects to raise about $25 bln in US bond sale - source. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
