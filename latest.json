@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T09:07:49.305854+00:00",
+ "updated": "2026-10-31T09:11:09.319206+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830714,
+   "ts": "2026-10-31T09:09:21+00:00",
+   "ingested": "2026-10-31T09:11:09.318856+00:00",
+   "headline": "Danger has passed in Najran: Saudi civil defense",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830713,
    "ts": "2026-10-31T09:06:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T14:22:37+00:00",
    "ingested": "2026-10-29T15:32:21.124041+00:00",
    "headline": "Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving - IRIB News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827538,
-   "ts": "2026-10-29T14:22:19+00:00",
-   "ingested": "2026-10-29T15:32:21.124055+00:00",
-   "headline": "Offending oil tanker collides with sea mines, damaged, catches fire and is stopped - IRIB News",
    "channel": "rss",
    "source": "financialjuice"
   }
