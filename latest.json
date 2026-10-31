@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T16:41:49.882580+00:00",
+ "updated": "2026-10-31T16:46:49.885698+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830918,
+   "ts": "2026-10-31T16:46:07+00:00",
+   "ingested": "2026-10-31T16:46:49.885341+00:00",
+   "headline": "US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830916,
    "ts": "2026-10-31T16:41:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T17:34:53+00:00",
    "ingested": "2026-10-29T20:52:09.585909+00:00",
    "headline": "Netanyahu's bloc leads in final vote count - Israel's N12 News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827824,
-   "ts": "2026-10-29T17:33:16+00:00",
-   "ingested": "2026-10-29T20:52:09.585929+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: Progress can only be achieved once Iran\u2019s seven conditions have been agreed upon",
    "channel": "rss",
    "source": "financialjuice"
   }
