@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T13:14:44.208782+00:00",
+ "updated": "2026-10-31T13:16:24.334151+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830827,
+   "ts": "2026-10-31T13:15:34+00:00",
+   "ingested": "2026-10-31T13:16:24.333713+00:00",
+   "headline": "Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830817,
    "ts": "2026-10-31T13:13:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T15:27:53+00:00",
    "ingested": "2026-10-29T15:32:21.123717+00:00",
    "headline": "New ECB staff estimates show bond yield rise cutting growth by cumulative 100 BPS, inflation by 90 BPS in 2027-28 vs Sept baseline - sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827644,
-   "ts": "2026-10-29T15:23:50+00:00",
-   "ingested": "2026-10-29T15:32:21.123741+00:00",
-   "headline": "FCC votes to ban all Chinese labs from testing US electronics starting in December 2028",
    "channel": "rss",
    "source": "financialjuice"
   }
