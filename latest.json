@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T15:18:04.263001+00:00",
+ "updated": "2026-10-31T15:19:44.264353+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830876,
+   "ts": "2026-10-31T15:18:13+00:00",
+   "ingested": "2026-10-31T15:19:44.263902+00:00",
+   "headline": "Russia's FSB: Information has been received from the US regarding plans for a terrorist attack in Moscow - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830865,
    "ts": "2026-10-31T14:56:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T16:20:01+00:00",
    "ingested": "2026-10-29T16:22:29.679444+00:00",
    "headline": "UK October long-term public inflation expectations 4.0% vs 4.3% in September - Citi YouGov",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827676,
-   "ts": "2026-10-29T16:00:26+00:00",
-   "ingested": "2026-10-29T16:22:29.679461+00:00",
-   "headline": "US 30-yr fixed rate mortgage averages 7.24% in Oct 29 week vs 7.32% prior week - Freddie Mac",
    "channel": "rss",
    "source": "financialjuice"
   }
