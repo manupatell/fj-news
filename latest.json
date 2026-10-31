@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T07:41:09.299255+00:00",
+ "updated": "2026-10-31T07:46:09.288703+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830702,
+   "ts": "2026-10-31T07:44:35+00:00",
+   "ingested": "2026-10-31T07:46:09.288302+00:00",
+   "headline": "Manama - Egyptian foreign minister: extremely concerned new escalation round will be more devastating and significantly impactful",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830692,
    "ts": "2026-10-31T07:10:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T14:19:06+00:00",
    "ingested": "2026-10-29T15:32:21.124101+00:00",
    "headline": "EU's von der Leyen: EU and Canada to create unified space for strategic supply chains",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827535,
-   "ts": "2026-10-29T14:18:29+00:00",
-   "ingested": "2026-10-29T15:32:21.124113+00:00",
-   "headline": "Fear & Greed Index: 35/100 - Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
