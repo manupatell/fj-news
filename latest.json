@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T16:03:29.874738+00:00",
+ "updated": "2026-10-31T16:08:29.866313+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830892,
+   "ts": "2026-10-31T16:07:16+00:00",
+   "ingested": "2026-10-31T16:08:29.865885+00:00",
+   "headline": "Istanbul: Zelenskiy discusses upcoming meeting of US, Ukraine, Russian peace negotiators with Turkey's Erdogan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830891,
    "ts": "2026-10-31T16:03:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T16:37:56+00:00",
    "ingested": "2026-10-29T20:52:09.586115+00:00",
    "headline": "EU Commissioner Jorgensen: Half of oil stock releases in coming months will be diesel.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827743,
-   "ts": "2026-10-29T16:37:22+00:00",
-   "ingested": "2026-10-29T20:52:09.586131+00:00",
-   "headline": "EU Commissioner Jorgensen: EU member states have reaffirmed their commitment to an accelerated release of 42.6 million barrels",
    "channel": "rss",
    "source": "financialjuice"
   }
