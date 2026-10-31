@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T13:03:04.197195+00:00",
+ "updated": "2026-10-31T13:04:44.226606+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830810,
+   "ts": "2026-10-31T13:04:21+00:00",
+   "ingested": "2026-10-31T13:04:44.226178+00:00",
+   "headline": "Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830809,
+   "ts": "2026-10-31T13:03:43+00:00",
+   "ingested": "2026-10-31T13:04:44.226201+00:00",
+   "headline": "Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830805,
    "ts": "2026-10-31T13:01:15+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T15:00:50+00:00",
    "ingested": "2026-10-29T15:32:21.123849+00:00",
    "headline": "IMF: Important for United States to keep expanding how technology gains are shared.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827609,
-   "ts": "2026-10-29T15:00:49+00:00",
-   "ingested": "2026-10-29T15:32:21.123862+00:00",
-   "headline": "IMF: US expansion buoyed by robust productivity gains over past three years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827608,
-   "ts": "2026-10-29T15:00:46+00:00",
-   "ingested": "2026-10-29T15:32:21.123875+00:00",
-   "headline": "US treasury to sell $95 billion in three-month bills",
    "channel": "rss",
    "source": "financialjuice"
   }
