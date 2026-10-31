@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T17:46:49.896553+00:00",
+ "updated": "2026-10-31T17:56:49.904810+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830935,
+   "ts": "2026-10-31T17:56:04+00:00",
+   "ingested": "2026-10-31T17:56:49.904447+00:00",
+   "headline": "Iran security chief Rezaei: no new decision on changing nuclear doctrine, debate ongoing if same doctrine should continue in another war",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830930,
    "ts": "2026-10-31T17:35:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T17:55:34+00:00",
    "ingested": "2026-10-29T20:52:09.585837+00:00",
    "headline": "UKMTO: Company security officer has informed UKMTO that their tanker has been struck by unknown projectile whilst completing outbound transit of Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827836,
-   "ts": "2026-10-29T17:54:41+00:00",
-   "ingested": "2026-10-29T20:52:09.585853+00:00",
-   "headline": "UKMTO receives report of incident in Strait of Hormuz",
    "channel": "rss",
    "source": "financialjuice"
   }
