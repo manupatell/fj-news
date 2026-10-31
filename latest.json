@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T13:04:44.226606+00:00",
+ "updated": "2026-10-31T13:06:24.200927+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830812,
+   "ts": "2026-10-31T13:05:51+00:00",
+   "ingested": "2026-10-31T13:06:24.200494+00:00",
+   "headline": "Iran's FM to Al Jazeera: Tehran to determine if talks with Washington are direct or indirect after US accepts conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830811,
+   "ts": "2026-10-31T13:04:42+00:00",
+   "ingested": "2026-10-31T13:06:24.200514+00:00",
+   "headline": "Iran's FM to Al Jazeera: no intentions for talks with US officials currently",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830810,
    "ts": "2026-10-31T13:04:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T15:00:54+00:00",
    "ingested": "2026-10-29T15:32:21.123820+00:00",
    "headline": "IMF: Fed and ECB face high uncertainty and must closely monitor data going forward.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827611,
-   "ts": "2026-10-29T15:00:51+00:00",
-   "ingested": "2026-10-29T15:32:21.123836+00:00",
-   "headline": "IMF: US growth resilient so far, propelled by private consumption despite higher oil prices and inflation, plus investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827610,
-   "ts": "2026-10-29T15:00:50+00:00",
-   "ingested": "2026-10-29T15:32:21.123849+00:00",
-   "headline": "IMF: Important for United States to keep expanding how technology gains are shared.",
    "channel": "rss",
    "source": "financialjuice"
   }
