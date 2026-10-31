@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T18:48:29.905022+00:00",
+ "updated": "2026-10-31T18:53:29.922628+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830951,
+   "ts": "2026-10-31T18:52:34+00:00",
+   "ingested": "2026-10-31T18:53:29.922307+00:00",
+   "headline": "Iran security chief Rezaei tells state TV: we seriously pursue diplomacy but won\u2019t forsake Iranian people\u2019s rights",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830941,
    "ts": "2026-10-31T18:27:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T18:31:23+00:00",
    "ingested": "2026-10-29T20:52:09.585792+00:00",
    "headline": "NYMEX Gasoline November futures settle at $3.1850 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827876,
-   "ts": "2026-10-29T18:31:12+00:00",
-   "ingested": "2026-10-29T20:52:09.585806+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $102.00 a barrel, down 78 cents, 0.76%.",
    "channel": "rss",
    "source": "financialjuice"
   }
