@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T09:21:09.319862+00:00",
+ "updated": "2026-10-31T09:27:49.310981+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830717,
+   "ts": "2026-10-31T09:26:52+00:00",
+   "ingested": "2026-10-31T09:27:49.310577+00:00",
+   "headline": "Iran's Fars News Agency: two fishermen missing, two injured after drone strike",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830716,
+   "ts": "2026-10-31T09:26:41+00:00",
+   "ingested": "2026-10-31T09:27:49.310594+00:00",
+   "headline": "Iran semi-official Fars news agency: 'enemy' drone strikes two fishing boats 14 nm south of Geshm Island",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830714,
    "ts": "2026-10-31T09:09:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T14:28:29+00:00",
    "ingested": "2026-10-29T15:32:21.124010+00:00",
    "headline": "ECB President Lagarde: quantitative tightening is progressing mechanically",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827540,
-   "ts": "2026-10-29T14:28:05+00:00",
-   "ingested": "2026-10-29T15:32:21.124022+00:00",
-   "headline": "ECB President Lagarde: no shift in approach on bond repayments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827539,
-   "ts": "2026-10-29T14:22:37+00:00",
-   "ingested": "2026-10-29T15:32:21.124041+00:00",
-   "headline": "Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving - IRIB News",
    "channel": "rss",
    "source": "financialjuice"
   }
