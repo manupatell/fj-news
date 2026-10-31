@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T13:13:04.233529+00:00",
+ "updated": "2026-10-31T13:14:44.208782+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830817,
+   "ts": "2026-10-31T13:13:07+00:00",
+   "ingested": "2026-10-31T13:14:44.208374+00:00",
+   "headline": "Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830816,
    "ts": "2026-10-31T13:12:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T15:23:50+00:00",
    "ingested": "2026-10-29T15:32:21.123741+00:00",
    "headline": "FCC votes to ban all Chinese labs from testing US electronics starting in December 2028",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827642,
-   "ts": "2026-10-29T15:19:38+00:00",
-   "ingested": "2026-10-29T15:32:21.123758+00:00",
-   "headline": "Fitch Ratings: US private credit default rate remains elevated in 3Q26",
    "channel": "rss",
    "source": "financialjuice"
   }
