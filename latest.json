@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T16:40:09.884705+00:00",
+ "updated": "2026-10-31T16:41:49.882580+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830916,
+   "ts": "2026-10-31T16:41:23+00:00",
+   "ingested": "2026-10-31T16:41:49.882212+00:00",
+   "headline": "Indian govt releases tax devolution of 1.09 trillion rupees to states as advance instalment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830915,
    "ts": "2026-10-31T16:39:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T17:33:16+00:00",
    "ingested": "2026-10-29T20:52:09.585929+00:00",
    "headline": "Iran's Parliament Speaker Ghalibaf: Progress can only be achieved once Iran\u2019s seven conditions have been agreed upon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827823,
-   "ts": "2026-10-29T17:33:04+00:00",
-   "ingested": "2026-10-29T20:52:09.585947+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: Iran's conditions have been repeatedly and clearly stated to the mediators",
    "channel": "rss",
    "source": "financialjuice"
   }
