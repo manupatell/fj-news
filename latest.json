@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T10:24:44.222611+00:00",
+ "updated": "2026-10-31T10:31:24.165744+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830733,
+   "ts": "2026-10-31T10:30:57+00:00",
+   "ingested": "2026-10-31T10:31:24.165326+00:00",
+   "headline": "Iran's Supreme Leader Mojtaba Khamenei orders immediate, impactful and geographically unrestricted response to any enemy threat: written message",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830729,
    "ts": "2026-10-31T10:03:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T14:30:01+00:00",
    "ingested": "2026-10-29T15:32:21.123987+00:00",
    "headline": "EIA Natural Gas Change BCF Actual 80B (Forecast 72B, Previous 77B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827542,
-   "ts": "2026-10-29T14:28:34+00:00",
-   "ingested": "2026-10-29T15:32:21.123998+00:00",
-   "headline": "ECB President Lagarde: no plan to readjust",
    "channel": "rss",
    "source": "financialjuice"
   }
