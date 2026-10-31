@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T10:31:24.165744+00:00",
+ "updated": "2026-10-31T10:34:44.166760+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830742,
+   "ts": "2026-10-31T10:33:45+00:00",
+   "ingested": "2026-10-31T10:34:44.166342+00:00",
+   "headline": "Iran's Mojtaba Khamenet: Tehran will set timing and conditions for ending any new conflict if enemies restart military or terrorist assaults",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830733,
    "ts": "2026-10-31T10:30:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T14:32:19+00:00",
    "ingested": "2026-10-29T15:32:21.123975+00:00",
    "headline": "ECB's President Lagarde concludes press conference.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827543,
-   "ts": "2026-10-29T14:30:01+00:00",
-   "ingested": "2026-10-29T15:32:21.123987+00:00",
-   "headline": "EIA Natural Gas Change BCF Actual 80B (Forecast 72B, Previous 77B)",
    "channel": "rss",
    "source": "financialjuice"
   }
