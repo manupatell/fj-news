@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T16:33:29.883700+00:00",
+ "updated": "2026-10-31T16:35:09.872383+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830911,
+   "ts": "2026-10-31T16:34:16+00:00",
+   "ingested": "2026-10-31T16:35:09.871981+00:00",
+   "headline": "OPEC+ agrees in principle to maintain production targets in December, source says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830910,
+   "ts": "2026-10-31T16:33:35+00:00",
+   "ingested": "2026-10-31T16:35:09.871996+00:00",
+   "headline": "US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830909,
    "ts": "2026-10-31T16:31:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T17:15:52+00:00",
    "ingested": "2026-10-29T20:52:09.586002+00:00",
    "headline": "Apple cuts Taiwan app store commission rate to 26%. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827780,
-   "ts": "2026-10-29T17:15:34+00:00",
-   "ingested": "2026-10-29T20:52:09.586018+00:00",
-   "headline": "French Interior Minister: We will mobilise 70,000 security forces to maintain order during October 31st protests in France",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827775,
-   "ts": "2026-10-29T17:04:33+00:00",
-   "ingested": "2026-10-29T20:52:09.586035+00:00",
-   "headline": "Yemeni army has targeted the Aramco oil company in widespread wave of missile attacks - Fars News",
    "channel": "rss",
    "source": "financialjuice"
   }
