@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T13:01:24.272799+00:00",
+ "updated": "2026-10-31T13:03:04.197195+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830805,
+   "ts": "2026-10-31T13:01:15+00:00",
+   "ingested": "2026-10-31T13:03:04.196760+00:00",
+   "headline": "President Zelenskiy: Evacuated residents from Russia-controlled Oleshky arrive in Ukraine from Belarus",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830785,
    "ts": "2026-10-31T12:20:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T15:00:46+00:00",
    "ingested": "2026-10-29T15:32:21.123875+00:00",
    "headline": "US treasury to sell $95 billion in three-month bills",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827607,
-   "ts": "2026-10-29T15:00:41+00:00",
-   "ingested": "2026-10-29T15:32:21.123887+00:00",
-   "headline": "US Treasury to sell $82 billion in six-month bills",
    "channel": "rss",
    "source": "financialjuice"
   }
