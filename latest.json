@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T16:08:29.866313+00:00",
+ "updated": "2026-10-31T16:16:49.885833+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830893,
+   "ts": "2026-10-31T16:15:10+00:00",
+   "ingested": "2026-10-31T16:16:49.885326+00:00",
+   "headline": "Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830892,
    "ts": "2026-10-31T16:07:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T16:45:33+00:00",
    "ingested": "2026-10-29T20:52:09.586100+00:00",
    "headline": "Fed bids for 7-Year notes total $4.9 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827744,
-   "ts": "2026-10-29T16:37:56+00:00",
-   "ingested": "2026-10-29T20:52:09.586115+00:00",
-   "headline": "EU Commissioner Jorgensen: Half of oil stock releases in coming months will be diesel.",
    "channel": "rss",
    "source": "financialjuice"
   }
