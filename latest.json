@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-31T13:06:24.200927+00:00",
+ "updated": "2026-10-31T13:09:44.205313+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830815,
+   "ts": "2026-10-31T13:09:32+00:00",
+   "ingested": "2026-10-31T13:09:44.204837+00:00",
+   "headline": "Iran's FM to Al Jazeera: Iranian plan is only proposal currently on table to reopen Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830814,
+   "ts": "2026-10-31T13:08:54+00:00",
+   "ingested": "2026-10-31T13:09:44.204858+00:00",
+   "headline": "Iran's FM to Al Jazeera: mediators offer proposals on nuclear issue, Tehran reviewing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830813,
+   "ts": "2026-10-31T13:08:45+00:00",
+   "ingested": "2026-10-31T13:09:44.204876+00:00",
+   "headline": "US ambassador to India: collaborating on deliverables with India before G20 leaders summit, anticipates news on another military drill",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830812,
    "ts": "2026-10-31T13:05:51+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-29T15:15:36+00:00",
    "ingested": "2026-10-29T15:32:21.123774+00:00",
    "headline": "Fed bids for 4-Week bills total $5.9 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827615,
-   "ts": "2026-10-29T15:01:12+00:00",
-   "ingested": "2026-10-29T15:32:21.123789+00:00",
-   "headline": "Shell CEO: We are at record diesel production.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827613,
-   "ts": "2026-10-29T15:00:55+00:00",
-   "ingested": "2026-10-29T15:32:21.123805+00:00",
-   "headline": "IMF: We fully back Fed chair Warsh's remarks on focus on price stability; Fed is rightly monitoring data closely",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827612,
-   "ts": "2026-10-29T15:00:54+00:00",
-   "ingested": "2026-10-29T15:32:21.123820+00:00",
-   "headline": "IMF: Fed and ECB face high uncertainty and must closely monitor data going forward.",
    "channel": "rss",
    "source": "financialjuice"
   }
