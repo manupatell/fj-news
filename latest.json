@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T14:56:24.231562+00:00",
+ "updated": "2026-10-31T14:58:04.229840+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830865,
+   "ts": "2026-10-31T14:56:37+00:00",
+   "ingested": "2026-10-31T14:58:04.229435+00:00",
+   "headline": "Algeria: UN Security Council draft on Western Sahara favors Morocco, sidelines Polisario Front - Foreign Ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830864,
    "ts": "2026-10-31T14:55:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T16:00:26+00:00",
    "ingested": "2026-10-29T16:22:29.679461+00:00",
    "headline": "US 30-yr fixed rate mortgage averages 7.24% in Oct 29 week vs 7.32% prior week - Freddie Mac",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827665,
-   "ts": "2026-10-29T15:46:07+00:00",
-   "ingested": "2026-10-29T16:22:29.679477+00:00",
-   "headline": "Russia set to extend diesel export ban until the end of the year - Sources.",
    "channel": "rss",
    "source": "financialjuice"
   }
