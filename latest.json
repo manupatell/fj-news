@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-31T01:28:07.016877+00:00",
+ "updated": "2026-10-31T01:31:27.017565+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830434,
+   "ts": "2026-10-31T01:30:23+00:00",
+   "ingested": "2026-10-31T01:31:27.017149+00:00",
+   "headline": "China October official non-manufacturing PMI drops to 49.7 from September's 50.2",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830433,
+   "ts": "2026-10-31T01:30:23+00:00",
+   "ingested": "2026-10-31T01:31:27.017168+00:00",
+   "headline": "China October official composite PMI at 49.7",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830431,
+   "ts": "2026-10-31T01:30:18+00:00",
+   "ingested": "2026-10-31T01:31:27.017185+00:00",
+   "headline": "China October official manufacturing PMI at 49.3 vs 50.1 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830400,
    "ts": "2026-10-31T00:46:45+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-29T14:13:20+00:00",
    "ingested": "2026-10-29T15:32:21.124211+00:00",
    "headline": "ECB's Lagarde: Debt issuance by hyperscalers plays a role in yield rise",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827505,
-   "ts": "2026-10-29T14:12:20+00:00",
-   "ingested": "2026-10-29T15:32:21.124223+00:00",
-   "headline": "ECB president Lagarde: long end of curve has climbed globally",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827504,
-   "ts": "2026-10-29T14:12:19+00:00",
-   "ingested": "2026-10-29T15:32:21.124235+00:00",
-   "headline": "ECB president Lagarde: focus on 10-year and full bond curve",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827503,
-   "ts": "2026-10-29T14:10:31+00:00",
-   "ingested": "2026-10-29T15:32:21.124247+00:00",
-   "headline": "ECB President Lagarde: ECB will probably develop scenarios in December",
    "channel": "rss",
    "source": "financialjuice"
   }
