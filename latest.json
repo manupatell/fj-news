@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T15:58:29.874744+00:00",
+ "updated": "2026-10-31T16:01:49.871333+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830889,
+   "ts": "2026-10-31T16:01:38+00:00",
+   "ingested": "2026-10-31T16:01:49.870927+00:00",
+   "headline": "Turkey\u2019s President Erdogan: assaults on commercial ships in Black Sea unacceptable regardless of perpetrator",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830887,
+   "ts": "2026-10-31T16:00:27+00:00",
+   "ingested": "2026-10-31T16:01:49.870944+00:00",
+   "headline": "Turkey\u2019s President Erdogan: discussed navigation safety in Black Sea with Ukraine\u2019s Zelenskiy during meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830876,
    "ts": "2026-10-31T15:18:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T16:21:12+00:00",
    "ingested": "2026-10-29T16:22:29.679398+00:00",
    "headline": "Microsoft expects to raise about $25 bln in US bond sale - source. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827712,
-   "ts": "2026-10-29T16:20:16+00:00",
-   "ingested": "2026-10-29T16:22:29.679424+00:00",
-   "headline": "UK October year-ahead public inflation expectations 4.2% vs 4.5% in September - Citi/YouGov",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827711,
-   "ts": "2026-10-29T16:20:01+00:00",
-   "ingested": "2026-10-29T16:22:29.679444+00:00",
-   "headline": "UK October long-term public inflation expectations 4.0% vs 4.3% in September - Citi YouGov",
    "channel": "rss",
    "source": "financialjuice"
   }
