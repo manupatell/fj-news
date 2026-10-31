@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-31T17:26:49.895236+00:00",
+ "updated": "2026-10-31T17:36:49.900587+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830930,
+   "ts": "2026-10-31T17:35:14+00:00",
+   "ingested": "2026-10-31T17:36:49.900212+00:00",
+   "headline": "Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830922,
    "ts": "2026-10-31T16:56:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T17:54:41+00:00",
    "ingested": "2026-10-29T20:52:09.585853+00:00",
    "headline": "UKMTO receives report of incident in Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827835,
-   "ts": "2026-10-29T17:49:53+00:00",
-   "ingested": "2026-10-29T20:52:09.585868+00:00",
-   "headline": "Putin: We do not want a situation like that in the Strait of Hormuz to occur in Baltic Sea",
    "channel": "rss",
    "source": "financialjuice"
   }
