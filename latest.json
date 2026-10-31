@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-31T16:38:29.883759+00:00",
+ "updated": "2026-10-31T16:40:09.884705+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9830915,
+   "ts": "2026-10-31T16:39:31+00:00",
+   "ingested": "2026-10-31T16:40:09.884309+00:00",
+   "headline": "US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9830914,
+   "ts": "2026-10-31T16:38:45+00:00",
+   "ingested": "2026-10-31T16:40:09.884325+00:00",
+   "headline": "US Secretary of State Rubio: might consider inviting Zelenskiy to G20 leaders summit in December, but decision rests with President Trump",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9830913,
    "ts": "2026-10-31T16:36:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T17:33:04+00:00",
    "ingested": "2026-10-29T20:52:09.585947+00:00",
    "headline": "Iran's Parliament Speaker Ghalibaf: Iran's conditions have been repeatedly and clearly stated to the mediators",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827822,
-   "ts": "2026-10-29T17:32:29+00:00",
-   "ingested": "2026-10-29T20:52:09.585965+00:00",
-   "headline": "Exxon and Chevron cancel plans for their executives to travel to UAE's oil conference ADIPEC next week on security ground - two sources. $XOM $CVX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827802,
-   "ts": "2026-10-29T17:23:18+00:00",
-   "ingested": "2026-10-29T20:52:09.585976+00:00",
-   "headline": "WATCH LIVE: Trump Speaks at Rally",
    "channel": "rss",
    "source": "financialjuice"
   }
