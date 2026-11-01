@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-01T21:00:44.639652+00:00",
+ "updated": "2026-11-01T21:09:04.662811+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831631,
+   "ts": "2026-11-01T21:08:39+00:00",
+   "ingested": "2026-11-01T21:09:04.662571+00:00",
+   "headline": "North Korea says US-South Korea iron mace drill was nuclear war rehearsal targeting North Korea - KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831630,
+   "ts": "2026-11-01T21:08:18+00:00",
+   "ingested": "2026-11-01T21:09:04.662582+00:00",
+   "headline": "North Korea to accelerate bolstering nuclear war deterrent: KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831596,
    "ts": "2026-11-01T20:40:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T22:13:23+00:00",
    "ingested": "2026-10-30T00:35:22.279593+00:00",
    "headline": "Nasdaq futures drop 1.4%, S&P 500 eminis decline 0.6%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828186,
-   "ts": "2026-10-29T22:12:58+00:00",
-   "ingested": "2026-10-30T00:35:22.279603+00:00",
-   "headline": "Hosin Electronics sets maximum offer price under global offering at HK$82.90 per H share",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828185,
-   "ts": "2026-10-29T22:12:42+00:00",
-   "ingested": "2026-10-30T00:35:22.279614+00:00",
-   "headline": "Ganzhou Hemay Pharmaceutical: trading in H shares on Hong Kong stock exchange set to begin Nov. 9",
    "channel": "rss",
    "source": "financialjuice"
   }
