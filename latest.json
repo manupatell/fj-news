@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-01T18:07:02.520526+00:00",
+ "updated": "2026-11-01T18:10:22.529208+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831557,
+   "ts": "2026-11-01T18:09:18+00:00",
+   "ingested": "2026-11-01T18:10:22.528881+00:00",
+   "headline": "Ukmto: captain of merchant ship reports another vessel hit by unidentified projectile",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831556,
+   "ts": "2026-11-01T18:08:33+00:00",
+   "ingested": "2026-11-01T18:10:22.528893+00:00",
+   "headline": "UKMTO: reports incident in Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831551,
    "ts": "2026-11-01T17:45:56+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T22:06:49+00:00",
    "ingested": "2026-10-30T00:35:22.279687+00:00",
    "headline": "Suzhou Denglin Technology: dealings in H shares on stock exchange expected to start Nov. 10",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828176,
-   "ts": "2026-10-29T22:06:19+00:00",
-   "ingested": "2026-10-30T00:35:22.279696+00:00",
-   "headline": "Suzhou Denglin Technology Co: global offering 6.1 million H shares",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828175,
-   "ts": "2026-10-29T22:05:55+00:00",
-   "ingested": "2026-10-30T00:35:22.279705+00:00",
-   "headline": "Suzhou Denglin Technology Co launches global offering",
    "channel": "rss",
    "source": "financialjuice"
   }
