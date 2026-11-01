@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T13:11:42.790254+00:00",
+ "updated": "2026-11-01T13:13:22.792409+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831456,
+   "ts": "2026-11-01T13:11:40+00:00",
+   "ingested": "2026-11-01T13:13:22.791956+00:00",
+   "headline": "Iran's Foreign Minister Aragchi on talks with Qatari mediators: negotiations ongoing and advancing, no definitive conclusion reached yet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831455,
    "ts": "2026-11-01T13:10:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T20:14:54+00:00",
    "ingested": "2026-10-29T20:52:09.585501+00:00",
    "headline": "AMZN & INTC Earnings Disappoint",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828003,
-   "ts": "2026-10-29T20:12:33+00:00",
-   "ingested": "2026-10-29T20:52:09.585519+00:00",
-   "headline": "$COIN Coinbase Q3 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
