@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T06:42:47.501874+00:00",
+ "updated": "2026-11-01T06:51:07.503664+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831280,
+   "ts": "2026-11-01T06:50:34+00:00",
+   "ingested": "2026-11-01T06:51:07.503290+00:00",
+   "headline": "Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831069,
    "ts": "2026-11-01T00:00:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T19:52:43+00:00",
    "ingested": "2026-10-29T20:52:09.585668+00:00",
    "headline": "Yemen's Houthis attacked the Aramco facility in Abqaiq - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827982,
-   "ts": "2026-10-29T19:51:28+00:00",
-   "ingested": "2026-10-29T20:52:09.585682+00:00",
-   "headline": "Yemen's Houthis attacked Saudi Arabia's Ras Tanura oil refinery - Statement.",
    "channel": "rss",
    "source": "financialjuice"
   }
