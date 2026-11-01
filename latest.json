@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T11:05:02.777812+00:00",
+ "updated": "2026-11-01T11:11:42.753358+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831373,
+   "ts": "2026-11-01T11:09:54+00:00",
+   "ingested": "2026-11-01T11:11:42.752905+00:00",
+   "headline": "Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831358,
    "ts": "2026-11-01T10:33:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T20:01:02+00:00",
    "ingested": "2026-10-29T20:52:09.585602+00:00",
    "headline": "OpenAI: We are substantially expanding monitoring of frontier agents.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827987,
-   "ts": "2026-10-29T19:59:00+00:00",
-   "ingested": "2026-10-29T20:52:09.585619+00:00",
-   "headline": "US Energy Department: Five companies are taking US SPR oil loans, including Trafigura, Gunvor, and Vitol.",
    "channel": "rss",
    "source": "financialjuice"
   }
