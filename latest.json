@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T12:25:02.786679+00:00",
+ "updated": "2026-11-01T12:26:42.782556+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831435,
+   "ts": "2026-11-01T12:26:08+00:00",
+   "ingested": "2026-11-01T12:26:42.782144+00:00",
+   "headline": "OPEC+ keeps oil output quotas unchanged for December at Sunday meeting: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831434,
    "ts": "2026-11-01T12:23:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T20:03:29+00:00",
    "ingested": "2026-10-29T20:52:09.585550+00:00",
    "headline": "\n$RIVN Rivian Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828000,
-   "ts": "2026-10-29T20:02:48+00:00",
-   "ingested": "2026-10-29T20:52:09.585569+00:00",
-   "headline": "$INTC Intel Q3 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
