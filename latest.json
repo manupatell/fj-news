@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-31T23:53:41.335712+00:00",
+ "updated": "2026-11-01T00:00:21.342574+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831069,
+   "ts": "2026-11-01T00:00:03+00:00",
+   "ingested": "2026-11-01T00:00:21.342158+00:00",
+   "headline": "S.Korea Oct trade surplus provisional $42.50 billion vs $49.97 billion in Sept",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831068,
+   "ts": "2026-11-01T00:00:03+00:00",
+   "ingested": "2026-11-01T00:00:21.342174+00:00",
+   "headline": "S. Korea October imports rise 36.0% y/y, below poll of 39.9%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831067,
+   "ts": "2026-11-01T00:00:03+00:00",
+   "ingested": "2026-11-01T00:00:21.342186+00:00",
+   "headline": "S.Korea Oct exports rise 93.7% y/y, beating poll of 93.2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831020,
    "ts": "2026-10-31T21:28:48+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-29T19:51:28+00:00",
    "ingested": "2026-10-29T20:52:09.585682+00:00",
    "headline": "Yemen's Houthis attacked Saudi Arabia's Ras Tanura oil refinery - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827935,
-   "ts": "2026-10-29T19:13:50+00:00",
-   "ingested": "2026-10-29T20:52:09.585699+00:00",
-   "headline": "Top Admiral briefs Trump on Iran attack options - WSJ.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827909,
-   "ts": "2026-10-29T18:54:22+00:00",
-   "ingested": "2026-10-29T20:52:09.585713+00:00",
-   "headline": "Trump: The US economy is booming at 3.4% GDP - Truth Social.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827908,
-   "ts": "2026-10-29T18:51:36+00:00",
-   "ingested": "2026-10-29T20:52:09.585735+00:00",
-   "headline": "NVIDIA CEO Addresses espionage story about customer Megaspeed: Ties to firm under spying probe were \u2018normal\u2019. Megaspeed didn\u2019t divert its chips to China. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
