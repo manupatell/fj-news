@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T12:01:42.767044+00:00",
+ "updated": "2026-11-01T12:11:42.775674+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831417,
+   "ts": "2026-11-01T12:10:38+00:00",
+   "ingested": "2026-11-01T12:11:42.775233+00:00",
+   "headline": "Kremlin: positive assessment of humanitarian operation in Oleshky and coordination between Russian and Ukrainian ombudsmen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831373,
    "ts": "2026-11-01T11:09:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T20:01:59+00:00",
    "ingested": "2026-10-29T20:52:09.585583+00:00",
    "headline": "$AMZN Amazon Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827991,
-   "ts": "2026-10-29T20:01:02+00:00",
-   "ingested": "2026-10-29T20:52:09.585602+00:00",
-   "headline": "OpenAI: We are substantially expanding monitoring of frontier agents.",
    "channel": "rss",
    "source": "financialjuice"
   }
