@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T15:48:42.490833+00:00",
+ "updated": "2026-11-01T15:52:02.571419+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831502,
+   "ts": "2026-11-01T15:50:23+00:00",
+   "ingested": "2026-11-01T15:52:02.571189+00:00",
+   "headline": "Saudi-led coalition: intercepted and destroyed drone launched by Yemen's Houthis toward southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831501,
    "ts": "2026-11-01T15:48:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T21:21:16+00:00",
    "ingested": "2026-10-30T00:35:22.279750+00:00",
    "headline": "Circle CEO: 800 million USDC linked to incident frozen as support for investigation continues",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828120,
-   "ts": "2026-10-29T21:20:56+00:00",
-   "ingested": "2026-10-30T00:35:22.279761+00:00",
-   "headline": "IAEA: informed of drone attack killing Zaporizhzhya nuclear power plant employee today",
    "channel": "rss",
    "source": "financialjuice"
   }
