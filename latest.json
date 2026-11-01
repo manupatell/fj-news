@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T15:20:22.471476+00:00",
+ "updated": "2026-11-01T15:22:02.467343+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831495,
+   "ts": "2026-11-01T15:20:50+00:00",
+   "ingested": "2026-11-01T15:22:02.467044+00:00",
+   "headline": "Saudi civil defense issues warning of possible threat in Abha and Khamis Mushait",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831472,
    "ts": "2026-11-01T14:18:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T21:11:16+00:00",
    "ingested": "2026-10-30T00:35:22.279783+00:00",
    "headline": "N. Korea Leader Kim Jong Un calls for scientists to advance drone and AI defense alongside nuclear, conventional weapons progress - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828084,
-   "ts": "2026-10-29T21:09:40+00:00",
-   "ingested": "2026-10-30T00:35:22.279793+00:00",
-   "headline": "North Korea leader Kim Jong Un calls for absolute superiority in drone technology - KCNA",
    "channel": "rss",
    "source": "financialjuice"
   }
