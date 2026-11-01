@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T07:31:07.517970+00:00",
+ "updated": "2026-11-01T07:41:07.528492+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831292,
+   "ts": "2026-11-01T07:39:48+00:00",
+   "ingested": "2026-11-01T07:41:07.528027+00:00",
+   "headline": "Russian investigators open criminal case on terrorism over attack on industrial site in Nizhny Novgorod region: TASS cites investigative committee",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831280,
    "ts": "2026-11-01T06:50:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T19:53:43+00:00",
    "ingested": "2026-10-29T20:52:09.585652+00:00",
    "headline": "Yemen's Houthis attacked Saudi Arabia's Rabigh oil refinery - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827983,
-   "ts": "2026-10-29T19:52:43+00:00",
-   "ingested": "2026-10-29T20:52:09.585668+00:00",
-   "headline": "Yemen's Houthis attacked the Aramco facility in Abqaiq - Statement.",
    "channel": "rss",
    "source": "financialjuice"
   }
