@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T09:40:02.724813+00:00",
+ "updated": "2026-11-01T09:48:22.722274+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831322,
+   "ts": "2026-11-01T09:46:28+00:00",
+   "ingested": "2026-11-01T09:48:22.721889+00:00",
+   "headline": "Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831292,
    "ts": "2026-11-01T07:39:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T19:58:01+00:00",
    "ingested": "2026-10-29T20:52:09.585636+00:00",
    "headline": "US Energy Department: Companies are to borrow 16.75 mln barrels of crude oil from the SPR out of 17 mln barrels offered.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827984,
-   "ts": "2026-10-29T19:53:43+00:00",
-   "ingested": "2026-10-29T20:52:09.585652+00:00",
-   "headline": "Yemen's Houthis attacked Saudi Arabia's Rabigh oil refinery - Statement.",
    "channel": "rss",
    "source": "financialjuice"
   }
