@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T17:33:42.578723+00:00",
+ "updated": "2026-11-01T17:38:42.532669+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831543,
+   "ts": "2026-11-01T17:37:05+00:00",
+   "ingested": "2026-11-01T17:38:42.532308+00:00",
+   "headline": "Democratic Senator Chris Murphy hospitalized after stroke: senator's chief of staff",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831542,
    "ts": "2026-11-01T17:33:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T21:23:50+00:00",
    "ingested": "2026-10-30T00:35:22.279726+00:00",
    "headline": "Los Angeles County official subpoenaed in Trump administration inquiry into alleged noncitizen voting: spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828122,
-   "ts": "2026-10-29T21:21:23+00:00",
-   "ingested": "2026-10-30T00:35:22.279737+00:00",
-   "headline": "Federal Communications Commission to vote on blocking Chinese telecom firms from direct US phone number access",
    "channel": "rss",
    "source": "financialjuice"
   }
