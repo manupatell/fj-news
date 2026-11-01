@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T10:28:22.740518+00:00",
+ "updated": "2026-11-01T10:35:02.741418+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831358,
+   "ts": "2026-11-01T10:33:37+00:00",
+   "ingested": "2026-11-01T10:35:02.741068+00:00",
+   "headline": "Zelenskiy: Ukraine strikes Kamensky plant in Russia\u2019s Rostov region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831322,
    "ts": "2026-11-01T09:46:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T19:59:00+00:00",
    "ingested": "2026-10-29T20:52:09.585619+00:00",
    "headline": "US Energy Department: Five companies are taking US SPR oil loans, including Trafigura, Gunvor, and Vitol.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827986,
-   "ts": "2026-10-29T19:58:01+00:00",
-   "ingested": "2026-10-29T20:52:09.585636+00:00",
-   "headline": "US Energy Department: Companies are to borrow 16.75 mln barrels of crude oil from the SPR out of 17 mln barrels offered.",
    "channel": "rss",
    "source": "financialjuice"
   }
