@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T17:40:22.541031+00:00",
+ "updated": "2026-11-01T17:47:02.551479+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831551,
+   "ts": "2026-11-01T17:45:56+00:00",
+   "ingested": "2026-11-01T17:47:02.551149+00:00",
+   "headline": "US judge rejects Trump administration's early legal challenge to Alaska Senate race",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831544,
    "ts": "2026-11-01T17:40:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T22:05:55+00:00",
    "ingested": "2026-10-30T00:35:22.279705+00:00",
    "headline": "Suzhou Denglin Technology Co launches global offering",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828124,
-   "ts": "2026-10-29T21:26:27+00:00",
-   "ingested": "2026-10-30T00:35:22.279716+00:00",
-   "headline": "Tether CEO: Tether froze over $1.567 billion USDT linked to possible Binance exchange hack",
    "channel": "rss",
    "source": "financialjuice"
   }
