@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T07:01:07.504222+00:00",
+ "updated": "2026-11-02T07:06:07.355959+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832145,
+   "ts": "2026-11-02T07:01:47+00:00",
+   "ingested": "2026-11-02T07:06:07.355660+00:00",
+   "headline": "German Real Retail Sales YoY Actual -2.3% (Forecast -, Previous -0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832144,
    "ts": "2026-11-02T07:00:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:08:31+00:00",
    "ingested": "2026-10-30T06:26:50.966560+00:00",
    "headline": "BOJ on risks: price pass-through in B2B transactions from high crude oil costs, AI-driven demand, forex likely to push consumer prices higher",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828624,
-   "ts": "2026-10-30T03:08:23+00:00",
-   "ingested": "2026-10-30T06:26:50.966575+00:00",
-   "headline": "boj: it would take about 43 years to finish sales of etf holdings vs previous around 112 years",
    "channel": "rss",
    "source": "financialjuice"
   }
