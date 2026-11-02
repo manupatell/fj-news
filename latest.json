@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T00:26:04.694874+00:00",
+ "updated": "2026-11-02T00:27:44.695294+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831695,
+   "ts": "2026-11-02T00:26:54+00:00",
+   "ingested": "2026-11-02T00:27:44.695015+00:00",
+   "headline": "Mobile app hacking leads to spread of fake news, Russian newswires quote ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831694,
    "ts": "2026-11-02T00:24:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T22:24:10+00:00",
    "ingested": "2026-10-30T00:35:22.279534+00:00",
    "headline": "Saudi-led coalition: intercepted cruise missile fired by Yemen's Houthis toward kingdom\u2019s western region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828200,
-   "ts": "2026-10-29T22:20:47+00:00",
-   "ingested": "2026-10-30T00:35:22.279546+00:00",
-   "headline": "Codelco: to terminate employment of eight executives and professionals from Chuquicamata, Ministro Hales, Salvador divisions and corporate headquarters",
    "channel": "rss",
    "source": "financialjuice"
   }
