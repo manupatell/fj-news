@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T05:06:07.312471+00:00",
+ "updated": "2026-11-02T05:07:47.361831+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832005,
+   "ts": "2026-11-02T05:06:35+00:00",
+   "ingested": "2026-11-02T05:07:47.361453+00:00",
+   "headline": "BOJ: central bank is scrutinising asset price moves, such as stocks and FX, in assessing Japan's financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832004,
    "ts": "2026-11-02T05:05:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:02:18+00:00",
    "ingested": "2026-10-30T06:26:50.967032+00:00",
    "headline": "BOJ: underlying inflation has hit levels in line with price target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828590,
-   "ts": "2026-10-30T03:02:16+00:00",
-   "ingested": "2026-10-30T06:26:50.967044+00:00",
-   "headline": "BOJ sets rate policy with 8-1 vote",
    "channel": "rss",
    "source": "financialjuice"
   }
