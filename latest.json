@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T15:14:25.410758+00:00",
+ "updated": "2026-11-02T15:19:25.370902+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832857,
+   "ts": "2026-11-02T15:18:34+00:00",
+   "ingested": "2026-11-02T15:19:25.370304+00:00",
+   "headline": "ECB's Escriva: High complexity on the rates scenario",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832856,
+   "ts": "2026-11-02T15:18:10+00:00",
+   "ingested": "2026-11-02T15:19:25.370329+00:00",
+   "headline": "Crypto Fear and Greed Index: 37/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832823,
    "ts": "2026-11-02T15:13:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T09:07:32+00:00",
    "ingested": "2026-10-30T10:30:48.855135+00:00",
    "headline": "Nordea: US Debt - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829112,
-   "ts": "2026-10-30T09:07:27+00:00",
-   "ingested": "2026-10-30T10:30:48.855151+00:00",
-   "headline": "North Rhine CPI MoM Actual -0.2% (Forecast -, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829113,
-   "ts": "2026-10-30T09:06:33+00:00",
-   "ingested": "2026-10-30T10:30:48.855164+00:00",
-   "headline": "Credit \u00c1gricole: The JPY - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
