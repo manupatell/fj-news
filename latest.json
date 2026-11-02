@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:19:05.386819+00:00",
+ "updated": "2026-11-02T14:19:35.384989+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832732,
+   "ts": "2026-11-02T14:18:56+00:00",
+   "ingested": "2026-11-02T14:19:35.384583+00:00",
+   "headline": "Iran FM Araghchi: Ready to Work With US if It Chooses Honest Diplomacy; Deception, Military Operations Will Face Harsher Response Than Before",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832731,
    "ts": "2026-11-02T14:18:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T07:53:19+00:00",
    "ingested": "2026-10-30T10:30:48.855576+00:00",
    "headline": "ECB's Dolenc: Inflation could remain above 2% in coming years.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828973,
-   "ts": "2026-10-30T07:53:04+00:00",
-   "ingested": "2026-10-30T10:30:48.855589+00:00",
-   "headline": "ECB's Dolenc: Higher energy prices risk more persistent inflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
