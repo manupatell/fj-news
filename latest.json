@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-02T22:51:04.327771+00:00",
+ "updated": "2026-11-02T23:01:04.369006+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833435,
+   "ts": "2026-11-02T23:00:29+00:00",
+   "ingested": "2026-11-02T23:01:04.368446+00:00",
+   "headline": "OpenAI recruits ex-US Army secretary Dan Driscoll - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833431,
+   "ts": "2026-11-02T23:00:09+00:00",
+   "ingested": "2026-11-02T23:01:04.368472+00:00",
+   "headline": "US officials to meet this week in Brussels with France, Germany, UK, EU and NATO reps to discuss Ukraine: senior US official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833430,
+   "ts": "2026-11-02T23:00:07+00:00",
+   "ingested": "2026-11-02T23:01:04.368492+00:00",
+   "headline": "S.Korea Oct consumer price index rises 0.2% m/m, below poll of 0.25%: stats office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833429,
+   "ts": "2026-11-02T23:00:04+00:00",
+   "ingested": "2026-11-02T23:01:04.368508+00:00",
+   "headline": "S.Korea oct consumer price index rises 2.8% y/y: stats office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833428,
+   "ts": "2026-11-02T23:00:04+00:00",
+   "ingested": "2026-11-02T23:01:04.368524+00:00",
+   "headline": "Trilateral talks to address ending war, post-war security pacts, de-escalation, aid measures: senior US official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833427,
+   "ts": "2026-11-02T23:00:04+00:00",
+   "ingested": "2026-11-02T23:01:04.368540+00:00",
+   "headline": "S.Korea Oct core CPI rises 2.8% y/y vs 2.8% in Sept: stats office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833426,
+   "ts": "2026-11-02T23:00:04+00:00",
+   "ingested": "2026-11-02T23:01:04.368555+00:00",
+   "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi on Nov. 10-11: senior US official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833425,
+   "ts": "2026-11-02T23:00:01+00:00",
+   "ingested": "2026-11-02T23:01:04.368570+00:00",
+   "headline": "S. Korean CPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.30%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833424,
+   "ts": "2026-11-02T23:00:00+00:00",
+   "ingested": "2026-11-02T23:01:04.368583+00:00",
+   "headline": "S. Korean CPI YoY Actual 2.8% (Forecast 2.8%, Previous 2.90%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833423,
    "ts": "2026-11-02T22:50:24+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-10-30T14:14:54+00:00",
    "ingested": "2026-10-30T14:16:02.470440+00:00",
    "headline": "Major banks raise 1Q27 Brent price forecast, WSJ survey finds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829663,
-   "ts": "2026-10-30T14:14:42+00:00",
-   "ingested": "2026-10-30T14:16:02.470460+00:00",
-   "headline": "Major banks raise 2026 oil price forecast, WSJ survey finds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829662,
-   "ts": "2026-10-30T14:13:15+00:00",
-   "ingested": "2026-10-30T14:14:22.436236+00:00",
-   "headline": "Exxon CEO expects global refining capacity could begin to recover next year but may take longer.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829661,
-   "ts": "2026-10-30T14:12:28+00:00",
-   "ingested": "2026-10-30T14:12:42.417380+00:00",
-   "headline": "Exxon estimates half of Russia's refining capacity is offline.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829660,
-   "ts": "2026-10-30T14:02:20+00:00",
-   "ingested": "2026-10-30T14:02:42.483466+00:00",
-   "headline": "China commerce ministry: if US continues, China will implement additional necessary countermeasures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829659,
-   "ts": "2026-10-30T14:02:19+00:00",
-   "ingested": "2026-10-30T14:02:42.483495+00:00",
-   "headline": "China commerce ministry: Beijing had repeatedly suggested talks on bilateral mutual recognition pact, US stance \u2018extremely negative\u2019",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829657,
-   "ts": "2026-10-30T14:01:45+00:00",
-   "ingested": "2026-10-30T14:02:42.483513+00:00",
-   "headline": "China commerce ministry: FCC action breaches key consensus reached by two heads of state - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829656,
-   "ts": "2026-10-30T14:01:29+00:00",
-   "ingested": "2026-10-30T14:02:42.483532+00:00",
-   "headline": "China Commerce Ministry, on US FCC China lab testing ban: Strongly dissatisfied with, firmly opposes fcc vote on testing lab restrictions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829641,
-   "ts": "2026-10-30T13:59:36+00:00",
-   "ingested": "2026-10-30T14:01:02.455778+00:00",
-   "headline": "Strike notice at French utility EDF to start Wednesday at 2100 CET and finish Thursday at 2100 CET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829640,
-   "ts": "2026-10-30T13:50:36+00:00",
-   "ingested": "2026-10-30T13:51:02.450916+00:00",
-   "headline": "Chevron CEO Wirth: Sees elevated prices for both crude oil and for refined products around the world - CNBC.",
    "channel": "rss",
    "source": "financialjuice"
   }
