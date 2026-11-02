@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:45:15.391605+00:00",
+ "updated": "2026-11-02T14:47:15.396663+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832766,
+   "ts": "2026-11-02T14:46:11+00:00",
+   "ingested": "2026-11-02T14:47:15.396204+00:00",
+   "headline": "Explosion in the British Embassy in Baghdad - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832761,
    "ts": "2026-11-02T14:45:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T08:54:24+00:00",
    "ingested": "2026-10-30T10:30:48.855352+00:00",
    "headline": "Japan's Fin. Min. Katayama: Will consider specific amount and how to handle surplus arising from BoJ's ETF sale in budget formulation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829070,
-   "ts": "2026-10-30T08:49:01+00:00",
-   "ingested": "2026-10-30T10:30:48.855365+00:00",
-   "headline": "ECB's Rehn: Need to remain vigilant on second round effects.",
    "channel": "rss",
    "source": "financialjuice"
   }
