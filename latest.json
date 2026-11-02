@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T14:19:35.384989+00:00",
+ "updated": "2026-11-02T14:21:25.363718+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832734,
+   "ts": "2026-11-02T14:20:46+00:00",
+   "ingested": "2026-11-02T14:21:25.363258+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: Tehran's conditions for reopening the Strait of Hormuz are clear, if accepted, the Strait will be opened and negotiations will resume; otherwise, the current situation will continue, and Iran will not bow down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832733,
+   "ts": "2026-11-02T14:20:23+00:00",
+   "ingested": "2026-11-02T14:21:25.363311+00:00",
+   "headline": "US Sentiment: Geopolitical Optimism Helps Tech Pare Losses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832732,
    "ts": "2026-11-02T14:18:56+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T08:00:00+00:00",
    "ingested": "2026-10-30T10:30:48.855551+00:00",
    "headline": "Spanish HICP YoY Flash  Actual 4.9% (Forecast 4.9%, Previous 5.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828975,
-   "ts": "2026-10-30T08:00:00+00:00",
-   "ingested": "2026-10-30T10:30:48.855564+00:00",
-   "headline": "Spanish HICP MoM Flash  Actual 0.5% (Forecast 0.5%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828974,
-   "ts": "2026-10-30T07:53:19+00:00",
-   "ingested": "2026-10-30T10:30:48.855576+00:00",
-   "headline": "ECB's Dolenc: Inflation could remain above 2% in coming years.",
    "channel": "rss",
    "source": "financialjuice"
   }
