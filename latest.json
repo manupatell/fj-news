@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T13:38:25.338171+00:00",
+ "updated": "2026-11-02T13:46:45.350433+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832671,
+   "ts": "2026-11-02T13:45:47+00:00",
+   "ingested": "2026-11-02T13:46:45.349968+00:00",
+   "headline": "China's Foreign Minister urges safeguarding regional energy and shipping lane security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832661,
+   "ts": "2026-11-02T13:45:08+00:00",
+   "ingested": "2026-11-02T13:46:45.349992+00:00",
+   "headline": "China's Foreign Minister to Saudi National Security Advisor: Hopes all parties resolve disputes and end hostilities through dialogue and negotiation - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832658,
    "ts": "2026-11-02T13:36:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T07:45:00+00:00",
    "ingested": "2026-10-30T10:30:48.855694+00:00",
    "headline": "French PPI MoM Actual 1.7% (Forecast -, Previous 1.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828950,
-   "ts": "2026-10-30T07:35:25+00:00",
-   "ingested": "2026-10-30T10:30:48.855707+00:00",
-   "headline": "BoJ's Governor Ueda: We are closely watching springtime wage hike talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828891,
-   "ts": "2026-10-30T07:02:16+00:00",
-   "ingested": "2026-10-30T10:30:48.855770+00:00",
-   "headline": "Currency Strength Chart: Strongest: CAD, GBP, CHF, AUD, JPY, USD, NZD, EUR - Weakest",
    "channel": "rss",
    "source": "financialjuice"
   }
