@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T05:07:47.361831+00:00",
+ "updated": "2026-11-02T05:09:27.320181+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832006,
+   "ts": "2026-11-02T05:07:50+00:00",
+   "ingested": "2026-11-02T05:09:27.319802+00:00",
+   "headline": "BOJ: bank will consider various data, surveys in evaluating Japan's financial environment rather than depend on single indicator",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832005,
    "ts": "2026-11-02T05:06:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:02:19+00:00",
    "ingested": "2026-10-30T06:26:50.967019+00:00",
    "headline": "Oklahoma board: real GDP fiscal 2026 median forecast at +0.7% vs +0.6% in July",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828591,
-   "ts": "2026-10-30T03:02:18+00:00",
-   "ingested": "2026-10-30T06:26:50.967032+00:00",
-   "headline": "BOJ: underlying inflation has hit levels in line with price target",
    "channel": "rss",
    "source": "financialjuice"
   }
