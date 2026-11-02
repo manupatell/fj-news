@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T10:21:21.268377+00:00",
+ "updated": "2026-11-02T10:29:41.280347+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832408,
+   "ts": "2026-11-02T10:28:58+00:00",
+   "ingested": "2026-11-02T10:29:41.279985+00:00",
+   "headline": "Spacex discussed starting wireless service with Echostar - Wapo",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832407,
    "ts": "2026-11-02T10:19:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T05:52:17+00:00",
    "ingested": "2026-10-30T06:26:50.966065+00:00",
    "headline": "Russian human rights commissioner: ceasefire stable in humanitarian operation zone in russian-controlled Oleshky",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828782,
-   "ts": "2026-10-30T05:34:17+00:00",
-   "ingested": "2026-10-30T06:26:50.966080+00:00",
-   "headline": "Ukraine, Russia human rights commissioners meet in Russian-held Oleshky, footage by Russian state TV Vesti",
    "channel": "rss",
    "source": "financialjuice"
   }
