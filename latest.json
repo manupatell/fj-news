@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T11:34:41.343231+00:00",
+ "updated": "2026-11-02T11:41:21.282026+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832512,
+   "ts": "2026-11-02T11:40:14+00:00",
+   "ingested": "2026-11-02T11:41:21.281651+00:00",
+   "headline": "Totalenergies CEO sees no gas shortage in Europe this Winter.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832511,
    "ts": "2026-11-02T11:33:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:30:00+00:00",
    "ingested": "2026-10-30T10:30:48.856054+00:00",
    "headline": "French GDP YoY Prelim Actual -0.1% (Forecast 0.3%, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828825,
-   "ts": "2026-10-30T06:30:00+00:00",
-   "ingested": "2026-10-30T10:30:48.856068+00:00",
-   "headline": "French GDP QoQ Prelim Actual -0.1% (Forecast 0.1%, Previous 0.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
