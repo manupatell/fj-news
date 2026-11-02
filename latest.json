@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T02:54:07.263371+00:00",
+ "updated": "2026-11-02T03:04:07.270811+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831917,
+   "ts": "2026-11-02T03:03:46+00:00",
+   "ingested": "2026-11-02T03:04:07.270403+00:00",
+   "headline": "China's Xi meets Sultan of Oman in Beijing: Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831896,
    "ts": "2026-11-02T02:42:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T01:10:35+00:00",
    "ingested": "2026-10-30T06:26:50.967231+00:00",
    "headline": "Germany\u2019s Chancellor Merz: as free trade and rules-based order come under pressure, the EU will lead in shaping a stronger offer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828359,
-   "ts": "2026-10-30T00:31:49+00:00",
-   "ingested": "2026-10-30T06:26:50.967244+00:00",
-   "headline": "Australian Housing Credit Actual 0.4% (Forecast -, Previous 0.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
