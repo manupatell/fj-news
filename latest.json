@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:26:15.391772+00:00",
+ "updated": "2026-11-02T14:28:15.369056+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832736,
+   "ts": "2026-11-02T14:27:37+00:00",
+   "ingested": "2026-11-02T14:28:15.368636+00:00",
+   "headline": "Anthropic 9M revenue $33.2B; Q3 net loss $23.3 billion vs $12.1 billion Y/Y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832735,
    "ts": "2026-11-02T14:25:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T08:00:00+00:00",
    "ingested": "2026-10-30T10:30:48.855527+00:00",
    "headline": "Swiss KOF Indicator Actual 107.6 (Forecast 108.1, Previous 109.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828977,
-   "ts": "2026-10-30T08:00:00+00:00",
-   "ingested": "2026-10-30T10:30:48.855539+00:00",
-   "headline": "Spanish CPI MoM Flash Actual 0.6% (Forecast 0.7%, Previous 0.30%)",
    "channel": "rss",
    "source": "financialjuice"
   }
