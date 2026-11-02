@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T19:35:24.252953+00:00",
+ "updated": "2026-11-02T19:36:04.227738+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833204,
+   "ts": "2026-11-02T19:35:48+00:00",
+   "ingested": "2026-11-02T19:36:04.227365+00:00",
+   "headline": "Trump to Axios: No rush to decide on restarting war in Iran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833203,
    "ts": "2026-11-02T19:33:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T12:22:32+00:00",
    "ingested": "2026-10-30T12:24:22.389424+00:00",
    "headline": "IRIB News: A super tanker exploded an hour ago after hitting a sea mine on the unauthorized route of the Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829453,
-   "ts": "2026-10-30T12:16:34+00:00",
-   "ingested": "2026-10-30T12:17:42.416257+00:00",
-   "headline": "Exxon CEO: Diesel is key \u2018crunch point\u2019.",
    "channel": "rss",
    "source": "financialjuice"
   }
