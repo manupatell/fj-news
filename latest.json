@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T00:44:24.709012+00:00",
+ "updated": "2026-11-02T00:46:04.727316+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831721,
+   "ts": "2026-11-02T00:45:40+00:00",
+   "ingested": "2026-11-02T00:46:04.727011+00:00",
+   "headline": "Japan finmin Katayama: declines to comment on particular fx levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831719,
+   "ts": "2026-11-02T00:45:13+00:00",
+   "ingested": "2026-11-02T00:46:04.727024+00:00",
+   "headline": "Japan finmin Katayama: joint fx statement with U.S. persists, will act against disorderly moves",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831718,
    "ts": "2026-11-02T00:43:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-29T23:30:07+00:00",
    "ingested": "2026-10-30T00:35:22.279400+00:00",
    "headline": "Japan Sept seasonally adjusted unemployment rate 2.4%: government (Poll: 2.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828290,
-   "ts": "2026-10-29T23:30:04+00:00",
-   "ingested": "2026-10-30T00:35:22.279413+00:00",
-   "headline": "Japan Sept jobs-applicants ratio climbs to 1.19 from 1.18 in August - govt (Poll: 1.18)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828289,
-   "ts": "2026-10-29T23:30:04+00:00",
-   "ingested": "2026-10-30T00:35:22.279423+00:00",
-   "headline": "Japanese Unemployment Rate Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
