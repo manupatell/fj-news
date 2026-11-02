@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-02T22:27:44.311276+00:00",
+ "updated": "2026-11-02T22:29:24.333275+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833400,
+   "ts": "2026-11-02T22:28:44+00:00",
+   "ingested": "2026-11-02T22:29:24.332873+00:00",
+   "headline": "Apple gross margin forecast factors in memory chip expenses, Siri AI costs: CFO on conference call",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833398,
+   "ts": "2026-11-02T22:28:24+00:00",
+   "ingested": "2026-11-02T22:29:24.332896+00:00",
+   "headline": "Apple expects 45% to 46% gross margin in fiscal first quarter: CFO on conference call",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833397,
+   "ts": "2026-11-02T22:27:53+00:00",
+   "ingested": "2026-11-02T22:29:24.332915+00:00",
+   "headline": "Apple expects 7-10% full company revenue growth in first quarter: CFO on conference call",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833396,
    "ts": "2026-11-02T22:27:17+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-30T13:42:57+00:00",
    "ingested": "2026-10-30T13:44:22.436509+00:00",
    "headline": "Fed's Barkin: Business owners say demand remains solid, with only weakness among non-profits and in the housing sector",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829612,
-   "ts": "2026-10-30T13:42:42+00:00",
-   "ingested": "2026-10-30T13:44:22.436526+00:00",
-   "headline": "BofA global research cuts intel to neutral from buy; cuts price objective to $100 from $145. $INTC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829611,
-   "ts": "2026-10-30T13:39:31+00:00",
-   "ingested": "2026-10-30T13:41:02.442215+00:00",
-   "headline": "Fed's Barkin: AI investment is leading to demand side inflation, which is the kind of thing the fed can lean against.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829610,
-   "ts": "2026-10-30T13:38:58+00:00",
-   "ingested": "2026-10-30T13:39:22.434570+00:00",
-   "headline": "Barkin: The AI investment surge has pressured supply chains, and that is inflationary.",
    "channel": "rss",
    "source": "financialjuice"
   }
