@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T13:31:45.333211+00:00",
+ "updated": "2026-11-02T13:36:45.331567+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832657,
+   "ts": "2026-11-02T13:35:19+00:00",
+   "ingested": "2026-11-02T13:36:45.331179+00:00",
+   "headline": "Moody's affirms Oracle's Baa2 rating on new note offering; outlook remains negative $ORCL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832648,
    "ts": "2026-11-02T13:30:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T07:00:03+00:00",
    "ingested": "2026-10-30T10:30:48.855784+00:00",
    "headline": "German Imports Prices MoM Actual 2.1% (Forecast 2%, Previous 1.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828861,
-   "ts": "2026-10-30T07:00:03+00:00",
-   "ingested": "2026-10-30T10:30:48.855797+00:00",
-   "headline": "German Import Prices YoY Actual 10.4% (Forecast 10.3%, Previous 8.3%)",
    "channel": "rss",
    "source": "financialjuice"
   }
