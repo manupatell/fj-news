@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T14:40:05.383530+00:00",
+ "updated": "2026-11-02T14:41:55.359542+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832759,
+   "ts": "2026-11-02T14:41:44+00:00",
+   "ingested": "2026-11-02T14:41:55.359077+00:00",
+   "headline": "Bank of America: AI Capex and Tighter Financial Conditions Drive Cautious Market Tone - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832758,
+   "ts": "2026-11-02T14:41:12+00:00",
+   "ingested": "2026-11-02T14:41:55.359098+00:00",
+   "headline": "Anthropic raises Google Cloud spend commitment to $121.3b $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832757,
    "ts": "2026-11-02T14:39:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T08:48:06+00:00",
    "ingested": "2026-10-30T10:30:48.855377+00:00",
    "headline": "ECB's Rehn: Risks of higher inflation clearly remain elevated.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829052,
-   "ts": "2026-10-30T08:45:36+00:00",
-   "ingested": "2026-10-30T10:30:48.855388+00:00",
-   "headline": "ECB's Rehn: Outlook for growth, inflation still very uncertain.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829046,
-   "ts": "2026-10-30T08:41:19+00:00",
-   "ingested": "2026-10-30T10:30:48.855405+00:00",
-   "headline": "Saxony CPI YoY Actual 2.8% (Forecast -, Previous 3.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
