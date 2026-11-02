@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T05:39:27.320539+00:00",
+ "updated": "2026-11-02T05:42:47.318812+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832040,
+   "ts": "2026-11-02T05:41:42+00:00",
+   "ingested": "2026-11-02T05:42:47.318520+00:00",
+   "headline": "Emergency power outages introduced in Kyiv and region: energy provider DTEK",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832006,
    "ts": "2026-11-02T05:07:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:02:25+00:00",
    "ingested": "2026-10-30T06:26:50.967005+00:00",
    "headline": "BOJ board member Takata dissented on rate decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828592,
-   "ts": "2026-10-30T03:02:19+00:00",
-   "ingested": "2026-10-30T06:26:50.967019+00:00",
-   "headline": "Oklahoma board: real GDP fiscal 2026 median forecast at +0.7% vs +0.6% in July",
    "channel": "rss",
    "source": "financialjuice"
   }
