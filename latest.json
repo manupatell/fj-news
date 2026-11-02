@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T19:46:04.252076+00:00",
+ "updated": "2026-11-02T19:52:44.248761+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833210,
+   "ts": "2026-11-02T19:52:16+00:00",
+   "ingested": "2026-11-02T19:52:44.248286+00:00",
+   "headline": "Brent Crude futures settle at $104.77/bbl, down $8.66, 7.63%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833209,
+   "ts": "2026-11-02T19:52:09+00:00",
+   "ingested": "2026-11-02T19:52:44.248307+00:00",
+   "headline": "Trump: Iran asked to stop killing its leaders, we will.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833204,
    "ts": "2026-11-02T19:35:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T12:30:01+00:00",
    "ingested": "2026-10-30T12:31:02.379410+00:00",
    "headline": "Canadian GDP MoM Actual 0% (Forecast 0.2%, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829461,
-   "ts": "2026-10-30T12:26:15+00:00",
-   "ingested": "2026-10-30T12:27:42.396529+00:00",
-   "headline": "Exxon CEO: Reason energy prices high today is not enough supply.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829460,
-   "ts": "2026-10-30T12:22:32+00:00",
-   "ingested": "2026-10-30T12:24:22.389424+00:00",
-   "headline": "IRIB News: A super tanker exploded an hour ago after hitting a sea mine on the unauthorized route of the Strait of Hormuz.",
    "channel": "rss",
    "source": "financialjuice"
   }
