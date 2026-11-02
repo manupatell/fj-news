@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T06:12:47.375299+00:00",
+ "updated": "2026-11-02T06:14:27.340880+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832080,
+   "ts": "2026-11-02T06:13:48+00:00",
+   "ingested": "2026-11-02T06:14:27.340477+00:00",
+   "headline": "UAE's Adnoc CEO: New agreement with Open AI will transform Adnoc's field development oil management and commercial operations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832079,
    "ts": "2026-11-02T06:08:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:03:48+00:00",
    "ingested": "2026-10-30T06:26:50.966826+00:00",
    "headline": "BOJ: will consider timing, pace of rate increases with focus on chances of economy, prices aligning with baseline scenario and risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828605,
-   "ts": "2026-10-30T03:03:33+00:00",
-   "ingested": "2026-10-30T06:26:50.966839+00:00",
-   "headline": "BOJ: will keep raising interest rates amid economic, price and financial condition changes",
    "channel": "rss",
    "source": "financialjuice"
   }
