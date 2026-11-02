@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T13:20:05.330349+00:00",
+ "updated": "2026-11-02T13:21:45.337133+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832644,
+   "ts": "2026-11-02T13:20:00+00:00",
+   "ingested": "2026-11-02T13:21:45.336705+00:00",
+   "headline": "WH Sr. Adviser Hassett interview on CNBC ends",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832643,
    "ts": "2026-11-02T13:19:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:54:33+00:00",
    "ingested": "2026-10-30T10:30:48.855810+00:00",
    "headline": "France Fin. Min. Lescure: Need a budget to boost confidence and economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828859,
-   "ts": "2026-10-30T06:53:55+00:00",
-   "ingested": "2026-10-30T10:30:48.855825+00:00",
-   "headline": "France Fin. Min. Lescure: French economy ground to halt in 2026.",
    "channel": "rss",
    "source": "financialjuice"
   }
