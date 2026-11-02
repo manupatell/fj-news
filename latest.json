@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T23:01:04.369006+00:00",
+ "updated": "2026-11-02T23:02:54.398829+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833437,
+   "ts": "2026-11-02T23:01:08+00:00",
+   "ingested": "2026-11-02T23:02:54.398456+00:00",
+   "headline": "Dan Driscoll to join OpenAI as senior adviser for national security modernization - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833435,
    "ts": "2026-11-02T23:00:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T14:17:40+00:00",
    "ingested": "2026-10-30T14:19:22.434391+00:00",
    "headline": "Crypto Fear & Greed Index: 30/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829664,
-   "ts": "2026-10-30T14:14:54+00:00",
-   "ingested": "2026-10-30T14:16:02.470440+00:00",
-   "headline": "Major banks raise 1Q27 Brent price forecast, WSJ survey finds",
    "channel": "rss",
    "source": "financialjuice"
   }
