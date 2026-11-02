@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T11:28:01.277766+00:00",
+ "updated": "2026-11-02T11:34:41.343231+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832511,
+   "ts": "2026-11-02T11:33:54+00:00",
+   "ingested": "2026-11-02T11:34:41.342853+00:00",
+   "headline": "ECB's Makhlouf: French government needs to fix public finances.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832479,
    "ts": "2026-11-02T11:27:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:30:00+00:00",
    "ingested": "2026-10-30T10:30:48.856068+00:00",
    "headline": "French GDP QoQ Prelim Actual -0.1% (Forecast 0.1%, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828824,
-   "ts": "2026-10-30T06:29:00+00:00",
-   "ingested": "2026-10-30T10:30:48.856086+00:00",
-   "headline": "Qatari mediators returned to Tehran on Friday as part of effort to reach a US-Iran deal, mediation talks have been coordinated with US - Official Briefed on Talks.",
    "channel": "rss",
    "source": "financialjuice"
   }
