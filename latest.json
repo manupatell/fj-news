@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T23:32:24.323585+00:00",
+ "updated": "2026-11-02T23:34:04.320676+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833504,
+   "ts": "2026-11-02T23:33:37+00:00",
+   "ingested": "2026-11-02T23:34:04.320251+00:00",
+   "headline": "OpenAI: Dan Driscoll to advise on advanced AI use for national and cyber security, focus on U.S. allies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833503,
    "ts": "2026-11-02T23:32:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T14:33:44+00:00",
    "ingested": "2026-10-30T14:34:45.113133+00:00",
    "headline": "Exxon: UAE production has returned to levels consistent with historical output.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829692,
-   "ts": "2026-10-30T14:26:55+00:00",
-   "ingested": "2026-10-30T14:28:05.127827+00:00",
-   "headline": "China to expand cooperation with Germany in vehicles, AI",
    "channel": "rss",
    "source": "financialjuice"
   }
