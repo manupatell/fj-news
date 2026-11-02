@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T17:19:30.088105+00:00",
+ "updated": "2026-11-02T17:22:50.088947+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833051,
+   "ts": "2026-11-02T17:21:40+00:00",
+   "ingested": "2026-11-02T17:22:50.088498+00:00",
+   "headline": "Italy's October budget deficit EUR 20.8B",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832965,
    "ts": "2026-11-02T16:33:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T11:00:35+00:00",
    "ingested": "2026-10-30T11:01:03.582854+00:00",
    "headline": "ECB's Kocher: Risks to inflation have increased.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829278,
-   "ts": "2026-10-30T10:41:03+00:00",
-   "ingested": "2026-10-30T10:45:52.425300+00:00",
-   "headline": "IRGC Navy: Two oil tankers that switched off navigation systems were involved in incident, stopped south of Strait of Hormuz after ignoring radio warnings - Iranian Media.",
    "channel": "rss",
    "source": "financialjuice"
   }
