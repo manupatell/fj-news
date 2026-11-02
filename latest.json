@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T15:02:45.378674+00:00",
+ "updated": "2026-11-02T15:07:45.374490+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832816,
+   "ts": "2026-11-02T15:06:55+00:00",
+   "ingested": "2026-11-02T15:07:45.373997+00:00",
+   "headline": "US Defense Department signs a conditional loan of up to $450m with Neros to fund domestic drone manufacturing expansion.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832784,
    "ts": "2026-11-02T15:01:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T09:01:39+00:00",
    "ingested": "2026-10-30T10:30:48.855261+00:00",
    "headline": "Bavaria CPI YoY Actual 2.8% (Forecast -, Previous 3.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829084,
-   "ts": "2026-10-30T09:00:51+00:00",
-   "ingested": "2026-10-30T10:30:48.855274+00:00",
-   "headline": "Italian GDP Prelim QoQ Actual 0% (Forecast 0.1%, Previous 0.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
