@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T14:10:25.400312+00:00",
+ "updated": "2026-11-02T14:17:55.355687+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832730,
+   "ts": "2026-11-02T14:17:15+00:00",
+   "ingested": "2026-11-02T14:17:55.355226+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: Reopening of the Strait of Hormuz is subject to accepting Iran's conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832729,
+   "ts": "2026-11-02T14:17:07+00:00",
+   "ingested": "2026-11-02T14:17:55.355250+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: We are more ready for a military response and diplomatic path than before - IRNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832714,
    "ts": "2026-11-02T14:09:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T07:52:13+00:00",
    "ingested": "2026-10-30T10:30:48.855601+00:00",
    "headline": "ECB's Dolenc: Shock not translating into broader price pressures yet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828953,
-   "ts": "2026-10-30T07:46:40+00:00",
-   "ingested": "2026-10-30T10:30:48.855614+00:00",
-   "headline": "French Non-Farm Payrolls QoQ Actual -0.1% (Forecast -, Previous -0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828955,
-   "ts": "2026-10-30T07:46:39+00:00",
-   "ingested": "2026-10-30T10:30:48.855627+00:00",
-   "headline": "French HICP YoY Prelim  Actual 3.8% (Forecast 3.6%, Previous 3.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
