@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T08:01:21.225970+00:00",
+ "updated": "2026-11-02T08:06:21.237466+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832232,
+   "ts": "2026-11-02T08:05:49+00:00",
+   "ingested": "2026-11-02T08:06:21.237063+00:00",
+   "headline": "Iran: Vance letter offers no new basis, demands unchanged.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832231,
+   "ts": "2026-11-02T08:04:47+00:00",
+   "ingested": "2026-11-02T08:06:21.237080+00:00",
+   "headline": "Iran's Baghaei: Tehran does not expect a new us after midterm elections.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832226,
    "ts": "2026-11-02T08:00:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T03:16:55+00:00",
    "ingested": "2026-10-30T06:26:50.966267+00:00",
    "headline": "UKMTO: fire now reported extinguished, vessel proceeding to next port of call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828639,
-   "ts": "2026-10-30T03:16:40+00:00",
-   "ingested": "2026-10-30T06:26:50.966285+00:00",
-   "headline": "UKMTO: subsequent explosions triggered a fire in engine room temporarily disabling vessel",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828638,
-   "ts": "2026-10-30T03:16:31+00:00",
-   "ingested": "2026-10-30T06:26:50.966350+00:00",
-   "headline": "Dollar/yen extends losses, last down 0.37% at 157.115",
    "channel": "rss",
    "source": "financialjuice"
   }
