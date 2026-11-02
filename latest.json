@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T06:04:27.359713+00:00",
+ "updated": "2026-11-02T06:12:47.375299+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832079,
+   "ts": "2026-11-02T06:08:56+00:00",
+   "ingested": "2026-11-02T06:12:47.374891+00:00",
+   "headline": "Dutch Retail Sales YoY Actual 3.3% (Forecast -, Previous 2.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832078,
    "ts": "2026-11-02T06:03:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:03:33+00:00",
    "ingested": "2026-10-30T06:26:50.966839+00:00",
    "headline": "BOJ: will keep raising interest rates amid economic, price and financial condition changes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828604,
-   "ts": "2026-10-30T03:03:33+00:00",
-   "ingested": "2026-10-30T06:26:50.966853+00:00",
-   "headline": "OJ: plans to offload ETF holdings worth about 0.1% of market trading value",
    "channel": "rss",
    "source": "financialjuice"
   }
