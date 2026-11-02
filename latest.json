@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T06:14:27.340880+00:00",
+ "updated": "2026-11-02T06:24:27.348843+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832099,
+   "ts": "2026-11-02T06:23:22+00:00",
+   "ingested": "2026-11-02T06:24:27.348525+00:00",
+   "headline": "Fitch Ratings: China auto exports cushion weak demand as 2027 headwinds build.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832080,
    "ts": "2026-11-02T06:13:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:03:50+00:00",
    "ingested": "2026-10-30T06:26:50.966808+00:00",
    "headline": "BoJ: set sales pace at about 860 billion yen annually on book value basis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828606,
-   "ts": "2026-10-30T03:03:48+00:00",
-   "ingested": "2026-10-30T06:26:50.966826+00:00",
-   "headline": "BOJ: will consider timing, pace of rate increases with focus on chances of economy, prices aligning with baseline scenario and risks",
    "channel": "rss",
    "source": "financialjuice"
   }
