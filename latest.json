@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:32:15.408027+00:00",
+ "updated": "2026-11-02T14:33:05.359649+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832751,
+   "ts": "2026-11-02T14:32:48+00:00",
+   "ingested": "2026-11-02T14:33:05.359215+00:00",
+   "headline": "Russia allows temporary use of foreign data center capacity.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832738,
    "ts": "2026-11-02T14:31:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T08:07:29+00:00",
    "ingested": "2026-10-30T10:30:48.855476+00:00",
    "headline": "German Chancellor Merz: Fact remains that US is shifting foreign policy, and we must do the same.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828981,
-   "ts": "2026-10-30T08:01:39+00:00",
-   "ingested": "2026-10-30T10:30:48.855489+00:00",
-   "headline": "Spanish Estimated GDP QoQ Actual 0.6% (Forecast 0.6%, Previous 0.7%)",
    "channel": "rss",
    "source": "financialjuice"
   }
