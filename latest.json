@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T15:12:45.379253+00:00",
+ "updated": "2026-11-02T15:14:25.410758+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832823,
+   "ts": "2026-11-02T15:13:04+00:00",
+   "ingested": "2026-11-02T15:14:25.410346+00:00",
+   "headline": "ECB's Escriv\u00e1: Lack of fiscal adjustment goes beyond France",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832822,
    "ts": "2026-11-02T15:11:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T09:06:33+00:00",
    "ingested": "2026-10-30T10:30:48.855164+00:00",
    "headline": "Credit \u00c1gricole: The JPY - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829110,
-   "ts": "2026-10-30T09:05:06+00:00",
-   "ingested": "2026-10-30T10:30:48.855181+00:00",
-   "headline": "North-Rhine CPI YoY Actual 2.7% (Forecast -, Previous 3.3%)",
    "channel": "rss",
    "source": "financialjuice"
   }
