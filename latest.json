@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T22:31:04.328976+00:00",
+ "updated": "2026-11-02T22:41:04.365952+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833417,
+   "ts": "2026-11-02T22:40:14+00:00",
+   "ingested": "2026-11-02T22:41:04.365566+00:00",
+   "headline": "Apple CFO on call: memory purchase prices expected to keep rising",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833401,
    "ts": "2026-11-02T22:29:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T13:44:01+00:00",
    "ingested": "2026-10-30T13:44:22.436470+00:00",
    "headline": "Fed's Barkin: I hear from businesses on plans to pass along price rises",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829614,
-   "ts": "2026-10-30T13:43:05+00:00",
-   "ingested": "2026-10-30T13:44:22.436490+00:00",
-   "headline": "Fed's Barkin: Businesses say that cost pressures are broad based.",
    "channel": "rss",
    "source": "financialjuice"
   }
