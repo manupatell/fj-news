@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T07:28:01.227852+00:00",
+ "updated": "2026-11-02T07:34:41.232023+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832195,
+   "ts": "2026-11-02T07:34:15+00:00",
+   "ingested": "2026-11-02T07:34:41.231666+00:00",
+   "headline": "Swiss Retail Sales YoY Actual 1.6% (Forecast -, Previous 3.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832179,
    "ts": "2026-11-02T07:27:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:09:18+00:00",
    "ingested": "2026-10-30T06:26:50.966514+00:00",
    "headline": "BOJ: to speed up sales of ETF holdings to about 860 billion yen from previous about 330 billion yen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828627,
-   "ts": "2026-10-30T03:09:15+00:00",
-   "ingested": "2026-10-30T06:26:50.966531+00:00",
-   "headline": "BOJ on risks: If AI earnings don\u2019t grow with investment, adjustment pressure could occur alongside asset price shifts",
    "channel": "rss",
    "source": "financialjuice"
   }
