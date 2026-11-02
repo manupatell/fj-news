@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-02T01:44:07.246974+00:00",
+ "updated": "2026-11-02T01:45:47.255710+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831772,
+   "ts": "2026-11-02T01:45:04+00:00",
+   "ingested": "2026-11-02T01:45:47.255319+00:00",
+   "headline": "China general manufacturing PMI at 52.0 in October vs forecast 51.6",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831770,
+   "ts": "2026-11-02T01:44:58+00:00",
+   "ingested": "2026-11-02T01:45:47.255341+00:00",
+   "headline": "UKMTO: all crew accounted for, no environmental impact reported so far",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831769,
+   "ts": "2026-11-02T01:44:34+00:00",
+   "ingested": "2026-11-02T01:45:47.255359+00:00",
+   "headline": "Ukmto: tanker moving southeast through Arabian Gulf hit by two unidentified projectiles on port side",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831768,
    "ts": "2026-11-02T01:43:36+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-30T00:30:03+00:00",
    "ingested": "2026-10-30T00:35:22.279197+00:00",
    "headline": "Australia @3 producer price index rises 1.1% quarter on quarter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828356,
-   "ts": "2026-10-30T00:30:01+00:00",
-   "ingested": "2026-10-30T00:35:22.279208+00:00",
-   "headline": "Australian PPI QoQ Actual 1.1% (Forecast -, Previous 1.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828355,
-   "ts": "2026-10-30T00:23:59+00:00",
-   "ingested": "2026-10-30T00:35:22.279219+00:00",
-   "headline": "China PBOC poised to set yuan midpoint at 6.6548 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828326,
-   "ts": "2026-10-29T23:58:13+00:00",
-   "ingested": "2026-10-30T00:35:22.279229+00:00",
-   "headline": "UKMTO: crew status, damage evaluation, and environmental impact currently unknown",
    "channel": "rss",
    "source": "financialjuice"
   }
