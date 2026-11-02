@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T12:59:41.304027+00:00",
+ "updated": "2026-11-02T13:03:15.332430+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832614,
+   "ts": "2026-11-02T13:01:27+00:00",
+   "ingested": "2026-11-02T13:03:15.332032+00:00",
+   "headline": "Strategy buys 811 Bitcoin for aggregate purchase price of $65.5m; avg. purchase price $80,846, Oct. 26 to Nov. 1",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832578,
    "ts": "2026-11-02T12:39:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:35:25+00:00",
    "ingested": "2026-10-30T10:30:48.855994+00:00",
    "headline": "BoJ's Governor Ueda: Underlying CPI inflation at level generally consistent with 2% price stability target, expected to remain at around that level.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828837,
-   "ts": "2026-10-30T06:35:03+00:00",
-   "ingested": "2026-10-30T10:30:48.856009+00:00",
-   "headline": "BoJ's Governor Ueda: Mid- to long-term inflation expectations are at around 2%.",
    "channel": "rss",
    "source": "financialjuice"
   }
