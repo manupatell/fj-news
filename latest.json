@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T09:26:21.265926+00:00",
+ "updated": "2026-11-02T09:28:01.260933+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832332,
+   "ts": "2026-11-02T09:26:12+00:00",
+   "ingested": "2026-11-02T09:28:01.260555+00:00",
+   "headline": "LSEG: The RBA Decision - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832308,
    "ts": "2026-11-02T09:04:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T04:30:40+00:00",
    "ingested": "2026-10-30T06:26:50.966171+00:00",
    "headline": "Japan September gasoline sales drop 8.5% year on year: meti",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828711,
-   "ts": "2026-10-30T04:30:40+00:00",
-   "ingested": "2026-10-30T06:26:50.966184+00:00",
-   "headline": "Japan September kerosene sales rise 7.3% year on year: Meti",
    "channel": "rss",
    "source": "financialjuice"
   }
