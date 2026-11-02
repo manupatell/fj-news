@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-02T20:23:34.260536+00:00",
+ "updated": "2026-11-02T20:25:14.331264+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833253,
+   "ts": "2026-11-02T20:24:46+00:00",
+   "ingested": "2026-11-02T20:25:14.330858+00:00",
+   "headline": "Vance: Have had a number of good talks with Iranians",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833252,
+   "ts": "2026-11-02T20:24:26+00:00",
+   "ingested": "2026-11-02T20:25:14.330878+00:00",
+   "headline": "US VP Vance on Iran: We have not set deadlines to resume strikes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833251,
+   "ts": "2026-11-02T20:24:09+00:00",
+   "ingested": "2026-11-02T20:25:14.330898+00:00",
+   "headline": "Vance: I feel good about prospects of Iran deal. We've made some progress, will see if can make some more.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833228,
    "ts": "2026-11-02T20:03:29+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-30T13:00:02+00:00",
    "ingested": "2026-10-30T13:01:02.433866+00:00",
    "headline": "German HICP MoM Prelim  Actual -0.1% (Forecast 0.1%, Previous 0.60%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829521,
-   "ts": "2026-10-30T13:00:02+00:00",
-   "ingested": "2026-10-30T13:01:02.433881+00:00",
-   "headline": "German HICP YoY Prelim  Actual 2.8% (Forecast 3.1%, Previous 3.30%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829520,
-   "ts": "2026-10-30T12:59:06+00:00",
-   "ingested": "2026-10-30T12:59:22.411866+00:00",
-   "headline": "MUFG on BoJ - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829519,
-   "ts": "2026-10-30T12:56:42+00:00",
-   "ingested": "2026-10-30T12:57:42.393425+00:00",
-   "headline": "BoJ Interest Rate Probabilities (Updated)",
    "channel": "rss",
    "source": "financialjuice"
   }
