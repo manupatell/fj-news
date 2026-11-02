@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-02T13:08:25.346884+00:00",
+ "updated": "2026-11-02T13:18:25.330154+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832642,
+   "ts": "2026-11-02T13:18:01+00:00",
+   "ingested": "2026-11-02T13:18:25.329678+00:00",
+   "headline": "Oracle files to offer $10b of common stock, $ORCL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832641,
+   "ts": "2026-11-02T13:17:23+00:00",
+   "ingested": "2026-11-02T13:18:25.329699+00:00",
+   "headline": "WH Sr. Adviser Hassett: I don't think there's risk of AI wholesale selloff",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832640,
+   "ts": "2026-11-02T13:17:14+00:00",
+   "ingested": "2026-11-02T13:18:25.329719+00:00",
+   "headline": "Hassett: AI is a really well financed ecosystem. This is not like financial crisis at all. So much cash in ecosystem, people should be reassured - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832639,
+   "ts": "2026-11-02T13:16:55+00:00",
+   "ingested": "2026-11-02T13:18:25.329734+00:00",
+   "headline": "CrowdStrike and CoreWeave expand pact to secure AI workloads $CRWD $CRWV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832617,
    "ts": "2026-11-02T13:07:00+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-30T06:51:35+00:00",
    "ingested": "2026-10-30T10:30:48.855842+00:00",
    "headline": "BoJ's Governor Ueda: Not yet to declare inflation target has been achieved as we think it is important for inflation to be stably, sustainably around 2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828843,
-   "ts": "2026-10-30T06:45:07+00:00",
-   "ingested": "2026-10-30T10:30:48.855857+00:00",
-   "headline": "RBA cash rate of 4.85% to be peak for the year, 27 of 29 economists say - Poll.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828842,
-   "ts": "2026-10-30T06:44:43+00:00",
-   "ingested": "2026-10-30T10:30:48.855904+00:00",
-   "headline": "Reserve Bank of Australia to raise cash rate to 4.85% on November 3, 30 of 32 economists say - Poll.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828841,
-   "ts": "2026-10-30T06:41:37+00:00",
-   "ingested": "2026-10-30T10:30:48.855946+00:00",
-   "headline": "BoJ's Governor Ueda: Various govt measures stimulated economy to lead to 2% price target being met.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828840,
-   "ts": "2026-10-30T06:38:24+00:00",
-   "ingested": "2026-10-30T10:30:48.855963+00:00",
-   "headline": "BoJ's Governor Ueda: Japan's financial conditions are accommodative.",
    "channel": "rss",
    "source": "financialjuice"
   }
