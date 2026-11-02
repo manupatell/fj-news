@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-02T05:59:27.321891+00:00",
+ "updated": "2026-11-02T06:01:07.323737+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832059,
+   "ts": "2026-11-02T06:00:03+00:00",
+   "ingested": "2026-11-02T06:01:07.323305+00:00",
+   "headline": "Netherlands S&P Global October manufacturing PMI at 55.0 versus 55.6 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832058,
+   "ts": "2026-11-02T06:00:03+00:00",
+   "ingested": "2026-11-02T06:01:07.323327+00:00",
+   "headline": "Russia S&P Global October manufacturing PMI at 49.9 versus 49.8 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832057,
+   "ts": "2026-11-02T05:59:50+00:00",
+   "ingested": "2026-11-02T06:01:07.323345+00:00",
+   "headline": "Saudi civil defence alerts of possible threat in southern Khamis Mushait - post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832056,
+   "ts": "2026-11-02T05:59:39+00:00",
+   "ingested": "2026-11-02T06:01:07.323361+00:00",
+   "headline": "Afghan Taliban government ready to engage constructively on deportation issue: Afghan foreign ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832055,
    "ts": "2026-11-02T05:58:35+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-30T03:03:21+00:00",
    "ingested": "2026-10-30T06:26:50.966884+00:00",
    "headline": "BoJ\u2019s Takata: situation has entered new phase requiring faster approach to neutral interest rate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828601,
-   "ts": "2026-10-30T03:03:13+00:00",
-   "ingested": "2026-10-30T06:26:50.966900+00:00",
-   "headline": "BOJ: must monitor risk of inflation rising unexpectedly, causing negative effects on economy later",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828600,
-   "ts": "2026-10-30T03:03:06+00:00",
-   "ingested": "2026-10-30T06:26:50.966914+00:00",
-   "headline": "BoJ\u2019s Takata: core CPI inflation has reached price stability target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828599,
-   "ts": "2026-10-30T03:03:04+00:00",
-   "ingested": "2026-10-30T06:26:50.966927+00:00",
-   "headline": "OJ: Core inflation hits levels generally aligned with price target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828598,
-   "ts": "2026-10-30T03:02:55+00:00",
-   "ingested": "2026-10-30T06:26:50.966939+00:00",
-   "headline": "OJ: risk underlying inflation could exceed price target",
    "channel": "rss",
    "source": "financialjuice"
   }
