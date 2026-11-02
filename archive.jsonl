@@ -20851,3 +20851,8 @@
 {"guid": 9832116, "ts": "2026-11-02T06:32:44+00:00", "ingested": "2026-11-02T06:34:27.381051+00:00", "headline": "Open AI CEO Altman: Energy is one challenge AI is facing today.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832118, "ts": "2026-11-02T06:33:43+00:00", "ingested": "2026-11-02T06:34:27.381027+00:00", "headline": "US Index Futures Implied Volatility", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832119, "ts": "2026-11-02T06:34:06+00:00", "ingested": "2026-11-02T06:34:27.381007+00:00", "headline": "FX Implied Volatility", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832120, "ts": "2026-11-02T06:34:24+00:00", "ingested": "2026-11-02T06:36:07.486106+00:00", "headline": "Commodities Implied Volatility", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832121, "ts": "2026-11-02T06:34:56+00:00", "ingested": "2026-11-02T06:36:07.486095+00:00", "headline": "Fed Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832122, "ts": "2026-11-02T06:35:14+00:00", "ingested": "2026-11-02T06:36:07.486082+00:00", "headline": "ECB Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832123, "ts": "2026-11-02T06:35:38+00:00", "ingested": "2026-11-02T06:36:07.486068+00:00", "headline": "BoE Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832124, "ts": "2026-11-02T06:35:56+00:00", "ingested": "2026-11-02T06:36:07.486049+00:00", "headline": "BoC Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}

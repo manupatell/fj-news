@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-02T06:34:27.381417+00:00",
+ "updated": "2026-11-02T06:36:07.486485+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832124,
+   "ts": "2026-11-02T06:35:56+00:00",
+   "ingested": "2026-11-02T06:36:07.486049+00:00",
+   "headline": "BoC Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832123,
+   "ts": "2026-11-02T06:35:38+00:00",
+   "ingested": "2026-11-02T06:36:07.486068+00:00",
+   "headline": "BoE Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832122,
+   "ts": "2026-11-02T06:35:14+00:00",
+   "ingested": "2026-11-02T06:36:07.486082+00:00",
+   "headline": "ECB Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832121,
+   "ts": "2026-11-02T06:34:56+00:00",
+   "ingested": "2026-11-02T06:36:07.486095+00:00",
+   "headline": "Fed Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832120,
+   "ts": "2026-11-02T06:34:24+00:00",
+   "ingested": "2026-11-02T06:36:07.486106+00:00",
+   "headline": "Commodities Implied Volatility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832119,
    "ts": "2026-11-02T06:34:06+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-10-30T03:06:34+00:00",
    "ingested": "2026-10-30T06:26:50.966647+00:00",
    "headline": "boj: financial institutions' lending stance stays active",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828618,
-   "ts": "2026-10-30T03:06:24+00:00",
-   "ingested": "2026-10-30T06:26:50.966660+00:00",
-   "headline": "Dollar/yen holds decline after BoJ decision, last trades at 157.42",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828617,
-   "ts": "2026-10-30T03:06:21+00:00",
-   "ingested": "2026-10-30T06:26:50.966672+00:00",
-   "headline": "BOJ: demand for corporate funds is rising",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828616,
-   "ts": "2026-10-30T03:06:06+00:00",
-   "ingested": "2026-10-30T06:26:50.966685+00:00",
-   "headline": "BoJ: interest rate burden is sufficiently low for firms compared to profits",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828615,
-   "ts": "2026-10-30T03:05:40+00:00",
-   "ingested": "2026-10-30T06:26:50.966699+00:00",
-   "headline": "BOJ: real interest rates have risen recently but short-term rates stay low",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828614,
-   "ts": "2026-10-30T03:05:37+00:00",
-   "ingested": "2026-10-30T06:26:50.966713+00:00",
-   "headline": "Dollar/yen steady at 157.37 after Bank of Japan maintains interest rates, as expected",
    "channel": "rss",
    "source": "financialjuice"
   }
