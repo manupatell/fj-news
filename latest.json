@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T13:36:45.331567+00:00",
+ "updated": "2026-11-02T13:38:25.338171+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832658,
+   "ts": "2026-11-02T13:36:48+00:00",
+   "ingested": "2026-11-02T13:38:25.337750+00:00",
+   "headline": "Iran's President Pezeshkian: We firmly reject the enemy\u2019s false claims and excessive demands - Press TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832657,
    "ts": "2026-11-02T13:35:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T07:02:16+00:00",
    "ingested": "2026-10-30T10:30:48.855770+00:00",
    "headline": "Currency Strength Chart: Strongest: CAD, GBP, CHF, AUD, JPY, USD, NZD, EUR - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828862,
-   "ts": "2026-10-30T07:00:03+00:00",
-   "ingested": "2026-10-30T10:30:48.855784+00:00",
-   "headline": "German Imports Prices MoM Actual 2.1% (Forecast 2%, Previous 1.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
