@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T01:08:04.707286+00:00",
+ "updated": "2026-11-02T01:09:54.706780+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831746,
+   "ts": "2026-11-02T01:08:29+00:00",
+   "ingested": "2026-11-02T01:09:54.706469+00:00",
+   "headline": "S. Korea President Lee: fresh approach needed to tackle \u2018k-shaped\u2019 growth of widening inequality",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831745,
    "ts": "2026-11-02T01:06:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T23:50:11+00:00",
    "ingested": "2026-10-30T00:35:22.279301+00:00",
    "headline": "Japan manufacturers report October output up 5.1% m/m, exceeding previous 3.1% forecast - govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828320,
-   "ts": "2026-10-29T23:50:08+00:00",
-   "ingested": "2026-10-30T00:35:22.279311+00:00",
-   "headline": "Japan Sept retail sales rise 2.3% year/year: govt (Poll +3.3%)",
    "channel": "rss",
    "source": "financialjuice"
   }
