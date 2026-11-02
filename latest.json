@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T15:26:05.411970+00:00",
+ "updated": "2026-11-02T15:29:25.381592+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832866,
+   "ts": "2026-11-02T15:29:09+00:00",
+   "ingested": "2026-11-02T15:29:25.381174+00:00",
+   "headline": "ECB's Escriva: Rates at 2% to keep inflation at around 2% reasonable.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832865,
    "ts": "2026-11-02T15:25:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T10:00:59+00:00",
    "ingested": "2026-10-30T10:30:48.855011+00:00",
    "headline": "Italian HICP Prelim MoM Actual 1.2% (Forecast 0.4%, Previous 2.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829183,
-   "ts": "2026-10-30T10:00:01+00:00",
-   "ingested": "2026-10-30T10:30:48.855024+00:00",
-   "headline": "Eurozone Unemployment Rate Actual 6.5% (Forecast 6.4%, Previous 6.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
