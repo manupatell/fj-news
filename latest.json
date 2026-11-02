@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T19:56:04.242754+00:00",
+ "updated": "2026-11-02T20:02:04.292132+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833225,
+   "ts": "2026-11-02T20:01:51+00:00",
+   "ingested": "2026-11-02T20:02:04.291493+00:00",
+   "headline": "US Treasury Raises July-September Borrowing Estimate to $739 Billion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833224,
+   "ts": "2026-11-02T20:01:34+00:00",
+   "ingested": "2026-11-02T20:02:04.291520+00:00",
+   "headline": "US Treasury estimates $739 billion in privately held net marketable borrowing for July-September 2026, assuming an end-September cash balance of $950 billion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833212,
    "ts": "2026-11-02T19:54:34+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T12:37:14+00:00",
    "ingested": "2026-10-30T12:37:42.409869+00:00",
    "headline": "Russia plans to export 2.15m tons of diesel in November - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829488,
-   "ts": "2026-10-30T12:36:42+00:00",
-   "ingested": "2026-10-30T12:37:42.409890+00:00",
-   "headline": "Russia plans to extend ban on diesel exports, with certain exceptions, until the end of January - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829487,
-   "ts": "2026-10-30T12:32:32+00:00",
-   "ingested": "2026-10-30T12:32:42.397483+00:00",
-   "headline": "Russia\u2019s Deputy PM Novak: Ukraine attacked Russian refinery overnight.",
    "channel": "rss",
    "source": "financialjuice"
   }
