@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T07:49:41.225572+00:00",
+ "updated": "2026-11-02T07:59:41.212573+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832220,
+   "ts": "2026-11-02T07:57:54+00:00",
+   "ingested": "2026-11-02T07:59:41.212190+00:00",
+   "headline": "Tesla new registrations in Sweden jump 248% year-on-year in October, compiler Mobility Sweden says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832219,
    "ts": "2026-11-02T07:49:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:11:25+00:00",
    "ingested": "2026-10-30T06:26:50.966433+00:00",
    "headline": "BOJ: forecasts in outlook report exclude impact of proposed temporary food tax reduction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828632,
-   "ts": "2026-10-30T03:10:42+00:00",
-   "ingested": "2026-10-30T06:26:50.966456+00:00",
-   "headline": "BOJ on risks: recent surge in grain prices amid geopolitical tensions in Middle East and global weather conditions warrants attention as potential concern",
    "channel": "rss",
    "source": "financialjuice"
   }
