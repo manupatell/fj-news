@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T13:03:15.332430+00:00",
+ "updated": "2026-11-02T13:06:45.388389+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832616,
+   "ts": "2026-11-02T13:05:38+00:00",
+   "ingested": "2026-11-02T13:06:45.388000+00:00",
+   "headline": "Oil tanker catches fire after hitting mine in eastern part of Strait of Hormuz - Iranian state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832614,
    "ts": "2026-11-02T13:01:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:36:08+00:00",
    "ingested": "2026-10-30T10:30:48.855978+00:00",
    "headline": "BoJ's Governor Ueda: We need to watch impact of FX, AI and Middle East.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828838,
-   "ts": "2026-10-30T06:35:25+00:00",
-   "ingested": "2026-10-30T10:30:48.855994+00:00",
-   "headline": "BoJ's Governor Ueda: Underlying CPI inflation at level generally consistent with 2% price stability target, expected to remain at around that level.",
    "channel": "rss",
    "source": "financialjuice"
   }
