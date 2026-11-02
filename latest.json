@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T10:44:41.268084+00:00",
+ "updated": "2026-11-02T10:46:21.271211+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832429,
+   "ts": "2026-11-02T10:45:41+00:00",
+   "ingested": "2026-11-02T10:46:21.270846+00:00",
+   "headline": "Gazprom's daily exports to china via power of Siberia at record.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832424,
    "ts": "2026-11-02T10:34:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T05:58:30+00:00",
    "ingested": "2026-10-30T06:26:50.966025+00:00",
    "headline": "Local residents can evacuate Oleshky until 1400 local time on October 30: Russian human rights commissioner says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828790,
-   "ts": "2026-10-30T05:52:21+00:00",
-   "ingested": "2026-10-30T06:26:50.966045+00:00",
-   "headline": "Yemen's Houthis reject claims of Mecca attack after Saudi Arabia says it downed Houthi drone",
    "channel": "rss",
    "source": "financialjuice"
   }
