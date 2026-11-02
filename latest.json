@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T07:19:27.363241+00:00",
+ "updated": "2026-11-02T07:28:01.227852+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832179,
+   "ts": "2026-11-02T07:27:44+00:00",
+   "ingested": "2026-11-02T07:28:01.227499+00:00",
+   "headline": "Iran's Foreign Ministry Spokesperson Baghaei: Basis of diplomacy with US is Iran's seven steps proposal, chance of its implementation over next few days exists.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832159,
    "ts": "2026-11-02T07:06:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:09:15+00:00",
    "ingested": "2026-10-30T06:26:50.966531+00:00",
    "headline": "BOJ on risks: If AI earnings don\u2019t grow with investment, adjustment pressure could occur alongside asset price shifts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828626,
-   "ts": "2026-10-30T03:08:49+00:00",
-   "ingested": "2026-10-30T06:26:50.966544+00:00",
-   "headline": "BOJ: long-term inflation expectations hover near 2%",
    "channel": "rss",
    "source": "financialjuice"
   }
