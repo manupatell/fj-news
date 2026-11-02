@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T09:28:01.260933+00:00",
+ "updated": "2026-11-02T09:31:21.243831+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832339,
+   "ts": "2026-11-02T09:30:57+00:00",
+   "ingested": "2026-11-02T09:31:21.243439+00:00",
+   "headline": "UBS: EUR/GBP - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832333,
+   "ts": "2026-11-02T09:30:00+00:00",
+   "ingested": "2026-11-02T09:31:21.243455+00:00",
+   "headline": "UK Manufacturing PMI Final Actual 52.8 (Forecast 52.8, Previous 52.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832332,
    "ts": "2026-11-02T09:26:12+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T05:00:04+00:00",
    "ingested": "2026-10-30T06:26:50.966144+00:00",
    "headline": "Pentagon officials tell some Nato allies to moderate rhetoric on Russian threat, sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828723,
-   "ts": "2026-10-30T05:00:04+00:00",
-   "ingested": "2026-10-30T06:26:50.966157+00:00",
-   "headline": "Officials in Lithuania, Latvia and Estonia among those receiving message, sources:",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828712,
-   "ts": "2026-10-30T04:30:40+00:00",
-   "ingested": "2026-10-30T06:26:50.966171+00:00",
-   "headline": "Japan September gasoline sales drop 8.5% year on year: meti",
    "channel": "rss",
    "source": "financialjuice"
   }
