@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T05:57:47.329145+00:00",
+ "updated": "2026-11-02T05:59:27.321891+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832055,
+   "ts": "2026-11-02T05:58:35+00:00",
+   "ingested": "2026-11-02T05:59:27.321498+00:00",
+   "headline": "Afghan Taliban government calls on US to act responsibly on deporting Afghan immigrants: Afghan foreign ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832054,
    "ts": "2026-11-02T05:47:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:02:55+00:00",
    "ingested": "2026-10-30T06:26:50.966939+00:00",
    "headline": "OJ: risk underlying inflation could exceed price target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828597,
-   "ts": "2026-10-30T03:02:42+00:00",
-   "ingested": "2026-10-30T06:26:50.966952+00:00",
-   "headline": "BOJ: core inflation likely to stay near levels consistent with price target",
    "channel": "rss",
    "source": "financialjuice"
   }
