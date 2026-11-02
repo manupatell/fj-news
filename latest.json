@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:39:25.372105+00:00",
+ "updated": "2026-11-02T14:40:05.383530+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832757,
+   "ts": "2026-11-02T14:39:49+00:00",
+   "ingested": "2026-11-02T14:40:05.383104+00:00",
+   "headline": "Anthropic: Granted Google the option to buy up to $10b in Class N stock $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832755,
    "ts": "2026-11-02T14:38:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T08:41:19+00:00",
    "ingested": "2026-10-30T10:30:48.855405+00:00",
    "headline": "Saxony CPI YoY Actual 2.8% (Forecast -, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829045,
-   "ts": "2026-10-30T08:41:18+00:00",
-   "ingested": "2026-10-30T10:30:48.855417+00:00",
-   "headline": "Saxony CPI MoM Actual -0.2% (Forecast -, Previous 0.6%)",
    "channel": "rss",
    "source": "financialjuice"
   }
