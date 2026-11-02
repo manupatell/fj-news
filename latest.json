@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:06:45.359796+00:00",
+ "updated": "2026-11-02T14:10:25.400312+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832714,
+   "ts": "2026-11-02T14:09:00+00:00",
+   "ingested": "2026-11-02T14:10:25.399875+00:00",
+   "headline": "Iran's top security official Mohsen Rezai and Russia's Putin discuss Middle East developments in a phone call - Fars news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832713,
    "ts": "2026-11-02T14:05:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T07:46:39+00:00",
    "ingested": "2026-10-30T10:30:48.855627+00:00",
    "headline": "French HICP YoY Prelim  Actual 3.8% (Forecast 3.6%, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828952,
-   "ts": "2026-10-30T07:46:39+00:00",
-   "ingested": "2026-10-30T10:30:48.855639+00:00",
-   "headline": "French PPI YoY Actual 6.8% (Forecast -, Previous 4.8% ,Revision 4.9%)",
    "channel": "rss",
    "source": "financialjuice"
   }
