@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T09:34:41.252176+00:00",
+ "updated": "2026-11-02T09:39:41.258582+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832357,
+   "ts": "2026-11-02T09:38:42+00:00",
+   "ingested": "2026-11-02T09:39:41.258177+00:00",
+   "headline": "UAE's Energy, Infrastructure Minister: At a certain time our exports were better than prior to war.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832356,
    "ts": "2026-11-02T09:32:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T05:00:43+00:00",
    "ingested": "2026-10-30T06:26:50.966114+00:00",
    "headline": "Russia hits military and energy sites in Ukraine\u2019s Kyiv and Dnipropetrovsk region: Russian newswires cite defense ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828725,
-   "ts": "2026-10-30T05:00:12+00:00",
-   "ingested": "2026-10-30T06:26:50.966129+00:00",
-   "headline": "Japanese Housing Starts YoY Actual -2.743% (Forecast 2.85%, Previous 6.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
