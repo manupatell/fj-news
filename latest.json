@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T16:12:45.392143+00:00",
+ "updated": "2026-11-02T16:16:05.390919+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832928,
+   "ts": "2026-11-02T16:15:34+00:00",
+   "ingested": "2026-11-02T16:16:05.390545+00:00",
+   "headline": "Fed bids for 6-month bills total $5.1 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832920,
    "ts": "2026-11-02T16:01:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T10:12:48+00:00",
    "ingested": "2026-10-30T10:30:48.854925+00:00",
    "headline": "Apple removed from BofA US 1 list.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829214,
-   "ts": "2026-10-30T10:02:37+00:00",
-   "ingested": "2026-10-30T10:30:48.854939+00:00",
-   "headline": "Italian CPI YoY Prelim Actual 5.4% (Forecast 4.6%, Previous 4.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
