@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T07:38:01.224504+00:00",
+ "updated": "2026-11-02T07:43:01.268862+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832197,
+   "ts": "2026-11-02T07:41:39+00:00",
+   "ingested": "2026-11-02T07:43:01.268499+00:00",
+   "headline": "Iran: Hormuz cannot be reopened before lifting of us sanctions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832196,
    "ts": "2026-11-02T07:36:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:09:49+00:00",
    "ingested": "2026-10-30T06:26:50.966485+00:00",
    "headline": "BOJ: shift in ETF sales pace starts January 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828629,
-   "ts": "2026-10-30T03:09:27+00:00",
-   "ingested": "2026-10-30T06:26:50.966499+00:00",
-   "headline": "BOJ: underlying inflation likely to stay at levels aligned with Bank of Japan target",
    "channel": "rss",
    "source": "financialjuice"
   }
