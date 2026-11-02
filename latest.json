@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T17:32:50.098895+00:00",
+ "updated": "2026-11-02T17:39:30.092863+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833075,
+   "ts": "2026-11-02T17:39:07+00:00",
+   "ingested": "2026-11-02T17:39:30.092467+00:00",
+   "headline": "Meta eyes at least $20b in potential US dollar and Euro bond sale. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833051,
    "ts": "2026-11-02T17:21:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T11:00:46+00:00",
    "ingested": "2026-10-30T11:01:03.582834+00:00",
    "headline": "ECB's Kocher: \u201cNeed for action\" if situation doesn't quickly improve.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829304,
-   "ts": "2026-10-30T11:00:35+00:00",
-   "ingested": "2026-10-30T11:01:03.582854+00:00",
-   "headline": "ECB's Kocher: Risks to inflation have increased.",
    "channel": "rss",
    "source": "financialjuice"
   }
