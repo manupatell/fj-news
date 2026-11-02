@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-02T05:02:47.321327+00:00",
+ "updated": "2026-11-02T05:06:07.312471+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832004,
+   "ts": "2026-11-02T05:05:56+00:00",
+   "ingested": "2026-11-02T05:06:07.312058+00:00",
+   "headline": "BOJ: average median real interest rates stay at low levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832003,
+   "ts": "2026-11-02T05:05:32+00:00",
+   "ingested": "2026-11-02T05:06:07.312082+00:00",
+   "headline": "BOJ: Japan\u2019s real interest rates climbing recently, especially in long and super-long zones",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832002,
+   "ts": "2026-11-02T05:04:31+00:00",
+   "ingested": "2026-11-02T05:06:07.312101+00:00",
+   "headline": "BOJ: underlying inflation has picked up to about 2%, gradually embedding around that level in recent years",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832001,
    "ts": "2026-11-02T05:02:23+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-30T03:02:16+00:00",
    "ingested": "2026-10-30T06:26:50.967044+00:00",
    "headline": "BOJ sets rate policy with 8-1 vote",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828589,
-   "ts": "2026-10-30T03:02:14+00:00",
-   "ingested": "2026-10-30T06:26:50.967060+00:00",
-   "headline": "BOJ: board's core CPI fiscal 2026 median projection at 2.5% vs 2.5% in July",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828588,
-   "ts": "2026-10-30T03:02:08+00:00",
-   "ingested": "2026-10-30T06:26:50.967073+00:00",
-   "headline": "BOJ holds short-term interest rate target at 1.25%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828579,
-   "ts": "2026-10-30T02:46:40+00:00",
-   "ingested": "2026-10-30T06:26:50.967088+00:00",
-   "headline": "Cyera discusses raising funds in round that could almost double valuation to $20 billion: The Information",
    "channel": "rss",
    "source": "financialjuice"
   }
