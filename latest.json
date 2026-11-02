@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:17:55.355687+00:00",
+ "updated": "2026-11-02T14:19:05.386819+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832731,
+   "ts": "2026-11-02T14:18:44+00:00",
+   "ingested": "2026-11-02T14:19:05.386397+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: Consultations through mediators (Qatar and Pakistan) are very intensive. We have presented our terms and plan, and all depends on Washington's political rationality",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832730,
    "ts": "2026-11-02T14:17:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T07:53:04+00:00",
    "ingested": "2026-10-30T10:30:48.855589+00:00",
    "headline": "ECB's Dolenc: Higher energy prices risk more persistent inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828972,
-   "ts": "2026-10-30T07:52:13+00:00",
-   "ingested": "2026-10-30T10:30:48.855601+00:00",
-   "headline": "ECB's Dolenc: Shock not translating into broader price pressures yet.",
    "channel": "rss",
    "source": "financialjuice"
   }
