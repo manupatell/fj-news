@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-02T04:49:27.300141+00:00",
+ "updated": "2026-11-02T04:54:27.312949+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831975,
+   "ts": "2026-11-02T04:54:00+00:00",
+   "ingested": "2026-11-02T04:54:27.312508+00:00",
+   "headline": "Inception42 and OpenAI sign five-year deal to boost frontier AI adoption in government, business and education - Admo",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831974,
+   "ts": "2026-11-02T04:53:41+00:00",
+   "ingested": "2026-11-02T04:54:27.312531+00:00",
+   "headline": "Mubadala, Inception42, OpenAI sign deal to use advanced AI for investment analysis, opportunity spotting, risk evaluation - ADMO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831973,
+   "ts": "2026-11-02T04:53:10+00:00",
+   "ingested": "2026-11-02T04:54:27.312549+00:00",
+   "headline": "Adnoc, G42 and OpenAI sign pact, making Adnoc first energy firm to deploy OpenAI frontier technology: ADMO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831926,
    "ts": "2026-11-02T03:27:28+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-30T01:44:35+00:00",
    "ingested": "2026-10-30T06:26:50.967151+00:00",
    "headline": "China's onshore yuan strengthens to 6.66 per dollar in early trade, highest since June 6, 2022",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828409,
-   "ts": "2026-10-30T01:21:22+00:00",
-   "ingested": "2026-10-30T06:26:50.967174+00:00",
-   "headline": "China c.bank injects 15 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828398,
-   "ts": "2026-10-30T01:12:18+00:00",
-   "ingested": "2026-10-30T06:26:50.967200+00:00",
-   "headline": "Germany\u2019s Chancellor Merz: Germany ready to collaborate with like-minded partners in Europe and globally to protect and advance the rules-based global economic order",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828397,
-   "ts": "2026-10-30T01:11:35+00:00",
-   "ingested": "2026-10-30T06:26:50.967214+00:00",
-   "headline": "Germany's Chancellor Merz: we aim to provide opportunities beyond bilateral deals",
    "channel": "rss",
    "source": "financialjuice"
   }
