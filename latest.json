@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:41:55.359542+00:00",
+ "updated": "2026-11-02T14:45:15.391605+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832761,
+   "ts": "2026-11-02T14:45:00+00:00",
+   "ingested": "2026-11-02T14:45:15.391202+00:00",
+   "headline": "US S&P Manufacturing PMI Final Actual 54.9 (Forecast 56, Previous 56.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832759,
    "ts": "2026-11-02T14:41:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T08:49:01+00:00",
    "ingested": "2026-10-30T10:30:48.855365+00:00",
    "headline": "ECB's Rehn: Need to remain vigilant on second round effects.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829069,
-   "ts": "2026-10-30T08:48:06+00:00",
-   "ingested": "2026-10-30T10:30:48.855377+00:00",
-   "headline": "ECB's Rehn: Risks of higher inflation clearly remain elevated.",
    "channel": "rss",
    "source": "financialjuice"
   }
