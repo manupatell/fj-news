@@ -20844,3 +20844,7 @@
 {"guid": 9832079, "ts": "2026-11-02T06:08:56+00:00", "ingested": "2026-11-02T06:12:47.374891+00:00", "headline": "Dutch Retail Sales YoY Actual 3.3% (Forecast -, Previous 2.8%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832080, "ts": "2026-11-02T06:13:48+00:00", "ingested": "2026-11-02T06:14:27.340477+00:00", "headline": "UAE's Adnoc CEO: New agreement with Open AI will transform Adnoc's field development oil management and commercial operations.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832099, "ts": "2026-11-02T06:23:22+00:00", "ingested": "2026-11-02T06:24:27.348525+00:00", "headline": "Fitch Ratings: China auto exports cushion weak demand as 2027 headwinds build.", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832102, "ts": "2026-11-02T06:31:01+00:00", "ingested": "2026-11-02T06:32:47.339076+00:00", "headline": "30-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832112, "ts": "2026-11-02T06:31:17+00:00", "ingested": "2026-11-02T06:32:47.339063+00:00", "headline": "60-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832113, "ts": "2026-11-02T06:31:36+00:00", "ingested": "2026-11-02T06:32:47.339048+00:00", "headline": "90-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832114, "ts": "2026-11-02T06:31:54+00:00", "ingested": "2026-11-02T06:32:47.339028+00:00", "headline": "120-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
