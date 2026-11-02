@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T01:13:24.716153+00:00",
+ "updated": "2026-11-02T01:23:24.721771+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831756,
+   "ts": "2026-11-02T01:22:52+00:00",
+   "ingested": "2026-11-02T01:23:24.721562+00:00",
+   "headline": "China central bank injects 541 billion yuan through overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831747,
    "ts": "2026-11-02T01:11:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T23:51:40+00:00",
    "ingested": "2026-10-30T00:35:22.279280+00:00",
    "headline": "Japanese Retail Sales YoY Actual 2.3% (Forecast 3.3%, Previous 2.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828322,
-   "ts": "2026-10-29T23:50:13+00:00",
-   "ingested": "2026-10-30T00:35:22.279290+00:00",
-   "headline": "Japan manufacturers report November output up 0.8% m/m: govt",
    "channel": "rss",
    "source": "financialjuice"
   }
