@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T12:34:41.304894+00:00",
+ "updated": "2026-11-02T12:38:01.296511+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832577,
+   "ts": "2026-11-02T12:36:40+00:00",
+   "ingested": "2026-11-02T12:38:01.296126+00:00",
+   "headline": "Vitol CEO: Oil demand will take year to recover to 2025 level.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832513,
    "ts": "2026-11-02T11:42:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:33:40+00:00",
    "ingested": "2026-10-30T10:30:48.856022+00:00",
    "headline": "BoJ's Governor Ueda: Japan's economy expected to continue growing moderately.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828827,
-   "ts": "2026-10-30T06:31:39+00:00",
-   "ingested": "2026-10-30T10:30:48.856041+00:00",
-   "headline": "French Consumer Spending MoM Actual -0.5% (Forecast 0.1%, Previous -0.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
