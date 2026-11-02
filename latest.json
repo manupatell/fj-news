@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T11:41:21.282026+00:00",
+ "updated": "2026-11-02T11:43:01.347892+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832513,
+   "ts": "2026-11-02T11:42:11+00:00",
+   "ingested": "2026-11-02T11:43:01.347535+00:00",
+   "headline": "Kazakhstan's oil and gas condensate output in October rises 8% from September to 2.08 million barrels per day.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832512,
    "ts": "2026-11-02T11:40:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:31:39+00:00",
    "ingested": "2026-10-30T10:30:48.856041+00:00",
    "headline": "French Consumer Spending MoM Actual -0.5% (Forecast 0.1%, Previous -0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828826,
-   "ts": "2026-10-30T06:30:00+00:00",
-   "ingested": "2026-10-30T10:30:48.856054+00:00",
-   "headline": "French GDP YoY Prelim Actual -0.1% (Forecast 0.3%, Previous 0.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
