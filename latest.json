@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-02T00:31:04.717850+00:00",
+ "updated": "2026-11-02T00:36:04.725349+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831703,
+   "ts": "2026-11-02T00:31:40+00:00",
+   "ingested": "2026-11-02T00:36:04.725001+00:00",
+   "headline": "Australian Building Approvals Actual 5.1% (Forecast 2%, Previous -6.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831700,
+   "ts": "2026-11-02T00:31:39+00:00",
+   "ingested": "2026-11-02T00:36:04.725014+00:00",
+   "headline": "Australian Private House Approvals Actual -5.3% (Forecast -, Previous 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831697,
+   "ts": "2026-11-02T00:31:39+00:00",
+   "ingested": "2026-11-02T00:36:04.725024+00:00",
+   "headline": "Japanese Mfg PMI Actual 53.3 (Forecast -, Previous 53.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831696,
+   "ts": "2026-11-02T00:31:36+00:00",
+   "ingested": "2026-11-02T00:36:04.725032+00:00",
+   "headline": "S. Korean Manufacturing PMI Actual 51.3 (Forecast -, Previous 53.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831704,
    "ts": "2026-11-02T00:30:04+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-29T23:30:03+00:00",
    "ingested": "2026-10-30T00:35:22.279433+00:00",
    "headline": "Tokyo Core CPI YoY Actual 2.6% (Forecast 2.6%, Previous 2.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828287,
-   "ts": "2026-10-29T23:30:02+00:00",
-   "ingested": "2026-10-30T00:35:22.279442+00:00",
-   "headline": "Tokyo CPI Overall Actual 2.8% (Forecast 2.7%, Previous 2.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828286,
-   "ts": "2026-10-29T23:30:00+00:00",
-   "ingested": "2026-10-30T00:35:22.279453+00:00",
-   "headline": "Japanese Jobs/Applicants Ratio Actual 1.19 (Forecast 1.18, Previous 1.18)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828237,
-   "ts": "2026-10-29T23:00:03+00:00",
-   "ingested": "2026-10-30T00:35:22.279464+00:00",
-   "headline": "S. Korea Sept industrial output surge 9.0% m/m, outpacing poll of 3.4%: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828236,
-   "ts": "2026-10-29T23:00:03+00:00",
-   "ingested": "2026-10-30T00:35:22.279474+00:00",
-   "headline": "S.Korea Sept service sector output rises 0.5% month-on-month: stats office",
    "channel": "rss",
    "source": "financialjuice"
   }
