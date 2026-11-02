@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T19:52:44.248761+00:00",
+ "updated": "2026-11-02T19:54:24.237126+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833211,
+   "ts": "2026-11-02T19:53:14+00:00",
+   "ingested": "2026-11-02T19:54:24.236740+00:00",
+   "headline": "Trump on Iran: It's coming together nicely, that's why oil down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833210,
    "ts": "2026-11-02T19:52:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T12:30:03+00:00",
    "ingested": "2026-10-30T12:31:02.379389+00:00",
    "headline": "US Employment Costs Actual 0.8% (Forecast 0.8%, Previous 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829462,
-   "ts": "2026-10-30T12:30:01+00:00",
-   "ingested": "2026-10-30T12:31:02.379410+00:00",
-   "headline": "Canadian GDP MoM Actual 0% (Forecast 0.2%, Previous 0.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
