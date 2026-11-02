@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T01:09:54.706780+00:00",
+ "updated": "2026-11-02T01:13:24.716153+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831747,
+   "ts": "2026-11-02T01:11:42+00:00",
+   "ingested": "2026-11-02T01:13:24.715867+00:00",
+   "headline": "S.Korea president Lee: future response fund to be strategic investment platform and fiscal stability tool",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831746,
    "ts": "2026-11-02T01:08:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T23:50:13+00:00",
    "ingested": "2026-10-30T00:35:22.279290+00:00",
    "headline": "Japan manufacturers report November output up 0.8% m/m: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828321,
-   "ts": "2026-10-29T23:50:11+00:00",
-   "ingested": "2026-10-30T00:35:22.279301+00:00",
-   "headline": "Japan manufacturers report October output up 5.1% m/m, exceeding previous 3.1% forecast - govt",
    "channel": "rss",
    "source": "financialjuice"
   }
