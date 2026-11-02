@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T05:01:07.309133+00:00",
+ "updated": "2026-11-02T05:02:47.321327+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832001,
+   "ts": "2026-11-02T05:02:23+00:00",
+   "ingested": "2026-11-02T05:02:47.320972+00:00",
+   "headline": "Bank of Japan: rate increases likely to ease inflation, help support consumption",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831978,
    "ts": "2026-11-02T05:00:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T02:46:40+00:00",
    "ingested": "2026-10-30T06:26:50.967088+00:00",
    "headline": "Cyera discusses raising funds in round that could almost double valuation to $20 billion: The Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828570,
-   "ts": "2026-10-30T02:36:20+00:00",
-   "ingested": "2026-10-30T06:26:50.967103+00:00",
-   "headline": "South Korea's national security adviser: South Korea to strongly react to North Korea crossing military demarcation line",
    "channel": "rss",
    "source": "financialjuice"
   }
