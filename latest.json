@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-02T00:46:04.727316+00:00",
+ "updated": "2026-11-02T00:47:44.703743+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831732,
+   "ts": "2026-11-02T00:47:16+00:00",
+   "ingested": "2026-11-02T00:47:44.703447+00:00",
+   "headline": "Japan Finmin Katayama: need to avoid chaotic fluctuations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831731,
+   "ts": "2026-11-02T00:47:02+00:00",
+   "ingested": "2026-11-02T00:47:44.703458+00:00",
+   "headline": "Japan finmin katayama: conditions have gotten better than before",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831730,
+   "ts": "2026-11-02T00:46:43+00:00",
+   "ingested": "2026-11-02T00:47:44.703465+00:00",
+   "headline": "Japan FinMin Katayama: current levels neither good nor bad",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831729,
+   "ts": "2026-11-02T00:46:33+00:00",
+   "ingested": "2026-11-02T00:47:44.703472+00:00",
+   "headline": "Japan finmin Katayama: crucial to maintain stable FX markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831728,
+   "ts": "2026-11-02T00:46:14+00:00",
+   "ingested": "2026-11-02T00:47:44.703479+00:00",
+   "headline": "Japan finmin katayama: pm takaichi says yen undervaluation poses problems",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831721,
    "ts": "2026-11-02T00:45:40+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-10-29T23:42:58+00:00",
    "ingested": "2026-10-30T00:35:22.279346+00:00",
    "headline": "Ukraine\u2019s pause on Russian energy attacks expected to extend beyond US midterm elections and possibly into November - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828308,
-   "ts": "2026-10-29T23:41:17+00:00",
-   "ingested": "2026-10-30T00:35:22.279356+00:00",
-   "headline": "Ukraine pauses attacks on Russian refineries after U.S. pressure - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828294,
-   "ts": "2026-10-29T23:30:14+00:00",
-   "ingested": "2026-10-30T00:35:22.279369+00:00",
-   "headline": "Tokyo area October overall CPI rises 2.8% year on year: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828293,
-   "ts": "2026-10-29T23:30:11+00:00",
-   "ingested": "2026-10-30T00:35:22.279380+00:00",
-   "headline": "Tokyo area October CPI excluding fresh food and energy prices rises 2.6% year on year: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828292,
-   "ts": "2026-10-29T23:30:07+00:00",
-   "ingested": "2026-10-30T00:35:22.279390+00:00",
-   "headline": "Tokyo area October core CPI rises 2.6% year/year, govt: poll +2.6%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828291,
-   "ts": "2026-10-29T23:30:07+00:00",
-   "ingested": "2026-10-30T00:35:22.279400+00:00",
-   "headline": "Japan Sept seasonally adjusted unemployment rate 2.4%: government (Poll: 2.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
