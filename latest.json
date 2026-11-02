@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T22:42:44.343676+00:00",
+ "updated": "2026-11-02T22:47:44.316183+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833422,
+   "ts": "2026-11-02T22:47:00+00:00",
+   "ingested": "2026-11-02T22:47:44.315800+00:00",
+   "headline": "US Supreme Court declines to bar California from counting ballots cast by voters the Trump administration claims are likely noncitizens",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833418,
    "ts": "2026-11-02T22:41:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T13:45:00+00:00",
    "ingested": "2026-10-30T13:46:02.430915+00:00",
    "headline": "US Chicago PMI Actual 55.3 (Forecast 56, Previous 58.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829616,
-   "ts": "2026-10-30T13:44:52+00:00",
-   "ingested": "2026-10-30T13:46:02.430939+00:00",
-   "headline": "Fed's Barkin appearance on \u201cbusiness briefing\u2019 ends.",
    "channel": "rss",
    "source": "financialjuice"
   }
