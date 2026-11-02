@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T14:30:55.372026+00:00",
+ "updated": "2026-11-02T14:32:15.408027+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832738,
+   "ts": "2026-11-02T14:31:40+00:00",
+   "ingested": "2026-11-02T14:32:15.407623+00:00",
+   "headline": "Canadian Manufacturing PMI Actual 49.6 (Forecast -, Previous 51.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832739,
    "ts": "2026-11-02T14:30:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T08:01:39+00:00",
    "ingested": "2026-10-30T10:30:48.855489+00:00",
    "headline": "Spanish Estimated GDP QoQ Actual 0.6% (Forecast 0.6%, Previous 0.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828980,
-   "ts": "2026-10-30T08:01:39+00:00",
-   "ingested": "2026-10-30T10:30:48.855502+00:00",
-   "headline": "Spanish Estimated GDP YoY Actual 2.7% (Forecast 2.7%, Previous 2.6%)",
    "channel": "rss",
    "source": "financialjuice"
   }
