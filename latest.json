@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T15:22:45.412734+00:00",
+ "updated": "2026-11-02T15:24:25.373733+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832862,
+   "ts": "2026-11-02T15:24:03+00:00",
+   "ingested": "2026-11-02T15:24:25.373292+00:00",
+   "headline": "ECB's Moulin: Inflation we have today is well above our 2% objective",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832861,
+   "ts": "2026-11-02T15:23:51+00:00",
+   "ingested": "2026-11-02T15:24:25.373317+00:00",
+   "headline": "ECB's Moulin: For now, the impact on the broader economy is quite moderate.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832860,
    "ts": "2026-11-02T15:22:34+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T09:37:58+00:00",
    "ingested": "2026-10-30T10:30:48.855063+00:00",
    "headline": "ECB's Nagel: ECB's decision to hold wasn't an easy one.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829159,
-   "ts": "2026-10-30T09:37:43+00:00",
-   "ingested": "2026-10-30T10:30:48.855080+00:00",
-   "headline": "ECB's Nagel: No significant 2nd-round effects observed so far.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829148,
-   "ts": "2026-10-30T09:30:43+00:00",
-   "ingested": "2026-10-30T10:30:48.855094+00:00",
-   "headline": "UK October decision maker year-ahead CPI expectations 3.4%.",
    "channel": "rss",
    "source": "financialjuice"
   }
