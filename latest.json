@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T13:06:45.388389+00:00",
+ "updated": "2026-11-02T13:08:25.346884+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832617,
+   "ts": "2026-11-02T13:07:00+00:00",
+   "ingested": "2026-11-02T13:08:25.346484+00:00",
+   "headline": "This tanker had turned off its navigation systems - IRIB News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832616,
    "ts": "2026-11-02T13:05:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:38:24+00:00",
    "ingested": "2026-10-30T10:30:48.855963+00:00",
    "headline": "BoJ's Governor Ueda: Japan's financial conditions are accommodative.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828839,
-   "ts": "2026-10-30T06:36:08+00:00",
-   "ingested": "2026-10-30T10:30:48.855978+00:00",
-   "headline": "BoJ's Governor Ueda: We need to watch impact of FX, AI and Middle East.",
    "channel": "rss",
    "source": "financialjuice"
   }
