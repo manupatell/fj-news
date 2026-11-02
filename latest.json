@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T11:06:21.274006+00:00",
+ "updated": "2026-11-02T11:11:21.269144+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832445,
+   "ts": "2026-11-02T11:10:42+00:00",
+   "ingested": "2026-11-02T11:11:21.268794+00:00",
+   "headline": "Trump, asked if he thinks elections will be secure: No.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832429,
    "ts": "2026-11-02T10:45:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T06:00:17+00:00",
    "ingested": "2026-10-30T06:26:50.966007+00:00",
    "headline": "Finnish September GDP increases 2.0% year on year: Statistics Finland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828791,
-   "ts": "2026-10-30T05:58:30+00:00",
-   "ingested": "2026-10-30T06:26:50.966025+00:00",
-   "headline": "Local residents can evacuate Oleshky until 1400 local time on October 30: Russian human rights commissioner says",
    "channel": "rss",
    "source": "financialjuice"
   }
