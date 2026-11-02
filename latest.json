@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T04:56:07.308897+00:00",
+ "updated": "2026-11-02T05:01:07.309133+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831978,
+   "ts": "2026-11-02T05:00:04+00:00",
+   "ingested": "2026-11-02T05:01:07.308806+00:00",
+   "headline": "India HSBC and S&P Global October final manufacturing PMI at 54.7, forecast 54.8",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831977,
    "ts": "2026-11-02T04:54:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T02:36:20+00:00",
    "ingested": "2026-10-30T06:26:50.967103+00:00",
    "headline": "South Korea's national security adviser: South Korea to strongly react to North Korea crossing military demarcation line",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828569,
-   "ts": "2026-10-30T02:36:20+00:00",
-   "ingested": "2026-10-30T06:26:50.967118+00:00",
-   "headline": "South Korea's national security adviser: Seoul to maintain support for Ukraine as part of global community",
    "channel": "rss",
    "source": "financialjuice"
   }
