@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T07:48:01.221085+00:00",
+ "updated": "2026-11-02T07:49:41.225572+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832219,
+   "ts": "2026-11-02T07:49:08+00:00",
+   "ingested": "2026-11-02T07:49:41.225216+00:00",
+   "headline": "Draft proposal circulated for feedback; follow-up meeting possible, official briefed on talks: source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832218,
    "ts": "2026-11-02T07:47:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T03:10:42+00:00",
    "ingested": "2026-10-30T06:26:50.966456+00:00",
    "headline": "BOJ on risks: recent surge in grain prices amid geopolitical tensions in Middle East and global weather conditions warrants attention as potential concern",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828631,
-   "ts": "2026-10-30T03:10:28+00:00",
-   "ingested": "2026-10-30T06:26:50.966469+00:00",
-   "headline": "Boj: inflation expectations fluctuating near 2%",
    "channel": "rss",
    "source": "financialjuice"
   }
