@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T10:09:41.252669+00:00",
+ "updated": "2026-11-02T10:19:41.330384+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832406,
+   "ts": "2026-11-02T10:18:49+00:00",
+   "ingested": "2026-11-02T10:19:41.330001+00:00",
+   "headline": "ECB's Vujcic: AI valuations are one of the risks highlighted in financial stability review.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832357,
    "ts": "2026-11-02T09:38:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T05:01:28+00:00",
    "ingested": "2026-10-30T06:26:50.966094+00:00",
    "headline": "Russia hits port facilities in Odesa region, cargo ships: Russian newswires quote defence ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828729,
-   "ts": "2026-10-30T05:00:43+00:00",
-   "ingested": "2026-10-30T06:26:50.966114+00:00",
-   "headline": "Russia hits military and energy sites in Ukraine\u2019s Kyiv and Dnipropetrovsk region: Russian newswires cite defense ministry",
    "channel": "rss",
    "source": "financialjuice"
   }
