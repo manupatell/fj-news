@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-02T19:28:44.245116+00:00",
+ "updated": "2026-11-02T19:32:04.246674+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833202,
+   "ts": "2026-11-02T19:31:41+00:00",
+   "ingested": "2026-11-02T19:32:04.246241+00:00",
+   "headline": "NYMEX Nat Gas December futures settle at $2.8560/MMBtu",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833188,
+   "ts": "2026-11-02T19:31:12+00:00",
+   "ingested": "2026-11-02T19:32:04.246263+00:00",
+   "headline": "NYMEX diesel December futures settle at $4.4216 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833187,
+   "ts": "2026-11-02T19:31:05+00:00",
+   "ingested": "2026-11-02T19:32:04.246279+00:00",
+   "headline": "NYMEX gasoline December futures settle at $2.9001 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833184,
+   "ts": "2026-11-02T19:30:59+00:00",
+   "ingested": "2026-11-02T19:32:04.246295+00:00",
+   "headline": "NYMEX WTI Crude Dec. futures settle at $96.46 a barrel down $7.66, 7.36%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833178,
    "ts": "2026-11-02T19:28:29+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-10-30T12:15:17+00:00",
    "ingested": "2026-10-30T12:16:02.394806+00:00",
    "headline": "Exxon CEO: Hormuz crude getting back close to pre-war levels.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829429,
-   "ts": "2026-10-30T12:02:14+00:00",
-   "ingested": "2026-10-30T12:02:42.405566+00:00",
-   "headline": "Kremlin: Ukraine is ignoring Trump's request to stop attacks on Russian refineries.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829406,
-   "ts": "2026-10-30T12:00:02+00:00",
-   "ingested": "2026-10-30T12:01:02.379806+00:00",
-   "headline": "Secured Overnight Financing Rate 3.94% October 29 vs 3.94% October 28",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829404,
-   "ts": "2026-10-30T11:47:18+00:00",
-   "ingested": "2026-10-30T11:47:42.379869+00:00",
-   "headline": "$ABBV AbbVie Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829377,
-   "ts": "2026-10-30T11:44:38+00:00",
-   "ingested": "2026-10-30T11:46:02.374462+00:00",
-   "headline": "Iran Navy: Destroyed US unmanned vessel in Eastern Strait of Hormuz - State Media; no US confirmation.",
    "channel": "rss",
    "source": "financialjuice"
   }
