@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T09:01:21.249602+00:00",
+ "updated": "2026-11-02T09:06:21.251098+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832308,
+   "ts": "2026-11-02T09:04:48+00:00",
+   "ingested": "2026-11-02T09:06:21.250711+00:00",
+   "headline": "ECB's Kazimir: The question is increasingly not if further ECB action is needed but how much.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832286,
    "ts": "2026-11-02T09:00:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T04:30:40+00:00",
    "ingested": "2026-10-30T06:26:50.966184+00:00",
    "headline": "Japan September kerosene sales rise 7.3% year on year: Meti",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828710,
-   "ts": "2026-10-30T04:30:40+00:00",
-   "ingested": "2026-10-30T06:26:50.966198+00:00",
-   "headline": "Japan September crude oil imports decline 17.7% year-on-year: Meti",
    "channel": "rss",
    "source": "financialjuice"
   }
