@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T16:16:05.390919+00:00",
+ "updated": "2026-11-02T16:17:50.069928+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832929,
+   "ts": "2026-11-02T16:16:08+00:00",
+   "ingested": "2026-11-02T16:17:50.069520+00:00",
+   "headline": "Fed bids for 3-month bills total $5.9 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832928,
    "ts": "2026-11-02T16:15:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T10:16:32+00:00",
    "ingested": "2026-10-30T10:30:48.854910+00:00",
    "headline": "$CVX Chevron Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829243,
-   "ts": "2026-10-30T10:12:48+00:00",
-   "ingested": "2026-10-30T10:30:48.854925+00:00",
-   "headline": "Apple removed from BofA US 1 list.",
    "channel": "rss",
    "source": "financialjuice"
   }
