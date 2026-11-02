@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T20:02:04.292132+00:00",
+ "updated": "2026-11-02T20:03:44.334929+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833228,
+   "ts": "2026-11-02T20:03:29+00:00",
+   "ingested": "2026-11-02T20:03:44.334458+00:00",
+   "headline": "Trump says 'No' to striking Iran after elections - Pool Report.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833226,
+   "ts": "2026-11-02T20:02:01+00:00",
+   "ingested": "2026-11-02T20:03:44.334485+00:00",
+   "headline": "US Treasury QRA Estimate: Excluding the higher-than-expected beginning-of-quarter cash balance, borrowing estimate is $87 billion higher than May's projection",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833225,
    "ts": "2026-11-02T20:01:51+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T12:56:42+00:00",
    "ingested": "2026-10-30T12:57:42.393425+00:00",
    "headline": "BoJ Interest Rate Probabilities (Updated)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829518,
-   "ts": "2026-10-30T12:52:12+00:00",
-   "ingested": "2026-10-30T12:52:42.384845+00:00",
-   "headline": "US Sentiment: Terrible Tech Earnings Leads to Flight to Safety of Bonds - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829489,
-   "ts": "2026-10-30T12:37:14+00:00",
-   "ingested": "2026-10-30T12:37:42.409869+00:00",
-   "headline": "Russia plans to export 2.15m tons of diesel in November - Tass",
    "channel": "rss",
    "source": "financialjuice"
   }
