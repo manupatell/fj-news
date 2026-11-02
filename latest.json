@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T01:45:47.255710+00:00",
+ "updated": "2026-11-02T01:50:47.254703+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831771,
+   "ts": "2026-11-02T01:46:37+00:00",
+   "ingested": "2026-11-02T01:50:47.254419+00:00",
+   "headline": "Chinese Manufacturing  PMI Actual 52.0 (Forecast 52, Previous 52.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831772,
    "ts": "2026-11-02T01:45:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T00:30:14+00:00",
    "ingested": "2026-10-30T00:35:22.279184+00:00",
    "headline": "Australian Private Sector Credit Actual 0.6% (Forecast 0.5%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828357,
-   "ts": "2026-10-30T00:30:03+00:00",
-   "ingested": "2026-10-30T00:35:22.279197+00:00",
-   "headline": "Australia @3 producer price index rises 1.1% quarter on quarter",
    "channel": "rss",
    "source": "financialjuice"
   }
