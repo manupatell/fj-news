@@ -20860,3 +20860,4 @@
 {"guid": 9832126, "ts": "2026-11-02T06:36:28+00:00", "ingested": "2026-11-02T06:37:47.396966+00:00", "headline": "RBA Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832127, "ts": "2026-11-02T06:36:46+00:00", "ingested": "2026-11-02T06:37:47.396951+00:00", "headline": "RBNZ Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832128, "ts": "2026-11-02T06:37:06+00:00", "ingested": "2026-11-02T06:37:47.396932+00:00", "headline": "SNB Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832144, "ts": "2026-11-02T07:00:05+00:00", "ingested": "2026-11-02T07:01:07.503946+00:00", "headline": "German Real Retail Sales MoM Actual -2% (Forecast 0.4%, Previous 1.3%)", "channel": "rss", "source": "financialjuice"}
