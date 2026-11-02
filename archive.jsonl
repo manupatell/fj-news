@@ -20856,3 +20856,7 @@
 {"guid": 9832122, "ts": "2026-11-02T06:35:14+00:00", "ingested": "2026-11-02T06:36:07.486082+00:00", "headline": "ECB Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832123, "ts": "2026-11-02T06:35:38+00:00", "ingested": "2026-11-02T06:36:07.486068+00:00", "headline": "BoE Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832124, "ts": "2026-11-02T06:35:56+00:00", "ingested": "2026-11-02T06:36:07.486049+00:00", "headline": "BoC Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832125, "ts": "2026-11-02T06:36:12+00:00", "ingested": "2026-11-02T06:37:47.396978+00:00", "headline": "BoJ Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832126, "ts": "2026-11-02T06:36:28+00:00", "ingested": "2026-11-02T06:37:47.396966+00:00", "headline": "RBA Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832127, "ts": "2026-11-02T06:36:46+00:00", "ingested": "2026-11-02T06:37:47.396951+00:00", "headline": "RBNZ Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832128, "ts": "2026-11-02T06:37:06+00:00", "ingested": "2026-11-02T06:37:47.396932+00:00", "headline": "SNB Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
