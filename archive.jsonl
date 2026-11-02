@@ -20979,3 +20979,5 @@
 {"guid": 9832961, "ts": "2026-11-02T16:31:56+00:00", "ingested": "2026-11-02T16:32:50.087502+00:00", "headline": "US 3-Month Bill Bid-to-Cover Actual 2.88 (Forecast -, Previous 3.070)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832963, "ts": "2026-11-02T16:32:05+00:00", "ingested": "2026-11-02T16:32:50.087476+00:00", "headline": "US 6-Month Bill Bid-to-Cover Actual 2.89 (Forecast -, Previous 2.630)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9832964, "ts": "2026-11-02T16:32:05+00:00", "ingested": "2026-11-02T16:32:50.087447+00:00", "headline": "US 6-Month Bill High Yield Actual 4.15% (Forecast -, Previous 4.210%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832962, "ts": "2026-11-02T16:33:37+00:00", "ingested": "2026-11-02T16:39:30.081512+00:00", "headline": "US 3-Month Awarded High Actual 64.280% (Forecast -, Previous 82.290%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9832965, "ts": "2026-11-02T16:33:52+00:00", "ingested": "2026-11-02T16:39:30.081492+00:00", "headline": "US 6-Month Awarded High Actual 49.230% (Forecast -, Previous 61.740%)", "channel": "rss", "source": "financialjuice"}

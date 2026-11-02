@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T16:32:50.088122+00:00",
+ "updated": "2026-11-02T16:39:30.081939+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832965,
+   "ts": "2026-11-02T16:33:52+00:00",
+   "ingested": "2026-11-02T16:39:30.081492+00:00",
+   "headline": "US 6-Month Awarded High Actual 49.230% (Forecast -, Previous 61.740%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9832962,
+   "ts": "2026-11-02T16:33:37+00:00",
+   "ingested": "2026-11-02T16:39:30.081512+00:00",
+   "headline": "US 3-Month Awarded High Actual 64.280% (Forecast -, Previous 82.290%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832964,
    "ts": "2026-11-02T16:32:05+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T10:41:03+00:00",
    "ingested": "2026-10-30T10:45:52.425300+00:00",
    "headline": "IRGC Navy: Two oil tankers that switched off navigation systems were involved in incident, stopped south of Strait of Hormuz after ignoring radio warnings - Iranian Media.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829259,
-   "ts": "2026-10-30T10:18:07+00:00",
-   "ingested": "2026-10-30T10:30:48.854793+00:00",
-   "headline": "ECB's Panetta: ECB can adjust stance promptly if international situation improves or financial tensions act as brake on inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829258,
-   "ts": "2026-10-30T10:17:56+00:00",
-   "ingested": "2026-10-30T10:30:48.854818+00:00",
-   "headline": "ECB's Panetta: Rise in long-term yields must be considered when gradually calibrating monetary policy.",
    "channel": "rss",
    "source": "financialjuice"
   }
