@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T13:46:45.350433+00:00",
+ "updated": "2026-11-02T13:48:25.368777+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9832686,
+   "ts": "2026-11-02T13:46:50+00:00",
+   "ingested": "2026-11-02T13:48:25.368364+00:00",
+   "headline": "Iran's President Pezeshkian on war with the US: We will try to resolve the problem with dialogue - State Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9832671,
    "ts": "2026-11-02T13:45:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T07:45:03+00:00",
    "ingested": "2026-10-30T10:30:48.855682+00:00",
    "headline": "French CPI MoM NSA Prelim Actual 0.4% (Forecast 0.2%, Previous -0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828951,
-   "ts": "2026-10-30T07:45:00+00:00",
-   "ingested": "2026-10-30T10:30:48.855694+00:00",
-   "headline": "French PPI MoM Actual 1.7% (Forecast -, Previous 1.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
