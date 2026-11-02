@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T00:36:04.725349+00:00",
+ "updated": "2026-11-02T00:44:24.709012+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831718,
+   "ts": "2026-11-02T00:43:31+00:00",
+   "ingested": "2026-11-02T00:44:24.708749+00:00",
+   "headline": "Japan finance minister Katayama: will strive to estimate tax revenue precisely, with increased transparency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831703,
    "ts": "2026-11-02T00:31:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T23:30:04+00:00",
    "ingested": "2026-10-30T00:35:22.279423+00:00",
    "headline": "Japanese Unemployment Rate Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828288,
-   "ts": "2026-10-29T23:30:03+00:00",
-   "ingested": "2026-10-30T00:35:22.279433+00:00",
-   "headline": "Tokyo Core CPI YoY Actual 2.6% (Forecast 2.6%, Previous 2.7%)",
    "channel": "rss",
    "source": "financialjuice"
   }
