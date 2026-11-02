@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T22:29:24.333275+00:00",
+ "updated": "2026-11-02T22:31:04.328976+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833401,
+   "ts": "2026-11-02T22:29:44+00:00",
+   "ingested": "2026-11-02T22:31:04.328557+00:00",
+   "headline": "Apple forecasts services revenue to increase 8% to 9% in fiscal first quarter: CFO on conf call",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833400,
    "ts": "2026-11-02T22:28:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T13:43:05+00:00",
    "ingested": "2026-10-30T13:44:22.436490+00:00",
    "headline": "Fed's Barkin: Businesses say that cost pressures are broad based.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829613,
-   "ts": "2026-10-30T13:42:57+00:00",
-   "ingested": "2026-10-30T13:44:22.436509+00:00",
-   "headline": "Fed's Barkin: Business owners say demand remains solid, with only weakness among non-profits and in the housing sector",
    "channel": "rss",
    "source": "financialjuice"
   }
