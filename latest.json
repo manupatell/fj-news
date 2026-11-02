@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T18:45:24.246306+00:00",
+ "updated": "2026-11-02T18:52:04.304564+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833142,
+   "ts": "2026-11-02T18:51:01+00:00",
+   "ingested": "2026-11-02T18:52:04.304173+00:00",
+   "headline": "UKMTO: A vessel was struck by a projectile on November 1st near Oman",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833135,
    "ts": "2026-11-02T18:44:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T11:40:31+00:00",
    "ingested": "2026-10-30T11:41:02.398032+00:00",
    "headline": "CENTCOM: Reached milestone this week helping Gulf export oil.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829371,
-   "ts": "2026-10-30T11:40:01+00:00",
-   "ingested": "2026-10-30T11:41:02.398056+00:00",
-   "headline": "ECB\u2019s Makhlouf: Holding rates doesn't signal ecb is finished.",
    "channel": "rss",
    "source": "financialjuice"
   }
