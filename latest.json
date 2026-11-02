@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-02T04:54:27.312949+00:00",
+ "updated": "2026-11-02T04:56:07.308897+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831977,
+   "ts": "2026-11-02T04:54:42+00:00",
+   "ingested": "2026-11-02T04:56:07.308476+00:00",
+   "headline": "OpenAI and Inception42 to collaborate on enterprise solutions for major UAE organisations: ADMO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831976,
+   "ts": "2026-11-02T04:54:22+00:00",
+   "ingested": "2026-11-02T04:56:07.308499+00:00",
+   "headline": "OpenAI and Inception42 to collaboratively advance AI adoption in UAE government, enterprise and education: ADMO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831975,
    "ts": "2026-11-02T04:54:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T02:36:20+00:00",
    "ingested": "2026-10-30T06:26:50.967118+00:00",
    "headline": "South Korea's national security adviser: Seoul to maintain support for Ukraine as part of global community",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828568,
-   "ts": "2026-10-30T02:36:20+00:00",
-   "ingested": "2026-10-30T06:26:50.967132+00:00",
-   "headline": "South Korea's national security adviser: US defense secretary Hegseth reconfirms Washington's readiness on opcon transfer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9828434,
-   "ts": "2026-10-30T01:44:35+00:00",
-   "ingested": "2026-10-30T06:26:50.967151+00:00",
-   "headline": "China's onshore yuan strengthens to 6.66 per dollar in early trade, highest since June 6, 2022",
    "channel": "rss",
    "source": "financialjuice"
   }
