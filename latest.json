@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T01:26:01.521679+00:00",
+ "updated": "2026-11-03T01:29:21.456074+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833661,
+   "ts": "2026-11-03T01:28:23+00:00",
+   "ingested": "2026-11-03T01:29:21.455694+00:00",
+   "headline": "Hong Kong-China financial regulator vice minister: It remains challenging to precisely assess the development and length of upcoming AI-driven economic growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833660,
    "ts": "2026-11-03T01:24:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T16:11:51+00:00",
    "ingested": "2026-10-30T16:13:05.148333+00:00",
    "headline": "Lane: AI companies are more vulnerable to monetary policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829824,
-   "ts": "2026-10-30T16:11:49+00:00",
-   "ingested": "2026-10-30T16:13:05.148355+00:00",
-   "headline": "Lane: Artificial intelligence could boost productivity significantly",
    "channel": "rss",
    "source": "financialjuice"
   }
