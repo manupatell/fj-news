@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T16:26:10.850797+00:00",
+ "updated": "2026-11-03T16:29:30.717462+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835071,
+   "ts": "2026-11-03T16:28:51+00:00",
+   "ingested": "2026-11-03T16:29:30.717157+00:00",
+   "headline": "Greenland's Parliament approves security deal with the United States",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835069,
+   "ts": "2026-11-03T16:28:24+00:00",
+   "ingested": "2026-11-03T16:29:30.717170+00:00",
+   "headline": "Greenland's Parliament approves a security deal with the United States.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835068,
    "ts": "2026-11-03T16:18:05+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-01T17:37:05+00:00",
    "ingested": "2026-11-01T17:38:42.532308+00:00",
    "headline": "Democratic Senator Chris Murphy hospitalized after stroke: senator's chief of staff",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831542,
-   "ts": "2026-11-01T17:33:13+00:00",
-   "ingested": "2026-11-01T17:33:42.578382+00:00",
-   "headline": "Democratic Senator Chris Murphy hospitalized after stroke: senator\u2019s chief of staff, Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831502,
-   "ts": "2026-11-01T15:50:23+00:00",
-   "ingested": "2026-11-01T15:52:02.571189+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed drone launched by Yemen's Houthis toward southern region",
    "channel": "rss",
    "source": "financialjuice"
   }
