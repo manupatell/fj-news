@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T12:14:08.513706+00:00",
+ "updated": "2026-11-03T12:17:28.562834+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834643,
+   "ts": "2026-11-03T12:16:19+00:00",
+   "ingested": "2026-11-03T12:17:28.562391+00:00",
+   "headline": "Qatari mediators expect feedback from US and Iran within 36 hours on new proposal to advance talks - Official Briefed on The Talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834604,
    "ts": "2026-11-03T11:52:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T09:26:41+00:00",
    "ingested": "2026-10-31T09:27:49.310594+00:00",
    "headline": "Iran semi-official Fars news agency: 'enemy' drone strikes two fishing boats 14 nm south of Geshm Island",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830714,
-   "ts": "2026-10-31T09:09:21+00:00",
-   "ingested": "2026-10-31T09:11:09.318856+00:00",
-   "headline": "Danger has passed in Najran: Saudi civil defense",
    "channel": "rss",
    "source": "financialjuice"
   }
