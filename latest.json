@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T12:49:28.528844+00:00",
+ "updated": "2026-11-03T12:56:08.529908+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834676,
+   "ts": "2026-11-03T12:55:35+00:00",
+   "ingested": "2026-11-03T12:56:08.529544+00:00",
+   "headline": "Iranian Ambassador to Egypt on potential proposals: Any message received through official channels will be carefully reviewed, and a response will be provided through the same channels - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834674,
    "ts": "2026-11-03T12:48:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T10:38:15+00:00",
    "ingested": "2026-10-31T10:39:44.162112+00:00",
    "headline": "Iran's supreme leader directs armed forces to revise target list to include all US and Israeli assets within striking range: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830742,
-   "ts": "2026-10-31T10:33:45+00:00",
-   "ingested": "2026-10-31T10:34:44.166342+00:00",
-   "headline": "Iran's Mojtaba Khamenet: Tehran will set timing and conditions for ending any new conflict if enemies restart military or terrorist assaults",
    "channel": "rss",
    "source": "financialjuice"
   }
