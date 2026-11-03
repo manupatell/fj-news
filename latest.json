@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:07:48.552657+00:00",
+ "updated": "2026-11-03T13:09:28.567985+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834720,
+   "ts": "2026-11-03T06:41:42+00:00",
+   "ingested": "2026-11-03T13:09:28.567672+00:00",
+   "headline": "RBNZ Interest Rate Probabilities - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834719,
    "ts": "2026-11-03T13:06:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T12:20:41+00:00",
    "ingested": "2026-10-31T12:21:24.212598+00:00",
    "headline": "Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830756,
-   "ts": "2026-10-31T11:00:22+00:00",
-   "ingested": "2026-10-31T11:01:24.167989+00:00",
-   "headline": "Russia prolongs diesel export prohibition through January: IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
