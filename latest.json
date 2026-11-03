@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T22:06:42.933471+00:00",
+ "updated": "2026-11-03T22:08:22.842104+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835533,
+   "ts": "2026-11-03T22:07:23+00:00",
+   "ingested": "2026-11-03T22:08:22.841816+00:00",
+   "headline": "Canada\u2019s PM Carney: trade negotiators don\u2019t always need talks with USTR, communication lines remain open",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835532,
    "ts": "2026-11-03T22:05:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T01:40:04+00:00",
    "ingested": "2026-11-02T01:40:47.323355+00:00",
    "headline": "S.Korea central bank sells 91-day monetary stabilization bonds at 3.195% yield",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831758,
-   "ts": "2026-11-02T01:23:36+00:00",
-   "ingested": "2026-11-02T01:25:04.713111+00:00",
-   "headline": "S.Korea President Lee: Government expenditure on AI investment to almost double next year to 21.3 trillion won",
    "channel": "rss",
    "source": "financialjuice"
   }
