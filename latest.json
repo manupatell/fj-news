@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T04:51:21.511995+00:00",
+ "updated": "2026-11-03T04:54:41.533433+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834039,
+   "ts": "2026-11-03T04:54:20+00:00",
+   "ingested": "2026-11-03T04:54:41.533066+00:00",
+   "headline": "RBA Governor Bullock: no wage price spiral expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834038,
    "ts": "2026-11-03T04:49:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T19:30:58+00:00",
    "ingested": "2026-10-30T19:31:26.082319+00:00",
    "headline": "CFTC Positions in the Week of October 27th 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830088,
-   "ts": "2026-10-30T19:25:59+00:00",
-   "ingested": "2026-10-30T19:26:26.105778+00:00",
-   "headline": "Big tech holds $3 trillion in spending commitments for the AI boom.",
    "channel": "rss",
    "source": "financialjuice"
   }
