@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T04:10:01.516423+00:00",
+ "updated": "2026-11-03T04:11:41.525711+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833983,
+   "ts": "2026-11-03T04:09:51+00:00",
+   "ingested": "2026-11-03T04:11:41.525316+00:00",
+   "headline": "Brookfield Corp CEO: Energy demand for AI ecosystem is strained in every country",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833982,
    "ts": "2026-11-03T04:08:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T17:31:40+00:00",
    "ingested": "2026-10-30T17:32:46.038475+00:00",
    "headline": "Logan: higher market rates signal investors think monetary policy has work ahead",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829959,
-   "ts": "2026-10-30T17:31:37+00:00",
-   "ingested": "2026-10-30T17:32:46.038484+00:00",
-   "headline": "Logan: financial conditions are boosting the economy",
    "channel": "rss",
    "source": "financialjuice"
   }
