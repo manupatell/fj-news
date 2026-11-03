@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T09:51:48.478300+00:00",
+ "updated": "2026-11-03T09:55:08.465014+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834460,
+   "ts": "2026-11-03T09:54:23+00:00",
+   "ingested": "2026-11-03T09:55:08.464702+00:00",
+   "headline": "China to continue implement moderately loose monetary policy - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834459,
    "ts": "2026-11-03T09:50:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T00:08:42+00:00",
    "ingested": "2026-10-31T00:10:27.000803+00:00",
    "headline": "OpenAI cuts funding goal by $10 billion as tech worries increase - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830349,
-   "ts": "2026-10-30T23:06:33+00:00",
-   "ingested": "2026-10-30T23:07:06.980687+00:00",
-   "headline": "US, South Korea, Japan foreign ministers reaffirm pledge to finalize North Korea denuclearization - Yonhap",
    "channel": "rss",
    "source": "financialjuice"
   }
