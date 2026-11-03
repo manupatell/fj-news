@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:41:08.557359+00:00",
+ "updated": "2026-11-03T13:42:48.557680+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834784,
+   "ts": "2026-11-03T13:42:06+00:00",
+   "ingested": "2026-11-03T13:42:48.557242+00:00",
+   "headline": "The discussion now revolves around the first step and how to announce reaching an interim agreement, followed by the return of both parties to negotiations - Al Araby citing sources close to the mediation team",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834783,
    "ts": "2026-11-03T13:39:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T16:24:24+00:00",
    "ingested": "2026-10-31T16:25:09.878314+00:00",
    "headline": "US Secretary of State Rubio: to announce soon a quad leaders summit in Manila next month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830893,
-   "ts": "2026-10-31T16:15:10+00:00",
-   "ingested": "2026-10-31T16:16:49.885326+00:00",
-   "headline": "Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry",
    "channel": "rss",
    "source": "financialjuice"
   }
