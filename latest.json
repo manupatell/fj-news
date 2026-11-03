@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T04:38:01.592090+00:00",
+ "updated": "2026-11-03T04:39:41.523635+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834014,
+   "ts": "2026-11-03T04:38:35+00:00",
+   "ingested": "2026-11-03T04:39:41.523207+00:00",
+   "headline": "Not a favorable situation to be in",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834012,
+   "ts": "2026-11-03T04:37:54+00:00",
+   "ingested": "2026-11-03T04:39:41.523227+00:00",
+   "headline": "RBA Governor Bullock: inflation is largely set for the next year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834011,
    "ts": "2026-11-03T04:36:54+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T18:31:39+00:00",
    "ingested": "2026-10-30T18:33:06.064183+00:00",
    "headline": "NYMEX Diesel November futures settle at $4.7905 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830043,
-   "ts": "2026-10-30T18:31:23+00:00",
-   "ingested": "2026-10-30T18:33:06.064194+00:00",
-   "headline": "NYMEX Gasoline November futures settle at $3.3120 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830042,
-   "ts": "2026-10-30T18:31:10+00:00",
-   "ingested": "2026-10-30T18:31:26.070131+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $104.12 a barrel, up $2.12, 2.08%.",
    "channel": "rss",
    "source": "financialjuice"
   }
