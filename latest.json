@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T01:22:41.473490+00:00",
+ "updated": "2026-11-03T01:26:01.521679+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833660,
+   "ts": "2026-11-03T01:24:19+00:00",
+   "ingested": "2026-11-03T01:26:01.521225+00:00",
+   "headline": "China's offshore yuan declines 0.26% to 6.6642 per dollar, largest daily drop since June",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833659,
+   "ts": "2026-11-03T01:24:11+00:00",
+   "ingested": "2026-11-03T01:26:01.521248+00:00",
+   "headline": "Hong Kong-China financial regulator vice minister: global central banks often send mixed, inconsistent, and sometimes conflicting policy signals",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833658,
    "ts": "2026-11-03T01:21:53+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T16:11:49+00:00",
    "ingested": "2026-10-30T16:13:05.148355+00:00",
    "headline": "Lane: Artificial intelligence could boost productivity significantly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829823,
-   "ts": "2026-10-30T16:11:48+00:00",
-   "ingested": "2026-10-30T16:13:05.148371+00:00",
-   "headline": "Lane: AI is driving both growth and credit trends",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829822,
-   "ts": "2026-10-30T16:11:31+00:00",
-   "ingested": "2026-10-30T16:13:05.148386+00:00",
-   "headline": "ECB's Lane: AI is already supporting euro area activity",
    "channel": "rss",
    "source": "financialjuice"
   }
