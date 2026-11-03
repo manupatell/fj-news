@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T04:43:01.520739+00:00",
+ "updated": "2026-11-03T04:44:41.499172+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834019,
+   "ts": "2026-11-03T04:44:10+00:00",
+   "ingested": "2026-11-03T04:44:41.498775+00:00",
+   "headline": "RBA governor Bullock: unemployment remains relatively low, job growth continues",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834018,
+   "ts": "2026-11-03T04:43:01+00:00",
+   "ingested": "2026-11-03T04:44:41.498797+00:00",
+   "headline": "RBA Governor Bullock: monetary policy will be effective, requires time to take effect",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834017,
    "ts": "2026-11-03T04:41:20+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T18:48:03+00:00",
    "ingested": "2026-10-30T18:49:46.090769+00:00",
    "headline": "Brent Crude futures settle at $117.64/bbl, up $2.76, 2.4%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830059,
-   "ts": "2026-10-30T18:47:02+00:00",
-   "ingested": "2026-10-30T18:48:06.054384+00:00",
-   "headline": "Yemen Government Forces Spokesperson: The Houthis attacked Aden Airport and the Maashiq Presidential Palace Complex with ballistic missiles.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830050,
-   "ts": "2026-10-30T18:43:42+00:00",
-   "ingested": "2026-10-30T18:44:46.135527+00:00",
-   "headline": "Anthropic is in talks to lease data centre near Edmonton - Globe.",
    "channel": "rss",
    "source": "financialjuice"
   }
