@@ -1,7 +1,127 @@
 {
- "updated": "2026-11-03T03:27:41.520960+00:00",
+ "updated": "2026-11-03T03:31:01.539125+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833935,
+   "ts": "2026-11-03T03:30:14+00:00",
+   "ingested": "2026-11-03T03:31:01.538410+00:00",
+   "headline": "RBA: today's decision reached by majority",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833934,
+   "ts": "2026-11-03T03:30:11+00:00",
+   "ingested": "2026-11-03T03:31:01.538431+00:00",
+   "headline": "Reserve Bank of Australia sets cash rate at 4.85%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833933,
+   "ts": "2026-11-03T03:30:06+00:00",
+   "ingested": "2026-11-03T03:31:01.538450+00:00",
+   "headline": "Reserve Bank of Australia: board raises cash rate target 25 basis points to 4.85% at today's meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833932,
+   "ts": "2026-11-03T03:30:04+00:00",
+   "ingested": "2026-11-03T03:31:01.538498+00:00",
+   "headline": "RBA forecasts CPI at 4.5% in Q4 2026, 3.7% in Q2 2027, 2.7% in Q4 2027, 2.4% in Q4 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833931,
+   "ts": "2026-11-03T03:30:04+00:00",
+   "ingested": "2026-11-03T03:31:01.538535+00:00",
+   "headline": "RBA forecasts unemployment at 4.7% in Q4 2026, 4.8% in Q2 2027, 4.9% in Q4 2027, 5.1% in Q4 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833930,
+   "ts": "2026-11-03T03:30:04+00:00",
+   "ingested": "2026-11-03T03:31:01.538571+00:00",
+   "headline": "RBA: forecasts trimmed mean CPI at 3.6% in Q4 2026, 3.5% in Q2 2027, 2.9% in Q4 2027, 2.6% in Q4 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833929,
+   "ts": "2026-11-03T03:30:04+00:00",
+   "ingested": "2026-11-03T03:31:01.538589+00:00",
+   "headline": "RBA lifts near-term GDP forecasts on data centre investments, lowers long-term outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833927,
+   "ts": "2026-11-03T03:30:04+00:00",
+   "ingested": "2026-11-03T03:31:01.538607+00:00",
+   "headline": "RBA: cash rate expected above average 4.7% in Q4 2026, 4.9% in Q2 2027, 4.8% in Q4 2027, 4.8% in Q4 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833926,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538624+00:00",
+   "headline": "RBA forecasts GDP growth of 1.6% in Q4 2026, 1.6% in Q2 2027, 1.3% in Q4 2027, 1.5% in Q4 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833925,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538639+00:00",
+   "headline": "RBA: A$ TWI matches estimates of long-run equilibrium, remains 5% higher for year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833924,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538655+00:00",
+   "headline": "RBA: inflation remains high across sectors, increasing for market services, rents, and durables",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833923,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538670+00:00",
+   "headline": "RBA: unemployment climbs above forecasts, mainly driven by stronger labor supply",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833922,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538685+00:00",
+   "headline": "RBA: cash rate trajectory at upper neutral range, house prices and lending decline",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833921,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538700+00:00",
+   "headline": "RBA: domestic financial conditions seen as restrictive, but subject to uncertainty",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833920,
+   "ts": "2026-11-03T03:30:03+00:00",
+   "ingested": "2026-11-03T03:31:01.538714+00:00",
+   "headline": "Rba: Business loans stay robust, bank credit remains accessible",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833919,
    "ts": "2026-11-03T03:26:17+00:00",
@@ -3879,126 +3999,6 @@
    "ts": "2026-10-30T17:01:18+00:00",
    "ingested": "2026-10-30T17:02:26.104747+00:00",
    "headline": "US Baker Hughes Oil Rig Count Actual 462 (Forecast -, Previous 460)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829898,
-   "ts": "2026-10-30T16:59:40+00:00",
-   "ingested": "2026-10-30T17:00:46.042197+00:00",
-   "headline": "Fed's Musalem: I'm focused on preventing second round inflation impact like in service sector.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829897,
-   "ts": "2026-10-30T16:53:05+00:00",
-   "ingested": "2026-10-30T16:56:56.020536+00:00",
-   "headline": "Fed's Musalem: Policy rules are useful for monetary policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829896,
-   "ts": "2026-10-30T16:51:27+00:00",
-   "ingested": "2026-10-30T16:56:56.020555+00:00",
-   "headline": "Fed's Musalem: Communications is not necessarily the same as forward guidance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829895,
-   "ts": "2026-10-30T16:50:29+00:00",
-   "ingested": "2026-10-30T16:56:56.020569+00:00",
-   "headline": "Fed's Musalem: It's really important for public to understand how central bank thinks and acts.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829889,
-   "ts": "2026-10-30T16:46:59+00:00",
-   "ingested": "2026-10-30T16:56:56.020582+00:00",
-   "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829875,
-   "ts": "2026-10-30T16:46:07+00:00",
-   "ingested": "2026-10-30T16:56:56.020594+00:00",
-   "headline": "Canada's PM Carney: Canada and EU working towards deepest possible partnership, short of accession.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829873,
-   "ts": "2026-10-30T16:45:26+00:00",
-   "ingested": "2026-10-30T16:56:56.020604+00:00",
-   "headline": "Canada and EU sign agreements on digital trade and competition",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829868,
-   "ts": "2026-10-30T16:45:11+00:00",
-   "ingested": "2026-10-30T16:56:56.020616+00:00",
-   "headline": "Canada's PM Carney: Canada-EU talks to wrap at June EU council meetings. Canada aims to become EU's first associate member.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829867,
-   "ts": "2026-10-30T16:44:36+00:00",
-   "ingested": "2026-10-30T16:56:56.020626+00:00",
-   "headline": "Ukraine has requested an emergency UN security council meeting.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829865,
-   "ts": "2026-10-30T16:34:52+00:00",
-   "ingested": "2026-10-30T16:56:56.020638+00:00",
-   "headline": "Canada, EU agree in joint statement to outline by 2027 summit idea of 'ever-closer association of Canada to EU, short of full membership'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829863,
-   "ts": "2026-10-30T16:33:38+00:00",
-   "ingested": "2026-10-30T16:56:56.020650+00:00",
-   "headline": "CD&R pursues buyout of $40bn payment processor Global Payments - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829859,
-   "ts": "2026-10-30T16:31:50+00:00",
-   "ingested": "2026-10-30T16:56:56.020661+00:00",
-   "headline": "Fed's Musalem: Q3 data confirm the underlying strength of the economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829849,
-   "ts": "2026-10-30T16:31:02+00:00",
-   "ingested": "2026-10-30T16:56:56.020670+00:00",
-   "headline": "Fed's Musalem: inflation expectations remain steady",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829848,
-   "ts": "2026-10-30T16:31:01+00:00",
-   "ingested": "2026-10-30T16:56:56.020680+00:00",
-   "headline": "Fed's Musalem: risks remain tilted toward elevated inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829847,
-   "ts": "2026-10-30T16:30:59+00:00",
-   "ingested": "2026-10-30T16:56:56.020689+00:00",
-   "headline": "Fed's Musalem: wider economy and labor market robust",
    "channel": "rss",
    "source": "financialjuice"
   }
