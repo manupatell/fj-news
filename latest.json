@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T09:55:08.465014+00:00",
+ "updated": "2026-11-03T10:03:28.513514+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834486,
+   "ts": "2026-11-03T10:03:00+00:00",
+   "ingested": "2026-11-03T10:03:28.513157+00:00",
+   "headline": "UK 10 Yr Gilt Bid-to-Cover Actual 3.38 (Forecast -, Previous 3.61)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834485,
+   "ts": "2026-11-03T10:02:59+00:00",
+   "ingested": "2026-11-03T10:03:28.513177+00:00",
+   "headline": "UK 10 Yr Gilt Yield Actual 5.268% (Forecast -, Previous 5.418%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834460,
    "ts": "2026-11-03T09:54:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-31T00:46:45+00:00",
    "ingested": "2026-10-31T00:47:07.060721+00:00",
    "headline": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward southern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830379,
-   "ts": "2026-10-31T00:09:11+00:00",
-   "ingested": "2026-10-31T00:10:27.000782+00:00",
-   "headline": "OpenAI is now aiming for about $20 billion at a $1.25 trillion valuation: FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830378,
-   "ts": "2026-10-31T00:08:42+00:00",
-   "ingested": "2026-10-31T00:10:27.000803+00:00",
-   "headline": "OpenAI cuts funding goal by $10 billion as tech worries increase - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
