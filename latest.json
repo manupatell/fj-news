@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-03T03:31:01.539125+00:00",
+ "updated": "2026-11-03T03:32:41.502046+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833944,
+   "ts": "2026-11-03T03:31:54+00:00",
+   "ingested": "2026-11-03T03:32:41.501504+00:00",
+   "headline": "RBA: growth in Australia's key trading partners has exceeded expectations as AI investment boost offsets Middle East conflict impact",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833943,
+   "ts": "2026-11-03T03:31:48+00:00",
+   "ingested": "2026-11-03T03:32:41.501529+00:00",
+   "headline": "RBA: unemployment rate forecast to increase more than expected in August projections",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833928,
+   "ts": "2026-11-03T03:31:43+00:00",
+   "ingested": "2026-11-03T03:32:41.501548+00:00",
+   "headline": "RBA Cash Rate Actual 4.85% (Forecast 4.85%, Previous 4.60%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833942,
+   "ts": "2026-11-03T03:31:31+00:00",
+   "ingested": "2026-11-03T03:32:41.501568+00:00",
+   "headline": "RBA: forecasts show output growth slowing further over the coming year, easing capacity pressures and aiding inflation return to target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833941,
+   "ts": "2026-11-03T03:31:25+00:00",
+   "ingested": "2026-11-03T03:32:41.501587+00:00",
+   "headline": "RBA: capacity constraints seem slightly tighter than earlier thought, with signs that increased fuel costs are being reflected in prices of other goods and services",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833940,
+   "ts": "2026-11-03T03:31:15+00:00",
+   "ingested": "2026-11-03T03:32:41.501604+00:00",
+   "headline": "RBA: inflation now expected to stay above 3% for next year with rising risk of entrenched higher inflation expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833939,
+   "ts": "2026-11-03T03:31:15+00:00",
+   "ingested": "2026-11-03T03:32:41.501620+00:00",
+   "headline": "RBA: AI-related spending fuels sharp rise in tech goods prices, many goods and services see persistent inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833938,
+   "ts": "2026-11-03T03:31:04+00:00",
+   "ingested": "2026-11-03T03:32:41.501634+00:00",
+   "headline": "RBA: cash rate target hikes since start of year have tightened financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833937,
+   "ts": "2026-11-03T03:31:04+00:00",
+   "ingested": "2026-11-03T03:32:41.501652+00:00",
+   "headline": "RBA: with revised inflation outlook and ongoing upside risks, board decides further tightening of financial conditions is necessary to support inflation return to target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833935,
    "ts": "2026-11-03T03:30:14+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-10-30T17:31:37+00:00",
    "ingested": "2026-10-30T17:32:46.038495+00:00",
    "headline": "Logan: after 50 bps of rate increases, a pause would be reasonable to assess appropriate next steps",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829957,
-   "ts": "2026-10-30T17:31:36+00:00",
-   "ingested": "2026-10-30T17:32:46.038505+00:00",
-   "headline": "Logan: inflation not returning to Fed's 2% target is 'unacceptable'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829956,
-   "ts": "2026-10-30T17:31:35+00:00",
-   "ingested": "2026-10-30T17:32:46.038516+00:00",
-   "headline": "Logan: clarifying policy rate target aids economy in adjusting, reaping benefits of a pause",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829955,
-   "ts": "2026-10-30T17:31:33+00:00",
-   "ingested": "2026-10-30T17:32:46.038526+00:00",
-   "headline": "Logan: gradual policy shift aids households, firms, investors in adapting to higher rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829954,
-   "ts": "2026-10-30T17:31:31+00:00",
-   "ingested": "2026-10-30T17:32:46.038535+00:00",
-   "headline": "Logan: ultimate goal is to keep policy moderately restrictive",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829953,
-   "ts": "2026-10-30T17:31:30+00:00",
-   "ingested": "2026-10-30T17:32:46.038545+00:00",
-   "headline": "Logan: Gradual policy adjustment can lower risks of abrupt economic decline",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829952,
-   "ts": "2026-10-30T17:31:29+00:00",
-   "ingested": "2026-10-30T17:32:46.038554+00:00",
-   "headline": "Logan: missing a meeting doesn't alter policy direction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829947,
-   "ts": "2026-10-30T17:31:15+00:00",
-   "ingested": "2026-10-30T17:32:46.038564+00:00",
-   "headline": "Fed's Logan: Fed needs at least two more quarter-point rate hikes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829930,
-   "ts": "2026-10-30T17:21:57+00:00",
-   "ingested": "2026-10-30T17:22:46.043645+00:00",
-   "headline": "Ford CEO aims for a 20% sales jump by 2032 - WSJ. $F",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829915,
-   "ts": "2026-10-30T17:01:18+00:00",
-   "ingested": "2026-10-30T17:02:26.104747+00:00",
-   "headline": "US Baker Hughes Oil Rig Count Actual 462 (Forecast -, Previous 460)",
    "channel": "rss",
    "source": "financialjuice"
   }
