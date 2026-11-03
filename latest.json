@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T11:52:28.523549+00:00",
+ "updated": "2026-11-03T11:54:08.510547+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834604,
+   "ts": "2026-11-03T11:52:27+00:00",
+   "ingested": "2026-11-03T11:54:08.510121+00:00",
+   "headline": "US dollar more likely to trade stronger than expectations in three months - 17 of 30 FX strategists.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834603,
    "ts": "2026-11-03T11:52:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T09:09:21+00:00",
    "ingested": "2026-10-31T09:11:09.318856+00:00",
    "headline": "Danger has passed in Najran: Saudi civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830713,
-   "ts": "2026-10-31T09:06:47+00:00",
-   "ingested": "2026-10-31T09:07:49.305462+00:00",
-   "headline": "Saudi civil defense warns of potential hazard in Najran",
    "channel": "rss",
    "source": "financialjuice"
   }
