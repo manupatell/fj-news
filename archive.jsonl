@@ -21288,3 +21288,6 @@
 {"guid": 9835433, "ts": "2026-11-03T21:14:36+00:00", "ingested": "2026-11-03T21:15:51.423026+00:00", "headline": "ECB's Kocher: ECB will continue to react on inflation when necessary.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9835434, "ts": "2026-11-03T21:15:04+00:00", "ingested": "2026-11-03T21:15:51.423013+00:00", "headline": "ECB's Kocher: Dec. rate hike likely if situation doesn't change.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9835438, "ts": "2026-11-03T21:16:06+00:00", "ingested": "2026-11-03T21:17:46.473814+00:00", "headline": "$AMD Q3 Earnings", "channel": "rss", "source": "financialjuice"}
+{"guid": 9835480, "ts": "2026-11-03T21:45:00+00:00", "ingested": "2026-11-03T21:46:04.090534+00:00", "headline": "New Zealand Unemployment Rate Actual 5.7% (Forecast 5.5%, Previous 5.6%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9835481, "ts": "2026-11-03T21:45:01+00:00", "ingested": "2026-11-03T21:46:04.090524+00:00", "headline": "New Zealand Job Growth QoQ Actual -0.1% (Forecast 0.4%, Previous 0.5%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9835482, "ts": "2026-11-03T21:45:01+00:00", "ingested": "2026-11-03T21:46:04.090512+00:00", "headline": "New Zealand Participation Rate Actual 70.4% (Forecast 70.7%, Previous 70.7%)", "channel": "rss", "source": "financialjuice"}
