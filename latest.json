@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T04:41:21.508086+00:00",
+ "updated": "2026-11-03T04:43:01.520739+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834017,
+   "ts": "2026-11-03T04:41:20+00:00",
+   "ingested": "2026-11-03T04:43:01.520339+00:00",
+   "headline": "RBA Governor Bullock: Probably best to pause and assess incoming data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834016,
    "ts": "2026-11-03T04:41:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T18:43:42+00:00",
    "ingested": "2026-10-30T18:44:46.135527+00:00",
    "headline": "Anthropic is in talks to lease data centre near Edmonton - Globe.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830049,
-   "ts": "2026-10-30T18:34:35+00:00",
-   "ingested": "2026-10-30T18:34:46.068606+00:00",
-   "headline": "A Qatari delegation arrived in Tehran for talks with senior Iranian officials - Press TV.",
    "channel": "rss",
    "source": "financialjuice"
   }
