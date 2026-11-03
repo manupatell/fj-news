@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:42:48.557680+00:00",
+ "updated": "2026-11-03T13:46:08.554969+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834787,
+   "ts": "2026-11-03T13:45:43+00:00",
+   "ingested": "2026-11-03T13:46:08.554564+00:00",
+   "headline": "The announcement will be made step by step and simultaneously - Al Araby, citing sources close to the negotiating team",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834784,
    "ts": "2026-11-03T13:42:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T16:27:42+00:00",
    "ingested": "2026-10-31T16:28:29.892115+00:00",
    "headline": "US Secretary of State Rubio: G20 foreign ministers agree on importance of food security, critical mineral supply chains and navigation freedom",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830898,
-   "ts": "2026-10-31T16:24:24+00:00",
-   "ingested": "2026-10-31T16:25:09.878314+00:00",
-   "headline": "US Secretary of State Rubio: to announce soon a quad leaders summit in Manila next month",
    "channel": "rss",
    "source": "financialjuice"
   }
