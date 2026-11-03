@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T04:03:21.501417+00:00",
+ "updated": "2026-11-03T04:10:01.516423+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833982,
+   "ts": "2026-11-03T04:08:20+00:00",
+   "ingested": "2026-11-03T04:10:01.516012+00:00",
+   "headline": "US judge stops Trump administration from requiring states to set aside votes of suspected noncitizens",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833944,
    "ts": "2026-11-03T03:31:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T17:31:37+00:00",
    "ingested": "2026-10-30T17:32:46.038484+00:00",
    "headline": "Logan: financial conditions are boosting the economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829958,
-   "ts": "2026-10-30T17:31:37+00:00",
-   "ingested": "2026-10-30T17:32:46.038495+00:00",
-   "headline": "Logan: after 50 bps of rate increases, a pause would be reasonable to assess appropriate next steps",
    "channel": "rss",
    "source": "financialjuice"
   }
