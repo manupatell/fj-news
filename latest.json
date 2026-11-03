@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T12:57:48.536392+00:00",
+ "updated": "2026-11-03T13:01:08.530216+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834683,
+   "ts": "2026-11-03T13:00:30+00:00",
+   "ingested": "2026-11-03T13:01:08.529846+00:00",
+   "headline": "Secured Overnight Financing Rate 3.95% Nov. 2 vs 3.95% Oct. 30",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834677,
    "ts": "2026-11-03T12:57:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T10:41:17+00:00",
    "ingested": "2026-10-31T10:43:04.162409+00:00",
    "headline": "Iran's supreme leader urges armed forces to enhance military intelligence and boost domestic defense capabilities - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830744,
-   "ts": "2026-10-31T10:40:25+00:00",
-   "ingested": "2026-10-31T10:41:24.230291+00:00",
-   "headline": "Iran\u2019s supreme leader directs armed forces to boost production of ammunition and weapons for reconnaissance, support and combat operations",
    "channel": "rss",
    "source": "financialjuice"
   }
