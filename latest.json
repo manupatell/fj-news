@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T20:27:28.068070+00:00",
+ "updated": "2026-11-03T20:36:48.040021+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835386,
+   "ts": "2026-11-03T20:35:02+00:00",
+   "ingested": "2026-11-03T20:36:48.039704+00:00",
+   "headline": "UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835331,
    "ts": "2026-11-03T19:46:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T00:30:04+00:00",
    "ingested": "2026-11-02T00:31:04.717613+00:00",
    "headline": "South Korea S&P Global October manufacturing PMI slips to 51.3 from 53.9 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831701,
-   "ts": "2026-11-02T00:30:03+00:00",
-   "ingested": "2026-11-02T00:31:04.717623+00:00",
-   "headline": "Japan S&P Global October final manufacturing PMI steady at 53.3 versus flash estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
