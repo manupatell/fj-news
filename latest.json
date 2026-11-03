@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T23:31:22.871488+00:00",
+ "updated": "2026-11-03T23:36:22.814867+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835631,
+   "ts": "2026-11-03T23:35:54+00:00",
+   "ingested": "2026-11-03T23:36:22.814586+00:00",
+   "headline": "US has no immediate plan to attack Iran, Trump tells FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835572,
    "ts": "2026-11-03T23:00:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T01:45:04+00:00",
    "ingested": "2026-11-02T01:45:47.255319+00:00",
    "headline": "China general manufacturing PMI at 52.0 in October vs forecast 51.6",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831770,
-   "ts": "2026-11-02T01:44:58+00:00",
-   "ingested": "2026-11-02T01:45:47.255341+00:00",
-   "headline": "UKMTO: all crew accounted for, no environmental impact reported so far",
    "channel": "rss",
    "source": "financialjuice"
   }
