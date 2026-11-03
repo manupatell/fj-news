@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T11:42:28.499781+00:00",
+ "updated": "2026-11-03T11:49:08.516426+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834602,
+   "ts": "2026-11-03T11:47:27+00:00",
+   "ingested": "2026-11-03T11:49:08.516089+00:00",
+   "headline": "$PFE Pfizer Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834579,
    "ts": "2026-11-03T11:40:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T07:59:06+00:00",
    "ingested": "2026-10-31T07:59:29.342271+00:00",
    "headline": "Three planes carrying evacuated residents from Russian-controlled Oleshky in Ukraine reach Belarus, Belta news agency reports",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830702,
-   "ts": "2026-10-31T07:44:35+00:00",
-   "ingested": "2026-10-31T07:46:09.288302+00:00",
-   "headline": "Manama - Egyptian foreign minister: extremely concerned new escalation round will be more devastating and significantly impactful",
    "channel": "rss",
    "source": "financialjuice"
   }
