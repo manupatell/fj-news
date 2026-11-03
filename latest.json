@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T21:55:29.830309+00:00",
+ "updated": "2026-11-03T21:55:59.872648+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835500,
+   "ts": "2026-11-03T21:55:24+00:00",
+   "ingested": "2026-11-03T21:55:59.872436+00:00",
+   "headline": "US API Cushing Stock Change Actual 0.511M (Forecast -, Previous -0.453M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835499,
    "ts": "2026-11-03T21:55:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T00:46:43+00:00",
    "ingested": "2026-11-02T00:47:44.703465+00:00",
    "headline": "Japan FinMin Katayama: current levels neither good nor bad",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831729,
-   "ts": "2026-11-02T00:46:33+00:00",
-   "ingested": "2026-11-02T00:47:44.703472+00:00",
-   "headline": "Japan finmin Katayama: crucial to maintain stable FX markets",
    "channel": "rss",
    "source": "financialjuice"
   }

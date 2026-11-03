@@ -21294,3 +21294,4 @@
 {"guid": 9835497, "ts": "2026-11-03T21:54:00+00:00", "ingested": "2026-11-03T21:55:29.830033+00:00", "headline": "US API Crude Stock Change Actual -5.267M (Forecast 2.1M, Previous -2.031M)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9835498, "ts": "2026-11-03T21:54:45+00:00", "ingested": "2026-11-03T21:55:29.830024+00:00", "headline": "US API Gasoline Stock Change Actual 1.427M (Forecast -, Previous 2.39M)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9835499, "ts": "2026-11-03T21:55:05+00:00", "ingested": "2026-11-03T21:55:29.830012+00:00", "headline": "US API Distillate Stock Change Actual -1.192M (Forecast -, Previous 0.38M)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9835500, "ts": "2026-11-03T21:55:24+00:00", "ingested": "2026-11-03T21:55:59.872436+00:00", "headline": "US API Cushing Stock Change Actual 0.511M (Forecast -, Previous -0.453M)", "channel": "rss", "source": "financialjuice"}
