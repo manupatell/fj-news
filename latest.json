@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:09:28.567985+00:00",
+ "updated": "2026-11-03T13:12:48.545072+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834721,
+   "ts": "2026-11-03T13:12:32+00:00",
+   "ingested": "2026-11-03T13:12:48.544701+00:00",
+   "headline": "Meta benchmark debt offering in five parts $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834720,
    "ts": "2026-11-03T06:41:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T12:20:58+00:00",
    "ingested": "2026-10-31T12:21:24.212573+00:00",
    "headline": "Qatari mediation team in regular contact with US negotiators during talks: source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830784,
-   "ts": "2026-10-31T12:20:41+00:00",
-   "ingested": "2026-10-31T12:21:24.212598+00:00",
-   "headline": "Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief",
    "channel": "rss",
    "source": "financialjuice"
   }
