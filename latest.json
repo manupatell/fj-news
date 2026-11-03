@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T05:19:41.513503+00:00",
+ "updated": "2026-11-03T05:21:21.526838+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834113,
+   "ts": "2026-11-03T05:20:17+00:00",
+   "ingested": "2026-11-03T05:21:21.526408+00:00",
+   "headline": "RBA Governor Bullock: board makes policy choices, not trying to shape expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834110,
    "ts": "2026-11-03T05:18:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T19:45:58+00:00",
    "ingested": "2026-10-30T19:46:26.088861+00:00",
    "headline": "GBP Positions Week of October 27th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830116,
-   "ts": "2026-10-30T19:45:42+00:00",
-   "ingested": "2026-10-30T19:46:26.088876+00:00",
-   "headline": "CHF Positions Week of October 27th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
