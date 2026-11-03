@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T05:08:01.507901+00:00",
+ "updated": "2026-11-03T05:09:41.513138+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834103,
+   "ts": "2026-11-03T05:07:56+00:00",
+   "ingested": "2026-11-03T05:09:41.512772+00:00",
+   "headline": "Russian defense ministry: launched extensive strike on Ukraine's energy infrastructure overnight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834102,
    "ts": "2026-11-03T05:06:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T19:44:55+00:00",
    "ingested": "2026-10-30T19:46:26.088906+00:00",
    "headline": "ZN Positions Week of October 27th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830108,
-   "ts": "2026-10-30T19:44:38+00:00",
-   "ingested": "2026-10-30T19:46:26.088914+00:00",
-   "headline": "ZT Positions Week of October 27th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
