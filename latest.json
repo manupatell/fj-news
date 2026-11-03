@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T10:18:28.475557+00:00",
+ "updated": "2026-11-03T10:20:08.475334+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834497,
+   "ts": "2026-11-03T10:18:26+00:00",
+   "ingested": "2026-11-03T10:20:08.474947+00:00",
+   "headline": "The two sides are currently studying the proposal - Qatar's Foreign Ministry Spokesperson.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834496,
    "ts": "2026-11-03T10:18:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T01:31:51+00:00",
    "ingested": "2026-10-31T01:33:07.037783+00:00",
    "headline": "Chinese NBS Manufacturing PMI Actual 49.3 (Forecast 49.9, Previous 50.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830434,
-   "ts": "2026-10-31T01:30:23+00:00",
-   "ingested": "2026-10-31T01:31:27.017149+00:00",
-   "headline": "China October official non-manufacturing PMI drops to 49.7 from September's 50.2",
    "channel": "rss",
    "source": "financialjuice"
   }
