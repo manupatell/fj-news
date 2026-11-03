@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T10:40:48.776339+00:00",
+ "updated": "2026-11-03T10:42:28.474899+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834511,
+   "ts": "2026-11-03T10:41:41+00:00",
+   "ingested": "2026-11-03T10:42:28.474500+00:00",
+   "headline": "SNB's Chairman Schlegel: Swiss GDP should grow moderately after strong 2Q.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834510,
    "ts": "2026-11-03T10:40:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T07:10:24+00:00",
    "ingested": "2026-10-31T07:11:09.287816+00:00",
    "headline": "Saudi civil defense: danger has passed in Jizan city",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830691,
-   "ts": "2026-10-31T07:08:35+00:00",
-   "ingested": "2026-10-31T07:09:29.289491+00:00",
-   "headline": "Saudi civil defense warns of potential threat in Jizan city",
    "channel": "rss",
    "source": "financialjuice"
   }
