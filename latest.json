@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T23:54:04.322565+00:00",
+ "updated": "2026-11-03T00:02:54.382876+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833516,
+   "ts": "2026-11-03T00:01:04+00:00",
+   "ingested": "2026-11-03T00:02:54.382481+00:00",
+   "headline": "Irish consumer confidence 61.6 in October vs 61.1 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833504,
    "ts": "2026-11-02T23:33:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T14:35:43+00:00",
    "ingested": "2026-10-30T14:36:25.114883+00:00",
    "headline": "UAE oil leak from tanker gem no. 2 under control - WAM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829702,
-   "ts": "2026-10-30T14:33:44+00:00",
-   "ingested": "2026-10-30T14:34:45.113133+00:00",
-   "headline": "Exxon: UAE production has returned to levels consistent with historical output.",
    "channel": "rss",
    "source": "financialjuice"
   }
