@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T10:13:28.473773+00:00",
+ "updated": "2026-11-03T10:15:08.510924+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834487,
+   "ts": "2026-11-03T10:14:05+00:00",
+   "ingested": "2026-11-03T10:15:08.510480+00:00",
+   "headline": "Qatari mediation team that went to Tehran on monday night have returned to Doha, talks continue - Qatar's Foreign Ministry Spokesperson",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834486,
    "ts": "2026-11-03T10:03:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T01:30:18+00:00",
    "ingested": "2026-10-31T01:31:27.017185+00:00",
    "headline": "China October official manufacturing PMI at 49.3 vs 50.1 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830400,
-   "ts": "2026-10-31T00:46:45+00:00",
-   "ingested": "2026-10-31T00:47:07.060721+00:00",
-   "headline": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward southern region",
    "channel": "rss",
    "source": "financialjuice"
   }
