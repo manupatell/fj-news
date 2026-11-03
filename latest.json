@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T01:42:41.497884+00:00",
+ "updated": "2026-11-03T01:44:21.480063+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833685,
+   "ts": "2026-11-03T01:43:41+00:00",
+   "ingested": "2026-11-03T01:44:21.479687+00:00",
+   "headline": "China securities regulator vice chair: plans to deepen cross-border regulatory cooperation with Hong Kong, will crack down on fraud in cross-border capital activities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833683,
    "ts": "2026-11-03T01:40:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T16:30:55+00:00",
    "ingested": "2026-10-30T16:56:56.020740+00:00",
    "headline": "Fed's Musalem: inflation remains elevated, unlikely to decline without central bank measures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829841,
-   "ts": "2026-10-30T16:30:55+00:00",
-   "ingested": "2026-10-30T16:56:56.020751+00:00",
-   "headline": "Fed\u2019s Musalem: elevated long-term bond yields fueled by anticipated higher policy rates",
    "channel": "rss",
    "source": "financialjuice"
   }
