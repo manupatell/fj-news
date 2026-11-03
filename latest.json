@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T17:48:00.741099+00:00",
+ "updated": "2026-11-03T17:51:20.764644+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835187,
+   "ts": "2026-11-03T17:50:55+00:00",
+   "ingested": "2026-11-03T17:51:20.764339+00:00",
+   "headline": "Israel tells the US that Iran is weighing chemical weapons use - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835169,
    "ts": "2026-11-03T17:37:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-01T17:45:56+00:00",
    "ingested": "2026-11-01T17:47:02.551149+00:00",
    "headline": "US judge rejects Trump administration's early legal challenge to Alaska Senate race",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831544,
-   "ts": "2026-11-01T17:40:03+00:00",
-   "ingested": "2026-11-01T17:40:22.540739+00:00",
-   "headline": "Democrat Haley Stevens backs Republican Mike Rogers in crucial US Senate race in Michigan - social media post",
    "channel": "rss",
    "source": "financialjuice"
   }
