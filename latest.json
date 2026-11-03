@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T10:35:48.560397+00:00",
+ "updated": "2026-11-03T10:40:48.776339+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834510,
+   "ts": "2026-11-03T10:40:21+00:00",
+   "ingested": "2026-11-03T10:40:48.775899+00:00",
+   "headline": "SNB's Chairman Schlegel: In September, inflation pressure slightly higher than June.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834509,
    "ts": "2026-11-03T10:35:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T07:08:35+00:00",
    "ingested": "2026-10-31T07:09:29.289491+00:00",
    "headline": "Saudi civil defense warns of potential threat in Jizan city",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830667,
-   "ts": "2026-10-31T06:57:19+00:00",
-   "ingested": "2026-10-31T06:57:49.285434+00:00",
-   "headline": "Two killed, five hurt in Ukrainian drone strike on Russia's Bryansk region, governor says",
    "channel": "rss",
    "source": "financialjuice"
   }
