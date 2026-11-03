@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T05:03:01.518118+00:00",
+ "updated": "2026-11-03T05:04:41.517303+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834099,
+   "ts": "2026-11-03T05:04:24+00:00",
+   "ingested": "2026-11-03T05:04:41.516924+00:00",
+   "headline": "RBA governor Bullock: A$ has tracked interest differentials, pass-through to import prices delayed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834098,
+   "ts": "2026-11-03T05:04:22+00:00",
+   "ingested": "2026-11-03T05:04:41.516945+00:00",
+   "headline": "Don't know what next rate move will be: not providing guidance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834052,
    "ts": "2026-11-03T05:02:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T19:43:31+00:00",
    "ingested": "2026-10-30T19:44:46.122765+00:00",
    "headline": "ES CFTC Positions Week of October 27th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830104,
-   "ts": "2026-10-30T19:43:13+00:00",
-   "ingested": "2026-10-30T19:44:46.122775+00:00",
-   "headline": "WTI CFTC Positions Week of October 27th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830103,
-   "ts": "2026-10-30T19:42:57+00:00",
-   "ingested": "2026-10-30T19:44:46.122784+00:00",
-   "headline": "Copper CFTC Positions Week of October 27th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
