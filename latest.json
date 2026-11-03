@@ -1,7 +1,335 @@
 {
- "updated": "2026-11-03T14:01:08.578636+00:00",
+ "updated": "2026-11-03T16:26:10.850797+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835068,
+   "ts": "2026-11-03T16:18:05+00:00",
+   "ingested": "2026-11-03T16:26:10.850091+00:00",
+   "headline": "System initially will not incorporate AI into decision-making processes, launch & other decisions to remain in the hands of commanders - Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835060,
+   "ts": "2026-11-03T16:15:26+00:00",
+   "ingested": "2026-11-03T16:26:10.850107+00:00",
+   "headline": "Japan to bolster defenses with unified missile, artillery systems - Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835056,
+   "ts": "2026-11-03T16:12:36+00:00",
+   "ingested": "2026-11-03T16:26:10.850119+00:00",
+   "headline": "BoC's Gov. Macklem: In current circumstances, does not think fiscal policy is making it harder to get inflation down",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835055,
+   "ts": "2026-11-03T16:11:41+00:00",
+   "ingested": "2026-11-03T16:26:10.850133+00:00",
+   "headline": "Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets \u2013 Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835054,
+   "ts": "2026-11-03T16:04:50+00:00",
+   "ingested": "2026-11-03T16:26:10.850142+00:00",
+   "headline": "Senior Iranian Official: There is no deadline for exchanging messages with Washington through mediators or reviewing responses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835053,
+   "ts": "2026-11-03T16:03:33+00:00",
+   "ingested": "2026-11-03T16:26:10.850153+00:00",
+   "headline": "BoC's Gov. Macklem: Higher oil prices and refinery margins are increasing consumer and business costs, with greater pass-through to inflation expected over the coming year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835052,
+   "ts": "2026-11-03T16:03:05+00:00",
+   "ingested": "2026-11-03T16:26:10.850161+00:00",
+   "headline": "BoC's Gov. Macklem: Growth expected to slow in Q4 due to new US tariffs before recovering in 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835051,
+   "ts": "2026-11-03T16:02:55+00:00",
+   "ingested": "2026-11-03T16:26:10.850171+00:00",
+   "headline": "BoC's Gov. Macklem: GDP is projected to grow 1% in 2026 and approximately 2% in both 2027 and 2028.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835050,
+   "ts": "2026-11-03T16:02:55+00:00",
+   "ingested": "2026-11-03T16:26:10.850179+00:00",
+   "headline": "BoC's Gov. Macklem: Canadian economy showing resilience despite US trade actions, with growth outlook improving modestly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835049,
+   "ts": "2026-11-03T16:02:42+00:00",
+   "ingested": "2026-11-03T16:26:10.850188+00:00",
+   "headline": "BoC's Gov. Macklem: GDP growth reached 3.3% in Q2, with Q3 growth estimated around 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835048,
+   "ts": "2026-11-03T16:02:32+00:00",
+   "ingested": "2026-11-03T16:26:10.850197+00:00",
+   "headline": "BoC's Gov. Macklem: CPI inflation expected to rise to 3.5% by year-end, remain at or above 3% through much of 2027, and return near 2% by mid-2028.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835047,
+   "ts": "2026-11-03T16:02:23+00:00",
+   "ingested": "2026-11-03T16:26:10.850206+00:00",
+   "headline": "BoC's Gov. Macklem: Further rate hikes may be needed, but future decisions will be taken meeting by meeting amid elevated uncertainty.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835046,
+   "ts": "2026-11-03T16:02:07+00:00",
+   "ingested": "2026-11-03T16:26:10.850219+00:00",
+   "headline": "BoC's Gov. Macklem: The outlook for inflation has deteriorated. With the war in the Middle East persisting, global oil prices have increased and are expected to remain higher for longer, which is hitting Canadians at the gas pump and increasing costs for many businesses.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835031,
+   "ts": "2026-11-03T16:00:51+00:00",
+   "ingested": "2026-11-03T16:26:10.850227+00:00",
+   "headline": "US to sell $115 bln 4-week bills on November 5th, to settle on November 10th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834992,
+   "ts": "2026-11-03T15:18:50+00:00",
+   "ingested": "2026-11-03T16:26:10.850234+00:00",
+   "headline": "Fear & Greed Index: 20/100 - Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834991,
+   "ts": "2026-11-03T15:17:48+00:00",
+   "ingested": "2026-11-03T16:26:10.850241+00:00",
+   "headline": "Crypto Fear & Greed Index: 26/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834972,
+   "ts": "2026-11-03T15:16:04+00:00",
+   "ingested": "2026-11-03T16:26:10.850248+00:00",
+   "headline": "Iran rejects reports it's close to a deal with the US - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834964,
+   "ts": "2026-11-03T15:14:54+00:00",
+   "ingested": "2026-11-03T16:26:10.850261+00:00",
+   "headline": "Iran: No new development reached on agreement with the US - IRIB cites negotiating team spokesman on talks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834906,
+   "ts": "2026-11-03T15:00:04+00:00",
+   "ingested": "2026-11-03T16:26:10.850268+00:00",
+   "headline": "US JOLTS Job Openings Actual 7.523M (Forecast 7.164M, Previous 7.079M, Revised 7.19M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834905,
+   "ts": "2026-11-03T15:00:02+00:00",
+   "ingested": "2026-11-03T16:26:10.850276+00:00",
+   "headline": "US Durable Goods Revised Actual 1.9% (Forecast 1.8%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834904,
+   "ts": "2026-11-03T15:00:01+00:00",
+   "ingested": "2026-11-03T16:26:10.850283+00:00",
+   "headline": "US Core Durable Goods Revised Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834903,
+   "ts": "2026-11-03T15:00:00+00:00",
+   "ingested": "2026-11-03T16:26:10.850290+00:00",
+   "headline": "US Factory Orders MoM Actual 1.8% (Forecast 1.2%, Previous 0.1%, Revised 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834898,
+   "ts": "2026-11-03T14:45:51+00:00",
+   "ingested": "2026-11-03T16:26:10.850298+00:00",
+   "headline": "Venezuela's October Oil Exports Hold Steady at 1.08 Million BPD as European Shipments Rise",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834891,
+   "ts": "2026-11-03T14:37:35+00:00",
+   "ingested": "2026-11-03T16:26:10.850306+00:00",
+   "headline": "HSBC cuts Apple's target price to $360 from $366. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834890,
+   "ts": "2026-11-03T14:37:11+00:00",
+   "ingested": "2026-11-03T16:26:10.850313+00:00",
+   "headline": "ECB's Moulin: Euro-area growth is rather resilient",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834889,
+   "ts": "2026-11-03T14:36:43+00:00",
+   "ingested": "2026-11-03T16:26:10.850320+00:00",
+   "headline": "ECB's Moulin: Likely to have to revise down the French GDP forecast",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834888,
+   "ts": "2026-11-03T14:35:59+00:00",
+   "ingested": "2026-11-03T16:26:10.850328+00:00",
+   "headline": "ECB's Moulin: France's 0.4% GDP-growth forecast is optimistic.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834872,
+   "ts": "2026-11-03T14:30:59+00:00",
+   "ingested": "2026-11-03T16:26:10.850335+00:00",
+   "headline": "Meta seeks to raise at least $20b in latest bond sale - WSJ $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834871,
+   "ts": "2026-11-03T14:30:47+00:00",
+   "ingested": "2026-11-03T16:26:10.850343+00:00",
+   "headline": "Binance: Approximately $2.85 billion in digital assets have been frozen or intercepted.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834867,
+   "ts": "2026-11-03T14:27:18+00:00",
+   "ingested": "2026-11-03T16:26:10.850354+00:00",
+   "headline": "Iran's Baqaei: The realization of any understanding depends on a definite commitment to stop the war on all fronts, including in Lebanon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834866,
+   "ts": "2026-11-03T14:26:56+00:00",
+   "ingested": "2026-11-03T16:26:10.850361+00:00",
+   "headline": "Iran's Rezaei: The US must act on 7 conditions for Hormuz to open.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834865,
+   "ts": "2026-11-03T14:26:40+00:00",
+   "ingested": "2026-11-03T16:26:10.850370+00:00",
+   "headline": "Iran Rezaee: The US response to its demands wasn\u2019t convincing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834863,
+   "ts": "2026-11-03T14:26:17+00:00",
+   "ingested": "2026-11-03T16:26:10.850379+00:00",
+   "headline": "Iran's Baqaei: Due to the experience of violation of previous agreements by the US, we participate in any diplomatic process with maximum caution and complete pessimism.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834862,
+   "ts": "2026-11-03T14:25:48+00:00",
+   "ingested": "2026-11-03T16:26:10.850389+00:00",
+   "headline": "Iran's Baghai: We are not afraid of diplomacy and use dialogue as a tool to secure the interests of the Iranian nation and prevent the intensification of insecurity in the region.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834843,
+   "ts": "2026-11-03T14:15:27+00:00",
+   "ingested": "2026-11-03T16:26:10.850397+00:00",
+   "headline": "China's NPC SC hears report from PBOC's Pan on financial work - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834826,
+   "ts": "2026-11-03T14:14:46+00:00",
+   "ingested": "2026-11-03T16:26:10.850404+00:00",
+   "headline": "China to defend stable operation of stock, bond, and FX markets - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834825,
+   "ts": "2026-11-03T14:12:26+00:00",
+   "ingested": "2026-11-03T16:26:10.850413+00:00",
+   "headline": "Meta seeks to raise $15b in the US dollar portion of the bond offering $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834824,
+   "ts": "2026-11-03T14:08:18+00:00",
+   "ingested": "2026-11-03T16:26:10.850420+00:00",
+   "headline": "Moody's assigns AA3 rating to Meta's new SR unsecured notes. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834822,
+   "ts": "2026-11-03T14:06:30+00:00",
+   "ingested": "2026-11-03T16:26:10.850430+00:00",
+   "headline": "Anthropic engineers found Claude cuts the time taken to design chips compared to their estimates of workflows at designers such as NVIDIA, AMD - The Information $NVDA $AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834820,
+   "ts": "2026-11-03T14:04:12+00:00",
+   "ingested": "2026-11-03T16:26:10.850437+00:00",
+   "headline": "Anthropic chip design team using Claude models - The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834800,
+   "ts": "2026-11-03T14:00:59+00:00",
+   "ingested": "2026-11-03T16:26:10.850445+00:00",
+   "headline": "ECB: Forex reserves rose \u20ac300 mln to \u20ac349.6 bln.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834795,
    "ts": "2026-11-03T14:00:07+00:00",
@@ -3671,334 +3999,6 @@
    "ts": "2026-11-01T15:50:23+00:00",
    "ingested": "2026-11-01T15:52:02.571189+00:00",
    "headline": "Saudi-led coalition: intercepted and destroyed drone launched by Yemen's Houthis toward southern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831501,
-   "ts": "2026-11-01T15:48:14+00:00",
-   "ingested": "2026-11-01T15:48:42.490533+00:00",
-   "headline": "Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward southern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831496,
-   "ts": "2026-11-01T15:28:15+00:00",
-   "ingested": "2026-11-01T15:28:42.477264+00:00",
-   "headline": "Saudi civil defense: danger has passed in Abha and Khamis Mushait",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831495,
-   "ts": "2026-11-01T15:20:50+00:00",
-   "ingested": "2026-11-01T15:22:02.467044+00:00",
-   "headline": "Saudi civil defense issues warning of possible threat in Abha and Khamis Mushait",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831472,
-   "ts": "2026-11-01T14:18:33+00:00",
-   "ingested": "2026-11-01T14:20:12.520636+00:00",
-   "headline": "Senator Dan Sullivan: I will accept the results in Alaska US Senate race - CNN interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831464,
-   "ts": "2026-11-01T13:58:05+00:00",
-   "ingested": "2026-11-01T13:58:22.806264+00:00",
-   "headline": "Russia's security service: minor detained after US tip-off over threat to carry out terrorist attack in Tsaritsyno park - Interfax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831456,
-   "ts": "2026-11-01T13:11:40+00:00",
-   "ingested": "2026-11-01T13:13:22.791956+00:00",
-   "headline": "Iran's Foreign Minister Aragchi on talks with Qatari mediators: negotiations ongoing and advancing, no definitive conclusion reached yet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831455,
-   "ts": "2026-11-01T13:10:18+00:00",
-   "ingested": "2026-11-01T13:11:42.789758+00:00",
-   "headline": "Iran's state media citing Foreign Minister Aragchi on talks with Qatari mediators: hope for rationality from other side",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831451,
-   "ts": "2026-11-01T13:01:06+00:00",
-   "ingested": "2026-11-01T13:01:42.819073+00:00",
-   "headline": "Russia\u2019s state statistics service: targeted by cyberattacks between Oct. 29 and Nov. 1; no data breached - Interfax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831435,
-   "ts": "2026-11-01T12:26:08+00:00",
-   "ingested": "2026-11-01T12:26:42.782144+00:00",
-   "headline": "OPEC+ keeps oil output quotas unchanged for December at Sunday meeting: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831434,
-   "ts": "2026-11-01T12:23:29+00:00",
-   "ingested": "2026-11-01T12:25:02.786241+00:00",
-   "headline": "World Bank to sign $1 billion deal with Egypt for second phase of development program: Egyptian cabinet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831417,
-   "ts": "2026-11-01T12:10:38+00:00",
-   "ingested": "2026-11-01T12:11:42.775233+00:00",
-   "headline": "Kremlin: positive assessment of humanitarian operation in Oleshky and coordination between Russian and Ukrainian ombudsmen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831373,
-   "ts": "2026-11-01T11:09:54+00:00",
-   "ingested": "2026-11-01T11:11:42.752905+00:00",
-   "headline": "Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831358,
-   "ts": "2026-11-01T10:33:37+00:00",
-   "ingested": "2026-11-01T10:35:02.741068+00:00",
-   "headline": "Zelenskiy: Ukraine strikes Kamensky plant in Russia\u2019s Rostov region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831322,
-   "ts": "2026-11-01T09:46:28+00:00",
-   "ingested": "2026-11-01T09:48:22.721889+00:00",
-   "headline": "Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831292,
-   "ts": "2026-11-01T07:39:48+00:00",
-   "ingested": "2026-11-01T07:41:07.528027+00:00",
-   "headline": "Russian investigators open criminal case on terrorism over attack on industrial site in Nizhny Novgorod region: TASS cites investigative committee",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831280,
-   "ts": "2026-11-01T06:50:34+00:00",
-   "ingested": "2026-11-01T06:51:07.503290+00:00",
-   "headline": "Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831069,
-   "ts": "2026-11-01T00:00:03+00:00",
-   "ingested": "2026-11-01T00:00:21.342158+00:00",
-   "headline": "S.Korea Oct trade surplus provisional $42.50 billion vs $49.97 billion in Sept",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831068,
-   "ts": "2026-11-01T00:00:03+00:00",
-   "ingested": "2026-11-01T00:00:21.342174+00:00",
-   "headline": "S. Korea October imports rise 36.0% y/y, below poll of 39.9%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831067,
-   "ts": "2026-11-01T00:00:03+00:00",
-   "ingested": "2026-11-01T00:00:21.342186+00:00",
-   "headline": "S.Korea Oct exports rise 93.7% y/y, beating poll of 93.2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831020,
-   "ts": "2026-10-31T21:28:48+00:00",
-   "ingested": "2026-10-31T21:30:21.296505+00:00",
-   "headline": "FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830986,
-   "ts": "2026-10-31T19:01:29+00:00",
-   "ingested": "2026-10-31T19:01:49.917270+00:00",
-   "headline": "Iran\u2019s security chief Rezaei: Strait of Hormuz to stay closed until Tehran\u2019s conditions fulfilled",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830953,
-   "ts": "2026-10-31T18:58:53+00:00",
-   "ingested": "2026-10-31T19:00:09.911228+00:00",
-   "headline": "Iran\u2019s Rezaei: Iran\u2019s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830952,
-   "ts": "2026-10-31T18:53:35+00:00",
-   "ingested": "2026-10-31T18:55:09.937379+00:00",
-   "headline": "Iran's Rezaei: War must end permanently, no nation should dare attack Iran again",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830951,
-   "ts": "2026-10-31T18:52:34+00:00",
-   "ingested": "2026-10-31T18:53:29.922307+00:00",
-   "headline": "Iran security chief Rezaei tells state TV: we seriously pursue diplomacy but won\u2019t forsake Iranian people\u2019s rights",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830941,
-   "ts": "2026-10-31T18:27:03+00:00",
-   "ingested": "2026-10-31T18:28:29.919827+00:00",
-   "headline": "Security chief Rezaei: Iran's nuclear issue can be discussed only after US meets Iran's demands - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830939,
-   "ts": "2026-10-31T18:22:05+00:00",
-   "ingested": "2026-10-31T18:23:29.906374+00:00",
-   "headline": "Trade in food and agricultural products should not be used as tool for economic or political coercion: G20 chair says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830935,
-   "ts": "2026-10-31T17:56:04+00:00",
-   "ingested": "2026-10-31T17:56:49.904447+00:00",
-   "headline": "Iran security chief Rezaei: no new decision on changing nuclear doctrine, debate ongoing if same doctrine should continue in another war",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830930,
-   "ts": "2026-10-31T17:35:14+00:00",
-   "ingested": "2026-10-31T17:36:49.900212+00:00",
-   "headline": "Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830922,
-   "ts": "2026-10-31T16:56:36+00:00",
-   "ingested": "2026-10-31T16:56:49.889246+00:00",
-   "headline": "Iran's navy: oil tanker 'operated in limited zone' - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830921,
-   "ts": "2026-10-31T16:55:48+00:00",
-   "ingested": "2026-10-31T16:56:49.889260+00:00",
-   "headline": "Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830920,
-   "ts": "2026-10-31T16:53:06+00:00",
-   "ingested": "2026-10-31T16:53:29.879177+00:00",
-   "headline": "US Secretary of State Rubio: anticipate Trump, China's Xi to convene at G20 and APEC gatherings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830918,
-   "ts": "2026-10-31T16:46:07+00:00",
-   "ingested": "2026-10-31T16:46:49.885341+00:00",
-   "headline": "US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830916,
-   "ts": "2026-10-31T16:41:23+00:00",
-   "ingested": "2026-10-31T16:41:49.882212+00:00",
-   "headline": "Indian govt releases tax devolution of 1.09 trillion rupees to states as advance instalment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830915,
-   "ts": "2026-10-31T16:39:31+00:00",
-   "ingested": "2026-10-31T16:40:09.884309+00:00",
-   "headline": "US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830914,
-   "ts": "2026-10-31T16:38:45+00:00",
-   "ingested": "2026-10-31T16:40:09.884325+00:00",
-   "headline": "US Secretary of State Rubio: might consider inviting Zelenskiy to G20 leaders summit in December, but decision rests with President Trump",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830913,
-   "ts": "2026-10-31T16:36:59+00:00",
-   "ingested": "2026-10-31T16:38:29.883305+00:00",
-   "headline": "US Secretary of State Rubio: Trump yet to decide on military action against Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830912,
-   "ts": "2026-10-31T16:36:10+00:00",
-   "ingested": "2026-10-31T16:36:49.881951+00:00",
-   "headline": "US Secretary of State Rubio: hopes quad leaders can unveil more initiatives at November meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830911,
-   "ts": "2026-10-31T16:34:16+00:00",
-   "ingested": "2026-10-31T16:35:09.871981+00:00",
-   "headline": "OPEC+ agrees in principle to maintain production targets in December, source says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830910,
-   "ts": "2026-10-31T16:33:35+00:00",
-   "ingested": "2026-10-31T16:35:09.871996+00:00",
-   "headline": "US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830909,
-   "ts": "2026-10-31T16:31:58+00:00",
-   "ingested": "2026-10-31T16:33:29.883319+00:00",
-   "headline": "US Secretary of State Rubio: India, Turkey propose plans to resume grain shipments in Black Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830901,
-   "ts": "2026-10-31T16:29:32+00:00",
-   "ingested": "2026-10-31T16:30:09.888536+00:00",
-   "headline": "US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict",
    "channel": "rss",
    "source": "financialjuice"
   }
