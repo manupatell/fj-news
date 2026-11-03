@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T08:21:38.518168+00:00",
+ "updated": "2026-11-03T08:30:08.452792+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834331,
+   "ts": "2026-11-03T08:29:15+00:00",
+   "ingested": "2026-11-03T08:30:08.452382+00:00",
+   "headline": "Aramco CEO: Tanker attacks eliminated 15% of effective capacity.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834321,
    "ts": "2026-11-03T08:12:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T21:20:27+00:00",
    "ingested": "2026-10-30T21:21:26.162327+00:00",
    "headline": "Russia's Lavrov: unclear what Ukraine will bring to new settlement talks but Zelenskiy's mention of long-range strikes is unhelpful",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830236,
-   "ts": "2026-10-30T21:20:27+00:00",
-   "ingested": "2026-10-30T21:21:26.162344+00:00",
-   "headline": "Lavrov: Russia's stance on a Ukraine settlement unchanged, Moscow rejects military threat from Ukraine",
    "channel": "rss",
    "source": "financialjuice"
   }
