@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:27:48.619217+00:00",
+ "updated": "2026-11-03T13:29:28.560054+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834759,
+   "ts": "2026-11-03T13:27:44+00:00",
+   "ingested": "2026-11-03T13:29:28.559685+00:00",
+   "headline": "Washington has approved the draft memorandum of understanding - Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834758,
    "ts": "2026-11-03T13:26:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T16:00:27+00:00",
    "ingested": "2026-10-31T16:01:49.870944+00:00",
    "headline": "Turkey\u2019s President Erdogan: discussed navigation safety in Black Sea with Ukraine\u2019s Zelenskiy during meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830876,
-   "ts": "2026-10-31T15:18:13+00:00",
-   "ingested": "2026-10-31T15:19:44.263902+00:00",
-   "headline": "Russia's FSB: Information has been received from the US regarding plans for a terrorist attack in Moscow - RIA",
    "channel": "rss",
    "source": "financialjuice"
   }
