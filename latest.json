@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T04:34:41.501728+00:00",
+ "updated": "2026-11-03T04:36:21.500953+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834009,
+   "ts": "2026-11-03T04:35:21+00:00",
+   "ingested": "2026-11-03T04:36:21.500565+00:00",
+   "headline": "China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834008,
+   "ts": "2026-11-03T04:35:09+00:00",
+   "ingested": "2026-11-03T04:36:21.500588+00:00",
+   "headline": "RBA Governor Bullock: some hardship now will avoid more pain later",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834007,
    "ts": "2026-11-03T04:33:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T17:45:40+00:00",
    "ingested": "2026-10-30T17:46:26.043343+00:00",
    "headline": "Pakistan military spokesman: additional forces for Saudi defense hinge on situation, political decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829971,
-   "ts": "2026-10-30T17:45:39+00:00",
-   "ingested": "2026-10-30T17:46:26.043361+00:00",
-   "headline": "Pakistan military spokesman: no restriction on Iran joining Mecca joint defense pact, decision rests with three main parties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829970,
-   "ts": "2026-10-30T17:45:29+00:00",
-   "ingested": "2026-10-30T17:46:26.043377+00:00",
-   "headline": "Pakistan Military Spokesman: Pakistan military is \u2018cautiously optimistic\u2019 on Iran-US mediation, warns of 'powerful spoilers.",
    "channel": "rss",
    "source": "financialjuice"
   }
