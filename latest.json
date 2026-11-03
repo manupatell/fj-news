@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-03T22:03:49.878188+00:00",
+ "updated": "2026-11-03T22:05:29.872056+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835530,
+   "ts": "2026-11-03T22:04:38+00:00",
+   "ingested": "2026-11-03T22:05:29.871680+00:00",
+   "headline": "Canada's PM Carney: key issues remain, but progress achieved",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835529,
+   "ts": "2026-11-03T22:04:14+00:00",
+   "ingested": "2026-11-03T22:05:29.871695+00:00",
+   "headline": "Canada\u2019s PM Carney: some red lines remain to be addressed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835528,
+   "ts": "2026-11-03T22:03:56+00:00",
+   "ingested": "2026-11-03T22:05:29.871704+00:00",
+   "headline": "Canada's PM Carney: progress made but US trade talks not yet complete",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835527,
+   "ts": "2026-11-03T22:03:40+00:00",
+   "ingested": "2026-11-03T22:05:29.871712+00:00",
+   "headline": "Canada Prime Minister Carney: talks with US to become more intensive",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835504,
    "ts": "2026-11-03T22:01:44+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-02T01:22:52+00:00",
    "ingested": "2026-11-02T01:23:24.721562+00:00",
    "headline": "China central bank injects 541 billion yuan through overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831747,
-   "ts": "2026-11-02T01:11:42+00:00",
-   "ingested": "2026-11-02T01:13:24.715867+00:00",
-   "headline": "S.Korea president Lee: future response fund to be strategic investment platform and fiscal stability tool",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831746,
-   "ts": "2026-11-02T01:08:29+00:00",
-   "ingested": "2026-11-02T01:09:54.706469+00:00",
-   "headline": "S. Korea President Lee: fresh approach needed to tackle \u2018k-shaped\u2019 growth of widening inequality",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831745,
-   "ts": "2026-11-02T01:06:16+00:00",
-   "ingested": "2026-11-02T01:08:04.707042+00:00",
-   "headline": "South Korea president Lee: annual exports nearing $1 trillion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831737,
-   "ts": "2026-11-02T01:01:02+00:00",
-   "ingested": "2026-11-02T01:01:24.769312+00:00",
-   "headline": "Ireland S&P Global October manufacturing PMI at 55.2 versus 55.5 in September",
    "channel": "rss",
    "source": "financialjuice"
   }
