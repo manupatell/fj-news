@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-03T21:55:59.872648+00:00",
+ "updated": "2026-11-03T22:03:49.878188+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835504,
+   "ts": "2026-11-03T22:01:44+00:00",
+   "ingested": "2026-11-03T22:03:49.877855+00:00",
+   "headline": "AIG Construction Index Actual -26.9 (Forecast -, Previous -6.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835503,
+   "ts": "2026-11-03T22:01:43+00:00",
+   "ingested": "2026-11-03T22:03:49.877868+00:00",
+   "headline": "AIG Manufacturing Index Actual -20.1 (Forecast -, Previous -16.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835502,
+   "ts": "2026-11-03T22:01:43+00:00",
+   "ingested": "2026-11-03T22:03:49.877877+00:00",
+   "headline": "Australian Composite PMI Final Actual 48.2 (Forecast -, Previous 47.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835501,
+   "ts": "2026-11-03T22:01:43+00:00",
+   "ingested": "2026-11-03T22:03:49.877885+00:00",
+   "headline": "Australian Services PMI Final Actual 48.5 (Forecast -, Previous 47.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835500,
    "ts": "2026-11-03T21:55:24+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-02T01:01:02+00:00",
    "ingested": "2026-11-02T01:01:24.769312+00:00",
    "headline": "Ireland S&P Global October manufacturing PMI at 55.2 versus 55.5 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831735,
-   "ts": "2026-11-02T01:00:58+00:00",
-   "ingested": "2026-11-02T01:01:24.769324+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.805% vs 0.805% in prior session start",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831732,
-   "ts": "2026-11-02T00:47:16+00:00",
-   "ingested": "2026-11-02T00:47:44.703447+00:00",
-   "headline": "Japan Finmin Katayama: need to avoid chaotic fluctuations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831731,
-   "ts": "2026-11-02T00:47:02+00:00",
-   "ingested": "2026-11-02T00:47:44.703458+00:00",
-   "headline": "Japan finmin katayama: conditions have gotten better than before",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831730,
-   "ts": "2026-11-02T00:46:43+00:00",
-   "ingested": "2026-11-02T00:47:44.703465+00:00",
-   "headline": "Japan FinMin Katayama: current levels neither good nor bad",
    "channel": "rss",
    "source": "financialjuice"
   }
