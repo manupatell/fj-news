@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T21:13:56.371816+00:00",
+ "updated": "2026-11-03T21:15:51.423260+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835434,
+   "ts": "2026-11-03T21:15:04+00:00",
+   "ingested": "2026-11-03T21:15:51.423013+00:00",
+   "headline": "ECB's Kocher: Dec. rate hike likely if situation doesn't change.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835433,
+   "ts": "2026-11-03T21:14:36+00:00",
+   "ingested": "2026-11-03T21:15:51.423026+00:00",
+   "headline": "ECB's Kocher: ECB will continue to react on inflation when necessary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835432,
    "ts": "2026-11-03T21:13:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T00:31:39+00:00",
    "ingested": "2026-11-02T00:36:04.725024+00:00",
    "headline": "Japanese Mfg PMI Actual 53.3 (Forecast -, Previous 53.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831696,
-   "ts": "2026-11-02T00:31:36+00:00",
-   "ingested": "2026-11-02T00:36:04.725032+00:00",
-   "headline": "S. Korean Manufacturing PMI Actual 51.3 (Forecast -, Previous 53.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831704,
-   "ts": "2026-11-02T00:30:04+00:00",
-   "ingested": "2026-11-02T00:31:04.717601+00:00",
-   "headline": "Taiwan S&P Global October manufacturing PMI at 54.9, down from 56.7 in September",
    "channel": "rss",
    "source": "financialjuice"
   }
