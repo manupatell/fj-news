@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:39:28.558532+00:00",
+ "updated": "2026-11-03T13:41:08.557359+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834783,
+   "ts": "2026-11-03T13:39:58+00:00",
+   "ingested": "2026-11-03T13:41:08.556932+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy confirms Ukraine, Russia, and the US meeting in Abu Dhabi on November 10th-11th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834782,
    "ts": "2026-11-03T13:37:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T16:15:10+00:00",
    "ingested": "2026-10-31T16:16:49.885326+00:00",
    "headline": "Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830892,
-   "ts": "2026-10-31T16:07:16+00:00",
-   "ingested": "2026-10-31T16:08:29.865885+00:00",
-   "headline": "Istanbul: Zelenskiy discusses upcoming meeting of US, Ukraine, Russian peace negotiators with Turkey's Erdogan",
    "channel": "rss",
    "source": "financialjuice"
   }
