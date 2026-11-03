@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T01:19:21.580312+00:00",
+ "updated": "2026-11-03T01:21:01.478146+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833657,
+   "ts": "2026-11-03T01:19:38+00:00",
+   "ingested": "2026-11-03T01:21:01.477767+00:00",
+   "headline": "IRGC captures 2 US MQM-170 drones over Qeshm Island, while destroying the 55th US MQ-9 drone east of the Hormuz Strait - Press TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833656,
    "ts": "2026-11-03T01:17:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T16:10:27+00:00",
    "ingested": "2026-10-30T16:11:25.139083+00:00",
    "headline": "ECB's Lane: AI-related price pressures are visible, but the effect on headline inflation is limited",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829820,
-   "ts": "2026-10-30T16:06:20+00:00",
-   "ingested": "2026-10-30T16:08:05.147267+00:00",
-   "headline": "Fed's Daly: AI really matters for how we think about policy in near and medium term.",
    "channel": "rss",
    "source": "financialjuice"
   }
