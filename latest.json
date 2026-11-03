@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T04:36:21.500953+00:00",
+ "updated": "2026-11-03T04:38:01.592090+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834011,
+   "ts": "2026-11-03T04:36:54+00:00",
+   "ingested": "2026-11-03T04:38:01.591677+00:00",
+   "headline": "RBA Governor Bullock: those favoring a hold wanted to wait longer for data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834010,
+   "ts": "2026-11-03T04:36:14+00:00",
+   "ingested": "2026-11-03T04:38:01.591698+00:00",
+   "headline": "RBA Governor Bullock: voters favoring pause perceived greater downside risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834009,
    "ts": "2026-11-03T04:35:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T18:31:10+00:00",
    "ingested": "2026-10-30T18:31:26.070131+00:00",
    "headline": "NYMEX WTI Crude December futures settle at $104.12 a barrel, up $2.12, 2.08%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829987,
-   "ts": "2026-10-30T17:49:29+00:00",
-   "ingested": "2026-10-30T17:49:46.044736+00:00",
-   "headline": "US SEC Enforcement Director: Agency is examining AI company disclosures. Wants to ensure companies are giving investors a full picture of the risks as AI spending booms.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829972,
-   "ts": "2026-10-30T17:45:40+00:00",
-   "ingested": "2026-10-30T17:46:26.043343+00:00",
-   "headline": "Pakistan military spokesman: additional forces for Saudi defense hinge on situation, political decision",
    "channel": "rss",
    "source": "financialjuice"
   }
