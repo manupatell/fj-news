@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T05:21:21.526838+00:00",
+ "updated": "2026-11-03T05:23:01.509216+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834114,
+   "ts": "2026-11-03T05:21:23+00:00",
+   "ingested": "2026-11-03T05:23:01.508824+00:00",
+   "headline": "RBA Governor Bullock: no forward guidance, market to interpret",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834113,
    "ts": "2026-11-03T05:20:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T19:46:19+00:00",
    "ingested": "2026-10-30T19:48:06.074482+00:00",
    "headline": "JPY Positions Week of October 27th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830117,
-   "ts": "2026-10-30T19:45:58+00:00",
-   "ingested": "2026-10-30T19:46:26.088861+00:00",
-   "headline": "GBP Positions Week of October 27th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
