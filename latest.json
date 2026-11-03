@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T13:12:48.545072+00:00",
+ "updated": "2026-11-03T13:16:08.537646+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834729,
+   "ts": "2026-11-03T13:15:57+00:00",
+   "ingested": "2026-11-03T13:16:08.537240+00:00",
+   "headline": "Trump: Won't be paying more to Israel - Fox News Interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834722,
+   "ts": "2026-11-03T13:14:25+00:00",
+   "ingested": "2026-11-03T13:16:08.537261+00:00",
+   "headline": "Trump: Israel is a helper, the relationship is tremendous - Fox News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834721,
    "ts": "2026-11-03T13:12:32+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-31T13:03:43+00:00",
    "ingested": "2026-10-31T13:04:44.226201+00:00",
    "headline": "Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830805,
-   "ts": "2026-10-31T13:01:15+00:00",
-   "ingested": "2026-10-31T13:03:04.196760+00:00",
-   "headline": "President Zelenskiy: Evacuated residents from Russia-controlled Oleshky arrive in Ukraine from Belarus",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830785,
-   "ts": "2026-10-31T12:20:58+00:00",
-   "ingested": "2026-10-31T12:21:24.212573+00:00",
-   "headline": "Qatari mediation team in regular contact with US negotiators during talks: source",
    "channel": "rss",
    "source": "financialjuice"
   }
