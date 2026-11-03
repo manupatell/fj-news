@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T19:42:08.538872+00:00",
+ "updated": "2026-11-03T19:47:24.224348+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835331,
+   "ts": "2026-11-03T19:46:26+00:00",
+   "ingested": "2026-11-03T19:47:24.224069+00:00",
+   "headline": "Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835321,
    "ts": "2026-11-03T19:31:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T00:30:03+00:00",
    "ingested": "2026-11-02T00:31:04.717623+00:00",
    "headline": "Japan S&P Global October final manufacturing PMI steady at 53.3 versus flash estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831699,
-   "ts": "2026-11-02T00:30:03+00:00",
-   "ingested": "2026-11-02T00:31:04.717631+00:00",
-   "headline": "Australia September private sector home approvals decline 5.3% month-on-month, adjusted",
    "channel": "rss",
    "source": "financialjuice"
   }
