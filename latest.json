@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T10:20:08.475334+00:00",
+ "updated": "2026-11-03T10:25:08.559833+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834498,
+   "ts": "2026-11-03T10:23:32+00:00",
+   "ingested": "2026-11-03T10:25:08.559391+00:00",
+   "headline": "We remain hopeful that there is still chance for a deal to set environment for future negotiations - Qatar's Foreign Ministry Spokesperson.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834497,
    "ts": "2026-11-03T10:18:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T01:31:57+00:00",
    "ingested": "2026-10-31T01:33:07.037763+00:00",
    "headline": "Chinese NBS Non-Manufacturing PMI Actual 49.7 (Forecast 50, Previous 50.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830430,
-   "ts": "2026-10-31T01:31:51+00:00",
-   "ingested": "2026-10-31T01:33:07.037783+00:00",
-   "headline": "Chinese NBS Manufacturing PMI Actual 49.3 (Forecast 49.9, Previous 50.1)",
    "channel": "rss",
    "source": "financialjuice"
   }
