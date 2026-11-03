@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T04:31:21.501217+00:00",
+ "updated": "2026-11-03T04:34:41.501728+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834007,
+   "ts": "2026-11-03T04:33:57+00:00",
+   "ingested": "2026-11-03T04:34:41.501298+00:00",
+   "headline": "China\u2019s central bank: carried out 100 billion yuan of swap deals with financial institutions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9833994,
+   "ts": "2026-11-03T04:33:21+00:00",
+   "ingested": "2026-11-03T04:34:41.501320+00:00",
+   "headline": "RBA Governor Bullock: growth must stay muted, unemployment to climb more",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833993,
    "ts": "2026-11-03T04:30:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-30T17:45:29+00:00",
    "ingested": "2026-10-30T17:46:26.043377+00:00",
    "headline": "Pakistan Military Spokesman: Pakistan military is \u2018cautiously optimistic\u2019 on Iran-US mediation, warns of 'powerful spoilers.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829964,
-   "ts": "2026-10-30T17:31:43+00:00",
-   "ingested": "2026-10-30T17:32:46.038416+00:00",
-   "headline": "Logan: Labor market is balanced, maybe tightening slightly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829963,
-   "ts": "2026-10-30T17:31:42+00:00",
-   "ingested": "2026-10-30T17:32:46.038450+00:00",
-   "headline": "Logan: Economic growth robust, consumer spending steady",
    "channel": "rss",
    "source": "financialjuice"
   }
