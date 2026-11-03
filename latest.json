@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T04:11:41.525711+00:00",
+ "updated": "2026-11-03T04:16:41.555296+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833984,
+   "ts": "2026-11-03T04:15:05+00:00",
+   "ingested": "2026-11-03T04:16:41.554930+00:00",
+   "headline": "Saudi Arabia S&P Global October Composite PMI at 54.0 versus 55.3 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833983,
    "ts": "2026-11-03T04:09:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T17:31:41+00:00",
    "ingested": "2026-10-30T17:32:46.038464+00:00",
    "headline": "Logan: Long-term rates have climbed, but aren't as much of a drag on economy as expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829961,
-   "ts": "2026-10-30T17:31:40+00:00",
-   "ingested": "2026-10-30T17:32:46.038475+00:00",
-   "headline": "Logan: higher market rates signal investors think monetary policy has work ahead",
    "channel": "rss",
    "source": "financialjuice"
   }
