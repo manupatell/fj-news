@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T13:16:08.537646+00:00",
+ "updated": "2026-11-03T13:17:48.570355+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834731,
+   "ts": "2026-11-03T13:16:15+00:00",
+   "ingested": "2026-11-03T13:17:48.569974+00:00",
+   "headline": "US Energy Secretary Wright ends remarks on Fox Business",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834730,
+   "ts": "2026-11-03T13:15:59+00:00",
+   "ingested": "2026-11-03T13:17:48.569995+00:00",
+   "headline": "US Sentiment: Midterm Elections, Geopolitics, & AI in focus - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834729,
    "ts": "2026-11-03T13:15:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-31T13:04:42+00:00",
    "ingested": "2026-10-31T13:06:24.200514+00:00",
    "headline": "Iran's FM to Al Jazeera: no intentions for talks with US officials currently",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830810,
-   "ts": "2026-10-31T13:04:21+00:00",
-   "ingested": "2026-10-31T13:04:44.226178+00:00",
-   "headline": "Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830809,
-   "ts": "2026-10-31T13:03:43+00:00",
-   "ingested": "2026-10-31T13:04:44.226201+00:00",
-   "headline": "Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks",
    "channel": "rss",
    "source": "financialjuice"
   }
