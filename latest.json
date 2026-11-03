@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T13:06:08.588188+00:00",
+ "updated": "2026-11-03T13:07:48.552657+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834719,
+   "ts": "2026-11-03T13:06:54+00:00",
+   "ingested": "2026-11-03T13:07:48.552285+00:00",
+   "headline": "Saudi Arabia: Oil revenues decline 23% in Q3 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834718,
    "ts": "2026-11-03T13:05:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-31T11:00:22+00:00",
    "ingested": "2026-10-31T11:01:24.167989+00:00",
    "headline": "Russia prolongs diesel export prohibition through January: IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830755,
-   "ts": "2026-10-31T10:51:19+00:00",
-   "ingested": "2026-10-31T10:53:04.172161+00:00",
-   "headline": "Ukraine's military: missile fuel plant hit in Russia's Rostov region, fire breaks out",
    "channel": "rss",
    "source": "financialjuice"
   }
