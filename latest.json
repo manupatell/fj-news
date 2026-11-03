@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T09:25:08.459979+00:00",
+ "updated": "2026-11-03T09:33:28.462563+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834433,
+   "ts": "2026-11-03T09:31:49+00:00",
+   "ingested": "2026-11-03T09:33:28.462250+00:00",
+   "headline": "Kremlin: Hope work on 3-way meeting in china later this month between Putin, Trump and Xi will be finalised in coming days.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834354,
    "ts": "2026-11-03T08:34:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T21:42:39+00:00",
    "ingested": "2026-10-30T21:43:06.153782+00:00",
    "headline": "Non-renewal of peacekeeping mission a move toward final resolution of Western Sahara issue at UN, royal palace says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830252,
-   "ts": "2026-10-30T21:39:43+00:00",
-   "ingested": "2026-10-30T21:41:26.108154+00:00",
-   "headline": "Morocco satisfied with non-renewal of UN peacekeeping mission in Western Sahara: attached to ceasefire",
    "channel": "rss",
    "source": "financialjuice"
   }
