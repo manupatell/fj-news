@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T10:15:08.510924+00:00",
+ "updated": "2026-11-03T10:18:28.475557+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9834496,
+   "ts": "2026-11-03T10:18:08+00:00",
+   "ingested": "2026-11-03T10:18:28.475162+00:00",
+   "headline": "Both the US and Iran are committed to the mediation process - Qatar's Foreign Ministry Spokesperson.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9834495,
+   "ts": "2026-11-03T10:17:36+00:00",
+   "ingested": "2026-11-03T10:18:28.475183+00:00",
+   "headline": "Iran claims 3 oil tankers caught fire in Hormuz Tuesday - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9834487,
    "ts": "2026-11-03T10:14:05+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-10-31T01:30:23+00:00",
    "ingested": "2026-10-31T01:31:27.017149+00:00",
    "headline": "China October official non-manufacturing PMI drops to 49.7 from September's 50.2",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830433,
-   "ts": "2026-10-31T01:30:23+00:00",
-   "ingested": "2026-10-31T01:31:27.017168+00:00",
-   "headline": "China October official composite PMI at 49.7",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830431,
-   "ts": "2026-10-31T01:30:18+00:00",
-   "ingested": "2026-10-31T01:31:27.017185+00:00",
-   "headline": "China October official manufacturing PMI at 49.3 vs 50.1 in September",
    "channel": "rss",
    "source": "financialjuice"
   }
