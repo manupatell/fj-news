@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-03T21:46:04.090851+00:00",
+ "updated": "2026-11-03T21:55:29.830309+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835499,
+   "ts": "2026-11-03T21:55:05+00:00",
+   "ingested": "2026-11-03T21:55:29.830012+00:00",
+   "headline": "US API Distillate Stock Change Actual -1.192M (Forecast -, Previous 0.38M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835498,
+   "ts": "2026-11-03T21:54:45+00:00",
+   "ingested": "2026-11-03T21:55:29.830024+00:00",
+   "headline": "US API Gasoline Stock Change Actual 1.427M (Forecast -, Previous 2.39M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835497,
+   "ts": "2026-11-03T21:54:00+00:00",
+   "ingested": "2026-11-03T21:55:29.830033+00:00",
+   "headline": "US API Crude Stock Change Actual -5.267M (Forecast 2.1M, Previous -2.031M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835482,
    "ts": "2026-11-03T21:45:01+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-02T00:46:33+00:00",
    "ingested": "2026-11-02T00:47:44.703472+00:00",
    "headline": "Japan finmin Katayama: crucial to maintain stable FX markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831728,
-   "ts": "2026-11-02T00:46:14+00:00",
-   "ingested": "2026-11-02T00:47:44.703479+00:00",
-   "headline": "Japan finmin katayama: pm takaichi says yen undervaluation poses problems",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831721,
-   "ts": "2026-11-02T00:45:40+00:00",
-   "ingested": "2026-11-02T00:46:04.727011+00:00",
-   "headline": "Japan finmin Katayama: declines to comment on particular fx levels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831719,
-   "ts": "2026-11-02T00:45:13+00:00",
-   "ingested": "2026-11-02T00:46:04.727024+00:00",
-   "headline": "Japan finmin Katayama: joint fx statement with U.S. persists, will act against disorderly moves",
    "channel": "rss",
    "source": "financialjuice"
   }
