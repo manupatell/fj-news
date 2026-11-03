@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T01:21:01.478146+00:00",
+ "updated": "2026-11-03T01:22:41.473490+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9833658,
+   "ts": "2026-11-03T01:21:53+00:00",
+   "ingested": "2026-11-03T01:22:41.473092+00:00",
+   "headline": "China cbank injects 621 bln yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9833657,
    "ts": "2026-11-03T01:19:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-30T16:11:31+00:00",
    "ingested": "2026-10-30T16:13:05.148386+00:00",
    "headline": "ECB's Lane: AI is already supporting euro area activity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9829821,
-   "ts": "2026-10-30T16:10:27+00:00",
-   "ingested": "2026-10-30T16:11:25.139083+00:00",
-   "headline": "ECB's Lane: AI-related price pressures are visible, but the effect on headline inflation is limited",
    "channel": "rss",
    "source": "financialjuice"
   }
