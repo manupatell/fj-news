@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T13:15:25.779100+00:00",
+ "updated": "2026-11-04T13:23:45.847079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836875,
+   "ts": "2026-11-04T13:23:28+00:00",
+   "ingested": "2026-11-04T13:23:45.846633+00:00",
+   "headline": "Google to backstop some Anthropic obligations for Terawulf $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836854,
    "ts": "2026-11-04T13:15:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:01:40+00:00",
    "ingested": "2026-11-02T15:02:45.378246+00:00",
    "headline": "US ISM Manufacturing PMI Actual 55.5 (Forecast 54.5, Previous 54.5)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832783,
-   "ts": "2026-11-02T15:00:01+00:00",
-   "ingested": "2026-11-02T15:01:05.380607+00:00",
-   "headline": "US Construction Spending MoM Actual -1.9% (Forecast 0.3%, Previous 0.9%)",
    "channel": "rss",
    "source": "financialjuice"
   }
