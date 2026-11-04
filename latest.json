@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T00:31:42.818532+00:00",
+ "updated": "2026-11-04T00:33:22.820594+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835693,
+   "ts": "2026-11-04T00:31:40+00:00",
+   "ingested": "2026-11-04T00:33:22.820264+00:00",
+   "headline": "Democratic US Senator Jon Ossoff secures reelection in Georgia - NBC News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835681,
    "ts": "2026-11-04T00:30:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T05:02:23+00:00",
    "ingested": "2026-11-02T05:02:47.320972+00:00",
    "headline": "Bank of Japan: rate increases likely to ease inflation, help support consumption",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831978,
-   "ts": "2026-11-02T05:00:04+00:00",
-   "ingested": "2026-11-02T05:01:07.308806+00:00",
-   "headline": "India HSBC and S&P Global October final manufacturing PMI at 54.7, forecast 54.8",
    "channel": "rss",
    "source": "financialjuice"
   }
