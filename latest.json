@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T01:48:41.046195+00:00",
+ "updated": "2026-11-04T01:52:01.042021+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835769,
+   "ts": "2026-11-04T01:51:04+00:00",
+   "ingested": "2026-11-04T01:52:01.041804+00:00",
+   "headline": "Dollar/Swiss franc down 0.76% at 0.8146",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835768,
    "ts": "2026-11-04T01:47:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:08:56+00:00",
    "ingested": "2026-11-02T06:12:47.374891+00:00",
    "headline": "Dutch Retail Sales YoY Actual 3.3% (Forecast -, Previous 2.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832078,
-   "ts": "2026-11-02T06:03:39+00:00",
-   "ingested": "2026-11-02T06:04:27.359315+00:00",
-   "headline": "Tesla new registrations in Denmark rise 34.31% year-on-year in October, compiler bilstatistik.dk data shows",
    "channel": "rss",
    "source": "financialjuice"
   }
