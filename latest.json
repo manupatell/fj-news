@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T02:50:21.099802+00:00",
+ "updated": "2026-11-04T02:52:01.066384+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835976,
+   "ts": "2026-11-04T02:50:17+00:00",
+   "ingested": "2026-11-04T02:52:01.066035+00:00",
+   "headline": "South Korea, US examining details of North Korean missiles: South Korea defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835975,
    "ts": "2026-11-04T02:49:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:34:06+00:00",
    "ingested": "2026-11-02T06:34:27.381007+00:00",
    "headline": "FX Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832118,
-   "ts": "2026-11-02T06:33:43+00:00",
-   "ingested": "2026-11-02T06:34:27.381027+00:00",
-   "headline": "US Index Futures Implied Volatility",
    "channel": "rss",
    "source": "financialjuice"
   }
