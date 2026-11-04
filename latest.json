@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T05:02:44.585940+00:00",
+ "updated": "2026-11-04T05:04:24.543067+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836168,
+   "ts": "2026-11-04T05:03:44+00:00",
+   "ingested": "2026-11-04T05:04:24.542602+00:00",
+   "headline": "Democrat Peggy Flanagan wins over Republican Michele Tafoya in contest for democratic-held Minnesota Senate seat: Decision Desk HQ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836167,
    "ts": "2026-11-04T05:01:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T09:30:57+00:00",
    "ingested": "2026-11-02T09:31:21.243439+00:00",
    "headline": "UBS: EUR/GBP - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832333,
-   "ts": "2026-11-02T09:30:00+00:00",
-   "ingested": "2026-11-02T09:31:21.243455+00:00",
-   "headline": "UK Manufacturing PMI Final Actual 52.8 (Forecast 52.8, Previous 52.8)",
    "channel": "rss",
    "source": "financialjuice"
   }
