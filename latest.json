@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T20:32:55.617371+00:00",
+ "updated": "2026-11-04T20:34:55.541073+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837475,
+   "ts": "2026-11-04T20:33:19+00:00",
+   "ingested": "2026-11-04T20:34:55.540749+00:00",
+   "headline": "Trump: If I took tariffs off? We have 3,000 plants under construction right now. Every single plant would stop building, right?\u201d- CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837474,
+   "ts": "2026-11-04T20:33:12+00:00",
+   "ingested": "2026-11-04T20:34:55.540764+00:00",
+   "headline": "Trump precludes the possibility of paring back his tariffs - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837473,
    "ts": "2026-11-04T20:32:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T22:28:44+00:00",
    "ingested": "2026-11-02T22:29:24.332873+00:00",
    "headline": "Apple gross margin forecast factors in memory chip expenses, Siri AI costs: CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833398,
-   "ts": "2026-11-02T22:28:24+00:00",
-   "ingested": "2026-11-02T22:29:24.332896+00:00",
-   "headline": "Apple expects 45% to 46% gross margin in fiscal first quarter: CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833397,
-   "ts": "2026-11-02T22:27:53+00:00",
-   "ingested": "2026-11-02T22:29:24.332915+00:00",
-   "headline": "Apple expects 7-10% full company revenue growth in first quarter: CFO on conference call",
    "channel": "rss",
    "source": "financialjuice"
   }
