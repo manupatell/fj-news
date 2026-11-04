@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T18:48:05.512700+00:00",
+ "updated": "2026-11-04T18:49:45.517448+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837341,
+   "ts": "2026-11-04T18:48:14+00:00",
+   "ingested": "2026-11-04T18:49:45.517123+00:00",
+   "headline": "ECB\u2019s Kazaks: There may be a gradual increase in interest rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837340,
    "ts": "2026-11-04T18:47:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T20:01:51+00:00",
    "ingested": "2026-11-02T20:02:04.291493+00:00",
    "headline": "US Treasury Raises July-September Borrowing Estimate to $739 Billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833224,
-   "ts": "2026-11-02T20:01:34+00:00",
-   "ingested": "2026-11-02T20:02:04.291520+00:00",
-   "headline": "US Treasury estimates $739 billion in privately held net marketable borrowing for July-September 2026, assuming an end-September cash balance of $950 billion",
    "channel": "rss",
    "source": "financialjuice"
   }
