@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T19:04:55.557209+00:00",
+ "updated": "2026-11-04T19:06:45.543383+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837362,
+   "ts": "2026-11-04T19:05:50+00:00",
+   "ingested": "2026-11-04T19:06:45.543059+00:00",
+   "headline": "BoE Bank Rate Past Market Reactions & Summary - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837361,
    "ts": "2026-11-04T19:04:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T20:03:29+00:00",
    "ingested": "2026-11-02T20:03:44.334458+00:00",
    "headline": "Trump says 'No' to striking Iran after elections - Pool Report.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833226,
-   "ts": "2026-11-02T20:02:01+00:00",
-   "ingested": "2026-11-02T20:03:44.334485+00:00",
-   "headline": "US Treasury QRA Estimate: Excluding the higher-than-expected beginning-of-quarter cash balance, borrowing estimate is $87 billion higher than May's projection",
    "channel": "rss",
    "source": "financialjuice"
   }
