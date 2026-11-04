@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T06:59:24.567148+00:00",
+ "updated": "2026-11-04T07:04:24.558333+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836328,
+   "ts": "2026-11-04T07:03:55+00:00",
+   "ingested": "2026-11-04T07:04:24.557856+00:00",
+   "headline": "Japan's Dep. Chief Cabinet Sec. Kihara: We will watch market moves with high sense of urgency.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836327,
+   "ts": "2026-11-04T07:03:40+00:00",
+   "ingested": "2026-11-04T07:04:24.557877+00:00",
+   "headline": "Japan's Dep. Chief Cabinet Sec. Kihara: Markets move on various factors.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836220,
    "ts": "2026-11-04T05:56:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T12:39:09+00:00",
    "ingested": "2026-11-02T12:39:41.303792+00:00",
    "headline": "Vitol CEO: Oil market could see a pretty difficult spring.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832577,
-   "ts": "2026-11-02T12:36:40+00:00",
-   "ingested": "2026-11-02T12:38:01.296126+00:00",
-   "headline": "Vitol CEO: Oil demand will take year to recover to 2025 level.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832513,
-   "ts": "2026-11-02T11:42:11+00:00",
-   "ingested": "2026-11-02T11:43:01.347535+00:00",
-   "headline": "Kazakhstan's oil and gas condensate output in October rises 8% from September to 2.08 million barrels per day.",
    "channel": "rss",
    "source": "financialjuice"
   }
