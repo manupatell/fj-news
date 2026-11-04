@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T12:42:05.756440+00:00",
+ "updated": "2026-11-04T12:45:25.761251+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836821,
+   "ts": "2026-11-04T12:44:39+00:00",
+   "ingested": "2026-11-04T12:45:25.760838+00:00",
+   "headline": "Meta gets record \u20ac53 billion demand for debut euro bond sale.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836820,
    "ts": "2026-11-04T12:31:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T14:45:00+00:00",
    "ingested": "2026-11-02T14:45:15.391202+00:00",
    "headline": "US S&P Manufacturing PMI Final Actual 54.9 (Forecast 56, Previous 56.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832759,
-   "ts": "2026-11-02T14:41:44+00:00",
-   "ingested": "2026-11-02T14:41:55.359077+00:00",
-   "headline": "Bank of America: AI Capex and Tighter Financial Conditions Drive Cautious Market Tone - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
