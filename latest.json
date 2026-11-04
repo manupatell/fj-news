@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T18:33:25.498998+00:00",
+ "updated": "2026-11-04T18:41:15.503314+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837322,
+   "ts": "2026-11-04T18:39:39+00:00",
+   "ingested": "2026-11-04T18:41:15.502994+00:00",
+   "headline": "Trump ends remarks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837298,
    "ts": "2026-11-04T18:23:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T19:53:14+00:00",
    "ingested": "2026-11-02T19:54:24.236740+00:00",
    "headline": "Trump on Iran: It's coming together nicely, that's why oil down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833210,
-   "ts": "2026-11-02T19:52:16+00:00",
-   "ingested": "2026-11-02T19:52:44.248286+00:00",
-   "headline": "Brent Crude futures settle at $104.77/bbl, down $8.66, 7.63%",
    "channel": "rss",
    "source": "financialjuice"
   }
