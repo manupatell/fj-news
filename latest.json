@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T10:25:21.362622+00:00",
+ "updated": "2026-11-04T10:33:41.630447+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836648,
+   "ts": "2026-11-04T10:33:21+00:00",
+   "ingested": "2026-11-04T10:33:41.630024+00:00",
+   "headline": "German 15 Yr Bid-to-Cover Actual 1.3 (Forecast -, Previous 2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836647,
+   "ts": "2026-11-04T10:33:21+00:00",
+   "ingested": "2026-11-04T10:33:41.630040+00:00",
+   "headline": "German 15 Yr Bund Yield Actual 3.57% (Forecast -, Previous 3.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836601,
    "ts": "2026-11-04T10:04:34+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T14:27:37+00:00",
    "ingested": "2026-11-02T14:28:15.368636+00:00",
    "headline": "Anthropic 9M revenue $33.2B; Q3 net loss $23.3 billion vs $12.1 billion Y/Y",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832735,
-   "ts": "2026-11-02T14:25:52+00:00",
-   "ingested": "2026-11-02T14:26:15.391366+00:00",
-   "headline": "Stocks of crude oil in the US SPR fell to 282.2 million barrels last week, the lowest level since 1982",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832734,
-   "ts": "2026-11-02T14:20:46+00:00",
-   "ingested": "2026-11-02T14:21:25.363258+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Tehran's conditions for reopening the Strait of Hormuz are clear, if accepted, the Strait will be opened and negotiations will resume; otherwise, the current situation will continue, and Iran will not bow down.",
    "channel": "rss",
    "source": "financialjuice"
   }
