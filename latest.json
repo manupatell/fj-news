@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T14:40:25.810363+00:00",
+ "updated": "2026-11-04T14:45:25.799838+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836995,
+   "ts": "2026-11-04T14:45:00+00:00",
+   "ingested": "2026-11-04T14:45:25.799349+00:00",
+   "headline": "US S&P Services PMI Final Actual 56.1 (Forecast 57.9, Previous 57.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836994,
+   "ts": "2026-11-04T14:45:00+00:00",
+   "ingested": "2026-11-04T14:45:25.799365+00:00",
+   "headline": "US S&P Composite PMI Final Actual 55.9 (Forecast 57.3, Previous 57.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836993,
    "ts": "2026-11-04T14:39:34+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T15:24:53+00:00",
    "ingested": "2026-11-02T15:26:05.411557+00:00",
    "headline": "ECB's Moulin: Can't compare current situation to 2022 inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832863,
-   "ts": "2026-11-02T15:24:18+00:00",
-   "ingested": "2026-11-02T15:26:05.411573+00:00",
-   "headline": "Kazakhstan: Atyrau-Samara oil flows halted after a drone attack.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832862,
-   "ts": "2026-11-02T15:24:03+00:00",
-   "ingested": "2026-11-02T15:24:25.373292+00:00",
-   "headline": "ECB's Moulin: Inflation we have today is well above our 2% objective",
    "channel": "rss",
    "source": "financialjuice"
   }
