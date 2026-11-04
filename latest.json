@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T00:53:22.846012+00:00",
+ "updated": "2026-11-04T01:01:51.083555+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835721,
+   "ts": "2026-11-04T01:01:34+00:00",
+   "ingested": "2026-11-04T01:01:51.083176+00:00",
+   "headline": "Democrat Chris Pappas beats Republican John Sununu in race for democratic-held US Senate seat in New Hampshire: Decision Desk HQ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835720,
+   "ts": "2026-11-04T01:01:28+00:00",
+   "ingested": "2026-11-04T01:01:51.083190+00:00",
+   "headline": "Ireland S&P Global October services PMI rises to 54.3 from 54.1 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835706,
    "ts": "2026-11-04T00:53:06+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T05:05:56+00:00",
    "ingested": "2026-11-02T05:06:07.312058+00:00",
    "headline": "BOJ: average median real interest rates stay at low levels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832003,
-   "ts": "2026-11-02T05:05:32+00:00",
-   "ingested": "2026-11-02T05:06:07.312082+00:00",
-   "headline": "BOJ: Japan\u2019s real interest rates climbing recently, especially in long and super-long zones",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832002,
-   "ts": "2026-11-02T05:04:31+00:00",
-   "ingested": "2026-11-02T05:06:07.312101+00:00",
-   "headline": "BOJ: underlying inflation has picked up to about 2%, gradually embedding around that level in recent years",
    "channel": "rss",
    "source": "financialjuice"
   }
