@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T01:12:01.088150+00:00",
+ "updated": "2026-11-04T01:13:41.046407+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835724,
+   "ts": "2026-11-04T01:12:40+00:00",
+   "ingested": "2026-11-04T01:13:41.046066+00:00",
+   "headline": "Democrat Chris Pappas defeats Republican John Sununu in contest for democratic-held US Senate seat in New Hampshire - Fox News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835723,
+   "ts": "2026-11-04T01:11:54+00:00",
+   "ingested": "2026-11-04T01:13:41.046079+00:00",
+   "headline": "China c.bank: requests for relending exceed 200 billion yuan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835722,
    "ts": "2026-11-04T01:11:35+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T05:41:42+00:00",
    "ingested": "2026-11-02T05:42:47.318520+00:00",
    "headline": "Emergency power outages introduced in Kyiv and region: energy provider DTEK",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832006,
-   "ts": "2026-11-02T05:07:50+00:00",
-   "ingested": "2026-11-02T05:09:27.319802+00:00",
-   "headline": "BOJ: bank will consider various data, surveys in evaluating Japan's financial environment rather than depend on single indicator",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832005,
-   "ts": "2026-11-02T05:06:35+00:00",
-   "ingested": "2026-11-02T05:07:47.361453+00:00",
-   "headline": "BOJ: central bank is scrutinising asset price moves, such as stocks and FX, in assessing Japan's financial conditions",
    "channel": "rss",
    "source": "financialjuice"
   }
