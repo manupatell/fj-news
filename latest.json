@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T18:41:15.503314+00:00",
+ "updated": "2026-11-04T18:46:25.518129+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837323,
+   "ts": "2026-11-04T18:45:11+00:00",
+   "ingested": "2026-11-04T18:46:25.517830+00:00",
+   "headline": "US Treasury Secretary Bessent: We will sanction those who continue supporting the Iranian regime, whether by land, sea, or air - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837322,
    "ts": "2026-11-04T18:39:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T19:54:34+00:00",
    "ingested": "2026-11-02T19:56:04.242331+00:00",
    "headline": "Trump ends remarks at Reflecting Pool",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833211,
-   "ts": "2026-11-02T19:53:14+00:00",
-   "ingested": "2026-11-02T19:54:24.236740+00:00",
-   "headline": "Trump on Iran: It's coming together nicely, that's why oil down.",
    "channel": "rss",
    "source": "financialjuice"
   }
