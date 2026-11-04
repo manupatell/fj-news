@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T14:22:05.804145+00:00",
+ "updated": "2026-11-04T14:27:05.793403+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836982,
+   "ts": "2026-11-04T14:26:21+00:00",
+   "ingested": "2026-11-04T14:27:05.792983+00:00",
+   "headline": "The UAE mulls a third Crude oil pipeline to avoid the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836965,
    "ts": "2026-11-04T14:11:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:22:34+00:00",
    "ingested": "2026-11-02T15:22:45.412239+00:00",
    "headline": "ECB's Escriva: There are no signs of second-round effects yet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832859,
-   "ts": "2026-11-02T15:22:30+00:00",
-   "ingested": "2026-11-02T15:22:45.412260+00:00",
-   "headline": "ECB's Moulin: Inflation is clearly above our objective",
    "channel": "rss",
    "source": "financialjuice"
   }
