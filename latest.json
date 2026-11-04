@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-04T09:54:26.790614+00:00",
+ "updated": "2026-11-04T10:01:10.164044+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836576,
+   "ts": "2026-11-04T10:00:17+00:00",
+   "ingested": "2026-11-04T10:01:10.163485+00:00",
+   "headline": "Eurozone CPI MoM Flash Actual 0.4% (Forecast 0.4%, Previous 0.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836575,
+   "ts": "2026-11-04T10:00:02+00:00",
+   "ingested": "2026-11-04T10:01:10.163514+00:00",
+   "headline": "Eurozone Core CPI YoY Flash Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836574,
+   "ts": "2026-11-04T10:00:01+00:00",
+   "ingested": "2026-11-04T10:01:10.163530+00:00",
+   "headline": "Eurozone CPI YoY Flash Actual 4% (Forecast 4%, Previous 3.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836555,
    "ts": "2026-11-04T09:43:32+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-02T14:20:23+00:00",
    "ingested": "2026-11-02T14:21:25.363311+00:00",
    "headline": "US Sentiment: Geopolitical Optimism Helps Tech Pare Losses",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832732,
-   "ts": "2026-11-02T14:18:56+00:00",
-   "ingested": "2026-11-02T14:19:35.384583+00:00",
-   "headline": "Iran FM Araghchi: Ready to Work With US if It Chooses Honest Diplomacy; Deception, Military Operations Will Face Harsher Response Than Before",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832731,
-   "ts": "2026-11-02T14:18:44+00:00",
-   "ingested": "2026-11-02T14:19:05.386397+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Consultations through mediators (Qatar and Pakistan) are very intensive. We have presented our terms and plan, and all depends on Washington's political rationality",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832730,
-   "ts": "2026-11-02T14:17:15+00:00",
-   "ingested": "2026-11-02T14:17:55.355226+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Reopening of the Strait of Hormuz is subject to accepting Iran's conditions",
    "channel": "rss",
    "source": "financialjuice"
   }
