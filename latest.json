@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T13:37:05.779265+00:00",
+ "updated": "2026-11-04T13:40:25.773792+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836906,
+   "ts": "2026-11-04T13:39:57+00:00",
+   "ingested": "2026-11-04T13:40:25.773347+00:00",
+   "headline": "Qualcomm: SpaceX selects Qualcomm to accelerate Starlink $SPCX $QCOM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836905,
    "ts": "2026-11-04T13:36:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:11:29+00:00",
    "ingested": "2026-11-02T15:12:45.378812+00:00",
    "headline": "ECB's Moulin: Markets perhaps overreacting to the French situation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832821,
-   "ts": "2026-11-02T15:11:16+00:00",
-   "ingested": "2026-11-02T15:12:45.378833+00:00",
-   "headline": "ECB's Moulin: It is very probable that France will have a budget.",
    "channel": "rss",
    "source": "financialjuice"
   }
