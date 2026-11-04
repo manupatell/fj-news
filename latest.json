@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T03:10:21.075327+00:00",
+ "updated": "2026-11-04T03:15:21.165634+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836036,
+   "ts": "2026-11-04T03:14:57+00:00",
+   "ingested": "2026-11-04T03:15:21.165411+00:00",
+   "headline": "Democrat James Talarico tops Republican Ken Paxton in race for GOP-held US Senate seat in Texas: Decision Desk HQ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836035,
    "ts": "2026-11-04T03:08:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:36:46+00:00",
    "ingested": "2026-11-02T06:37:47.396951+00:00",
    "headline": "RBNZ Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832126,
-   "ts": "2026-11-02T06:36:28+00:00",
-   "ingested": "2026-11-02T06:37:47.396966+00:00",
-   "headline": "RBA Interest Rate Probabilities",
    "channel": "rss",
    "source": "financialjuice"
   }
