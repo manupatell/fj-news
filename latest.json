@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-04T01:40:21.054751+00:00",
+ "updated": "2026-11-04T01:45:21.131218+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835754,
+   "ts": "2026-11-04T01:45:03+00:00",
+   "ingested": "2026-11-04T01:45:21.130878+00:00",
+   "headline": "China general services PMI at 50.8 in October, down from 51.6 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835753,
+   "ts": "2026-11-04T01:45:00+00:00",
+   "ingested": "2026-11-04T01:45:21.130890+00:00",
+   "headline": "Chinese Services PMI Actual 50.8 (Forecast 51.7, Previous 51.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835752,
+   "ts": "2026-11-04T01:44:45+00:00",
+   "ingested": "2026-11-04T01:45:21.130898+00:00",
+   "headline": "euro rises 0.6% to $1.1259",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835751,
    "ts": "2026-11-04T01:40:04+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-02T06:00:03+00:00",
    "ingested": "2026-11-02T06:01:07.323305+00:00",
    "headline": "Netherlands S&P Global October manufacturing PMI at 55.0 versus 55.6 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832058,
-   "ts": "2026-11-02T06:00:03+00:00",
-   "ingested": "2026-11-02T06:01:07.323327+00:00",
-   "headline": "Russia S&P Global October manufacturing PMI at 49.9 versus 49.8 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832057,
-   "ts": "2026-11-02T05:59:50+00:00",
-   "ingested": "2026-11-02T06:01:07.323345+00:00",
-   "headline": "Saudi civil defence alerts of possible threat in southern Khamis Mushait - post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832056,
-   "ts": "2026-11-02T05:59:39+00:00",
-   "ingested": "2026-11-02T06:01:07.323361+00:00",
-   "headline": "Afghan Taliban government ready to engage constructively on deportation issue: Afghan foreign ministry",
    "channel": "rss",
    "source": "financialjuice"
   }
