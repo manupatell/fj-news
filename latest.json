@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-04T23:00:46.887107+00:00",
+ "updated": "2026-11-04T23:02:26.853845+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837643,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-04T23:02:26.853413+00:00",
+   "headline": "SNB chairman Schlegel: central bank will monitor situation closely, especially for second-round inflation effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837642,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-04T23:02:26.853432+00:00",
+   "headline": "SNB\u2019s chairman: central bank won\u2019t hesitate to modify policy if price stability is endangered",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837641,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-04T23:02:26.853445+00:00",
+   "headline": "SNB Chairman Schlegel: no major second-round effects so far, but can't be excluded later",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837640,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-04T23:02:26.853456+00:00",
+   "headline": "Swiss National Bank chairman Schlegel: inflation in Switzerland climbed, October figure exceeded expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837637,
    "ts": "2026-11-04T23:00:02+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-02T23:00:09+00:00",
    "ingested": "2026-11-02T23:01:04.368472+00:00",
    "headline": "US officials to meet this week in Brussels with France, Germany, UK, EU and NATO reps to discuss Ukraine: senior US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833430,
-   "ts": "2026-11-02T23:00:07+00:00",
-   "ingested": "2026-11-02T23:01:04.368492+00:00",
-   "headline": "S.Korea Oct consumer price index rises 0.2% m/m, below poll of 0.25%: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833429,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-02T23:01:04.368508+00:00",
-   "headline": "S.Korea oct consumer price index rises 2.8% y/y: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833428,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-02T23:01:04.368524+00:00",
-   "headline": "Trilateral talks to address ending war, post-war security pacts, de-escalation, aid measures: senior US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833427,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-02T23:01:04.368540+00:00",
-   "headline": "S.Korea Oct core CPI rises 2.8% y/y vs 2.8% in Sept: stats office",
    "channel": "rss",
    "source": "financialjuice"
   }
