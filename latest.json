@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T05:01:04.522504+00:00",
+ "updated": "2026-11-04T05:02:44.585940+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836167,
+   "ts": "2026-11-04T05:01:30+00:00",
+   "ingested": "2026-11-04T05:02:44.585530+00:00",
+   "headline": "Trump: part of outcome related to Iran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836139,
    "ts": "2026-11-04T05:00:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T09:30:00+00:00",
    "ingested": "2026-11-02T09:31:21.243455+00:00",
    "headline": "UK Manufacturing PMI Final Actual 52.8 (Forecast 52.8, Previous 52.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832332,
-   "ts": "2026-11-02T09:26:12+00:00",
-   "ingested": "2026-11-02T09:28:01.260555+00:00",
-   "headline": "LSEG: The RBA Decision - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
