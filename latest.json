@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T20:03:25.517269+00:00",
+ "updated": "2026-11-04T20:10:05.512871+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837442,
+   "ts": "2026-11-04T20:09:42+00:00",
+   "ingested": "2026-11-04T20:10:05.512570+00:00",
+   "headline": "Meta to determine the future of its investment in Piqua, Ohio - Semafor. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837425,
    "ts": "2026-11-04T19:52:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T22:21:41+00:00",
    "ingested": "2026-11-02T22:22:44.330847+00:00",
    "headline": "Apple says vast majority of tariff refunds received, CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833376,
-   "ts": "2026-11-02T22:15:01+00:00",
-   "ingested": "2026-11-02T22:15:54.318808+00:00",
-   "headline": "Rubio discussed institutional reforms laying groundwork for free, fair, credible elections with Venezuelan foreign minister on Monday: State Department",
    "channel": "rss",
    "source": "financialjuice"
   }
