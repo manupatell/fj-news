@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T13:57:05.785501+00:00",
+ "updated": "2026-11-04T13:58:45.786091+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836940,
+   "ts": "2026-11-04T13:58:35+00:00",
+   "ingested": "2026-11-04T13:58:45.785636+00:00",
+   "headline": "UniCredit: Democratic Midterm Gains Shift Focus to Congressional Oversight and Policy Constraints - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836939,
    "ts": "2026-11-04T13:55:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:18:10+00:00",
    "ingested": "2026-11-02T15:19:25.370329+00:00",
    "headline": "Crypto Fear and Greed Index: 37/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832823,
-   "ts": "2026-11-02T15:13:04+00:00",
-   "ingested": "2026-11-02T15:14:25.410346+00:00",
-   "headline": "ECB's Escriv\u00e1: Lack of fiscal adjustment goes beyond France",
    "channel": "rss",
    "source": "financialjuice"
   }
