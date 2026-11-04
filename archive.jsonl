@@ -21452,3 +21452,5 @@
 {"guid": 9836877, "ts": "2026-11-04T13:30:00+00:00", "ingested": "2026-11-04T13:30:25.782780+00:00", "headline": "US Trade Balance Actual -105B (Forecast -107.9B, Previous -105.6B)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9836878, "ts": "2026-11-04T13:30:01+00:00", "ingested": "2026-11-04T13:30:25.782764+00:00", "headline": "Canadian Trade Balance Actual 5.35B (Forecast 5B, Previous 4.20B)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9836903, "ts": "2026-11-04T13:33:25+00:00", "ingested": "2026-11-04T13:33:45.774078+00:00", "headline": "US Treasury QRA", "channel": "rss", "source": "financialjuice"}
+{"guid": 9836904, "ts": "2026-11-04T13:35:44+00:00", "ingested": "2026-11-04T13:37:05.778844+00:00", "headline": "US Treasury Quarterly Refunding", "channel": "rss", "source": "financialjuice"}
+{"guid": 9836905, "ts": "2026-11-04T13:36:54+00:00", "ingested": "2026-11-04T13:37:05.778830+00:00", "headline": "US Sentiment: Democratic Sweep Causes Rotation Away from AI & Musk-linked Names - FJElite", "channel": "rss", "source": "financialjuice"}

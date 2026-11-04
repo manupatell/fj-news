@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T13:33:45.774504+00:00",
+ "updated": "2026-11-04T13:37:05.779265+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836905,
+   "ts": "2026-11-04T13:36:54+00:00",
+   "ingested": "2026-11-04T13:37:05.778830+00:00",
+   "headline": "US Sentiment: Democratic Sweep Causes Rotation Away from AI & Musk-linked Names - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836904,
+   "ts": "2026-11-04T13:35:44+00:00",
+   "ingested": "2026-11-04T13:37:05.778844+00:00",
+   "headline": "US Treasury Quarterly Refunding",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836903,
    "ts": "2026-11-04T13:33:25+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T15:11:16+00:00",
    "ingested": "2026-11-02T15:12:45.378833+00:00",
    "headline": "ECB's Moulin: It is very probable that France will have a budget.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832820,
-   "ts": "2026-11-02T15:11:15+00:00",
-   "ingested": "2026-11-02T15:12:45.378850+00:00",
-   "headline": "ECB's Moulin: The French budget situation is not good, and must be addressed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832819,
-   "ts": "2026-11-02T15:10:06+00:00",
-   "ingested": "2026-11-02T15:11:05.375078+00:00",
-   "headline": "ECB's Moulin: Global rate increases impact all countries.",
    "channel": "rss",
    "source": "financialjuice"
   }
