@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T12:00:25.751678+00:00",
+ "updated": "2026-11-04T12:02:05.758849+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836755,
+   "ts": "2026-11-04T12:01:03+00:00",
+   "ingested": "2026-11-04T12:02:05.758389+00:00",
+   "headline": "$MCD McDonald's Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836747,
    "ts": "2026-11-04T12:00:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T14:38:53+00:00",
    "ingested": "2026-11-02T14:39:25.371666+00:00",
    "headline": "Fitch Ratings: Strong buffers support stable outlooks for French covered bonds.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832754,
-   "ts": "2026-11-02T14:38:39+00:00",
-   "ingested": "2026-11-02T14:39:25.371691+00:00",
-   "headline": "Cr\u00e9dit Agricole: October Jobs Report Seen Rebounding as Labour Market Remains Balanced - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
