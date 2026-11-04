@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T23:27:26.851028+00:00",
+ "updated": "2026-11-04T23:29:06.867663+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837673,
+   "ts": "2026-11-04T23:27:32+00:00",
+   "ingested": "2026-11-04T23:29:06.867274+00:00",
+   "headline": "OpenAI: GPT-image-2.6 sunburst and GPT-image-2.6 flare now accessible in API",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837672,
    "ts": "2026-11-04T23:27:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T23:10:07+00:00",
    "ingested": "2026-11-02T23:10:44.328370+00:00",
    "headline": "US envoy Witkoff: United States to mediate working-level talks between Ukraine and Russia on November 10-11 in Abu Dhabi",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833437,
-   "ts": "2026-11-02T23:01:08+00:00",
-   "ingested": "2026-11-02T23:02:54.398456+00:00",
-   "headline": "Dan Driscoll to join OpenAI as senior adviser for national security modernization - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
