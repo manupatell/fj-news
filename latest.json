@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-04T23:52:26.885121+00:00",
+ "updated": "2026-11-04T23:54:06.878909+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837704,
+   "ts": "2026-11-04T23:53:39+00:00",
+   "ingested": "2026-11-04T23:54:06.878438+00:00",
+   "headline": "BOJ minutes: Cabinet office representative says important for BOJ to take proactive, appropriate steps amid excessive economic and market fluctuations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837703,
+   "ts": "2026-11-04T23:53:23+00:00",
+   "ingested": "2026-11-04T23:54:06.878454+00:00",
+   "headline": "BOJ minutes: one member said bank should keep acting promptly without being too cautious",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837702,
+   "ts": "2026-11-04T23:53:13+00:00",
+   "ingested": "2026-11-04T23:54:06.878467+00:00",
+   "headline": "BoJ minutes: one member said BoJ did not need hasty action but should set policy to prevent excessive, persistent inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837701,
+   "ts": "2026-11-04T23:53:01+00:00",
+   "ingested": "2026-11-04T23:54:06.878479+00:00",
+   "headline": "BoJ Minutes: Cabinet Office Representative Said BoJ May Need to Consider Its Estimates of Neutral Interest Rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837700,
+   "ts": "2026-11-04T23:52:49+00:00",
+   "ingested": "2026-11-04T23:54:06.878490+00:00",
+   "headline": "BOJ minutes: one member noted that if signs of rising price deviation appeared, the bank would need to speed up rate hikes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837699,
+   "ts": "2026-11-04T23:52:37+00:00",
+   "ingested": "2026-11-04T23:54:06.878502+00:00",
+   "headline": "BOJ minutes: Cabinet Office rep expects central bank to fulfill accountability on meeting decisions and closely examine cumulative effects of past rate policies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837698,
+   "ts": "2026-11-04T23:52:20+00:00",
+   "ingested": "2026-11-04T23:54:06.878515+00:00",
+   "headline": "BOJ minutes: one member said it was important to show the market BOJ's resolve to prevent upward price deviations with agile response to global economic conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837696,
    "ts": "2026-11-04T23:51:13+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-11-03T00:46:45+00:00",
    "ingested": "2026-11-03T01:19:21.579824+00:00",
    "headline": "US strikes Iran\u2019s Qeshm Island - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833582,
-   "ts": "2026-11-03T00:46:44+00:00",
-   "ingested": "2026-11-03T01:19:21.579839+00:00",
-   "headline": "China c.bank: decision aims to enhance oversight of foreign-exchange liquidity in financial institutions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833581,
-   "ts": "2026-11-03T00:46:17+00:00",
-   "ingested": "2026-11-03T01:19:21.579855+00:00",
-   "headline": "China c.bank: People's Bank of China to increase foreign exchange deposit reserve ratio for financial institutions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833572,
-   "ts": "2026-11-03T00:42:19+00:00",
-   "ingested": "2026-11-03T01:19:21.579868+00:00",
-   "headline": "US hits Iran\u2019s Qeshm Island: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833556,
-   "ts": "2026-11-03T00:23:03+00:00",
-   "ingested": "2026-11-03T01:19:21.579883+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6489 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833516,
-   "ts": "2026-11-03T00:01:04+00:00",
-   "ingested": "2026-11-03T00:02:54.382481+00:00",
-   "headline": "Irish consumer confidence 61.6 in October vs 61.1 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833504,
-   "ts": "2026-11-02T23:33:37+00:00",
-   "ingested": "2026-11-02T23:34:04.320251+00:00",
-   "headline": "OpenAI: Dan Driscoll to advise on advanced AI use for national and cyber security, focus on U.S. allies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833503,
-   "ts": "2026-11-02T23:32:13+00:00",
-   "ingested": "2026-11-02T23:32:24.323190+00:00",
-   "headline": "OpenAI appoints Dan Driscoll as senior adviser for national security modernization",
    "channel": "rss",
    "source": "financialjuice"
   }
