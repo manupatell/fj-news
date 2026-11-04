@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-04T00:30:02.865501+00:00",
+ "updated": "2026-11-04T00:31:42.818532+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835681,
+   "ts": "2026-11-04T00:30:17+00:00",
+   "ingested": "2026-11-04T00:31:42.818127+00:00",
+   "headline": "Australia September household spending volumes rise 0.7% quarter on quarter seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835680,
+   "ts": "2026-11-04T00:30:04+00:00",
+   "ingested": "2026-11-04T00:31:42.818140+00:00",
+   "headline": "Australia September household spending rises 0.6% month on month seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835679,
+   "ts": "2026-11-04T00:30:04+00:00",
+   "ingested": "2026-11-04T00:31:42.818150+00:00",
+   "headline": "Hong Kong S&P Global October PMI at 50.2 vs 49.2 in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835678,
+   "ts": "2026-11-04T00:29:54+00:00",
+   "ingested": "2026-11-04T00:31:42.818158+00:00",
+   "headline": "Dollar/yen declines 0.21% to 158.35",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835677,
    "ts": "2026-11-04T00:28:37+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-02T05:00:04+00:00",
    "ingested": "2026-11-02T05:01:07.308806+00:00",
    "headline": "India HSBC and S&P Global October final manufacturing PMI at 54.7, forecast 54.8",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831977,
-   "ts": "2026-11-02T04:54:42+00:00",
-   "ingested": "2026-11-02T04:56:07.308476+00:00",
-   "headline": "OpenAI and Inception42 to collaborate on enterprise solutions for major UAE organisations: ADMO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831976,
-   "ts": "2026-11-02T04:54:22+00:00",
-   "ingested": "2026-11-02T04:56:07.308499+00:00",
-   "headline": "OpenAI and Inception42 to collaboratively advance AI adoption in UAE government, enterprise and education: ADMO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831975,
-   "ts": "2026-11-02T04:54:00+00:00",
-   "ingested": "2026-11-02T04:54:27.312508+00:00",
-   "headline": "Inception42 and OpenAI sign five-year deal to boost frontier AI adoption in government, business and education - Admo",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831974,
-   "ts": "2026-11-02T04:53:41+00:00",
-   "ingested": "2026-11-02T04:54:27.312531+00:00",
-   "headline": "Mubadala, Inception42, OpenAI sign deal to use advanced AI for investment analysis, opportunity spotting, risk evaluation - ADMO",
    "channel": "rss",
    "source": "financialjuice"
   }
