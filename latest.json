@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T12:50:25.763474+00:00",
+ "updated": "2026-11-04T12:52:05.760274+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836829,
+   "ts": "2026-11-04T12:51:14+00:00",
+   "ingested": "2026-11-04T12:52:05.759867+00:00",
+   "headline": "ECB's Knot: AI will bring productivity growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836828,
    "ts": "2026-11-04T12:49:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:00:01+00:00",
    "ingested": "2026-11-02T15:01:05.380647+00:00",
    "headline": "US ISM Mfg. New Orders Index Actual 55.5 (Forecast 55, Previous 55.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832780,
-   "ts": "2026-11-02T15:00:00+00:00",
-   "ingested": "2026-11-02T15:01:05.380662+00:00",
-   "headline": "US ISM Mfg. Employment Index Actual 52.4 (Forecast 52, Previous 52.7)",
    "channel": "rss",
    "source": "financialjuice"
   }
