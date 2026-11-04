@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T13:23:45.847079+00:00",
+ "updated": "2026-11-04T13:26:55.769642+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836876,
+   "ts": "2026-11-04T13:26:30+00:00",
+   "ingested": "2026-11-04T13:26:55.769220+00:00",
+   "headline": "Meta gets record \u20ac53 billion of orders for debut Euro bonds $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836875,
    "ts": "2026-11-04T13:23:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:06:55+00:00",
    "ingested": "2026-11-02T15:07:45.373997+00:00",
    "headline": "US Defense Department signs a conditional loan of up to $450m with Neros to fund domestic drone manufacturing expansion.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832784,
-   "ts": "2026-11-02T15:01:40+00:00",
-   "ingested": "2026-11-02T15:02:45.378246+00:00",
-   "headline": "US ISM Manufacturing PMI Actual 55.5 (Forecast 54.5, Previous 54.5)",
    "channel": "rss",
    "source": "financialjuice"
   }
