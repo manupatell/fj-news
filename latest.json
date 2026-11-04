@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T02:57:01.079581+00:00",
+ "updated": "2026-11-04T03:00:21.075300+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835979,
+   "ts": "2026-11-04T02:59:21+00:00",
+   "ingested": "2026-11-04T03:00:21.074977+00:00",
+   "headline": "Democrat Rob Sand beats Republican Zach Lahn in race for Republican-held Iowa governor's seat: Decision Desk HQ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835978,
+   "ts": "2026-11-04T02:58:55+00:00",
+   "ingested": "2026-11-04T03:00:21.074989+00:00",
+   "headline": "Democrat Annie Andrews beats Republican Darline Graham in race for South Carolina republican-held US Senate seat - NBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835977,
    "ts": "2026-11-04T02:56:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T06:35:14+00:00",
    "ingested": "2026-11-02T06:36:07.486082+00:00",
    "headline": "ECB Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832121,
-   "ts": "2026-11-02T06:34:56+00:00",
-   "ingested": "2026-11-02T06:36:07.486095+00:00",
-   "headline": "Fed Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832120,
-   "ts": "2026-11-02T06:34:24+00:00",
-   "ingested": "2026-11-02T06:36:07.486106+00:00",
-   "headline": "Commodities Implied Volatility",
    "channel": "rss",
    "source": "financialjuice"
   }
