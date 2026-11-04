@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T02:37:01.094276+00:00",
+ "updated": "2026-11-04T02:42:01.092362+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835964,
+   "ts": "2026-11-04T02:40:18+00:00",
+   "ingested": "2026-11-04T02:42:01.092014+00:00",
+   "headline": "Democratic contender Rebecca Bennett defeats Republican incumbent Thomas Kean Jr. in New Jersey's 7th congressional district house race - NBC News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835963,
    "ts": "2026-11-04T02:35:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:32:44+00:00",
    "ingested": "2026-11-02T06:34:27.381051+00:00",
    "headline": "Open AI CEO Altman: Energy is one challenge AI is facing today.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832114,
-   "ts": "2026-11-02T06:31:54+00:00",
-   "ingested": "2026-11-02T06:32:47.339028+00:00",
-   "headline": "120-Day Correlation Matrix",
    "channel": "rss",
    "source": "financialjuice"
   }
