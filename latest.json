@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T12:47:05.766664+00:00",
+ "updated": "2026-11-04T12:48:45.760565+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836827,
+   "ts": "2026-11-04T12:48:10+00:00",
+   "ingested": "2026-11-04T12:48:45.760158+00:00",
+   "headline": "ECB's Knot: ECB may have to approach 2% goal more often from above.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836826,
    "ts": "2026-11-04T12:46:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T14:54:36+00:00",
    "ingested": "2026-11-02T14:55:55.384230+00:00",
    "headline": "America's Gulf allies prepare for new round of strikes on Iran-and the blowback - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832766,
-   "ts": "2026-11-02T14:46:11+00:00",
-   "ingested": "2026-11-02T14:47:15.396204+00:00",
-   "headline": "Explosion in the British Embassy in Baghdad - Tasnim News",
    "channel": "rss",
    "source": "financialjuice"
   }
