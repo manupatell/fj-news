@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T02:15:21.076220+00:00",
+ "updated": "2026-11-04T02:17:01.071599+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835947,
+   "ts": "2026-11-04T02:16:11+00:00",
+   "ingested": "2026-11-04T02:17:01.071360+00:00",
+   "headline": "China finance ministry plans auction of 60 billion yuan 182-day bills on Nov. 11",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835945,
    "ts": "2026-11-04T02:14:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:31:17+00:00",
    "ingested": "2026-11-02T06:32:47.339063+00:00",
    "headline": "60-Day Correlation Matrix",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832102,
-   "ts": "2026-11-02T06:31:01+00:00",
-   "ingested": "2026-11-02T06:32:47.339076+00:00",
-   "headline": "30-Day Correlation Matrix",
    "channel": "rss",
    "source": "financialjuice"
   }
