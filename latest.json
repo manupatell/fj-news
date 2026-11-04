@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T03:15:21.165634+00:00",
+ "updated": "2026-11-04T03:17:01.084169+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836037,
+   "ts": "2026-11-04T03:16:10+00:00",
+   "ingested": "2026-11-04T03:17:01.083949+00:00",
+   "headline": "Dollar/Swiss franc drops 0.86% to 0.8138",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836036,
    "ts": "2026-11-04T03:14:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:37:06+00:00",
    "ingested": "2026-11-02T06:37:47.396932+00:00",
    "headline": "SNB Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832127,
-   "ts": "2026-11-02T06:36:46+00:00",
-   "ingested": "2026-11-02T06:37:47.396951+00:00",
-   "headline": "RBNZ Interest Rate Probabilities",
    "channel": "rss",
    "source": "financialjuice"
   }
