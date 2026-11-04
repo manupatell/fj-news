@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-04T22:54:06.852286+00:00",
+ "updated": "2026-11-04T23:00:46.887107+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837637,
+   "ts": "2026-11-04T23:00:02+00:00",
+   "ingested": "2026-11-04T23:00:46.886684+00:00",
+   "headline": "S.Korea Jan-Sept current account surplus provisional $340.66 billion vs $83.89 billion year earlier: central bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837636,
+   "ts": "2026-11-04T23:00:02+00:00",
+   "ingested": "2026-11-04T23:00:46.886704+00:00",
+   "headline": "S.Korea Sept current-account balance provisional $61.46 billion vs $46.11 billion in Aug: central bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837635,
+   "ts": "2026-11-04T23:00:00+00:00",
+   "ingested": "2026-11-04T23:00:46.886717+00:00",
+   "headline": "S. Korean Current Account Bal NSA Actual 61.4575B (Forecast -, Previous 46.11B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837569,
    "ts": "2026-11-04T21:54:45+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-02T23:00:04+00:00",
    "ingested": "2026-11-02T23:01:04.368540+00:00",
    "headline": "S.Korea Oct core CPI rises 2.8% y/y vs 2.8% in Sept: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833426,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-02T23:01:04.368555+00:00",
-   "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi on Nov. 10-11: senior US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833425,
-   "ts": "2026-11-02T23:00:01+00:00",
-   "ingested": "2026-11-02T23:01:04.368570+00:00",
-   "headline": "S. Korean CPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.30%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833424,
-   "ts": "2026-11-02T23:00:00+00:00",
-   "ingested": "2026-11-02T23:01:04.368583+00:00",
-   "headline": "S. Korean CPI YoY Actual 2.8% (Forecast 2.8%, Previous 2.90%)",
    "channel": "rss",
    "source": "financialjuice"
   }
