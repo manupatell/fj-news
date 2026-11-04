@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T19:21:45.557219+00:00",
+ "updated": "2026-11-04T19:23:25.596321+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837386,
+   "ts": "2026-11-04T19:22:53+00:00",
+   "ingested": "2026-11-04T19:23:25.595977+00:00",
+   "headline": "ECB's Moulin: No longer risk of loop between banks, sovereigns",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837385,
+   "ts": "2026-11-04T19:21:48+00:00",
+   "ingested": "2026-11-04T19:23:25.595992+00:00",
+   "headline": "ECB's Moulin: The solution to France's financial problems is in France and not in Frankfurt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837384,
    "ts": "2026-11-04T19:21:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T20:24:46+00:00",
    "ingested": "2026-11-02T20:25:14.330858+00:00",
    "headline": "Vance: Have had a number of good talks with Iranians",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833252,
-   "ts": "2026-11-02T20:24:26+00:00",
-   "ingested": "2026-11-02T20:25:14.330878+00:00",
-   "headline": "US VP Vance on Iran: We have not set deadlines to resume strikes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833251,
-   "ts": "2026-11-02T20:24:09+00:00",
-   "ingested": "2026-11-02T20:25:14.330898+00:00",
-   "headline": "Vance: I feel good about prospects of Iran deal. We've made some progress, will see if can make some more.",
    "channel": "rss",
    "source": "financialjuice"
   }
