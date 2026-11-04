@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T03:28:41.076423+00:00",
+ "updated": "2026-11-04T03:30:21.109344+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836048,
+   "ts": "2026-11-04T03:28:46+00:00",
+   "ingested": "2026-11-04T03:30:21.109018+00:00",
+   "headline": "Nvidia says China clients to receive 1% of $70 billion RTX chips ordered",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836039,
    "ts": "2026-11-04T03:17:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T07:06:51+00:00",
    "ingested": "2026-11-02T07:07:47.356362+00:00",
    "headline": "BoJ: Governor Ueda is scheduled to deliver speech, hold news conference in Nagoya, central Japan, on November 30.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832145,
-   "ts": "2026-11-02T07:01:47+00:00",
-   "ingested": "2026-11-02T07:06:07.355660+00:00",
-   "headline": "German Real Retail Sales YoY Actual -2.3% (Forecast -, Previous -0.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
