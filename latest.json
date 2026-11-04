@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T07:14:24.556045+00:00",
+ "updated": "2026-11-04T07:21:04.560819+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836348,
+   "ts": "2026-11-04T07:20:45+00:00",
+   "ingested": "2026-11-04T07:21:04.560406+00:00",
+   "headline": "China: In contact with US, Russia on leaders' meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836328,
    "ts": "2026-11-04T07:03:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T13:01:27+00:00",
    "ingested": "2026-11-02T13:03:15.332032+00:00",
    "headline": "Strategy buys 811 Bitcoin for aggregate purchase price of $65.5m; avg. purchase price $80,846, Oct. 26 to Nov. 1",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832578,
-   "ts": "2026-11-02T12:39:09+00:00",
-   "ingested": "2026-11-02T12:39:41.303792+00:00",
-   "headline": "Vitol CEO: Oil market could see a pretty difficult spring.",
    "channel": "rss",
    "source": "financialjuice"
   }
