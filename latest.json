@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T08:28:04.590697+00:00",
+ "updated": "2026-11-04T08:30:44.599239+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836427,
+   "ts": "2026-11-04T08:30:14+00:00",
+   "ingested": "2026-11-04T08:30:44.598764+00:00",
+   "headline": "Swedish Riksbank Rate Actual 2% (Forecast 2%, Previous 1.75%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836414,
    "ts": "2026-11-04T08:08:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T13:17:23+00:00",
    "ingested": "2026-11-02T13:18:25.329699+00:00",
    "headline": "WH Sr. Adviser Hassett: I don't think there's risk of AI wholesale selloff",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832640,
-   "ts": "2026-11-02T13:17:14+00:00",
-   "ingested": "2026-11-02T13:18:25.329719+00:00",
-   "headline": "Hassett: AI is a really well financed ecosystem. This is not like financial crisis at all. So much cash in ecosystem, people should be reassured - CNBC",
    "channel": "rss",
    "source": "financialjuice"
   }
