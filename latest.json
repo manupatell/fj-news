@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T12:45:25.761251+00:00",
+ "updated": "2026-11-04T12:47:05.766664+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836826,
+   "ts": "2026-11-04T12:46:48+00:00",
+   "ingested": "2026-11-04T12:47:05.766254+00:00",
+   "headline": "ECB's Knot: Core inflation, second-round effects will likely pick up.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836821,
    "ts": "2026-11-04T12:44:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T14:46:11+00:00",
    "ingested": "2026-11-02T14:47:15.396204+00:00",
    "headline": "Explosion in the British Embassy in Baghdad - Tasnim News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832761,
-   "ts": "2026-11-02T14:45:00+00:00",
-   "ingested": "2026-11-02T14:45:15.391202+00:00",
-   "headline": "US S&P Manufacturing PMI Final Actual 54.9 (Forecast 56, Previous 56.0)",
    "channel": "rss",
    "source": "financialjuice"
   }
