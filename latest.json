@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-04T23:54:06.878909+00:00",
+ "updated": "2026-11-04T23:55:46.861556+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837707,
+   "ts": "2026-11-04T23:55:33+00:00",
+   "ingested": "2026-11-04T23:55:46.861144+00:00",
+   "headline": "BOJ minutes: Ministry of Finance expects central bank to carefully assess impact of policy rate shift on economy and prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837706,
+   "ts": "2026-11-04T23:55:19+00:00",
+   "ingested": "2026-11-04T23:55:46.861163+00:00",
+   "headline": "BOJ minutes: many members said bank should modify policy while assessing changes in financial conditions including short-term interest rates and reaction to economic activity and prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837705,
+   "ts": "2026-11-04T23:54:25+00:00",
+   "ingested": "2026-11-04T23:55:46.861174+00:00",
+   "headline": "BOJ minutes: many members expressed view it was difficult to pinpoint neutral rate level in advance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837704,
    "ts": "2026-11-04T23:53:39+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-03T01:05:06+00:00",
    "ingested": "2026-11-03T01:19:21.579777+00:00",
    "headline": "China\u2019s offshore yuan drops nearly 0.2% after PBOC hikes forex deposit reserve ratio",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833585,
-   "ts": "2026-11-03T00:47:13+00:00",
-   "ingested": "2026-11-03T01:19:21.579793+00:00",
-   "headline": "China c.bank: foreign exchange deposit reserve ratio to increase from 4% to 6%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833584,
-   "ts": "2026-11-03T00:47:04+00:00",
-   "ingested": "2026-11-03T01:19:21.579811+00:00",
-   "headline": "China c.bank: From November 15, foreign exchange deposit reserve ratio for financial institutions will increase by 2 percentage points",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833583,
-   "ts": "2026-11-03T00:46:45+00:00",
-   "ingested": "2026-11-03T01:19:21.579824+00:00",
-   "headline": "US strikes Iran\u2019s Qeshm Island - WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
