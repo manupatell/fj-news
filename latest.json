@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T13:05:25.787107+00:00",
+ "updated": "2026-11-04T13:15:25.779100+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836854,
+   "ts": "2026-11-04T13:15:00+00:00",
+   "ingested": "2026-11-04T13:15:25.778648+00:00",
+   "headline": "US ADP Employment Change Actual 86k (Forecast 67k, Previous 90k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836830,
    "ts": "2026-11-04T12:54:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:00:01+00:00",
    "ingested": "2026-11-02T15:01:05.380607+00:00",
    "headline": "US Construction Spending MoM Actual -1.9% (Forecast 0.3%, Previous 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832782,
-   "ts": "2026-11-02T15:00:01+00:00",
-   "ingested": "2026-11-02T15:01:05.380629+00:00",
-   "headline": "US ISM Mfg. Prices Paid Actual 75.2 (Forecast 77.2, Previous 77.9)",
    "channel": "rss",
    "source": "financialjuice"
   }
