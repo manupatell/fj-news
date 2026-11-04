@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T18:59:45.507048+00:00",
+ "updated": "2026-11-04T19:04:55.557209+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837361,
+   "ts": "2026-11-04T19:04:00+00:00",
+   "ingested": "2026-11-04T19:04:55.556878+00:00",
+   "headline": "US Treasury Debt Buyback",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837341,
    "ts": "2026-11-04T18:48:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T20:02:01+00:00",
    "ingested": "2026-11-02T20:03:44.334485+00:00",
    "headline": "US Treasury QRA Estimate: Excluding the higher-than-expected beginning-of-quarter cash balance, borrowing estimate is $87 billion higher than May's projection",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833225,
-   "ts": "2026-11-02T20:01:51+00:00",
-   "ingested": "2026-11-02T20:02:04.291493+00:00",
-   "headline": "US Treasury Raises July-September Borrowing Estimate to $739 Billion",
    "channel": "rss",
    "source": "financialjuice"
   }
