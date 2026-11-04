@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T14:32:05.809374+00:00",
+ "updated": "2026-11-04T14:40:25.810363+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836993,
+   "ts": "2026-11-04T14:39:34+00:00",
+   "ingested": "2026-11-04T14:40:25.809921+00:00",
+   "headline": "Bank of America cuts AMD price target to $650 from $720. $AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836991,
    "ts": "2026-11-04T14:31:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:24:03+00:00",
    "ingested": "2026-11-02T15:24:25.373292+00:00",
    "headline": "ECB's Moulin: Inflation we have today is well above our 2% objective",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832861,
-   "ts": "2026-11-02T15:23:51+00:00",
-   "ingested": "2026-11-02T15:24:25.373317+00:00",
-   "headline": "ECB's Moulin: For now, the impact on the broader economy is quite moderate.",
    "channel": "rss",
    "source": "financialjuice"
   }
