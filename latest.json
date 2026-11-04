@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T19:46:45.514205+00:00",
+ "updated": "2026-11-04T19:51:45.519546+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837424,
+   "ts": "2026-11-04T19:50:42+00:00",
+   "ingested": "2026-11-04T19:51:45.519262+00:00",
+   "headline": "Brent crude futures settle at their lowest since August 31st",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837412,
    "ts": "2026-11-04T19:46:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T21:45:01+00:00",
    "ingested": "2026-11-02T21:45:34.319234+00:00",
    "headline": "New Zealand Building Consents Actual -7.9% (Forecast -, Previous 5.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833345,
-   "ts": "2026-11-02T21:40:06+00:00",
-   "ingested": "2026-11-02T21:41:44.296272+00:00",
-   "headline": "Anthropic investors push for valuation closer to $1.5 trln - WSJ.",
    "channel": "rss",
    "source": "financialjuice"
   }
