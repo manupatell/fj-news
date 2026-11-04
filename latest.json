@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T01:35:21.081594+00:00",
+ "updated": "2026-11-04T01:40:21.054751+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835751,
+   "ts": "2026-11-04T01:40:04+00:00",
+   "ingested": "2026-11-04T01:40:21.054511+00:00",
+   "headline": "S.Korea central bank: sells 1-year monetary stabilization bonds at 3.510% yield",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835734,
    "ts": "2026-11-04T01:25:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T05:59:39+00:00",
    "ingested": "2026-11-02T06:01:07.323361+00:00",
    "headline": "Afghan Taliban government ready to engage constructively on deportation issue: Afghan foreign ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832055,
-   "ts": "2026-11-02T05:58:35+00:00",
-   "ingested": "2026-11-02T05:59:27.321498+00:00",
-   "headline": "Afghan Taliban government calls on US to act responsibly on deporting Afghan immigrants: Afghan foreign ministry",
    "channel": "rss",
    "source": "financialjuice"
   }
