@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T19:43:15.520561+00:00",
+ "updated": "2026-11-04T19:44:55.507245+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837397,
+   "ts": "2026-11-04T19:44:15+00:00",
+   "ingested": "2026-11-04T19:44:55.506923+00:00",
+   "headline": "Brent crude futures settle at $94.62/bbl, down $8.98, 8.67%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837392,
    "ts": "2026-11-04T19:31:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T21:30:45+00:00",
    "ingested": "2026-11-02T21:31:15.936314+00:00",
    "headline": "$AAPL Apple Q4 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833314,
-   "ts": "2026-11-02T21:13:41+00:00",
-   "ingested": "2026-11-02T21:13:54.274388+00:00",
-   "headline": "North Korea: Claims that it was behind Binance heist is fabrication - KCNA",
    "channel": "rss",
    "source": "financialjuice"
   }
