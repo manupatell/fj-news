@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T03:07:01.069060+00:00",
+ "updated": "2026-11-04T03:10:21.075327+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836035,
+   "ts": "2026-11-04T03:08:54+00:00",
+   "ingested": "2026-11-04T03:10:21.075002+00:00",
+   "headline": "NBC News projects Democrats take control of US House",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836033,
    "ts": "2026-11-04T03:06:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:36:28+00:00",
    "ingested": "2026-11-02T06:37:47.396966+00:00",
    "headline": "RBA Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832125,
-   "ts": "2026-11-02T06:36:12+00:00",
-   "ingested": "2026-11-02T06:37:47.396978+00:00",
-   "headline": "BoJ Interest Rate Probabilities",
    "channel": "rss",
    "source": "financialjuice"
   }
