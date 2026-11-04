@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T00:23:22.813846+00:00",
+ "updated": "2026-11-04T00:30:02.865501+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835677,
+   "ts": "2026-11-04T00:28:37+00:00",
+   "ingested": "2026-11-04T00:30:02.865153+00:00",
+   "headline": "Euro rises 0.26% to $1.12215",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835676,
    "ts": "2026-11-04T00:22:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T04:53:41+00:00",
    "ingested": "2026-11-02T04:54:27.312531+00:00",
    "headline": "Mubadala, Inception42, OpenAI sign deal to use advanced AI for investment analysis, opportunity spotting, risk evaluation - ADMO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831973,
-   "ts": "2026-11-02T04:53:10+00:00",
-   "ingested": "2026-11-02T04:54:27.312549+00:00",
-   "headline": "Adnoc, G42 and OpenAI sign pact, making Adnoc first energy firm to deploy OpenAI frontier technology: ADMO",
    "channel": "rss",
    "source": "financialjuice"
   }
