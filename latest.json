@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T08:40:04.574143+00:00",
+ "updated": "2026-11-04T08:46:44.591191+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836459,
+   "ts": "2026-11-04T08:45:00+00:00",
+   "ingested": "2026-11-04T08:46:44.590721+00:00",
+   "headline": "Italian Composite PMI Actual 50.8 (Forecast 50.8, Previous 51.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836458,
+   "ts": "2026-11-04T08:45:00+00:00",
+   "ingested": "2026-11-04T08:46:44.590741+00:00",
+   "headline": "Italian Services PMI Actual 52 (Forecast 51.5, Previous 51.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836427,
    "ts": "2026-11-04T08:30:14+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T13:19:48+00:00",
    "ingested": "2026-11-02T13:20:05.329930+00:00",
    "headline": "WH Sr. Adviser Hassett on Binance: Very much looking at this at White House",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832642,
-   "ts": "2026-11-02T13:18:01+00:00",
-   "ingested": "2026-11-02T13:18:25.329678+00:00",
-   "headline": "Oracle files to offer $10b of common stock, $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832641,
-   "ts": "2026-11-02T13:17:23+00:00",
-   "ingested": "2026-11-02T13:18:25.329699+00:00",
-   "headline": "WH Sr. Adviser Hassett: I don't think there's risk of AI wholesale selloff",
    "channel": "rss",
    "source": "financialjuice"
   }
