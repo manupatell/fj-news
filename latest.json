@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-04T08:56:44.586172+00:00",
+ "updated": "2026-11-04T09:01:44.588224+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836516,
+   "ts": "2026-11-04T09:01:13+00:00",
+   "ingested": "2026-11-04T09:01:44.587737+00:00",
+   "headline": "ECB sees wage growth at 2.8% in 2Q 2027, 2.4% in 3Q 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836490,
+   "ts": "2026-11-04T09:00:33+00:00",
+   "ingested": "2026-11-04T09:01:44.587757+00:00",
+   "headline": "Google to invest $15 billion in Malaysia data center expansion.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836484,
+   "ts": "2026-11-04T09:00:00+00:00",
+   "ingested": "2026-11-04T09:01:44.587774+00:00",
+   "headline": "Eurozone Services PMI Final Actual 51.4 (Forecast 51.7, Previous 51.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836483,
+   "ts": "2026-11-04T09:00:00+00:00",
+   "ingested": "2026-11-04T09:01:44.587789+00:00",
+   "headline": "Eurozone Composite Final PMI Actual 51.7 (Forecast 51.9, Previous 51.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836482,
    "ts": "2026-11-04T08:55:00+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-02T13:49:19+00:00",
    "ingested": "2026-11-02T13:50:05.392549+00:00",
    "headline": "Alphabet set to raise \u20ac6 billion from Euro bond sale\n$GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832686,
-   "ts": "2026-11-02T13:46:50+00:00",
-   "ingested": "2026-11-02T13:48:25.368364+00:00",
-   "headline": "Iran's President Pezeshkian on war with the US: We will try to resolve the problem with dialogue - State Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832671,
-   "ts": "2026-11-02T13:45:47+00:00",
-   "ingested": "2026-11-02T13:46:45.349968+00:00",
-   "headline": "China's Foreign Minister urges safeguarding regional energy and shipping lane security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832661,
-   "ts": "2026-11-02T13:45:08+00:00",
-   "ingested": "2026-11-02T13:46:45.349992+00:00",
-   "headline": "China's Foreign Minister to Saudi National Security Advisor: Hopes all parties resolve disputes and end hostilities through dialogue and negotiation - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832658,
-   "ts": "2026-11-02T13:36:48+00:00",
-   "ingested": "2026-11-02T13:38:25.337750+00:00",
-   "headline": "Iran's President Pezeshkian: We firmly reject the enemy\u2019s false claims and excessive demands - Press TV",
    "channel": "rss",
    "source": "financialjuice"
   }
