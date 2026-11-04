@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T02:02:01.088997+00:00",
+ "updated": "2026-11-04T02:07:01.126866+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835943,
+   "ts": "2026-11-04T02:05:47+00:00",
+   "ingested": "2026-11-04T02:07:01.126606+00:00",
+   "headline": "Democrat Lance Bottoms beats Republican Jackson in Georgia governor race - NBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835769,
    "ts": "2026-11-04T01:51:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:13:48+00:00",
    "ingested": "2026-11-02T06:14:27.340477+00:00",
    "headline": "UAE's Adnoc CEO: New agreement with Open AI will transform Adnoc's field development oil management and commercial operations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832079,
-   "ts": "2026-11-02T06:08:56+00:00",
-   "ingested": "2026-11-02T06:12:47.374891+00:00",
-   "headline": "Dutch Retail Sales YoY Actual 3.3% (Forecast -, Previous 2.8%)",
    "channel": "rss",
    "source": "financialjuice"
   }
