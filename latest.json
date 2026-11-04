@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T15:00:25.796592+00:00",
+ "updated": "2026-11-04T15:05:25.811774+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837047,
+   "ts": "2026-11-04T15:03:43+00:00",
+   "ingested": "2026-11-04T15:05:25.811337+00:00",
+   "headline": "US House Speaker Johnson will not run for the House GOP leader role - CNN.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837021,
    "ts": "2026-11-04T15:00:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T15:40:15+00:00",
    "ingested": "2026-11-02T15:41:05.378167+00:00",
    "headline": "ECB's Escriva: I\u2019m optimistic about AI's impact; I see great productivity.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832891,
-   "ts": "2026-11-02T15:39:48+00:00",
-   "ingested": "2026-11-02T15:41:05.378188+00:00",
-   "headline": "ECB's Escriva: It\u2019s obvious that AI valuations are high.",
    "channel": "rss",
    "source": "financialjuice"
   }

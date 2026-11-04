@@ -21469,3 +21469,4 @@
 {"guid": 9837019, "ts": "2026-11-04T15:00:00+00:00", "ingested": "2026-11-04T15:00:25.796154+00:00", "headline": "US ISM Services New Orders Actual 55.9 (Forecast 58.5, Previous 59.8)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9837020, "ts": "2026-11-04T15:00:00+00:00", "ingested": "2026-11-04T15:00:25.796142+00:00", "headline": "US ISM Services Employment Actual 51.4 (Forecast 50, Previous 50.1)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9837021, "ts": "2026-11-04T15:00:00+00:00", "ingested": "2026-11-04T15:00:25.796126+00:00", "headline": "US ISM Services PMI Actual 54.5 (Forecast 54.8, Previous 54.9)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9837047, "ts": "2026-11-04T15:03:43+00:00", "ingested": "2026-11-04T15:05:25.811337+00:00", "headline": "US House Speaker Johnson will not run for the House GOP leader role - CNN.", "channel": "rss", "source": "financialjuice"}
