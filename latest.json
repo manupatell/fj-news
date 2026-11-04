@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T23:50:42.856924+00:00",
+ "updated": "2026-11-04T00:01:02.862226+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835655,
+   "ts": "2026-11-04T00:00:03+00:00",
+   "ingested": "2026-11-04T00:01:02.861930+00:00",
+   "headline": "Consumer group alleges Tesla misled South Korean customers by selling driver software most vehicles cannot legally use",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835652,
    "ts": "2026-11-03T23:50:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T03:03:46+00:00",
    "ingested": "2026-11-02T03:04:07.270403+00:00",
    "headline": "China's Xi meets Sultan of Oman in Beijing: Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831896,
-   "ts": "2026-11-02T02:42:37+00:00",
-   "ingested": "2026-11-02T02:44:07.290865+00:00",
-   "headline": "South Korea Army: Staff sergeant dies from external injuries at frontline unit near North Korea border in Cheorwon - Kyunghyang Shinmun",
    "channel": "rss",
    "source": "financialjuice"
   }
