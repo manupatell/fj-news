@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T17:42:45.499358+00:00",
+ "updated": "2026-11-04T17:47:45.496365+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837260,
+   "ts": "2026-11-04T17:46:19+00:00",
+   "ingested": "2026-11-04T17:47:45.495989+00:00",
+   "headline": "House Democratic Leader Jeffries ends remarks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837237,
    "ts": "2026-11-04T17:32:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T19:28:21+00:00",
    "ingested": "2026-11-02T19:28:44.244702+00:00",
    "headline": "Under discussion is a version of the draft US-Iran deal under negotiation for past eight days - official briefed on the talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833176,
-   "ts": "2026-11-02T19:28:07+00:00",
-   "ingested": "2026-11-02T19:28:44.244726+00:00",
-   "headline": "Qatari mediators travel to Tehran late Monday for talks with iran foreign minister aragchi on potential US-Iran deal - official briefed on the talks.",
    "channel": "rss",
    "source": "financialjuice"
   }
