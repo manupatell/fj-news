@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T00:43:22.832410+00:00",
+ "updated": "2026-11-04T00:53:22.846012+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835706,
+   "ts": "2026-11-04T00:53:06+00:00",
+   "ingested": "2026-11-04T00:53:22.845699+00:00",
+   "headline": "North Korea launches unidentified projectile toward sea off east coast: South Korea defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835693,
    "ts": "2026-11-04T00:31:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T05:04:31+00:00",
    "ingested": "2026-11-02T05:06:07.312101+00:00",
    "headline": "BOJ: underlying inflation has picked up to about 2%, gradually embedding around that level in recent years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832001,
-   "ts": "2026-11-02T05:02:23+00:00",
-   "ingested": "2026-11-02T05:02:47.320972+00:00",
-   "headline": "Bank of Japan: rate increases likely to ease inflation, help support consumption",
    "channel": "rss",
    "source": "financialjuice"
   }
