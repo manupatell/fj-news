@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-04T19:25:05.548542+00:00",
+ "updated": "2026-11-04T19:31:45.567075+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837391,
+   "ts": "2026-11-04T19:31:09+00:00",
+   "ingested": "2026-11-04T19:31:45.566754+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.2055 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837390,
+   "ts": "2026-11-04T19:31:02+00:00",
+   "ingested": "2026-11-04T19:31:45.566768+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.7286 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837389,
+   "ts": "2026-11-04T19:30:56+00:00",
+   "ingested": "2026-11-04T19:31:45.566781+00:00",
+   "headline": "NYMEX WTI crude Dec. futures settle at $88.12 a barrel, down $7.97, 8.29%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837387,
    "ts": "2026-11-04T19:23:31+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-02T21:05:35+00:00",
    "ingested": "2026-11-02T21:06:24.318905+00:00",
    "headline": "$PLTR Palantir Q3 2026 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833312,
-   "ts": "2026-11-02T21:04:00+00:00",
-   "ingested": "2026-11-02T21:04:44.313373+00:00",
-   "headline": "Iran's IRNA: Explosions heard in Qeshm Island; no official confirmation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833255,
-   "ts": "2026-11-02T20:26:58+00:00",
-   "ingested": "2026-11-02T20:28:04.274450+00:00",
-   "headline": "Vance ends remarks to reporters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833254,
-   "ts": "2026-11-02T20:25:36+00:00",
-   "ingested": "2026-11-02T20:26:14.262320+00:00",
-   "headline": "Vance: I discussed Iran with Trump about an hour ago",
    "channel": "rss",
    "source": "financialjuice"
   }
