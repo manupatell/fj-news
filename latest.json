@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T23:22:26.864038+00:00",
+ "updated": "2026-11-04T23:27:26.851028+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837672,
+   "ts": "2026-11-04T23:27:02+00:00",
+   "ingested": "2026-11-04T23:27:26.850596+00:00",
+   "headline": "OpenAI: Images 2.6 available worldwide today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837671,
+   "ts": "2026-11-04T23:26:52+00:00",
+   "ingested": "2026-11-04T23:27:26.850611+00:00",
+   "headline": "OpenAI: introducing Images 2.6 in ChatGPT, Codex, and API - website",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837643,
    "ts": "2026-11-04T23:01:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T23:01:08+00:00",
    "ingested": "2026-11-02T23:02:54.398456+00:00",
    "headline": "Dan Driscoll to join OpenAI as senior adviser for national security modernization - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833435,
-   "ts": "2026-11-02T23:00:29+00:00",
-   "ingested": "2026-11-02T23:01:04.368446+00:00",
-   "headline": "OpenAI recruits ex-US Army secretary Dan Driscoll - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833431,
-   "ts": "2026-11-02T23:00:09+00:00",
-   "ingested": "2026-11-02T23:01:04.368472+00:00",
-   "headline": "US officials to meet this week in Brussels with France, Germany, UK, EU and NATO reps to discuss Ukraine: senior US official",
    "channel": "rss",
    "source": "financialjuice"
   }
