@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T19:44:55.507245+00:00",
+ "updated": "2026-11-04T19:46:45.514205+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837412,
+   "ts": "2026-11-04T19:46:22+00:00",
+   "ingested": "2026-11-04T19:46:45.513879+00:00",
+   "headline": "Apple cuts internal AI usage budgets in move to reduce spending $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837400,
+   "ts": "2026-11-04T19:45:27+00:00",
+   "ingested": "2026-11-04T19:46:45.513897+00:00",
+   "headline": "Apple lowered daily AI cap for some engineers to $200 from $300; planning further cuts to employees' AI usage limits $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837397,
    "ts": "2026-11-04T19:44:15+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T21:40:06+00:00",
    "ingested": "2026-11-02T21:41:44.296272+00:00",
    "headline": "Anthropic investors push for valuation closer to $1.5 trln - WSJ.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833344,
-   "ts": "2026-11-02T21:34:32+00:00",
-   "ingested": "2026-11-02T21:35:44.285854+00:00",
-   "headline": "Blasts heard from sea off Bandar Lengeh in southern Iran - Fars",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833331,
-   "ts": "2026-11-02T21:30:45+00:00",
-   "ingested": "2026-11-02T21:31:15.936314+00:00",
-   "headline": "$AAPL Apple Q4 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
