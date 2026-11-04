@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T02:52:01.066384+00:00",
+ "updated": "2026-11-04T02:57:01.079581+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835977,
+   "ts": "2026-11-04T02:56:29+00:00",
+   "ingested": "2026-11-04T02:57:01.079354+00:00",
+   "headline": "Democrat Annie Andrews defeats Republican incumbent Darline Graham in South Carolina Senate race: Decision Desk HQ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835976,
    "ts": "2026-11-04T02:50:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-02T06:34:24+00:00",
    "ingested": "2026-11-02T06:36:07.486106+00:00",
    "headline": "Commodities Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832119,
-   "ts": "2026-11-02T06:34:06+00:00",
-   "ingested": "2026-11-02T06:34:27.381007+00:00",
-   "headline": "FX Implied Volatility",
    "channel": "rss",
    "source": "financialjuice"
   }
