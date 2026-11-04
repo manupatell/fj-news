@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-04T04:21:04.516354+00:00",
+ "updated": "2026-11-04T04:26:04.548287+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9836097,
+   "ts": "2026-11-04T04:25:21+00:00",
+   "ingested": "2026-11-04T04:26:04.547886+00:00",
+   "headline": "NBC News projects Democrats to gain control of US Senate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9836096,
+   "ts": "2026-11-04T04:24:26+00:00",
+   "ingested": "2026-11-04T04:26:04.547908+00:00",
+   "headline": "Democrat Josh Turek beats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa - NBC News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9836095,
    "ts": "2026-11-04T04:20:53+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-02T09:00:00+00:00",
    "ingested": "2026-11-02T09:01:21.249204+00:00",
    "headline": "Eurozone Manufacturing PMI Final Actual 52.7 (Forecast 52.4, Previous 52.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832285,
-   "ts": "2026-11-02T08:55:00+00:00",
-   "ingested": "2026-11-02T08:56:21.232674+00:00",
-   "headline": "German Manufacturing PMI Final Actual 54.2 (Forecast 54.2, Previous 54.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832284,
-   "ts": "2026-11-02T08:50:00+00:00",
-   "ingested": "2026-11-02T08:51:21.257135+00:00",
-   "headline": "French Manufacturing PMI Actual 49.5 (Forecast 49.3, Previous 49.3)",
    "channel": "rss",
    "source": "financialjuice"
   }
