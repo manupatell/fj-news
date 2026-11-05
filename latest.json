@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T15:20:07.349839+00:00",
+ "updated": "2026-11-05T15:23:27.355569+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839079,
+   "ts": "2026-11-05T15:22:36+00:00",
+   "ingested": "2026-11-05T15:23:27.355174+00:00",
+   "headline": "Iran's Security Chief Rezaei delivers a message from the country's supreme leader, Mojtaba Khamenei, to Russia's Putin - State Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839077,
    "ts": "2026-11-05T15:18:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T21:45:00+00:00",
    "ingested": "2026-11-03T21:46:04.090534+00:00",
    "headline": "New Zealand Unemployment Rate Actual 5.7% (Forecast 5.5%, Previous 5.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835438,
-   "ts": "2026-11-03T21:16:06+00:00",
-   "ingested": "2026-11-03T21:17:46.473814+00:00",
-   "headline": "$AMD Q3 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
