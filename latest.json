@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T18:51:00.999375+00:00",
+ "updated": "2026-11-05T18:56:01.001963+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839369,
+   "ts": "2026-11-05T18:54:13+00:00",
+   "ingested": "2026-11-05T18:56:01.001575+00:00",
+   "headline": "Saudi Aramco cuts December arab light OSP to Asia to -$7/bbl",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839357,
    "ts": "2026-11-05T18:39:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T01:11:54+00:00",
    "ingested": "2026-11-04T01:13:41.046079+00:00",
    "headline": "China c.bank: requests for relending exceed 200 billion yuan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835722,
-   "ts": "2026-11-04T01:11:35+00:00",
-   "ingested": "2026-11-04T01:12:01.087784+00:00",
-   "headline": "China central bank: steps up stock buybacks, raises holdings and re-lending policies",
    "channel": "rss",
    "source": "financialjuice"
   }
