@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T15:10:07.343809+00:00",
+ "updated": "2026-11-05T15:15:07.394275+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839052,
+   "ts": "2026-11-05T15:13:18+00:00",
+   "ingested": "2026-11-05T15:15:07.393919+00:00",
+   "headline": "Fed's Hammack: See inflationary pressures spilling across the economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839051,
    "ts": "2026-11-05T15:08:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T21:13:23+00:00",
    "ingested": "2026-11-03T21:13:56.371576+00:00",
    "headline": "ECB's Kocher: Risks to inflation remain elevated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835386,
-   "ts": "2026-11-03T20:35:02+00:00",
-   "ingested": "2026-11-03T20:36:48.039704+00:00",
-   "headline": "UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe",
    "channel": "rss",
    "source": "financialjuice"
   }
