@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T13:36:41.538116+00:00",
+ "updated": "2026-11-05T13:38:21.542332+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838877,
+   "ts": "2026-11-05T13:37:11+00:00",
+   "ingested": "2026-11-05T13:38:21.541910+00:00",
+   "headline": "Moonshot turned to Europe for Nvidia Blackwell access - CNBC $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838876,
+   "ts": "2026-11-05T13:36:45+00:00",
+   "ingested": "2026-11-05T13:38:21.541931+00:00",
+   "headline": "Apple kicks off seven-part us dollar high-grade bond sale.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838875,
    "ts": "2026-11-05T13:36:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T14:35:59+00:00",
    "ingested": "2026-11-03T16:26:10.850328+00:00",
    "headline": "ECB's Moulin: France's 0.4% GDP-growth forecast is optimistic.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834872,
-   "ts": "2026-11-03T14:30:59+00:00",
-   "ingested": "2026-11-03T16:26:10.850335+00:00",
-   "headline": "Meta seeks to raise at least $20b in latest bond sale - WSJ $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834871,
-   "ts": "2026-11-03T14:30:47+00:00",
-   "ingested": "2026-11-03T16:26:10.850343+00:00",
-   "headline": "Binance: Approximately $2.85 billion in digital assets have been frozen or intercepted.",
    "channel": "rss",
    "source": "financialjuice"
   }
