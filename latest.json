@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T09:36:20.914608+00:00",
+ "updated": "2026-11-05T09:46:20.920244+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838435,
+   "ts": "2026-11-05T09:45:01+00:00",
+   "ingested": "2026-11-05T09:46:20.919776+00:00",
+   "headline": "Credit \u00c1gricole: US October Jobs - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838434,
    "ts": "2026-11-05T09:35:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T06:00:03+00:00",
    "ingested": "2026-11-03T06:01:21.518622+00:00",
    "headline": "India 2026 gold demand to drop 15% y/y to six-year low: World Gold Council",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834129,
-   "ts": "2026-11-03T05:32:04+00:00",
-   "ingested": "2026-11-03T05:33:01.522248+00:00",
-   "headline": "Turkish Jan-October automotive sales drop 15.33% year-on-year: association",
    "channel": "rss",
    "source": "financialjuice"
   }
