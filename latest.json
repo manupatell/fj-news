@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-05T00:24:06.884634+00:00",
+ "updated": "2026-11-05T00:30:46.876771+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837745,
+   "ts": "2026-11-05T00:30:04+00:00",
+   "ingested": "2026-11-05T00:30:46.876341+00:00",
+   "headline": "Australia Sept trade surplus at A$2.83 billion, seasonally adjusted vs. poll A$810 million",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837744,
+   "ts": "2026-11-05T00:30:04+00:00",
+   "ingested": "2026-11-05T00:30:46.876358+00:00",
+   "headline": "Japan S&P Global October services PMI at 51.7 vs flash 52.0",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837743,
+   "ts": "2026-11-05T00:30:04+00:00",
+   "ingested": "2026-11-05T00:30:46.876370+00:00",
+   "headline": "Australia September goods exports rise 2.3% m/m, seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837740,
+   "ts": "2026-11-05T00:30:01+00:00",
+   "ingested": "2026-11-05T00:30:46.876381+00:00",
+   "headline": "Australian Trade Balance Actual 2826M (Forecast 1000M, Previous 495M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837739,
+   "ts": "2026-11-05T00:30:00+00:00",
+   "ingested": "2026-11-05T00:30:46.876392+00:00",
+   "headline": "Japanese Composite PMI Final Actual 52.1 (Forecast -, Previous 52.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837738,
+   "ts": "2026-11-05T00:30:00+00:00",
+   "ingested": "2026-11-05T00:30:46.876402+00:00",
+   "headline": "Japanese Services PMI Actual 51.7 (Forecast -, Previous 52.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837736,
    "ts": "2026-11-05T00:23:52+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-03T01:43:41+00:00",
    "ingested": "2026-11-03T01:44:21.479687+00:00",
    "headline": "China securities regulator vice chair: plans to deepen cross-border regulatory cooperation with Hong Kong, will crack down on fraud in cross-border capital activities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833683,
-   "ts": "2026-11-03T01:40:58+00:00",
-   "ingested": "2026-11-03T01:42:41.497445+00:00",
-   "headline": "Hong Kong-China securities regulator vice chair: will offer efficient, convenient framework to aid domestic companies listing in Hong Kong",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833682,
-   "ts": "2026-11-03T01:33:17+00:00",
-   "ingested": "2026-11-03T01:34:21.500790+00:00",
-   "headline": "Hong Kong-China financial regulator vice minister: AI-driven advances could create new and greater value long term",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833669,
-   "ts": "2026-11-03T01:31:41+00:00",
-   "ingested": "2026-11-03T01:32:41.504783+00:00",
-   "headline": "Hong Kong-China financial regulator vice minister: AI replaces current labor and demands new skills requiring close attention",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833662,
-   "ts": "2026-11-03T01:29:58+00:00",
-   "ingested": "2026-11-03T01:31:01.485140+00:00",
-   "headline": "Hong Kong-China financial regulator vice minister: developing prepared macroeconomic and financial policies needed for AI-driven technological revolution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833661,
-   "ts": "2026-11-03T01:28:23+00:00",
-   "ingested": "2026-11-03T01:29:21.455694+00:00",
-   "headline": "Hong Kong-China financial regulator vice minister: It remains challenging to precisely assess the development and length of upcoming AI-driven economic growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833660,
-   "ts": "2026-11-03T01:24:19+00:00",
-   "ingested": "2026-11-03T01:26:01.521225+00:00",
-   "headline": "China's offshore yuan declines 0.26% to 6.6642 per dollar, largest daily drop since June",
    "channel": "rss",
    "source": "financialjuice"
   }
