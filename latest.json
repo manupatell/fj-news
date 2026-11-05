@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:51:41.533100+00:00",
+ "updated": "2026-11-05T14:00:07.372231+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838912,
+   "ts": "2026-11-05T13:59:29+00:00",
+   "ingested": "2026-11-05T14:00:07.371847+00:00",
+   "headline": "Effective Fed Funds Rate 3.88% November 4 vs 3.88% November 3",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838911,
    "ts": "2026-11-05T13:51:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T16:00:51+00:00",
    "ingested": "2026-11-03T16:26:10.850227+00:00",
    "headline": "US to sell $115 bln 4-week bills on November 5th, to settle on November 10th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834992,
-   "ts": "2026-11-03T15:18:50+00:00",
-   "ingested": "2026-11-03T16:26:10.850234+00:00",
-   "headline": "Fear & Greed Index: 20/100 - Extreme Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
