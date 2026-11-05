@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T02:31:46.906257+00:00",
+ "updated": "2026-11-05T02:35:06.927056+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837933,
+   "ts": "2026-11-05T02:33:43+00:00",
+   "ingested": "2026-11-05T02:35:06.926642+00:00",
+   "headline": "China finance ministry auctions two-month deposits at 1.47% yield: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837833,
    "ts": "2026-11-05T02:00:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T03:30:03+00:00",
    "ingested": "2026-11-03T03:31:01.538655+00:00",
    "headline": "RBA: inflation remains high across sectors, increasing for market services, rents, and durables",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833923,
-   "ts": "2026-11-03T03:30:03+00:00",
-   "ingested": "2026-11-03T03:31:01.538670+00:00",
-   "headline": "RBA: unemployment climbs above forecasts, mainly driven by stronger labor supply",
    "channel": "rss",
    "source": "financialjuice"
   }
