@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-05T14:26:47.336740+00:00",
+ "updated": "2026-11-05T14:28:27.342940+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838985,
+   "ts": "2026-11-05T14:27:53+00:00",
+   "ingested": "2026-11-05T14:28:27.342366+00:00",
+   "headline": "Fed's Barkin: Data centers, because of a lack of employees, do not have natural constituencies in the communities where they are located.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838984,
+   "ts": "2026-11-05T14:27:50+00:00",
+   "ingested": "2026-11-05T14:28:27.342406+00:00",
+   "headline": "S&PGR rates Apple's sr unsecured notes \"a+\".",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838983,
+   "ts": "2026-11-05T14:27:10+00:00",
+   "ingested": "2026-11-05T14:28:27.342432+00:00",
+   "headline": "Fitch: Major share of planned data center capacity may face regulatory hurdles under new gubernatorial regimes, particularly in Texas, Georgia, Ohio.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838982,
+   "ts": "2026-11-05T14:27:05+00:00",
+   "ingested": "2026-11-05T14:28:27.342449+00:00",
+   "headline": "Russia's Putin and Iran's top security official Mohsen Rezai meet in Kremlin - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838981,
    "ts": "2026-11-05T14:25:46+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-03T18:38:56+00:00",
    "ingested": "2026-11-03T18:40:09.807264+00:00",
    "headline": "ECB's Nagel: I am confident that France will get a grip on its budget issues.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835238,
-   "ts": "2026-11-03T18:34:29+00:00",
-   "ingested": "2026-11-03T18:34:44.448214+00:00",
-   "headline": "ECB's Sleijpen: Tightening is slowing Europe's economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835237,
-   "ts": "2026-11-03T18:34:02+00:00",
-   "ingested": "2026-11-03T18:34:44.448227+00:00",
-   "headline": "ECB's Sleijpen: The advance in energy risks has knock-on inflation effects.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835235,
-   "ts": "2026-11-03T18:31:29+00:00",
-   "ingested": "2026-11-03T18:32:43.412244+00:00",
-   "headline": "ECB's Sleijpen: We don't really see second-round effects yet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835218,
-   "ts": "2026-11-03T18:27:02+00:00",
-   "ingested": "2026-11-03T18:28:46.327643+00:00",
-   "headline": "ECB's Sleijpen: The Iran shock is more persistent than earlier thought.",
    "channel": "rss",
    "source": "financialjuice"
   }
