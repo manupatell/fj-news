@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-05T12:03:21.502323+00:00",
+ "updated": "2026-11-05T12:05:01.526464+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838673,
+   "ts": "2026-11-05T12:04:41+00:00",
+   "ingested": "2026-11-05T12:05:01.525937+00:00",
+   "headline": "BoE's Taylor, Dhingra: Rate hike represents insurance against worse inflation outcomes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838671,
+   "ts": "2026-11-05T12:04:09+00:00",
+   "ingested": "2026-11-05T12:05:01.525958+00:00",
+   "headline": "BoE: GDP growth likely to fall back in coming quarters",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838670,
+   "ts": "2026-11-05T12:03:57+00:00",
+   "ingested": "2026-11-05T12:05:01.525975+00:00",
+   "headline": "BoE: Stronger than expected activity data added to case for tighter monetary policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838669,
+   "ts": "2026-11-05T12:03:46+00:00",
+   "ingested": "2026-11-05T12:05:01.525990+00:00",
+   "headline": "BoE: Still limited evidence of second-round effects from higher energy prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838668,
+   "ts": "2026-11-05T12:03:37+00:00",
+   "ingested": "2026-11-05T12:05:01.526007+00:00",
+   "headline": "BoE: Budget likely to boost demand by 0.1% in 2026-27, drag by a little over 0.1% by 2029-30",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838667,
+   "ts": "2026-11-05T12:03:27+00:00",
+   "ingested": "2026-11-05T12:05:01.526027+00:00",
+   "headline": "BoE: Government budget likely to cut inflation by 0.25 percentage points by Q2 2027, then raise by the same amount a year later as the effect unwinds.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838666,
+   "ts": "2026-11-05T12:03:14+00:00",
+   "ingested": "2026-11-05T12:05:01.526040+00:00",
+   "headline": "$COP ConocoPhillips Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838665,
    "ts": "2026-11-05T12:03:10+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-11-03T11:47:27+00:00",
    "ingested": "2026-11-03T11:49:08.516089+00:00",
    "headline": "$PFE Pfizer Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834579,
-   "ts": "2026-11-03T11:40:52+00:00",
-   "ingested": "2026-11-03T11:42:28.499380+00:00",
-   "headline": "EU plans changes to its single market to cut China dependence.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834511,
-   "ts": "2026-11-03T10:41:41+00:00",
-   "ingested": "2026-11-03T10:42:28.474500+00:00",
-   "headline": "SNB's Chairman Schlegel: Swiss GDP should grow moderately after strong 2Q.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834510,
-   "ts": "2026-11-03T10:40:21+00:00",
-   "ingested": "2026-11-03T10:40:48.775899+00:00",
-   "headline": "SNB's Chairman Schlegel: In September, inflation pressure slightly higher than June.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834509,
-   "ts": "2026-11-03T10:35:14+00:00",
-   "ingested": "2026-11-03T10:35:48.560005+00:00",
-   "headline": "ECB's Moulin: ECB must prevent inflation spreading beyond energy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834508,
-   "ts": "2026-11-03T10:31:28+00:00",
-   "ingested": "2026-11-03T10:32:08.491387+00:00",
-   "headline": "German 5 Yr Bobl Yield Actual 3.14% (Forecast -, Previous 3.22%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834507,
-   "ts": "2026-11-03T10:31:28+00:00",
-   "ingested": "2026-11-03T10:32:08.491408+00:00",
-   "headline": "German 5 Yr Bobl Bid-to-Cover Actual 1.4 (Forecast -, Previous 1.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834498,
-   "ts": "2026-11-03T10:23:32+00:00",
-   "ingested": "2026-11-03T10:25:08.559391+00:00",
-   "headline": "We remain hopeful that there is still chance for a deal to set environment for future negotiations - Qatar's Foreign Ministry Spokesperson.",
    "channel": "rss",
    "source": "financialjuice"
   }
