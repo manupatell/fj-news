@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T04:34:40.822667+00:00",
+ "updated": "2026-11-05T04:38:00.846822+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838030,
+   "ts": "2026-11-05T04:37:11+00:00",
+   "ingested": "2026-11-05T04:38:00.846402+00:00",
+   "headline": "Drones strike industrial facilities in Russia's Ryazan, setting fire: authorities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838000,
    "ts": "2026-11-05T04:08:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T03:30:11+00:00",
    "ingested": "2026-11-03T03:31:01.538431+00:00",
    "headline": "Reserve Bank of Australia sets cash rate at 4.85%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833933,
-   "ts": "2026-11-03T03:30:06+00:00",
-   "ingested": "2026-11-03T03:31:01.538450+00:00",
-   "headline": "Reserve Bank of Australia: board raises cash rate target 25 basis points to 4.85% at today's meeting",
    "channel": "rss",
    "source": "financialjuice"
   }
