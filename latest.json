@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T09:31:20.944666+00:00",
+ "updated": "2026-11-05T09:36:20.914608+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838434,
+   "ts": "2026-11-05T09:35:30+00:00",
+   "ingested": "2026-11-05T09:36:20.914122+00:00",
+   "headline": "Japan's PM Takaichi: Will continue to work with us president Trump to strengthen Japan-US relations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838433,
+   "ts": "2026-11-05T09:35:11+00:00",
+   "ingested": "2026-11-05T09:36:20.914177+00:00",
+   "headline": "Qatar Emir reshuffles Qatar energy board of directors - Diwan.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838418,
    "ts": "2026-11-05T09:30:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T05:32:04+00:00",
    "ingested": "2026-11-03T05:33:01.522248+00:00",
    "headline": "Turkish Jan-October automotive sales drop 15.33% year-on-year: association",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834128,
-   "ts": "2026-11-03T05:31:50+00:00",
-   "ingested": "2026-11-03T05:33:01.522268+00:00",
-   "headline": "Turkish October automotive sales down 30.84% year-on-year: association",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834114,
-   "ts": "2026-11-03T05:21:23+00:00",
-   "ingested": "2026-11-03T05:23:01.508824+00:00",
-   "headline": "RBA Governor Bullock: no forward guidance, market to interpret",
    "channel": "rss",
    "source": "financialjuice"
   }
