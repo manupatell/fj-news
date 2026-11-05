@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T04:05:06.933179+00:00",
+ "updated": "2026-11-05T04:08:26.937710+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837999,
+   "ts": "2026-11-05T04:06:43+00:00",
+   "ingested": "2026-11-05T04:08:26.937347+00:00",
+   "headline": "Iran's IRGC: two tankers and tugboat blaze in Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837984,
    "ts": "2026-11-05T03:53:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T03:30:04+00:00",
    "ingested": "2026-11-03T03:31:01.538498+00:00",
    "headline": "RBA forecasts CPI at 4.5% in Q4 2026, 3.7% in Q2 2027, 2.7% in Q4 2027, 2.4% in Q4 2028",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833931,
-   "ts": "2026-11-03T03:30:04+00:00",
-   "ingested": "2026-11-03T03:31:01.538535+00:00",
-   "headline": "RBA forecasts unemployment at 4.7% in Q4 2026, 4.8% in Q2 2027, 4.9% in Q4 2027, 5.1% in Q4 2028",
    "channel": "rss",
    "source": "financialjuice"
   }
