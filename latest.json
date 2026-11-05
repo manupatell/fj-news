@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T09:09:40.909635+00:00",
+ "updated": "2026-11-05T09:13:00.928103+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838395,
+   "ts": "2026-11-05T09:12:17+00:00",
+   "ingested": "2026-11-05T09:13:00.927660+00:00",
+   "headline": "Alaris Equity Partners Income Trust AD_U.TO: RBC lowers target price to C$26 from C$27",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838394,
    "ts": "2026-11-05T09:09:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T05:18:12+00:00",
    "ingested": "2026-11-03T05:19:41.513087+00:00",
    "headline": "RBA Governor Bullock: uncertain how high rates must rise",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834108,
-   "ts": "2026-11-03T05:18:12+00:00",
-   "ingested": "2026-11-03T05:19:41.513103+00:00",
-   "headline": "Unemployment remains relatively low, job growth continues",
    "channel": "rss",
    "source": "financialjuice"
   }
