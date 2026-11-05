@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T09:46:20.920244+00:00",
+ "updated": "2026-11-05T09:48:00.931481+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838457,
+   "ts": "2026-11-05T09:46:14+00:00",
+   "ingested": "2026-11-05T09:48:00.931095+00:00",
+   "headline": "MUFG: The GBP - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838435,
    "ts": "2026-11-05T09:45:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T06:00:03+00:00",
    "ingested": "2026-11-03T06:01:21.518599+00:00",
    "headline": "India gold demand to rise in December quarter on festive, wedding purchases: World Gold Council",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834134,
-   "ts": "2026-11-03T06:00:03+00:00",
-   "ingested": "2026-11-03T06:01:21.518622+00:00",
-   "headline": "India 2026 gold demand to drop 15% y/y to six-year low: World Gold Council",
    "channel": "rss",
    "source": "financialjuice"
   }
