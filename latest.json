@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:17:41.524438+00:00",
+ "updated": "2026-11-05T13:19:21.548684+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838843,
+   "ts": "2026-11-05T13:19:02+00:00",
+   "ingested": "2026-11-05T13:19:21.548274+00:00",
+   "headline": "BoE Gov. Bailey when asked about persistent above-target UK inflation: We have been in a world of very big supply shocks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838824,
    "ts": "2026-11-05T13:16:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:06:30+00:00",
    "ingested": "2026-11-03T16:26:10.850430+00:00",
    "headline": "Anthropic engineers found Claude cuts the time taken to design chips compared to their estimates of workflows at designers such as NVIDIA, AMD - The Information $NVDA $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834820,
-   "ts": "2026-11-03T14:04:12+00:00",
-   "ingested": "2026-11-03T16:26:10.850437+00:00",
-   "headline": "Anthropic chip design team using Claude models - The Information",
    "channel": "rss",
    "source": "financialjuice"
   }
