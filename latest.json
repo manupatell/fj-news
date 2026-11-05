@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T15:15:07.394275+00:00",
+ "updated": "2026-11-05T15:16:47.347594+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839069,
+   "ts": "2026-11-05T15:15:34+00:00",
+   "ingested": "2026-11-05T15:16:47.347162+00:00",
+   "headline": "Fed's Hammack: See potential strengthening of the labor market",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839052,
    "ts": "2026-11-05T15:13:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T21:14:36+00:00",
    "ingested": "2026-11-03T21:15:51.423026+00:00",
    "headline": "ECB's Kocher: ECB will continue to react on inflation when necessary.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835432,
-   "ts": "2026-11-03T21:13:23+00:00",
-   "ingested": "2026-11-03T21:13:56.371576+00:00",
-   "headline": "ECB's Kocher: Risks to inflation remain elevated",
    "channel": "rss",
    "source": "financialjuice"
   }
