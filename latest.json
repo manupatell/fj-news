@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T01:06:46.891112+00:00",
+ "updated": "2026-11-05T01:15:06.909636+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837801,
+   "ts": "2026-11-05T01:13:26+00:00",
+   "ingested": "2026-11-05T01:15:06.909244+00:00",
+   "headline": "Cat Wu, former head of product for Claude code at Anthropic, joins OpenAI to lead product management for core products",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837742,
    "ts": "2026-11-05T00:31:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T03:25:58+00:00",
    "ingested": "2026-11-03T03:27:41.520569+00:00",
    "headline": "China commerce ministry: Vice minister Li Chenggang meets U.S. agricultural trade delegation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833902,
-   "ts": "2026-11-03T03:14:30+00:00",
-   "ingested": "2026-11-03T03:16:01.513504+00:00",
-   "headline": "Taiwan stocks slip over 2%",
    "channel": "rss",
    "source": "financialjuice"
   }
