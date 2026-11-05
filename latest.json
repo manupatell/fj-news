@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T09:29:40.920102+00:00",
+ "updated": "2026-11-05T09:31:20.944666+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838418,
+   "ts": "2026-11-05T09:30:00+00:00",
+   "ingested": "2026-11-05T09:31:20.944189+00:00",
+   "headline": "UK Construction PMI Actual 43.6 (Forecast 46.5, Previous 46.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838417,
    "ts": "2026-11-05T09:28:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T05:21:23+00:00",
    "ingested": "2026-11-03T05:23:01.508824+00:00",
    "headline": "RBA Governor Bullock: no forward guidance, market to interpret",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834113,
-   "ts": "2026-11-03T05:20:17+00:00",
-   "ingested": "2026-11-03T05:21:21.526408+00:00",
-   "headline": "RBA Governor Bullock: board makes policy choices, not trying to shape expectations",
    "channel": "rss",
    "source": "financialjuice"
   }
