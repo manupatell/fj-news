@@ -1,7 +1,279 @@
 {
- "updated": "2026-11-05T15:33:27.374330+00:00",
+ "updated": "2026-11-05T17:52:31.189431+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839306,
+   "ts": "2026-11-05T17:48:48+00:00",
+   "ingested": "2026-11-05T17:52:31.188598+00:00",
+   "headline": "AT&T and T-Mobile may drop Boost Mobile if Musk buys it - Semafor. $TMUS $T",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839305,
+   "ts": "2026-11-05T17:47:47+00:00",
+   "ingested": "2026-11-05T17:52:31.188618+00:00",
+   "headline": "US Sec. of Defense Hegseth could face an impeachment vote as soon as next week - Fox.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839287,
+   "ts": "2026-11-05T17:43:50+00:00",
+   "ingested": "2026-11-05T17:52:31.188631+00:00",
+   "headline": "DoJ creates an AI Task Force to block foreign adversaries - Fox.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839284,
+   "ts": "2026-11-05T17:31:41+00:00",
+   "ingested": "2026-11-05T17:52:31.188642+00:00",
+   "headline": "US held talks with Iran on deporting Iranians during the war - AP.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839256,
+   "ts": "2026-11-05T17:11:04+00:00",
+   "ingested": "2026-11-05T17:52:31.188657+00:00",
+   "headline": "Qatarenergy is in talks for more long-term deals to buy LNG from US firms, plans to purchase 3 million to 6 million tons of LNG annually.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839255,
+   "ts": "2026-11-05T17:05:54+00:00",
+   "ingested": "2026-11-05T17:52:31.188668+00:00",
+   "headline": "US Sec. of Defense Hegseth expands the Washington, D.C. National Guard presence - Politico.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839249,
+   "ts": "2026-11-05T17:01:36+00:00",
+   "ingested": "2026-11-05T17:52:31.188678+00:00",
+   "headline": "Google to invest $17b in the first Wyoming data center. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839235,
+   "ts": "2026-11-05T17:00:39+00:00",
+   "ingested": "2026-11-05T17:52:31.188692+00:00",
+   "headline": "US 30-year fixed rate mortgage averages 7.18 pct in the November 5th week, lowest since the September 24th 2026 week, vs 7.24% in the prior week - Freddie Mac.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839215,
+   "ts": "2026-11-05T16:40:46+00:00",
+   "ingested": "2026-11-05T17:52:31.188703+00:00",
+   "headline": "Meeting between Putin and Iran's Rezai is still ongoing at the Kremlin - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839212,
+   "ts": "2026-11-05T16:36:22+00:00",
+   "ingested": "2026-11-05T17:52:31.188713+00:00",
+   "headline": "Al-Mayadeen: Iran's Rezai discussed ending the war with Russian President Putin during their meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839211,
+   "ts": "2026-11-05T16:35:53+00:00",
+   "ingested": "2026-11-05T17:52:31.188726+00:00",
+   "headline": "Iran reviewing \u2018concrete proposals\u2019 on the nuclear program - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839209,
+   "ts": "2026-11-05T16:32:04+00:00",
+   "ingested": "2026-11-05T17:52:31.188739+00:00",
+   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.46 (Forecast -, Previous 3.100)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839208,
+   "ts": "2026-11-05T16:32:04+00:00",
+   "ingested": "2026-11-05T17:52:31.188749+00:00",
+   "headline": "US 4-Week Bill High Yield Actual 3.89% (Forecast -, Previous 3.910%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839180,
+   "ts": "2026-11-05T16:27:37+00:00",
+   "ingested": "2026-11-05T17:52:31.188766+00:00",
+   "headline": "BoC's Gov. Macklem: Can't rule out escalation before US trade gets better",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839179,
+   "ts": "2026-11-05T16:26:07+00:00",
+   "ingested": "2026-11-05T17:52:31.188776+00:00",
+   "headline": "BoC's Gov. Macklem: Optimistic we can get to lower US tariffs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839175,
+   "ts": "2026-11-05T16:16:16+00:00",
+   "ingested": "2026-11-05T17:52:31.188787+00:00",
+   "headline": "Fed bids for 4-week bills total $8.3 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839169,
+   "ts": "2026-11-05T16:13:20+00:00",
+   "ingested": "2026-11-05T17:52:31.188797+00:00",
+   "headline": "Putin Envoy Dmitriev: Putin appreciates trump's peacemaking efforts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839168,
+   "ts": "2026-11-05T16:13:05+00:00",
+   "ingested": "2026-11-05T17:52:31.188808+00:00",
+   "headline": "ECB's President Lagarde: There are also demand shocks happening at the same time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839167,
+   "ts": "2026-11-05T16:11:44+00:00",
+   "ingested": "2026-11-05T17:52:31.188818+00:00",
+   "headline": "ECB's President Lagarde: Must pay attention to secondary effects of energy price shock",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839166,
+   "ts": "2026-11-05T16:08:50+00:00",
+   "ingested": "2026-11-05T17:52:31.188828+00:00",
+   "headline": "French PM Lecornu to meet with unions and employers on Monday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839165,
+   "ts": "2026-11-05T16:02:36+00:00",
+   "ingested": "2026-11-05T17:52:31.188837+00:00",
+   "headline": "Shield AI to hit $28.8 billion valuation with radar firm deal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839164,
+   "ts": "2026-11-05T16:02:13+00:00",
+   "ingested": "2026-11-05T17:52:31.188845+00:00",
+   "headline": "US Treasury Auction dates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839145,
+   "ts": "2026-11-05T16:00:58+00:00",
+   "ingested": "2026-11-05T17:52:31.188855+00:00",
+   "headline": "BoE Gov. Bailey: Inflation is baked in currently due to the energy price cap.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839143,
+   "ts": "2026-11-05T16:00:38+00:00",
+   "ingested": "2026-11-05T17:52:31.188865+00:00",
+   "headline": "BoE Gov. Bailey: Peace moves would bring limited relief from inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839142,
+   "ts": "2026-11-05T16:00:37+00:00",
+   "ingested": "2026-11-05T17:52:31.188874+00:00",
+   "headline": "BoE Gov. Bailey: The future decisions hinge on how fast inflation comes down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839141,
+   "ts": "2026-11-05T16:00:27+00:00",
+   "ingested": "2026-11-05T17:52:31.188884+00:00",
+   "headline": "BoE Gov. Bailey: Inflation risks are on the upside, which could change",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839137,
+   "ts": "2026-11-05T16:00:23+00:00",
+   "ingested": "2026-11-05T17:52:31.188894+00:00",
+   "headline": "BoE Gov. Bailey: The BoE is watching the extent of inflation pass-through.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839134,
+   "ts": "2026-11-05T15:56:51+00:00",
+   "ingested": "2026-11-05T17:52:31.188907+00:00",
+   "headline": "Standard Chartered expects the BoE to deliver a 25 bp rate hike in February 2027 vs the prior forecast of no rate hikes after November 2026.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839133,
+   "ts": "2026-11-05T15:55:08+00:00",
+   "ingested": "2026-11-05T17:52:31.188917+00:00",
+   "headline": "ECB's President Lagarde: Don't expect US tariffs to be revisited right away.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839132,
+   "ts": "2026-11-05T15:51:33+00:00",
+   "ingested": "2026-11-05T17:52:31.188928+00:00",
+   "headline": "ECB\u2019s President Lagarde: We will have many indicators between now and December",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839131,
+   "ts": "2026-11-05T15:49:07+00:00",
+   "ingested": "2026-11-05T17:52:31.188938+00:00",
+   "headline": "ECB's President Lagarde: Still necessary to apply tools to avoid inflation running away",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839130,
+   "ts": "2026-11-05T15:47:53+00:00",
+   "ingested": "2026-11-05T17:52:31.188949+00:00",
+   "headline": "ECB's President Lagarde: Very difficult to disentangle supply-driven and demand-driven shocks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839129,
+   "ts": "2026-11-05T15:47:30+00:00",
+   "ingested": "2026-11-05T17:52:31.188960+00:00",
+   "headline": "ECB's President Lagarde: The current situation is made hard by the energy shock and AI pulling in opposite directions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839102,
+   "ts": "2026-11-05T15:42:55+00:00",
+   "ingested": "2026-11-05T17:52:31.188970+00:00",
+   "headline": "Microsoft Increases Oversight of Neocloud Providers Amid Data Center Delays and Rising Costs $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839081,
    "ts": "2026-11-05T15:30:01+00:00",
@@ -3727,278 +3999,6 @@
    "ts": "2026-11-04T00:53:06+00:00",
    "ingested": "2026-11-04T00:53:22.845699+00:00",
    "headline": "North Korea launches unidentified projectile toward sea off east coast: South Korea defence ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835693,
-   "ts": "2026-11-04T00:31:40+00:00",
-   "ingested": "2026-11-04T00:33:22.820264+00:00",
-   "headline": "Democratic US Senator Jon Ossoff secures reelection in Georgia - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835681,
-   "ts": "2026-11-04T00:30:17+00:00",
-   "ingested": "2026-11-04T00:31:42.818127+00:00",
-   "headline": "Australia September household spending volumes rise 0.7% quarter on quarter seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835680,
-   "ts": "2026-11-04T00:30:04+00:00",
-   "ingested": "2026-11-04T00:31:42.818140+00:00",
-   "headline": "Australia September household spending rises 0.6% month on month seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835679,
-   "ts": "2026-11-04T00:30:04+00:00",
-   "ingested": "2026-11-04T00:31:42.818150+00:00",
-   "headline": "Hong Kong S&P Global October PMI at 50.2 vs 49.2 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835678,
-   "ts": "2026-11-04T00:29:54+00:00",
-   "ingested": "2026-11-04T00:31:42.818158+00:00",
-   "headline": "Dollar/yen declines 0.21% to 158.35",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835677,
-   "ts": "2026-11-04T00:28:37+00:00",
-   "ingested": "2026-11-04T00:30:02.865153+00:00",
-   "headline": "Euro rises 0.26% to $1.12215",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835676,
-   "ts": "2026-11-04T00:22:08+00:00",
-   "ingested": "2026-11-04T00:23:22.813550+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6811 per dollar: Estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835675,
-   "ts": "2026-11-04T00:21:32+00:00",
-   "ingested": "2026-11-04T00:21:42.821014+00:00",
-   "headline": "Democratic US Senator Jon Ossoff secures reelection in Georgia, Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835655,
-   "ts": "2026-11-04T00:00:03+00:00",
-   "ingested": "2026-11-04T00:01:02.861930+00:00",
-   "headline": "Consumer group alleges Tesla misled South Korean customers by selling driver software most vehicles cannot legally use",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835652,
-   "ts": "2026-11-03T23:50:03+00:00",
-   "ingested": "2026-11-03T23:50:42.856624+00:00",
-   "headline": "Japanese Monetary Base YoY Actual -13.6% (Forecast -, Previous -15.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835651,
-   "ts": "2026-11-03T23:48:25+00:00",
-   "ingested": "2026-11-03T23:48:52.811297+00:00",
-   "headline": "Saudi civil defense issues early warning alert in Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835634,
-   "ts": "2026-11-03T23:37:22+00:00",
-   "ingested": "2026-11-03T23:38:02.863651+00:00",
-   "headline": "Trump on Iran: 'we appear to be achieving all our objectives' - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835632,
-   "ts": "2026-11-03T23:36:45+00:00",
-   "ingested": "2026-11-03T23:38:02.863665+00:00",
-   "headline": "Trump: Position with Tehran is \u2018brilliant\u2019 - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835631,
-   "ts": "2026-11-03T23:35:54+00:00",
-   "ingested": "2026-11-03T23:36:22.814586+00:00",
-   "headline": "US has no immediate plan to attack Iran, Trump tells FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835572,
-   "ts": "2026-11-03T23:00:20+00:00",
-   "ingested": "2026-11-03T23:01:02.814012+00:00",
-   "headline": "S&P 500 futures rise 0.2%, Nasdaq futures gain 0.4% as AMD jumps 8% after hours",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835541,
-   "ts": "2026-11-03T22:26:23+00:00",
-   "ingested": "2026-11-03T22:27:42.816089+00:00",
-   "headline": "Meta Platforms prices $15 billion senior notes in five segments - SEC filing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835534,
-   "ts": "2026-11-03T22:11:24+00:00",
-   "ingested": "2026-11-03T22:12:42.817157+00:00",
-   "headline": "Carney says he looks forward to meeting Trump at APEC summit in China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835533,
-   "ts": "2026-11-03T22:07:23+00:00",
-   "ingested": "2026-11-03T22:08:22.841816+00:00",
-   "headline": "Canada\u2019s PM Carney: trade negotiators don\u2019t always need talks with USTR, communication lines remain open",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835532,
-   "ts": "2026-11-03T22:05:55+00:00",
-   "ingested": "2026-11-03T22:06:42.933157+00:00",
-   "headline": "Canada's PM Carney: US requests fewer concessions and proposes more, but deal not reached yet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835531,
-   "ts": "2026-11-03T22:05:40+00:00",
-   "ingested": "2026-11-03T22:06:42.933171+00:00",
-   "headline": "Canada's PM Carney: some of our limits in US trade talks have been eliminated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835530,
-   "ts": "2026-11-03T22:04:38+00:00",
-   "ingested": "2026-11-03T22:05:29.871680+00:00",
-   "headline": "Canada's PM Carney: key issues remain, but progress achieved",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835529,
-   "ts": "2026-11-03T22:04:14+00:00",
-   "ingested": "2026-11-03T22:05:29.871695+00:00",
-   "headline": "Canada\u2019s PM Carney: some red lines remain to be addressed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835528,
-   "ts": "2026-11-03T22:03:56+00:00",
-   "ingested": "2026-11-03T22:05:29.871704+00:00",
-   "headline": "Canada's PM Carney: progress made but US trade talks not yet complete",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835527,
-   "ts": "2026-11-03T22:03:40+00:00",
-   "ingested": "2026-11-03T22:05:29.871712+00:00",
-   "headline": "Canada Prime Minister Carney: talks with US to become more intensive",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835504,
-   "ts": "2026-11-03T22:01:44+00:00",
-   "ingested": "2026-11-03T22:03:49.877855+00:00",
-   "headline": "AIG Construction Index Actual -26.9 (Forecast -, Previous -6.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835503,
-   "ts": "2026-11-03T22:01:43+00:00",
-   "ingested": "2026-11-03T22:03:49.877868+00:00",
-   "headline": "AIG Manufacturing Index Actual -20.1 (Forecast -, Previous -16.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835502,
-   "ts": "2026-11-03T22:01:43+00:00",
-   "ingested": "2026-11-03T22:03:49.877877+00:00",
-   "headline": "Australian Composite PMI Final Actual 48.2 (Forecast -, Previous 47.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835501,
-   "ts": "2026-11-03T22:01:43+00:00",
-   "ingested": "2026-11-03T22:03:49.877885+00:00",
-   "headline": "Australian Services PMI Final Actual 48.5 (Forecast -, Previous 47.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835500,
-   "ts": "2026-11-03T21:55:24+00:00",
-   "ingested": "2026-11-03T21:55:59.872436+00:00",
-   "headline": "US API Cushing Stock Change Actual 0.511M (Forecast -, Previous -0.453M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835499,
-   "ts": "2026-11-03T21:55:05+00:00",
-   "ingested": "2026-11-03T21:55:29.830012+00:00",
-   "headline": "US API Distillate Stock Change Actual -1.192M (Forecast -, Previous 0.38M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835498,
-   "ts": "2026-11-03T21:54:45+00:00",
-   "ingested": "2026-11-03T21:55:29.830024+00:00",
-   "headline": "US API Gasoline Stock Change Actual 1.427M (Forecast -, Previous 2.39M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835497,
-   "ts": "2026-11-03T21:54:00+00:00",
-   "ingested": "2026-11-03T21:55:29.830033+00:00",
-   "headline": "US API Crude Stock Change Actual -5.267M (Forecast 2.1M, Previous -2.031M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835482,
-   "ts": "2026-11-03T21:45:01+00:00",
-   "ingested": "2026-11-03T21:46:04.090512+00:00",
-   "headline": "New Zealand Participation Rate Actual 70.4% (Forecast 70.7%, Previous 70.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835481,
-   "ts": "2026-11-03T21:45:01+00:00",
-   "ingested": "2026-11-03T21:46:04.090524+00:00",
-   "headline": "New Zealand Job Growth QoQ Actual -0.1% (Forecast 0.4%, Previous 0.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
