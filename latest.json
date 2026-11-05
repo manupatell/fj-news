@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T09:48:00.931481+00:00",
+ "updated": "2026-11-05T09:49:40.929506+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838460,
+   "ts": "2026-11-05T09:49:05+00:00",
+   "ingested": "2026-11-05T09:49:40.929013+00:00",
+   "headline": "Saudi-led coalition: Destroyed missile launched by Houthis towards Medina",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838459,
+   "ts": "2026-11-05T09:48:53+00:00",
+   "ingested": "2026-11-05T09:49:40.929034+00:00",
+   "headline": "Saudi-led coalition: Intercepts missile targeting Medina region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838457,
    "ts": "2026-11-05T09:46:14+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T06:36:36+00:00",
    "ingested": "2026-11-03T06:38:01.537371+00:00",
    "headline": "Top S&P 500 Stock names Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834189,
-   "ts": "2026-11-03T06:35:45+00:00",
-   "ingested": "2026-11-03T06:36:21.532583+00:00",
-   "headline": "Aramco CEO: Firm exploring additional export routes and overseas capacity, including potential expansion of East-West pipeline.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834135,
-   "ts": "2026-11-03T06:00:03+00:00",
-   "ingested": "2026-11-03T06:01:21.518599+00:00",
-   "headline": "India gold demand to rise in December quarter on festive, wedding purchases: World Gold Council",
    "channel": "rss",
    "source": "financialjuice"
   }
