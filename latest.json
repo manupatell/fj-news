@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:14:21.578976+00:00",
+ "updated": "2026-11-05T13:16:01.532031+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838818,
+   "ts": "2026-11-05T13:15:22+00:00",
+   "ingested": "2026-11-05T13:16:01.531676+00:00",
+   "headline": "BoE Gov. Bailey when asked on closer EU ties: He is in favour of greater trade and openness.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838817,
    "ts": "2026-11-05T13:13:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:00:59+00:00",
    "ingested": "2026-11-03T16:26:10.850445+00:00",
    "headline": "ECB: Forex reserves rose \u20ac300 mln to \u20ac349.6 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834795,
-   "ts": "2026-11-03T14:00:07+00:00",
-   "ingested": "2026-11-03T14:01:08.578170+00:00",
-   "headline": "Effective Fed funds rate 3.88% November 2nd vs 3.88% October 30th.",
    "channel": "rss",
    "source": "financialjuice"
   }
