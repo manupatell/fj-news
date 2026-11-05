@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T21:02:41.030175+00:00",
+ "updated": "2026-11-05T21:04:21.055854+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839511,
+   "ts": "2026-11-05T21:04:08+00:00",
+   "ingested": "2026-11-05T21:04:21.055435+00:00",
+   "headline": "Canada Unveils 2026 Budget With C$45 Billion Housing Plan, Higher Borrowing and Slower Growth Outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839510,
+   "ts": "2026-11-05T21:03:27+00:00",
+   "ingested": "2026-11-05T21:04:21.055452+00:00",
+   "headline": "Canada deficit projected to be C$62.3 bln in 2026-27",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839509,
    "ts": "2026-11-05T21:01:56+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T02:40:18+00:00",
    "ingested": "2026-11-04T02:42:01.092014+00:00",
    "headline": "Democratic contender Rebecca Bennett defeats Republican incumbent Thomas Kean Jr. in New Jersey's 7th congressional district house race - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835963,
-   "ts": "2026-11-04T02:35:38+00:00",
-   "ingested": "2026-11-04T02:37:01.093948+00:00",
-   "headline": "Democratic contender Bob Brooks defeats Republican incumbent Ryan Mackenzie in race for US House seat in Pennsylvania\u2019s 7th congressional district: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835950,
-   "ts": "2026-11-04T02:17:10+00:00",
-   "ingested": "2026-11-04T02:18:41.087772+00:00",
-   "headline": "Democrat Keisha Lance Bottoms defeats Republican Rick Jackson in Georgia governor race, CNN projects",
    "channel": "rss",
    "source": "financialjuice"
   }
