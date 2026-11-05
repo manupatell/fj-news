@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T00:15:46.880479+00:00",
+ "updated": "2026-11-05T00:24:06.884634+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837736,
+   "ts": "2026-11-05T00:23:52+00:00",
+   "ingested": "2026-11-05T00:24:06.884237+00:00",
+   "headline": "China PBOC forecast to set yuan midpoint at 6.6783 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837730,
    "ts": "2026-11-05T00:04:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T01:24:19+00:00",
    "ingested": "2026-11-03T01:26:01.521225+00:00",
    "headline": "China's offshore yuan declines 0.26% to 6.6642 per dollar, largest daily drop since June",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833659,
-   "ts": "2026-11-03T01:24:11+00:00",
-   "ingested": "2026-11-03T01:26:01.521248+00:00",
-   "headline": "Hong Kong-China financial regulator vice minister: global central banks often send mixed, inconsistent, and sometimes conflicting policy signals",
    "channel": "rss",
    "source": "financialjuice"
   }
