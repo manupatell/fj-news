@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T10:53:21.472284+00:00",
+ "updated": "2026-11-05T10:58:21.473788+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838544,
+   "ts": "2026-11-05T10:57:46+00:00",
+   "ingested": "2026-11-05T10:58:21.473323+00:00",
+   "headline": "Kazakhstan hired managers Cerberus, Sigulir Guff, Brookfield, and Ashmore for $1b of oil fund",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838531,
    "ts": "2026-11-05T10:33:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T07:30:00+00:00",
    "ingested": "2026-11-03T08:21:38.517636+00:00",
    "headline": "Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834258,
-   "ts": "2026-11-03T07:30:00+00:00",
-   "ingested": "2026-11-03T08:21:38.517669+00:00",
-   "headline": "Swiss CPI MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
