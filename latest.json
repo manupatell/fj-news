@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-05T09:53:00.927516+00:00",
+ "updated": "2026-11-05T10:01:41.475586+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838482,
+   "ts": "2026-11-05T10:01:21+00:00",
+   "ingested": "2026-11-05T10:01:41.475064+00:00",
+   "headline": "Kremlin: Russia's interests will be secured either by military means or peacefully, if Kyiv shows political will.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838481,
+   "ts": "2026-11-05T10:01:12+00:00",
+   "ingested": "2026-11-05T10:01:41.475090+00:00",
+   "headline": "Kremlin restates that Russia wants a peaceful settlement, but as that hasn't been possible so far, its operation in Ukraine continues",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838466,
+   "ts": "2026-11-05T10:00:59+00:00",
+   "ingested": "2026-11-05T10:01:41.475109+00:00",
+   "headline": "Kremlin on tankers with Russian diesel changing course - The Diesel will find its buyers, we can't discuss commercial issues",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838462,
+   "ts": "2026-11-05T10:00:01+00:00",
+   "ingested": "2026-11-05T10:01:41.475125+00:00",
+   "headline": "Eurozone PPI YoY Actual 11.1% (Forecast 10.6%, Previous 8.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838461,
+   "ts": "2026-11-05T10:00:01+00:00",
+   "ingested": "2026-11-05T10:01:41.475139+00:00",
+   "headline": "Eurozone PPI MoM Actual 2.5% (Forecast 2.5%, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838460,
    "ts": "2026-11-05T09:49:05+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-03T07:00:28+00:00",
    "ingested": "2026-11-03T08:21:38.517796+00:00",
    "headline": "Turkish CPI YoY Actual 29.77% (Forecast 29.5%, Previous 29.73%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834206,
-   "ts": "2026-11-03T06:42:51+00:00",
-   "ingested": "2026-11-03T06:44:41.537384+00:00",
-   "headline": "Mediators are working hard to narrow gaps between Tehran and Washington - Senior Iranian Official.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834205,
-   "ts": "2026-11-03T06:42:39+00:00",
-   "ingested": "2026-11-03T06:43:01.551740+00:00",
-   "headline": "Iran is prepared to respond forcefully to US strikes, in the region and beyond - Senior Iranian Official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834204,
-   "ts": "2026-11-03T06:42:22+00:00",
-   "ingested": "2026-11-03T06:43:01.551764+00:00",
-   "headline": "Tehran's conditions must be met if the US wants Hormuz reopened, nuclear talks can begin afterwards - Senior Iranian Official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834203,
-   "ts": "2026-11-03T06:42:11+00:00",
-   "ingested": "2026-11-03T06:43:01.551782+00:00",
-   "headline": "US excessive demands will not be accepted by Tehran - Senior Iranian Official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834191,
-   "ts": "2026-11-03T06:36:36+00:00",
-   "ingested": "2026-11-03T06:38:01.537371+00:00",
-   "headline": "Top S&P 500 Stock names Implied Volatility",
    "channel": "rss",
    "source": "financialjuice"
   }
