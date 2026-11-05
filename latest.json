@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T14:10:07.387942+00:00",
+ "updated": "2026-11-05T14:11:47.331441+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838948,
+   "ts": "2026-11-05T14:10:19+00:00",
+   "ingested": "2026-11-05T14:11:47.331025+00:00",
+   "headline": "Fed's Barkin: I hear broadly that costs are high and increasing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838947,
+   "ts": "2026-11-05T14:10:09+00:00",
+   "ingested": "2026-11-05T14:11:47.331048+00:00",
+   "headline": "Fed's Barkin: Earnings remain strong, and that is encouraging firms to invest and hold onto workers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838946,
    "ts": "2026-11-05T14:09:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T16:11:41+00:00",
    "ingested": "2026-11-03T16:26:10.850133+00:00",
    "headline": "Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets \u2013 Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835054,
-   "ts": "2026-11-03T16:04:50+00:00",
-   "ingested": "2026-11-03T16:26:10.850142+00:00",
-   "headline": "Senior Iranian Official: There is no deadline for exchanging messages with Washington through mediators or reviewing responses",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835053,
-   "ts": "2026-11-03T16:03:33+00:00",
-   "ingested": "2026-11-03T16:26:10.850153+00:00",
-   "headline": "BoC's Gov. Macklem: Higher oil prices and refinery margins are increasing consumer and business costs, with greater pass-through to inflation expected over the coming year",
    "channel": "rss",
    "source": "financialjuice"
   }
