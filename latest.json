@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-05T14:06:47.328626+00:00",
+ "updated": "2026-11-05T14:10:07.387942+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838946,
+   "ts": "2026-11-05T14:09:21+00:00",
+   "ingested": "2026-11-05T14:10:07.387369+00:00",
+   "headline": "Today at noon, two other offending oil tankers collided with sea mines and caught fire in the insecure area east of the Strait of Hormuz - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838945,
+   "ts": "2026-11-05T14:08:59+00:00",
+   "ingested": "2026-11-05T14:10:07.387390+00:00",
+   "headline": "Fed's Barkin: Demand is solid, and the economy is healthy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838944,
+   "ts": "2026-11-05T14:08:46+00:00",
+   "ingested": "2026-11-05T14:10:07.387407+00:00",
+   "headline": "Fed's Barkin: Businesses are still cautious about hiring but are not yet firing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838943,
+   "ts": "2026-11-05T14:08:43+00:00",
+   "ingested": "2026-11-05T14:10:07.387423+00:00",
+   "headline": "An increase in the number of oil tankers on fire in the east of the Strait of Hormuz - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838942,
+   "ts": "2026-11-05T14:08:23+00:00",
+   "ingested": "2026-11-05T14:10:07.387438+00:00",
+   "headline": "Fed's Barkin: Demand in the economy is solid, though some sectors don't feel it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838941,
    "ts": "2026-11-05T14:05:50+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-03T16:03:33+00:00",
    "ingested": "2026-11-03T16:26:10.850153+00:00",
    "headline": "BoC's Gov. Macklem: Higher oil prices and refinery margins are increasing consumer and business costs, with greater pass-through to inflation expected over the coming year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835052,
-   "ts": "2026-11-03T16:03:05+00:00",
-   "ingested": "2026-11-03T16:26:10.850161+00:00",
-   "headline": "BoC's Gov. Macklem: Growth expected to slow in Q4 due to new US tariffs before recovering in 2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835051,
-   "ts": "2026-11-03T16:02:55+00:00",
-   "ingested": "2026-11-03T16:26:10.850171+00:00",
-   "headline": "BoC's Gov. Macklem: GDP is projected to grow 1% in 2026 and approximately 2% in both 2027 and 2028.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835050,
-   "ts": "2026-11-03T16:02:55+00:00",
-   "ingested": "2026-11-03T16:26:10.850179+00:00",
-   "headline": "BoC's Gov. Macklem: Canadian economy showing resilience despite US trade actions, with growth outlook improving modestly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835049,
-   "ts": "2026-11-03T16:02:42+00:00",
-   "ingested": "2026-11-03T16:26:10.850188+00:00",
-   "headline": "BoC's Gov. Macklem: GDP growth reached 3.3% in Q2, with Q3 growth estimated around 2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835048,
-   "ts": "2026-11-03T16:02:32+00:00",
-   "ingested": "2026-11-03T16:26:10.850197+00:00",
-   "headline": "BoC's Gov. Macklem: CPI inflation expected to rise to 3.5% by year-end, remain at or above 3% through much of 2027, and return near 2% by mid-2028.",
    "channel": "rss",
    "source": "financialjuice"
   }
