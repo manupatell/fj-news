@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T10:18:21.464917+00:00",
+ "updated": "2026-11-05T10:21:41.503280+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838514,
+   "ts": "2026-11-05T10:20:33+00:00",
+   "ingested": "2026-11-05T10:21:41.502824+00:00",
+   "headline": "ECB's Zigman: Too early to say how much more tightening is needed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838513,
    "ts": "2026-11-05T10:16:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T07:22:15+00:00",
    "ingested": "2026-11-03T08:21:38.517726+00:00",
    "headline": "ECB's Radev: Economic environment is getting more challenging.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834251,
-   "ts": "2026-11-03T07:14:58+00:00",
-   "ingested": "2026-11-03T08:21:38.517740+00:00",
-   "headline": "Diplomat: Iran, US reviewing latest suggestions from mediators.",
    "channel": "rss",
    "source": "financialjuice"
   }
