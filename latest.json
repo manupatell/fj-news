@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T07:24:40.879164+00:00",
+ "updated": "2026-11-05T07:33:00.891727+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838255,
+   "ts": "2026-11-05T07:31:47+00:00",
+   "ingested": "2026-11-05T07:33:00.891275+00:00",
+   "headline": "RBA's Hauser: Inflation is too high, whichever measure you use",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838235,
    "ts": "2026-11-05T07:23:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T04:36:14+00:00",
    "ingested": "2026-11-03T04:38:01.591698+00:00",
    "headline": "RBA Governor Bullock: voters favoring pause perceived greater downside risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834009,
-   "ts": "2026-11-03T04:35:21+00:00",
-   "ingested": "2026-11-03T04:36:21.500565+00:00",
-   "headline": "China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points",
    "channel": "rss",
    "source": "financialjuice"
   }
