@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T11:28:21.481840+00:00",
+ "updated": "2026-11-05T11:30:01.490892+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838586,
+   "ts": "2026-11-05T11:28:16+00:00",
+   "ingested": "2026-11-05T11:30:01.490429+00:00",
+   "headline": "About 600,000 Nvidia H200 AI chips are in Hong Kong awaiting shipment to mainland China - Two Sources $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838544,
    "ts": "2026-11-05T10:57:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T07:30:00+00:00",
    "ingested": "2026-11-03T08:21:38.517586+00:00",
    "headline": "Swiss CPI YoY Actual 1.5% (Forecast 1.2%, Previous 1.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834259,
-   "ts": "2026-11-03T07:30:00+00:00",
-   "ingested": "2026-11-03T08:21:38.517636+00:00",
-   "headline": "Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
