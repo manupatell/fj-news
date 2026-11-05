@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T08:08:00.893440+00:00",
+ "updated": "2026-11-05T08:13:00.930517+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838303,
+   "ts": "2026-11-05T08:12:43+00:00",
+   "ingested": "2026-11-05T08:13:00.930059+00:00",
+   "headline": "ECB\u2019s Moulin: Higher yields are new test for financial sector.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838279,
    "ts": "2026-11-05T08:01:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T04:44:33+00:00",
    "ingested": "2026-11-03T04:46:21.516791+00:00",
    "headline": "RBA Governor Bullock: don\u2019t see economy weakening at this point",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834019,
-   "ts": "2026-11-03T04:44:10+00:00",
-   "ingested": "2026-11-03T04:44:41.498775+00:00",
-   "headline": "RBA governor Bullock: unemployment remains relatively low, job growth continues",
    "channel": "rss",
    "source": "financialjuice"
   }
