@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T14:33:27.345979+00:00",
+ "updated": "2026-11-05T14:38:27.365597+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839001,
+   "ts": "2026-11-05T14:37:49+00:00",
+   "ingested": "2026-11-05T14:38:27.365197+00:00",
+   "headline": "Fed's Barkin: Credit dynamics in the banking sector are \"reassuring\" at this point.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838999,
+   "ts": "2026-11-05T14:36:43+00:00",
+   "ingested": "2026-11-05T14:38:27.365218+00:00",
+   "headline": "Russia advises citizens to avoid travel to Iran - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838998,
    "ts": "2026-11-05T14:33:14+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T19:05:31+00:00",
    "ingested": "2026-11-03T19:05:45.947529+00:00",
    "headline": "Apple opens Siri AI preview to all developers. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835274,
-   "ts": "2026-11-03T19:02:56+00:00",
-   "ingested": "2026-11-03T19:03:42.720458+00:00",
-   "headline": "ECB's Sleijpen: Problems in France must be solved in Paris",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835246,
-   "ts": "2026-11-03T18:50:02+00:00",
-   "ingested": "2026-11-03T18:51:08.110946+00:00",
-   "headline": "US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China - Sources.",
    "channel": "rss",
    "source": "financialjuice"
   }
