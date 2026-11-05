@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T19:42:41.007754+00:00",
+ "updated": "2026-11-05T19:44:21.009854+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839421,
+   "ts": "2026-11-05T19:42:43+00:00",
+   "ingested": "2026-11-05T19:44:21.009475+00:00",
+   "headline": "Brent Crude futures settle at $98.29/bbl, up $3.67, 3.88%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839420,
    "ts": "2026-11-05T19:42:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T01:45:00+00:00",
    "ingested": "2026-11-04T01:45:21.130890+00:00",
    "headline": "Chinese Services PMI Actual 50.8 (Forecast 51.7, Previous 51.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835752,
-   "ts": "2026-11-04T01:44:45+00:00",
-   "ingested": "2026-11-04T01:45:21.130898+00:00",
-   "headline": "euro rises 0.6% to $1.1259",
    "channel": "rss",
    "source": "financialjuice"
   }
