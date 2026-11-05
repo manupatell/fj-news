@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T07:43:00.898973+00:00",
+ "updated": "2026-11-05T07:44:40.890101+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838257,
+   "ts": "2026-11-05T07:43:07+00:00",
+   "ingested": "2026-11-05T07:44:40.889625+00:00",
+   "headline": "RBA's Hauser: Consumption growth has held up better than expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838256,
    "ts": "2026-11-05T07:41:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T04:37:54+00:00",
    "ingested": "2026-11-03T04:39:41.523227+00:00",
    "headline": "RBA Governor Bullock: inflation is largely set for the next year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834011,
-   "ts": "2026-11-03T04:36:54+00:00",
-   "ingested": "2026-11-03T04:38:01.591677+00:00",
-   "headline": "RBA Governor Bullock: those favoring a hold wanted to wait longer for data",
    "channel": "rss",
    "source": "financialjuice"
   }
