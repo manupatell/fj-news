@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T23:38:01.987638+00:00",
+ "updated": "2026-11-05T23:39:41.912382+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839700,
+   "ts": "2026-11-05T23:38:21+00:00",
+   "ingested": "2026-11-05T23:39:41.912160+00:00",
+   "headline": "S.Korea finance minister: to implement trade agreement with US and increase communication with Congress and state governments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839699,
    "ts": "2026-11-05T23:37:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T04:15:03+00:00",
    "ingested": "2026-11-04T04:15:44.512262+00:00",
    "headline": "United Arab Emirates S&P Global composite PMI falls to 54.8 in October from 55.3 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836085,
-   "ts": "2026-11-04T04:13:18+00:00",
-   "ingested": "2026-11-04T04:14:04.580050+00:00",
-   "headline": "Democrat Rob Sand beats Republican Zach Lahn in race for Iowa governor held by GOP - NBC News",
    "channel": "rss",
    "source": "financialjuice"
   }
