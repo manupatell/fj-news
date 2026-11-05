@@ -1,7 +1,87 @@
 {
- "updated": "2026-11-05T13:48:21.538956+00:00",
+ "updated": "2026-11-05T13:51:41.533100+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838911,
+   "ts": "2026-11-05T13:51:08+00:00",
+   "ingested": "2026-11-05T13:51:41.532504+00:00",
+   "headline": "Fed's Hammack: Hard to see the Dollar losing reserve status",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838910,
+   "ts": "2026-11-05T13:50:54+00:00",
+   "ingested": "2026-11-05T13:51:41.532551+00:00",
+   "headline": "Fed's Hammack: US central bank has earned credibility through its actions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838908,
+   "ts": "2026-11-05T13:50:49+00:00",
+   "ingested": "2026-11-05T13:51:41.532568+00:00",
+   "headline": "Fed's Hammack: dollar's status owes to us institutions, legal system",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838907,
+   "ts": "2026-11-05T13:50:43+00:00",
+   "ingested": "2026-11-05T13:51:41.532584+00:00",
+   "headline": "Fed's Hammack: Dollar remains word's top reserve currency.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838906,
+   "ts": "2026-11-05T13:50:37+00:00",
+   "ingested": "2026-11-05T13:51:41.532602+00:00",
+   "headline": "Fed's Hammack: Gradual rate hikes are the best way to make sure the US Central Bank gets inflation back to 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838905,
+   "ts": "2026-11-05T13:50:34+00:00",
+   "ingested": "2026-11-05T13:51:41.532616+00:00",
+   "headline": "Fed's Hammack: Inflation has been too high, moving in wrong direction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838904,
+   "ts": "2026-11-05T13:50:26+00:00",
+   "ingested": "2026-11-05T13:51:41.532631+00:00",
+   "headline": "Fed's Hammack: US central bank's independence critical to get inflation to 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838903,
+   "ts": "2026-11-05T13:50:24+00:00",
+   "ingested": "2026-11-05T13:51:41.532645+00:00",
+   "headline": "Fed's Hammack: Gradual rate-hike path is the best way forward for monetary policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838902,
+   "ts": "2026-11-05T13:50:16+00:00",
+   "ingested": "2026-11-05T13:51:41.532659+00:00",
+   "headline": "Fed's Hammack: Monetary policy needs to move to restrictive stance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838901,
+   "ts": "2026-11-05T13:50:15+00:00",
+   "ingested": "2026-11-05T13:51:41.532675+00:00",
+   "headline": "Fed's Hammack: Gradual rate hikes less disruptive to the economy and financial system.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838900,
    "ts": "2026-11-05T13:47:17+00:00",
@@ -3919,86 +3999,6 @@
    "ts": "2026-11-03T15:18:50+00:00",
    "ingested": "2026-11-03T16:26:10.850234+00:00",
    "headline": "Fear & Greed Index: 20/100 - Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834991,
-   "ts": "2026-11-03T15:17:48+00:00",
-   "ingested": "2026-11-03T16:26:10.850241+00:00",
-   "headline": "Crypto Fear & Greed Index: 26/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834972,
-   "ts": "2026-11-03T15:16:04+00:00",
-   "ingested": "2026-11-03T16:26:10.850248+00:00",
-   "headline": "Iran rejects reports it's close to a deal with the US - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834964,
-   "ts": "2026-11-03T15:14:54+00:00",
-   "ingested": "2026-11-03T16:26:10.850261+00:00",
-   "headline": "Iran: No new development reached on agreement with the US - IRIB cites negotiating team spokesman on talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834906,
-   "ts": "2026-11-03T15:00:04+00:00",
-   "ingested": "2026-11-03T16:26:10.850268+00:00",
-   "headline": "US JOLTS Job Openings Actual 7.523M (Forecast 7.164M, Previous 7.079M, Revised 7.19M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834905,
-   "ts": "2026-11-03T15:00:02+00:00",
-   "ingested": "2026-11-03T16:26:10.850276+00:00",
-   "headline": "US Durable Goods Revised Actual 1.9% (Forecast 1.8%, Previous 1.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834904,
-   "ts": "2026-11-03T15:00:01+00:00",
-   "ingested": "2026-11-03T16:26:10.850283+00:00",
-   "headline": "US Core Durable Goods Revised Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834903,
-   "ts": "2026-11-03T15:00:00+00:00",
-   "ingested": "2026-11-03T16:26:10.850290+00:00",
-   "headline": "US Factory Orders MoM Actual 1.8% (Forecast 1.2%, Previous 0.1%, Revised 0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834898,
-   "ts": "2026-11-03T14:45:51+00:00",
-   "ingested": "2026-11-03T16:26:10.850298+00:00",
-   "headline": "Venezuela's October Oil Exports Hold Steady at 1.08 Million BPD as European Shipments Rise",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834891,
-   "ts": "2026-11-03T14:37:35+00:00",
-   "ingested": "2026-11-03T16:26:10.850306+00:00",
-   "headline": "HSBC cuts Apple's target price to $360 from $366. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834890,
-   "ts": "2026-11-03T14:37:11+00:00",
-   "ingested": "2026-11-03T16:26:10.850313+00:00",
-   "headline": "ECB's Moulin: Euro-area growth is rather resilient",
    "channel": "rss",
    "source": "financialjuice"
   }
