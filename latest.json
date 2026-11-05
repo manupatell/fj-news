@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T14:01:47.323311+00:00",
+ "updated": "2026-11-05T14:05:07.338473+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838940,
+   "ts": "2026-11-05T14:03:21+00:00",
+   "ingested": "2026-11-05T14:05:07.338086+00:00",
+   "headline": "Apple seeks to raise up to $7 billion from US Dollar bond sale $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838938,
    "ts": "2026-11-05T14:01:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T16:02:23+00:00",
    "ingested": "2026-11-03T16:26:10.850206+00:00",
    "headline": "BoC's Gov. Macklem: Further rate hikes may be needed, but future decisions will be taken meeting by meeting amid elevated uncertainty.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835046,
-   "ts": "2026-11-03T16:02:07+00:00",
-   "ingested": "2026-11-03T16:26:10.850219+00:00",
-   "headline": "BoC's Gov. Macklem: The outlook for inflation has deteriorated. With the war in the Middle East persisting, global oil prices have increased and are expected to remain higher for longer, which is hitting Canadians at the gas pump and increasing costs for many businesses.",
    "channel": "rss",
    "source": "financialjuice"
   }
