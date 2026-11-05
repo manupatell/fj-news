@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T09:23:00.908756+00:00",
+ "updated": "2026-11-05T09:29:40.920102+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838417,
+   "ts": "2026-11-05T09:28:56+00:00",
+   "ingested": "2026-11-05T09:29:40.919695+00:00",
+   "headline": "ING: The USD - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838416,
    "ts": "2026-11-05T09:22:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T05:20:17+00:00",
    "ingested": "2026-11-03T05:21:21.526408+00:00",
    "headline": "RBA Governor Bullock: board makes policy choices, not trying to shape expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834110,
-   "ts": "2026-11-03T05:18:12+00:00",
-   "ingested": "2026-11-03T05:19:41.513067+00:00",
-   "headline": "don't see economy weakening at this point",
    "channel": "rss",
    "source": "financialjuice"
   }
