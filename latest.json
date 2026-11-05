@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T07:23:00.888558+00:00",
+ "updated": "2026-11-05T07:24:40.879164+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838235,
+   "ts": "2026-11-05T07:23:55+00:00",
+   "ingested": "2026-11-05T07:24:40.878795+00:00",
+   "headline": "SNB's Chairman Schlegel: Initial signs that the Swiss economy continues to grow",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838234,
    "ts": "2026-11-05T07:21:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T04:35:21+00:00",
    "ingested": "2026-11-03T04:36:21.500565+00:00",
    "headline": "China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834008,
-   "ts": "2026-11-03T04:35:09+00:00",
-   "ingested": "2026-11-03T04:36:21.500588+00:00",
-   "headline": "RBA Governor Bullock: some hardship now will avoid more pain later",
    "channel": "rss",
    "source": "financialjuice"
   }
