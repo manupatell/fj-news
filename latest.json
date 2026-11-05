@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-05T14:18:27.352421+00:00",
+ "updated": "2026-11-05T14:20:07.403832+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838977,
+   "ts": "2026-11-05T14:19:54+00:00",
+   "ingested": "2026-11-05T14:20:07.403319+00:00",
+   "headline": "NFP Past Market Reactions & Deviations - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838976,
+   "ts": "2026-11-05T14:19:25+00:00",
+   "ingested": "2026-11-05T14:20:07.403341+00:00",
+   "headline": "Fed's Barkin: Inflation is the most important risk for the fed right now.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838975,
+   "ts": "2026-11-05T14:18:32+00:00",
+   "ingested": "2026-11-05T14:20:07.403361+00:00",
+   "headline": "Fed's Barkin: Interest rates are probably not the top thing that would curb AI, but they will have some impact",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838974,
    "ts": "2026-11-05T14:17:53+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-03T18:00:15+00:00",
    "ingested": "2026-11-03T18:00:41.391863+00:00",
    "headline": "ECB's Nagel: A rate hike in December is very likely to be necessary.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835187,
-   "ts": "2026-11-03T17:50:55+00:00",
-   "ingested": "2026-11-03T17:51:20.764339+00:00",
-   "headline": "Israel tells the US that Iran is weighing chemical weapons use - NYT.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835169,
-   "ts": "2026-11-03T17:37:30+00:00",
-   "ingested": "2026-11-03T17:38:10.815361+00:00",
-   "headline": "Fitch Ratings: French banks\u2019 rating headroom narrows on sovereign outlook revision.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835071,
-   "ts": "2026-11-03T16:28:51+00:00",
-   "ingested": "2026-11-03T16:29:30.717157+00:00",
-   "headline": "Greenland's Parliament approves security deal with the United States",
    "channel": "rss",
    "source": "financialjuice"
   }
