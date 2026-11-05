@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T08:01:20.889367+00:00",
+ "updated": "2026-11-05T08:03:00.890673+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838302,
+   "ts": "2026-11-05T08:01:39+00:00",
+   "ingested": "2026-11-05T08:03:00.890248+00:00",
+   "headline": "Currency Strength Chart: Strongest: NZD, CHF, GBP, CAD, AUD, EUR, USD, GBP - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838285,
    "ts": "2026-11-05T08:00:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T04:41:20+00:00",
    "ingested": "2026-11-03T04:43:01.520339+00:00",
    "headline": "RBA Governor Bullock: Probably best to pause and assess incoming data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834016,
-   "ts": "2026-11-03T04:41:02+00:00",
-   "ingested": "2026-11-03T04:41:21.507717+00:00",
-   "headline": "RBA Governor Bullock: uncertain about next rate move, withholding guidance",
    "channel": "rss",
    "source": "financialjuice"
   }
