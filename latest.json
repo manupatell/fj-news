@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T23:36:21.924261+00:00",
+ "updated": "2026-11-05T23:38:01.987638+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839699,
+   "ts": "2026-11-05T23:37:01+00:00",
+   "ingested": "2026-11-05T23:38:01.987345+00:00",
+   "headline": "S. Korea finmin: to track effect of US trade and industry policy shifts on domestic firms",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839698,
    "ts": "2026-11-05T23:36:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T04:13:18+00:00",
    "ingested": "2026-11-04T04:14:04.580050+00:00",
    "headline": "Democrat Rob Sand beats Republican Zach Lahn in race for Iowa governor held by GOP - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836084,
-   "ts": "2026-11-04T04:02:38+00:00",
-   "ingested": "2026-11-04T04:04:04.494237+00:00",
-   "headline": "Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race, CNN projects",
    "channel": "rss",
    "source": "financialjuice"
   }
