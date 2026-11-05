@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T10:23:21.470076+00:00",
+ "updated": "2026-11-05T10:28:21.475086+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838516,
+   "ts": "2026-11-05T10:26:42+00:00",
+   "ingested": "2026-11-05T10:28:21.474654+00:00",
+   "headline": "Oman and Iran discuss efforts to resume navigation in Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838515,
    "ts": "2026-11-05T10:21:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T07:25:45+00:00",
    "ingested": "2026-11-03T08:21:38.517699+00:00",
    "headline": "ECB's Radev: Core inflation stable, energy shock not reaching wages.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834255,
-   "ts": "2026-11-03T07:22:55+00:00",
-   "ingested": "2026-11-03T08:21:38.517712+00:00",
-   "headline": "ECB's Radev: October pause doesn't mean tightening is over.",
    "channel": "rss",
    "source": "financialjuice"
   }
