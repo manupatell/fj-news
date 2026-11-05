@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T08:13:00.930517+00:00",
+ "updated": "2026-11-05T08:14:40.897278+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838305,
+   "ts": "2026-11-05T08:13:54+00:00",
+   "ingested": "2026-11-05T08:14:40.896771+00:00",
+   "headline": "ECB's Moulin: Essential for France to adopt a budget by year-end.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838304,
+   "ts": "2026-11-05T08:13:34+00:00",
+   "ingested": "2026-11-05T08:14:40.896793+00:00",
+   "headline": "ECB's Moulin: French budget uncertainty amplifies rise in bond yields.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838303,
    "ts": "2026-11-05T08:12:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T04:49:42+00:00",
    "ingested": "2026-11-03T04:51:21.511620+00:00",
    "headline": "RBA Governor Bullock: no intention to push economy into recession",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834037,
-   "ts": "2026-11-03T04:48:16+00:00",
-   "ingested": "2026-11-03T04:49:41.500571+00:00",
-   "headline": "RBA Governor Bullock: those on hold weren\u2019t dismissing a hike but wanted additional data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834020,
-   "ts": "2026-11-03T04:44:33+00:00",
-   "ingested": "2026-11-03T04:46:21.516791+00:00",
-   "headline": "RBA Governor Bullock: don\u2019t see economy weakening at this point",
    "channel": "rss",
    "source": "financialjuice"
   }
