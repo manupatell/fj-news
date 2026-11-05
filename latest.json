@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T09:13:00.928103+00:00",
+ "updated": "2026-11-05T09:23:00.908756+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838416,
+   "ts": "2026-11-05T09:22:39+00:00",
+   "ingested": "2026-11-05T09:23:00.908348+00:00",
+   "headline": "Europe Sentiment: US Midterm Result Buoy Stocks Save For Tech - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838395,
    "ts": "2026-11-05T09:12:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T05:18:12+00:00",
    "ingested": "2026-11-03T05:19:41.513067+00:00",
    "headline": "don't see economy weakening at this point",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834109,
-   "ts": "2026-11-03T05:18:12+00:00",
-   "ingested": "2026-11-03T05:19:41.513087+00:00",
-   "headline": "RBA Governor Bullock: uncertain how high rates must rise",
    "channel": "rss",
    "source": "financialjuice"
   }
