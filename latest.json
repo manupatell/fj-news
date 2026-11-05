@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-05T05:03:00.841478+00:00",
+ "updated": "2026-11-05T05:06:20.856338+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838083,
+   "ts": "2026-11-05T05:05:37+00:00",
+   "ingested": "2026-11-05T05:06:20.855846+00:00",
+   "headline": "S. Korea finmin: ready for possible rise in market volatility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838082,
+   "ts": "2026-11-05T05:05:04+00:00",
+   "ingested": "2026-11-05T05:06:20.855867+00:00",
+   "headline": "S. Korea finmin: to track US tariff policies, Middle East conflict",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838081,
+   "ts": "2026-11-05T05:04:31+00:00",
+   "ingested": "2026-11-05T05:06:20.855886+00:00",
+   "headline": "S. Korea finmin: to closely watch shifts in US policy on AI after midterm elections",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838080,
    "ts": "2026-11-05T05:01:21+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-03T03:31:15+00:00",
    "ingested": "2026-11-03T03:32:41.501604+00:00",
    "headline": "RBA: inflation now expected to stay above 3% for next year with rising risk of entrenched higher inflation expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833939,
-   "ts": "2026-11-03T03:31:15+00:00",
-   "ingested": "2026-11-03T03:32:41.501620+00:00",
-   "headline": "RBA: AI-related spending fuels sharp rise in tech goods prices, many goods and services see persistent inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833938,
-   "ts": "2026-11-03T03:31:04+00:00",
-   "ingested": "2026-11-03T03:32:41.501634+00:00",
-   "headline": "RBA: cash rate target hikes since start of year have tightened financial conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833937,
-   "ts": "2026-11-03T03:31:04+00:00",
-   "ingested": "2026-11-03T03:32:41.501652+00:00",
-   "headline": "RBA: with revised inflation outlook and ongoing upside risks, board decides further tightening of financial conditions is necessary to support inflation return to target",
    "channel": "rss",
    "source": "financialjuice"
   }
