@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T22:41:01.066929+00:00",
+ "updated": "2026-11-05T22:46:01.071728+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839630,
+   "ts": "2026-11-05T22:45:36+00:00",
+   "ingested": "2026-11-05T22:46:01.071334+00:00",
+   "headline": "Amazon: project to create at least 550 full-time jobs with wages significantly exceeding county average",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839629,
+   "ts": "2026-11-05T22:44:51+00:00",
+   "ingested": "2026-11-05T22:46:01.071351+00:00",
+   "headline": "Amazon plans data center campus near Glen Rose on Vistra Corp land adjacent to Comanche Peak nuclear power plant",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839604,
    "ts": "2026-11-05T22:29:32+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T03:16:10+00:00",
    "ingested": "2026-11-04T03:17:01.083949+00:00",
    "headline": "Dollar/Swiss franc drops 0.86% to 0.8138",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836036,
-   "ts": "2026-11-04T03:14:57+00:00",
-   "ingested": "2026-11-04T03:15:21.165411+00:00",
-   "headline": "Democrat James Talarico tops Republican Ken Paxton in race for GOP-held US Senate seat in Texas: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836035,
-   "ts": "2026-11-04T03:08:54+00:00",
-   "ingested": "2026-11-04T03:10:21.075002+00:00",
-   "headline": "NBC News projects Democrats take control of US House",
    "channel": "rss",
    "source": "financialjuice"
   }
