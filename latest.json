@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:33:11.535881+00:00",
+ "updated": "2026-11-05T13:34:51.530650+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838874,
+   "ts": "2026-11-05T13:34:24+00:00",
+   "ingested": "2026-11-05T13:34:51.530238+00:00",
+   "headline": "Citi: Democratic Gains Pressure Yields and USD, but Executive Power Remains a Constraint - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838873,
    "ts": "2026-11-05T13:32:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:27:18+00:00",
    "ingested": "2026-11-03T16:26:10.850354+00:00",
    "headline": "Iran's Baqaei: The realization of any understanding depends on a definite commitment to stop the war on all fronts, including in Lebanon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834866,
-   "ts": "2026-11-03T14:26:56+00:00",
-   "ingested": "2026-11-03T16:26:10.850361+00:00",
-   "headline": "Iran's Rezaei: The US must act on 7 conditions for Hormuz to open.",
    "channel": "rss",
    "source": "financialjuice"
   }
