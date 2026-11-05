@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T20:22:41.032829+00:00",
+ "updated": "2026-11-05T20:32:41.026831+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839466,
+   "ts": "2026-11-05T20:31:12+00:00",
+   "ingested": "2026-11-05T20:32:41.026453+00:00",
+   "headline": "Iran's Major General Rezaei: Putin said that he would do anything to end the war.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839460,
    "ts": "2026-11-05T20:22:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T02:11:02+00:00",
    "ingested": "2026-11-04T02:12:01.062000+00:00",
    "headline": "Decision Desk HQ projects Democrats to secure control of US House",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835943,
-   "ts": "2026-11-04T02:05:47+00:00",
-   "ingested": "2026-11-04T02:07:01.126606+00:00",
-   "headline": "Democrat Lance Bottoms beats Republican Jackson in Georgia governor race - NBC",
    "channel": "rss",
    "source": "financialjuice"
   }
