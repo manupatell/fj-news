@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T15:05:07.342287+00:00",
+ "updated": "2026-11-05T15:10:07.343809+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839051,
+   "ts": "2026-11-05T15:08:18+00:00",
+   "ingested": "2026-11-05T15:10:07.343365+00:00",
+   "headline": "Fed's Hammack: Six FOMC meetings from eight would be a modest shift",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839050,
    "ts": "2026-11-05T15:04:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T20:35:02+00:00",
    "ingested": "2026-11-03T20:36:48.039704+00:00",
    "headline": "UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835331,
-   "ts": "2026-11-03T19:46:26+00:00",
-   "ingested": "2026-11-03T19:47:24.224069+00:00",
-   "headline": "Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%",
    "channel": "rss",
    "source": "financialjuice"
   }
