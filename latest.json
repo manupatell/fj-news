@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T00:02:26.868618+00:00",
+ "updated": "2026-11-05T00:04:06.889823+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837729,
+   "ts": "2026-11-05T00:03:08+00:00",
+   "ingested": "2026-11-05T00:04:06.889403+00:00",
+   "headline": "BOJ minutes: several members noted underlying CPI inflation has been close to 2% lately",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837728,
+   "ts": "2026-11-05T00:02:17+00:00",
+   "ingested": "2026-11-05T00:04:06.889419+00:00",
+   "headline": "BOJ minutes: several members highlighted rising chances of CPI inflation increase from early autumn",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837727,
    "ts": "2026-11-05T00:01:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T01:21:53+00:00",
    "ingested": "2026-11-03T01:22:41.473092+00:00",
    "headline": "China cbank injects 621 bln yuan via overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833657,
-   "ts": "2026-11-03T01:19:38+00:00",
-   "ingested": "2026-11-03T01:21:01.477767+00:00",
-   "headline": "IRGC captures 2 US MQM-170 drones over Qeshm Island, while destroying the 55th US MQ-9 drone east of the Hormuz Strait - Press TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833656,
-   "ts": "2026-11-03T01:17:15+00:00",
-   "ingested": "2026-11-03T01:19:21.579696+00:00",
-   "headline": "Hong Kong-PBOC deputy governor: will expand supply of renminbi assets for global investors",
    "channel": "rss",
    "source": "financialjuice"
   }
