@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T14:11:47.331441+00:00",
+ "updated": "2026-11-05T14:15:07.354153+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838949,
+   "ts": "2026-11-05T14:13:29+00:00",
+   "ingested": "2026-11-05T14:15:07.353756+00:00",
+   "headline": "Fed's Barkin: The set of cost pressures of the past 18 months, starting with tariffs, are broad based and firms feel they have to pass them along.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838948,
    "ts": "2026-11-05T14:10:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T16:12:36+00:00",
    "ingested": "2026-11-03T16:26:10.850119+00:00",
    "headline": "BoC's Gov. Macklem: In current circumstances, does not think fiscal policy is making it harder to get inflation down",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835055,
-   "ts": "2026-11-03T16:11:41+00:00",
-   "ingested": "2026-11-03T16:26:10.850133+00:00",
-   "headline": "Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets \u2013 Sources",
    "channel": "rss",
    "source": "financialjuice"
   }
