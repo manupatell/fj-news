@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T14:21:47.346711+00:00",
+ "updated": "2026-11-05T14:23:27.356899+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838979,
+   "ts": "2026-11-05T14:22:02+00:00",
+   "ingested": "2026-11-05T14:23:27.356494+00:00",
+   "headline": "Fed's Barkin: I do not have a point of view about what will happen to fiscal policy following the election.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838978,
    "ts": "2026-11-05T14:21:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T18:00:30+00:00",
    "ingested": "2026-11-03T18:00:41.391841+00:00",
    "headline": "ECB's Nagel: We can and must prevent an energy price spike from causing broad-based inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835191,
-   "ts": "2026-11-03T18:00:20+00:00",
-   "ingested": "2026-11-03T18:00:41.391854+00:00",
-   "headline": "ECB's Nagel: Inflationary pressures higher than expected in September; approaching adverse scenario",
    "channel": "rss",
    "source": "financialjuice"
   }
