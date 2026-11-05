@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-05T12:01:41.501025+00:00",
+ "updated": "2026-11-05T12:03:21.502323+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838665,
+   "ts": "2026-11-05T12:03:10+00:00",
+   "ingested": "2026-11-05T12:03:21.501665+00:00",
+   "headline": "BoE\u2019s Greene sees CPI at level to buoy 27-28 pay settlements",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838664,
+   "ts": "2026-11-05T12:02:52+00:00",
+   "ingested": "2026-11-05T12:03:21.501687+00:00",
+   "headline": "BoE: Members still disagree on the amount of slack in the economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838663,
+   "ts": "2026-11-05T12:02:42+00:00",
+   "ingested": "2026-11-05T12:03:21.501703+00:00",
+   "headline": "BoE guidance: Will adjust bank rate as necessary",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838662,
+   "ts": "2026-11-05T12:02:29+00:00",
+   "ingested": "2026-11-05T12:03:21.501718+00:00",
+   "headline": "BoE central projection shows CPI at 2% by Q3 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838661,
+   "ts": "2026-11-05T12:02:20+00:00",
+   "ingested": "2026-11-05T12:03:21.501732+00:00",
+   "headline": "BoE's Greene: Additional hikes will likely be required.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838660,
+   "ts": "2026-11-05T12:02:17+00:00",
+   "ingested": "2026-11-05T12:03:21.501746+00:00",
+   "headline": "BoE's Pill: Single 25bps hike unlikely to be sufficient",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838659,
+   "ts": "2026-11-05T12:02:09+00:00",
+   "ingested": "2026-11-05T12:03:21.501763+00:00",
+   "headline": "BoE Gov. Bailey: Some of upward market curve explained by risk premia not expected rates; current restrictiveness broadly appropriate.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838658,
+   "ts": "2026-11-05T12:02:07+00:00",
+   "ingested": "2026-11-05T12:03:21.501778+00:00",
+   "headline": "BoE's Mann: We're now in a more robust 2nd-order effects world",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838657,
+   "ts": "2026-11-05T12:01:54+00:00",
+   "ingested": "2026-11-05T12:03:21.501792+00:00",
+   "headline": "BoE's Lombardelli: Likely to be a case for more hikes in the near term",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838618,
+   "ts": "2026-11-05T12:01:54+00:00",
+   "ingested": "2026-11-05T12:03:21.501805+00:00",
+   "headline": "BoE MPC Vote Unchanged Actual 0 (Forecast 2, Previous 6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838617,
+   "ts": "2026-11-05T12:01:53+00:00",
+   "ingested": "2026-11-05T12:03:21.501818+00:00",
+   "headline": "BoE MPC Vote Cut Actual 0 (Forecast 0, Previous 0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838616,
+   "ts": "2026-11-05T12:01:53+00:00",
+   "ingested": "2026-11-05T12:03:21.501831+00:00",
+   "headline": "BoE MPC Vote Hike Actual 9 (Forecast 7, Previous 3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838656,
+   "ts": "2026-11-05T12:01:33+00:00",
+   "ingested": "2026-11-05T12:03:21.501844+00:00",
+   "headline": "BoE's Lombardelli and Pill see case for further \"near term\" rate hike",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838648,
    "ts": "2026-11-05T12:01:14+00:00",
@@ -3895,110 +3999,6 @@
    "ts": "2026-11-03T10:23:32+00:00",
    "ingested": "2026-11-03T10:25:08.559391+00:00",
    "headline": "We remain hopeful that there is still chance for a deal to set environment for future negotiations - Qatar's Foreign Ministry Spokesperson.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834497,
-   "ts": "2026-11-03T10:18:26+00:00",
-   "ingested": "2026-11-03T10:20:08.474947+00:00",
-   "headline": "The two sides are currently studying the proposal - Qatar's Foreign Ministry Spokesperson.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834496,
-   "ts": "2026-11-03T10:18:08+00:00",
-   "ingested": "2026-11-03T10:18:28.475162+00:00",
-   "headline": "Both the US and Iran are committed to the mediation process - Qatar's Foreign Ministry Spokesperson.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834495,
-   "ts": "2026-11-03T10:17:36+00:00",
-   "ingested": "2026-11-03T10:18:28.475183+00:00",
-   "headline": "Iran claims 3 oil tankers caught fire in Hormuz Tuesday - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834487,
-   "ts": "2026-11-03T10:14:05+00:00",
-   "ingested": "2026-11-03T10:15:08.510480+00:00",
-   "headline": "Qatari mediation team that went to Tehran on monday night have returned to Doha, talks continue - Qatar's Foreign Ministry Spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834486,
-   "ts": "2026-11-03T10:03:00+00:00",
-   "ingested": "2026-11-03T10:03:28.513157+00:00",
-   "headline": "UK 10 Yr Gilt Bid-to-Cover Actual 3.38 (Forecast -, Previous 3.61)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834485,
-   "ts": "2026-11-03T10:02:59+00:00",
-   "ingested": "2026-11-03T10:03:28.513177+00:00",
-   "headline": "UK 10 Yr Gilt Yield Actual 5.268% (Forecast -, Previous 5.418%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834460,
-   "ts": "2026-11-03T09:54:23+00:00",
-   "ingested": "2026-11-03T09:55:08.464702+00:00",
-   "headline": "China to continue implement moderately loose monetary policy - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834459,
-   "ts": "2026-11-03T09:50:48+00:00",
-   "ingested": "2026-11-03T09:51:48.477955+00:00",
-   "headline": "MUFG: The USD - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834458,
-   "ts": "2026-11-03T09:50:05+00:00",
-   "ingested": "2026-11-03T09:51:48.477974+00:00",
-   "headline": "Goldman Sachs: Natural Gas - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834433,
-   "ts": "2026-11-03T09:31:49+00:00",
-   "ingested": "2026-11-03T09:33:28.462250+00:00",
-   "headline": "Kremlin: Hope work on 3-way meeting in china later this month between Putin, Trump and Xi will be finalised in coming days.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834354,
-   "ts": "2026-11-03T08:34:34+00:00",
-   "ingested": "2026-11-03T08:35:08.436546+00:00",
-   "headline": "Iran's Armed Forces Chief: Principles include full sanctions relief and release of frozen assets - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834353,
-   "ts": "2026-11-03T08:33:44+00:00",
-   "ingested": "2026-11-03T08:35:08.436570+00:00",
-   "headline": "Iran's Armed Forces Chief Abdollahi: Tehran's five principles for lasting regional peace include end to war on all fronts, including Lebanon and Gaza - Tasnim.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834331,
-   "ts": "2026-11-03T08:29:15+00:00",
-   "ingested": "2026-11-03T08:30:08.452382+00:00",
-   "headline": "Aramco CEO: Tanker attacks eliminated 15% of effective capacity.",
    "channel": "rss",
    "source": "financialjuice"
   }
