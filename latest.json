@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-05T23:34:41.899698+00:00",
+ "updated": "2026-11-05T23:36:21.924261+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839698,
+   "ts": "2026-11-05T23:36:09+00:00",
+   "ingested": "2026-11-05T23:36:21.924002+00:00",
+   "headline": "S.Korea finmin: to take necessary steps to prevent stock market from overreacting relative to fundamentals",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839697,
+   "ts": "2026-11-05T23:35:21+00:00",
+   "ingested": "2026-11-05T23:36:21.924014+00:00",
+   "headline": "S.Korea finmin: cannot dismiss spillover impact of US stock market slump on global markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839696,
+   "ts": "2026-11-05T23:34:43+00:00",
+   "ingested": "2026-11-05T23:36:21.924022+00:00",
+   "headline": "S.Korea finance minister: US midterm election a key turning point for global economic, trade landscape",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839695,
    "ts": "2026-11-05T23:33:20+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-04T04:02:38+00:00",
    "ingested": "2026-11-04T04:04:04.494237+00:00",
    "headline": "Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836071,
-   "ts": "2026-11-04T04:00:51+00:00",
-   "ingested": "2026-11-04T04:02:24.506729+00:00",
-   "headline": "Democratic challenger Sherrod Brown defeats Republican incumbent Jon Husted in Ohio Senate race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836070,
-   "ts": "2026-11-04T04:00:51+00:00",
-   "ingested": "2026-11-04T04:02:24.506753+00:00",
-   "headline": "Democrat James Talarico defeats Republican Ken Paxton in race for GOP-held US Senate seat in Texas, CNN projects:",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836068,
-   "ts": "2026-11-04T03:53:16+00:00",
-   "ingested": "2026-11-04T03:54:04.544096+00:00",
-   "headline": "Democrat James Talarico beats Republican Ken Paxton in race for Republican-held US Senate seat in Texas - NBC News",
    "channel": "rss",
    "source": "financialjuice"
   }
