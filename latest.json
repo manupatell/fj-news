@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T15:03:27.375221+00:00",
+ "updated": "2026-11-05T15:05:07.342287+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839050,
+   "ts": "2026-11-05T15:04:11+00:00",
+   "ingested": "2026-11-05T15:05:07.341872+00:00",
+   "headline": "Fed's Barkin concludes Q&A",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839049,
    "ts": "2026-11-05T15:03:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T19:46:26+00:00",
    "ingested": "2026-11-03T19:47:24.224069+00:00",
    "headline": "Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835321,
-   "ts": "2026-11-03T19:31:40+00:00",
-   "ingested": "2026-11-03T19:32:08.627943+00:00",
-   "headline": "NYMEX Nat Gas Dec. futures settle at $2.8950/MMBTU",
    "channel": "rss",
    "source": "financialjuice"
   }
