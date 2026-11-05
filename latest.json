@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T18:22:40.985028+00:00",
+ "updated": "2026-11-05T18:31:00.990918+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839350,
+   "ts": "2026-11-05T18:29:41+00:00",
+   "ingested": "2026-11-05T18:31:00.990525+00:00",
+   "headline": "OpenAI introduces GPT -6 cyber model for security research",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839321,
    "ts": "2026-11-05T18:01:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T01:01:34+00:00",
    "ingested": "2026-11-04T01:01:51.083176+00:00",
    "headline": "Democrat Chris Pappas beats Republican John Sununu in race for democratic-held US Senate seat in New Hampshire: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835720,
-   "ts": "2026-11-04T01:01:28+00:00",
-   "ingested": "2026-11-04T01:01:51.083190+00:00",
-   "headline": "Ireland S&P Global October services PMI rises to 54.3 from 54.1 in September",
    "channel": "rss",
    "source": "financialjuice"
   }
