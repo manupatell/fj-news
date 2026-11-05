@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T09:06:20.926202+00:00",
+ "updated": "2026-11-05T09:08:00.907657+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838393,
+   "ts": "2026-11-05T09:07:24+00:00",
+   "ingested": "2026-11-05T09:08:00.907234+00:00",
+   "headline": "G7 Foreign Ministers meeting due on November 9-10 moved from Marseille to Paris for logistical and operational reasons - Email to Participants",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838392,
+   "ts": "2026-11-05T09:06:52+00:00",
+   "ingested": "2026-11-05T09:08:00.907255+00:00",
+   "headline": "South Korea weighs buying long-term US treasuries.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838372,
    "ts": "2026-11-05T09:02:50+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T05:07:56+00:00",
    "ingested": "2026-11-03T05:09:41.512772+00:00",
    "headline": "Russian defense ministry: launched extensive strike on Ukraine's energy infrastructure overnight",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834102,
-   "ts": "2026-11-03T05:06:50+00:00",
-   "ingested": "2026-11-03T05:08:01.507406+00:00",
-   "headline": "RBA Governor Bullock: not definitely hiking rates again, preserving options",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834101,
-   "ts": "2026-11-03T05:06:20+00:00",
-   "ingested": "2026-11-03T05:08:01.507426+00:00",
-   "headline": "Probably wise to wait and observe incoming data",
    "channel": "rss",
    "source": "financialjuice"
   }
