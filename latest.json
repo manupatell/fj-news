@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-05T12:05:01.526464+00:00",
+ "updated": "2026-11-05T12:06:41.504087+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838679,
+   "ts": "2026-11-05T12:06:08+00:00",
+   "ingested": "2026-11-05T12:06:41.503585+00:00",
+   "headline": "Deputy Economy Minister: Italy is ready to consider changes to its proposed exit tax on rich individuals leaving the country following criticism",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838678,
+   "ts": "2026-11-05T12:05:45+00:00",
+   "ingested": "2026-11-05T12:06:41.503612+00:00",
+   "headline": "BoE sees real post-tax labour income growth of -0.1% in 2026, -0.6% in 2027, 1.0% in 2028 (July: 0.1% in 2026, 0.5% in 2027, 1.1% in 2028)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838677,
+   "ts": "2026-11-05T12:05:35+00:00",
+   "ingested": "2026-11-05T12:06:41.503635+00:00",
+   "headline": "BoE sees private-sector regular wage growth of 3.2% yy in Q4 2026, 3.5% in @4 2027, 3.4% in Q4 2028 (July: 3.0% in Q4 2026, 3.1% in Q4 2027, 3.1% in Q4 2028)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838676,
+   "ts": "2026-11-05T12:05:17+00:00",
+   "ingested": "2026-11-05T12:06:41.503653+00:00",
+   "headline": "BoE sees an unemployment rate of 4.8% in 2026, 4.9% in 2027, 5.1% in 2028 (July: 5.0% in 2026, 5.3% in 2027, 5.2% in 2028)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838675,
+   "ts": "2026-11-05T12:05:06+00:00",
+   "ingested": "2026-11-05T12:06:41.503670+00:00",
+   "headline": "BoE: Market rates imply bank rate at 3.9% in Q4 2026, 4.9% in Q4 2027, 4.9% in Q4 2028, 4.7% in Q4 2029",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838674,
+   "ts": "2026-11-05T12:04:54+00:00",
+   "ingested": "2026-11-05T12:06:41.503684+00:00",
+   "headline": "BoE adverse scenario shows CPI peaking at 6.2% in Q3 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838673,
    "ts": "2026-11-05T12:04:41+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-03T12:48:09+00:00",
    "ingested": "2026-11-03T12:49:28.528396+00:00",
    "headline": "Meeting between EU, Ukraine and US representatives in Brussels on Wednesday to discuss prosperity plan and security guarantees - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834672,
-   "ts": "2026-11-03T12:47:27+00:00",
-   "ingested": "2026-11-03T12:47:48.522602+00:00",
-   "headline": "UK's PM Spokesman Wells: No UK return to EU freedom of movement this parliament.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834671,
-   "ts": "2026-11-03T12:47:03+00:00",
-   "ingested": "2026-11-03T12:47:48.522652+00:00",
-   "headline": "Anthropic aims to double computing power next year - NYT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834643,
-   "ts": "2026-11-03T12:16:19+00:00",
-   "ingested": "2026-11-03T12:17:28.562391+00:00",
-   "headline": "Qatari mediators expect feedback from US and Iran within 36 hours on new proposal to advance talks - Official Briefed on The Talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834604,
-   "ts": "2026-11-03T11:52:27+00:00",
-   "ingested": "2026-11-03T11:54:08.510121+00:00",
-   "headline": "US dollar more likely to trade stronger than expectations in three months - 17 of 30 FX strategists.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834603,
-   "ts": "2026-11-03T11:52:04+00:00",
-   "ingested": "2026-11-03T11:52:28.523156+00:00",
-   "headline": "Euro forecast to trade at $1.43 in three months, $1.14 in six and $1.16 in a year vs $1.15, $1.15 and $1.16 seen in October - Poll.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834602,
-   "ts": "2026-11-03T11:47:27+00:00",
-   "ingested": "2026-11-03T11:49:08.516089+00:00",
-   "headline": "$PFE Pfizer Q3 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
