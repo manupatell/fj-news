@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T08:03:00.890673+00:00",
+ "updated": "2026-11-05T08:08:00.893440+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838279,
+   "ts": "2026-11-05T08:01:48+00:00",
+   "ingested": "2026-11-05T08:08:00.892959+00:00",
+   "headline": "Swiss Unemployment Rate Unadjusted Actual 3.0% (Forecast 3%, Previous 3.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838278,
+   "ts": "2026-11-05T08:01:47+00:00",
+   "ingested": "2026-11-05T08:08:00.892980+00:00",
+   "headline": "Swiss Unemployment Rate Adjusted Actual 3.1% (Forecast 3.1%, Previous 3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838302,
    "ts": "2026-11-05T08:01:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T04:44:10+00:00",
    "ingested": "2026-11-03T04:44:41.498775+00:00",
    "headline": "RBA governor Bullock: unemployment remains relatively low, job growth continues",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834018,
-   "ts": "2026-11-03T04:43:01+00:00",
-   "ingested": "2026-11-03T04:44:41.498797+00:00",
-   "headline": "RBA Governor Bullock: monetary policy will be effective, requires time to take effect",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834017,
-   "ts": "2026-11-03T04:41:20+00:00",
-   "ingested": "2026-11-03T04:43:01.520339+00:00",
-   "headline": "RBA Governor Bullock: Probably best to pause and assess incoming data",
    "channel": "rss",
    "source": "financialjuice"
   }
