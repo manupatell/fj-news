@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T15:18:27.352467+00:00",
+ "updated": "2026-11-05T15:20:07.349839+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839077,
+   "ts": "2026-11-05T15:18:19+00:00",
+   "ingested": "2026-11-05T15:20:07.349496+00:00",
+   "headline": "Fear & Greed Index: 27/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839076,
    "ts": "2026-11-05T15:18:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T21:16:06+00:00",
    "ingested": "2026-11-03T21:17:46.473814+00:00",
    "headline": "$AMD Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835434,
-   "ts": "2026-11-03T21:15:04+00:00",
-   "ingested": "2026-11-03T21:15:51.423013+00:00",
-   "headline": "ECB's Kocher: Dec. rate hike likely if situation doesn't change.",
    "channel": "rss",
    "source": "financialjuice"
   }
