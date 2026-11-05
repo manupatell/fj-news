@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:40:01.541529+00:00",
+ "updated": "2026-11-05T13:48:21.538956+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838900,
+   "ts": "2026-11-05T13:47:17+00:00",
+   "ingested": "2026-11-05T13:48:21.538497+00:00",
+   "headline": "China's He urges to enhance financial support for AI and computing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838878,
    "ts": "2026-11-05T13:38:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:37:11+00:00",
    "ingested": "2026-11-03T16:26:10.850313+00:00",
    "headline": "ECB's Moulin: Euro-area growth is rather resilient",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834889,
-   "ts": "2026-11-03T14:36:43+00:00",
-   "ingested": "2026-11-03T16:26:10.850320+00:00",
-   "headline": "ECB's Moulin: Likely to have to revise down the French GDP forecast",
    "channel": "rss",
    "source": "financialjuice"
   }
