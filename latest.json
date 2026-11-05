@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T06:01:20.852609+00:00",
+ "updated": "2026-11-05T06:03:00.895787+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838126,
+   "ts": "2026-11-05T06:01:12+00:00",
+   "ingested": "2026-11-05T06:03:00.895418+00:00",
+   "headline": "China's November diesel exports to decline from previous peaks amid low domestic inventories, trade and industry sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838125,
+   "ts": "2026-11-05T06:01:12+00:00",
+   "ingested": "2026-11-05T06:03:00.895442+00:00",
+   "headline": "Chinese refiners have sold roughly 500,000 metric tons of diesel for November export, traders say based on trade data calculations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838116,
    "ts": "2026-11-05T06:00:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T04:09:51+00:00",
    "ingested": "2026-11-03T04:11:41.525316+00:00",
    "headline": "Brookfield Corp CEO: Energy demand for AI ecosystem is strained in every country",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833982,
-   "ts": "2026-11-03T04:08:20+00:00",
-   "ingested": "2026-11-03T04:10:01.516012+00:00",
-   "headline": "US judge stops Trump administration from requiring states to set aside votes of suspected noncitizens",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833944,
-   "ts": "2026-11-03T03:31:54+00:00",
-   "ingested": "2026-11-03T03:32:41.501504+00:00",
-   "headline": "RBA: growth in Australia's key trading partners has exceeded expectations as AI investment boost offsets Middle East conflict impact",
    "channel": "rss",
    "source": "financialjuice"
   }
