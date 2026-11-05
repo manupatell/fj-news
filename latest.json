@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T22:26:01.060482+00:00",
+ "updated": "2026-11-05T22:29:21.058483+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839603,
+   "ts": "2026-11-05T22:28:48+00:00",
+   "ingested": "2026-11-05T22:29:21.058088+00:00",
+   "headline": "Rubio denies reports he'll quit roles to run for president - NYT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839602,
    "ts": "2026-11-05T22:24:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T03:06:18+00:00",
    "ingested": "2026-11-04T03:07:01.068837+00:00",
    "headline": "euro rises 0.5% to $1.125",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836032,
-   "ts": "2026-11-04T03:05:34+00:00",
-   "ingested": "2026-11-04T03:07:01.068849+00:00",
-   "headline": "CNN projects Democrats to gain control of US House",
    "channel": "rss",
    "source": "financialjuice"
   }
