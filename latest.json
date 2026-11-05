@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T21:14:21.036633+00:00",
+ "updated": "2026-11-05T21:17:41.092519+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839531,
+   "ts": "2026-11-05T21:17:12+00:00",
+   "ingested": "2026-11-05T21:17:41.092110+00:00",
+   "headline": "Trump: Will do a lot of things over the next couple of weeks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839511,
    "ts": "2026-11-05T21:04:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T02:49:52+00:00",
    "ingested": "2026-11-04T02:50:21.099486+00:00",
    "headline": "North Korea launches multiple missiles from Sondok area: South Korea defense ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835964,
-   "ts": "2026-11-04T02:40:18+00:00",
-   "ingested": "2026-11-04T02:42:01.092014+00:00",
-   "headline": "Democratic contender Rebecca Bennett defeats Republican incumbent Thomas Kean Jr. in New Jersey's 7th congressional district house race - NBC News",
    "channel": "rss",
    "source": "financialjuice"
   }
