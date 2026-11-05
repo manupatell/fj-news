@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:16:01.532031+00:00",
+ "updated": "2026-11-05T13:17:41.524438+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838824,
+   "ts": "2026-11-05T13:16:03+00:00",
+   "ingested": "2026-11-05T13:17:41.524084+00:00",
+   "headline": "Russia's Ryazan oil refinery appears to have come under attack - Video analysis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838818,
    "ts": "2026-11-05T13:15:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:04:12+00:00",
    "ingested": "2026-11-03T16:26:10.850437+00:00",
    "headline": "Anthropic chip design team using Claude models - The Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834800,
-   "ts": "2026-11-03T14:00:59+00:00",
-   "ingested": "2026-11-03T16:26:10.850445+00:00",
-   "headline": "ECB: Forex reserves rose \u20ac300 mln to \u20ac349.6 bln.",
    "channel": "rss",
    "source": "financialjuice"
   }
