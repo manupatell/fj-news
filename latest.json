@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T19:52:41.013062+00:00",
+ "updated": "2026-11-05T20:01:01.080892+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839441,
+   "ts": "2026-11-05T19:59:53+00:00",
+   "ingested": "2026-11-05T20:01:01.080516+00:00",
+   "headline": "Israel\u2019s Herzog to decide Sunday who will try to form govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839440,
    "ts": "2026-11-05T19:52:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T01:51:04+00:00",
    "ingested": "2026-11-04T01:52:01.041804+00:00",
    "headline": "Dollar/Swiss franc down 0.76% at 0.8146",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835768,
-   "ts": "2026-11-04T01:47:37+00:00",
-   "ingested": "2026-11-04T01:48:41.045920+00:00",
-   "headline": "Dollar/yen dips 0.56% to 157.77",
    "channel": "rss",
    "source": "financialjuice"
   }
