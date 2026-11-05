@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T10:01:41.475586+00:00",
+ "updated": "2026-11-05T10:10:01.475436+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838484,
+   "ts": "2026-11-05T10:09:17+00:00",
+   "ingested": "2026-11-05T10:10:01.475029+00:00",
+   "headline": "Oman and Iran foreign ministers discuss measures to keep trade and energy flowing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838483,
+   "ts": "2026-11-05T10:08:48+00:00",
+   "ingested": "2026-11-05T10:10:01.475051+00:00",
+   "headline": "Oman and Iran foreign ministers discuss arrangements to secure sea routes, stress shift from de-escalation to lasting deals - ONA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838482,
    "ts": "2026-11-05T10:01:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T07:05:06+00:00",
    "ingested": "2026-11-03T08:21:38.517769+00:00",
    "headline": "Iran's Parliament Speaker Ghalibaf: Tehran gave Washington a 'strong and rational response, the ball is in the US' court' - State Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834223,
-   "ts": "2026-11-03T07:00:30+00:00",
-   "ingested": "2026-11-03T08:21:38.517782+00:00",
-   "headline": "Turkish CPI MoM Actual 2.58% (Forecast 2.4%, Previous 1.84%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834222,
-   "ts": "2026-11-03T07:00:28+00:00",
-   "ingested": "2026-11-03T08:21:38.517796+00:00",
-   "headline": "Turkish CPI YoY Actual 29.77% (Forecast 29.5%, Previous 29.73%)",
    "channel": "rss",
    "source": "financialjuice"
   }
