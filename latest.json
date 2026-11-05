@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T08:14:40.897278+00:00",
+ "updated": "2026-11-05T08:21:20.895504+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838331,
+   "ts": "2026-11-05T08:20:29+00:00",
+   "ingested": "2026-11-05T08:21:20.895082+00:00",
+   "headline": "UKMTO gets report of incident near Madinat Ash Shamal, Qatar",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838305,
    "ts": "2026-11-05T08:13:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T04:54:20+00:00",
    "ingested": "2026-11-03T04:54:41.533066+00:00",
    "headline": "RBA Governor Bullock: no wage price spiral expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834038,
-   "ts": "2026-11-03T04:49:42+00:00",
-   "ingested": "2026-11-03T04:51:21.511620+00:00",
-   "headline": "RBA Governor Bullock: no intention to push economy into recession",
    "channel": "rss",
    "source": "financialjuice"
   }
