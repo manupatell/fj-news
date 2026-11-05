@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:34:51.530650+00:00",
+ "updated": "2026-11-05T13:36:41.538116+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838875,
+   "ts": "2026-11-05T13:36:22+00:00",
+   "ingested": "2026-11-05T13:36:41.537719+00:00",
+   "headline": "Goldman Sachs: Treasury Borrowing Outlook Points to Later Coupon Increases - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838874,
    "ts": "2026-11-05T13:34:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:30:47+00:00",
    "ingested": "2026-11-03T16:26:10.850343+00:00",
    "headline": "Binance: Approximately $2.85 billion in digital assets have been frozen or intercepted.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834867,
-   "ts": "2026-11-03T14:27:18+00:00",
-   "ingested": "2026-11-03T16:26:10.850354+00:00",
-   "headline": "Iran's Baqaei: The realization of any understanding depends on a definite commitment to stop the war on all fronts, including in Lebanon.",
    "channel": "rss",
    "source": "financialjuice"
   }
