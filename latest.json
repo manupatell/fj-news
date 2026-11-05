@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T10:28:21.475086+00:00",
+ "updated": "2026-11-05T10:33:21.464402+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838531,
+   "ts": "2026-11-05T10:33:02+00:00",
+   "ingested": "2026-11-05T10:33:21.463982+00:00",
+   "headline": "EU Commission disburses \u20ac4.36b to Ukraine under support loan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838517,
+   "ts": "2026-11-05T10:31:47+00:00",
+   "ingested": "2026-11-05T10:33:21.464004+00:00",
+   "headline": "US Challenger Layoffs Actual 43.994k (Forecast -, Previous 43.281k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838516,
    "ts": "2026-11-05T10:26:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T07:30:00+00:00",
    "ingested": "2026-11-03T08:21:38.517669+00:00",
    "headline": "Swiss CPI MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834257,
-   "ts": "2026-11-03T07:26:00+00:00",
-   "ingested": "2026-11-03T08:21:38.517686+00:00",
-   "headline": "ECB's Radev: ECB shouldn't await second-round effects before acting.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834256,
-   "ts": "2026-11-03T07:25:45+00:00",
-   "ingested": "2026-11-03T08:21:38.517699+00:00",
-   "headline": "ECB's Radev: Core inflation stable, energy shock not reaching wages.",
    "channel": "rss",
    "source": "financialjuice"
   }
