@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T10:10:01.475436+00:00",
+ "updated": "2026-11-05T10:16:41.472392+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838485,
+   "ts": "2026-11-05T10:14:55+00:00",
+   "ingested": "2026-11-05T10:16:41.471985+00:00",
+   "headline": "Iran navy claims tanker hit mine in Hormuz Thursday morning - IRNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838484,
    "ts": "2026-11-05T10:09:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T07:14:50+00:00",
    "ingested": "2026-11-03T08:21:38.517752+00:00",
    "headline": "Qatari mediators were in Tehran Monday for more talks with Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834249,
-   "ts": "2026-11-03T07:05:06+00:00",
-   "ingested": "2026-11-03T08:21:38.517769+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: Tehran gave Washington a 'strong and rational response, the ball is in the US' court' - State Media",
    "channel": "rss",
    "source": "financialjuice"
   }
