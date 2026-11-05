@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T13:38:21.542332+00:00",
+ "updated": "2026-11-05T13:40:01.541529+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838878,
+   "ts": "2026-11-05T13:38:22+00:00",
+   "ingested": "2026-11-05T13:40:01.541122+00:00",
+   "headline": "JPMorgan: Broadening Breadth Looks More Positioning-Driven Than a Fundamental Rotation - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838877,
    "ts": "2026-11-05T13:37:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T14:36:43+00:00",
    "ingested": "2026-11-03T16:26:10.850320+00:00",
    "headline": "ECB's Moulin: Likely to have to revise down the French GDP forecast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834888,
-   "ts": "2026-11-03T14:35:59+00:00",
-   "ingested": "2026-11-03T16:26:10.850328+00:00",
-   "headline": "ECB's Moulin: France's 0.4% GDP-growth forecast is optimistic.",
    "channel": "rss",
    "source": "financialjuice"
   }
