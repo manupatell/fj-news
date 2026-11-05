@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T13:27:41.535901+00:00",
+ "updated": "2026-11-05T13:29:21.524259+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838846,
+   "ts": "2026-11-05T13:28:27+00:00",
+   "ingested": "2026-11-05T13:29:21.523849+00:00",
+   "headline": "SNB's Chairman Schlegel: We have the right tools to fight against inflation in the future.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9838845,
+   "ts": "2026-11-05T13:28:15+00:00",
+   "ingested": "2026-11-05T13:29:21.523871+00:00",
+   "headline": "SNB's Chairman Schlegel: At present we don't see a broadening of price pressures in Switzerland",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838844,
    "ts": "2026-11-05T13:27:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-03T14:14:46+00:00",
    "ingested": "2026-11-03T16:26:10.850404+00:00",
    "headline": "China to defend stable operation of stock, bond, and FX markets - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834825,
-   "ts": "2026-11-03T14:12:26+00:00",
-   "ingested": "2026-11-03T16:26:10.850413+00:00",
-   "headline": "Meta seeks to raise $15b in the US dollar portion of the bond offering $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9834824,
-   "ts": "2026-11-03T14:08:18+00:00",
-   "ingested": "2026-11-03T16:26:10.850420+00:00",
-   "headline": "Moody's assigns AA3 rating to Meta's new SR unsecured notes. $META",
    "channel": "rss",
    "source": "financialjuice"
   }
