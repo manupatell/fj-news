@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T14:05:07.338473+00:00",
+ "updated": "2026-11-05T14:06:47.328626+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9838941,
+   "ts": "2026-11-05T14:05:50+00:00",
+   "ingested": "2026-11-05T14:06:47.328183+00:00",
+   "headline": "Supermicro launches KV cache solution with IBM and NVIDIA demonstrating significant inference performance benefits.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9838940,
    "ts": "2026-11-05T14:03:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T16:02:32+00:00",
    "ingested": "2026-11-03T16:26:10.850197+00:00",
    "headline": "BoC's Gov. Macklem: CPI inflation expected to rise to 3.5% by year-end, remain at or above 3% through much of 2027, and return near 2% by mid-2028.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835047,
-   "ts": "2026-11-03T16:02:23+00:00",
-   "ingested": "2026-11-03T16:26:10.850206+00:00",
-   "headline": "BoC's Gov. Macklem: Further rate hikes may be needed, but future decisions will be taken meeting by meeting amid elevated uncertainty.",
    "channel": "rss",
    "source": "financialjuice"
   }
