@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T01:41:46.883713+00:00",
+ "updated": "2026-11-05T01:46:46.896779+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837824,
+   "ts": "2026-11-05T01:45:51+00:00",
+   "ingested": "2026-11-05T01:46:46.896423+00:00",
+   "headline": "North Korea appears to have launched various types of missiles yesterday: South Korea defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837808,
    "ts": "2026-11-05T01:30:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T03:30:03+00:00",
    "ingested": "2026-11-03T03:31:01.538700+00:00",
    "headline": "RBA: domestic financial conditions seen as restrictive, but subject to uncertainty",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833920,
-   "ts": "2026-11-03T03:30:03+00:00",
-   "ingested": "2026-11-03T03:31:01.538714+00:00",
-   "headline": "Rba: Business loans stay robust, bank credit remains accessible",
    "channel": "rss",
    "source": "financialjuice"
   }
