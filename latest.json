@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-05T14:51:47.378336+00:00",
+ "updated": "2026-11-05T14:53:27.393021+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839027,
+   "ts": "2026-11-05T14:51:50+00:00",
+   "ingested": "2026-11-05T14:53:27.392676+00:00",
+   "headline": "BoE Bank Rate Past Market Reactions, Deviations & Sentiment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839026,
    "ts": "2026-11-05T14:51:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-03T19:31:05+00:00",
    "ingested": "2026-11-03T19:32:08.627967+00:00",
    "headline": "NYMEX diesel Dec. futures settle at $4.5306 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9835305,
-   "ts": "2026-11-03T19:30:58+00:00",
-   "ingested": "2026-11-03T19:32:08.627976+00:00",
-   "headline": "NYMEX WTI Crude Dec. futures settle at $96.09 a barrel down 37 cents, 0.38%",
    "channel": "rss",
    "source": "financialjuice"
   }
