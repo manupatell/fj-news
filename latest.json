@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T18:43:49.616801+00:00",
+ "updated": "2026-11-06T18:45:29.627365+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841297,
+   "ts": "2026-11-06T18:44:45+00:00",
+   "ingested": "2026-11-06T18:45:29.627064+00:00",
+   "headline": "Musk: Still sees SpaceX annualized Revenue above $500b in December 2027 $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841296,
    "ts": "2026-11-06T18:33:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T08:30:36+00:00",
    "ingested": "2026-11-05T08:31:20.894238+00:00",
    "headline": "German Chamber of Commerce sees 2027 GDP growth at 1%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838337,
-   "ts": "2026-11-05T08:30:26+00:00",
-   "ingested": "2026-11-05T08:31:20.894259+00:00",
-   "headline": "German Chamber of Commerce sees 2026 German GDP growth at 1% (previously 0.3%).",
    "channel": "rss",
    "source": "financialjuice"
   }
