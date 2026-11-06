@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T13:21:47.346241+00:00",
+ "updated": "2026-11-06T13:23:27.328772+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840737,
+   "ts": "2026-11-06T13:22:54+00:00",
+   "ingested": "2026-11-06T13:23:27.328357+00:00",
+   "headline": "Cr\u00e9dit Agricole: Midterm Outcome Adds to USD Downside Risks - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840736,
+   "ts": "2026-11-06T13:22:32+00:00",
+   "ingested": "2026-11-06T13:23:27.328383+00:00",
+   "headline": "One seafarer dead in the November 5th explosion on a Greek-operated oil products tanker in the Gulf, tanker was likely struck by unidentified missile - Greek operator",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840735,
    "ts": "2026-11-06T13:21:34+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T16:28:56+00:00",
    "ingested": "2026-11-04T16:53:55.535821+00:00",
    "headline": "US Senate Democrat Leader Schumer: We will drive costs down, with or without Trump.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837151,
-   "ts": "2026-11-04T16:27:58+00:00",
-   "ingested": "2026-11-04T16:53:55.535831+00:00",
-   "headline": "US Senate Democrat Leader Schumer: We will end the war, some republicans have joined us.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837150,
-   "ts": "2026-11-04T16:17:51+00:00",
-   "ingested": "2026-11-04T16:53:55.535842+00:00",
-   "headline": "JAPAN wants US tech companies to share undisclosed software flaws as risks mount - Nikkei.",
    "channel": "rss",
    "source": "financialjuice"
   }
