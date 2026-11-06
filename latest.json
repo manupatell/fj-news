@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T07:55:50.988438+00:00",
+ "updated": "2026-11-06T08:00:50.996728+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840264,
+   "ts": "2026-11-06T08:00:00+00:00",
+   "ingested": "2026-11-06T08:00:50.996398+00:00",
+   "headline": "Swiss Consumer Confidence SA Actual -44.9 (Forecast -35.5, Previous -34)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840263,
    "ts": "2026-11-06T07:55:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T10:33:21+00:00",
    "ingested": "2026-11-04T10:33:41.630040+00:00",
    "headline": "German 15 Yr Bund Yield Actual 3.57% (Forecast -, Previous 3.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836601,
-   "ts": "2026-11-04T10:04:34+00:00",
-   "ingested": "2026-11-04T10:04:46.852241+00:00",
-   "headline": "Adviser to Iran's Revolutionary Guards Commander: In case of war, Tehran's retaliation won't be restricted to source of attack - Tasnim.",
    "channel": "rss",
    "source": "financialjuice"
   }
