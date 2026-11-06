@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T15:56:12.862348+00:00",
+ "updated": "2026-11-06T15:57:50.885876+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841067,
+   "ts": "2026-11-06T15:56:29+00:00",
+   "ingested": "2026-11-06T15:57:50.885368+00:00",
+   "headline": "IMF Chief Georgieva: Widening imbalances have often been accompanied by fragile growth, and in some cases, have preceded financial crises",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841066,
+   "ts": "2026-11-06T15:56:03+00:00",
+   "ingested": "2026-11-06T15:57:50.885392+00:00",
+   "headline": "French Energy Ministry: 3.6 million barrels of diesel have been sold out of the French strategic reserves to date",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841065,
    "ts": "2026-11-06T15:55:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T23:58:58+00:00",
    "ingested": "2026-11-05T00:00:46.946925+00:00",
    "headline": "BOJ minutes: members say if trend accelerates further, underlying inflation could rise accordingly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837708,
-   "ts": "2026-11-04T23:58:44+00:00",
-   "ingested": "2026-11-04T23:59:06.862848+00:00",
-   "headline": "BOJ minutes: some members noted services prices rose steadily over recent years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837707,
-   "ts": "2026-11-04T23:55:33+00:00",
-   "ingested": "2026-11-04T23:55:46.861144+00:00",
-   "headline": "BOJ minutes: Ministry of Finance expects central bank to carefully assess impact of policy rate shift on economy and prices",
    "channel": "rss",
    "source": "financialjuice"
   }
