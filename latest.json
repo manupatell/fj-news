@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T08:22:31.040286+00:00",
+ "updated": "2026-11-06T08:25:51.022726+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840311,
+   "ts": "2026-11-06T08:25:04+00:00",
+   "ingested": "2026-11-06T08:25:51.022408+00:00",
+   "headline": "Ukraine said to confirm strike on Russia's Afipsky refinery",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840296,
    "ts": "2026-11-06T08:12:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T11:31:11+00:00",
    "ingested": "2026-11-04T11:32:05.737102+00:00",
    "headline": "OpenAI to buy Pierre Computer - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836701,
-   "ts": "2026-11-04T11:30:58+00:00",
-   "ingested": "2026-11-04T11:32:05.737117+00:00",
-   "headline": "OpenAI targets Microsoft's Github with deal - Axios",
    "channel": "rss",
    "source": "financialjuice"
   }
