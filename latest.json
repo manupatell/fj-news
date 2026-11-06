@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T05:23:40.944076+00:00",
+ "updated": "2026-11-06T05:28:40.938682+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840083,
+   "ts": "2026-11-06T05:27:50+00:00",
+   "ingested": "2026-11-06T05:28:40.938386+00:00",
+   "headline": "-x tells Indian court police takedown orders sent to prominent free speech groups were forged",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840055,
    "ts": "2026-11-06T05:00:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T08:55:00+00:00",
    "ingested": "2026-11-04T08:56:44.585728+00:00",
    "headline": "German Composite PMI Final Actual 53.4 (Forecast 52.8, Previous 52.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836480,
-   "ts": "2026-11-04T08:50:01+00:00",
-   "ingested": "2026-11-04T08:51:44.587501+00:00",
-   "headline": "French Services PMI Actual 46.2 (Forecast 48.4, Previous 48.4)",
    "channel": "rss",
    "source": "financialjuice"
   }
