@@ -1,7 +1,239 @@
 {
- "updated": "2026-11-06T17:11:10.930492+00:00",
+ "updated": "2026-11-06T18:30:07.478478+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841273,
+   "ts": "2026-11-06T18:25:47+00:00",
+   "ingested": "2026-11-06T18:30:07.477956+00:00",
+   "headline": "Council of Economic Advisers Chair Phelan: we'll need to see the next CPI to see what the Fed will do",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841271,
+   "ts": "2026-11-06T18:22:30+00:00",
+   "ingested": "2026-11-06T18:30:07.477971+00:00",
+   "headline": "Fed's Daly: Services inflation not coming down in the way we would expect",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841270,
+   "ts": "2026-11-06T18:21:38+00:00",
+   "ingested": "2026-11-06T18:30:07.477980+00:00",
+   "headline": "Fed's Daly: Rates could be slightly restrictive to neutral",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841260,
+   "ts": "2026-11-06T18:13:18+00:00",
+   "ingested": "2026-11-06T18:30:07.477991+00:00",
+   "headline": "Fed's Daly: When you step back from 'painful' volatility, this is the kind of rebalancing that you would hope for",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841259,
+   "ts": "2026-11-06T18:10:38+00:00",
+   "ingested": "2026-11-06T18:30:07.477999+00:00",
+   "headline": "Canada's Prime Minister Carney: We are talking to China about next steps on trade development",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841258,
+   "ts": "2026-11-06T18:09:19+00:00",
+   "ingested": "2026-11-06T18:30:07.478007+00:00",
+   "headline": "Council of Economic Advisers Chair Phelan: Don't think the Fed will see the job report as inflationary",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841257,
+   "ts": "2026-11-06T18:08:51+00:00",
+   "ingested": "2026-11-06T18:30:07.478014+00:00",
+   "headline": "Fed's Daly: Businesses are cautiously optimistic about outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841256,
+   "ts": "2026-11-06T18:08:35+00:00",
+   "ingested": "2026-11-06T18:30:07.478021+00:00",
+   "headline": "Fed's Daly: If AI repricing signals slowing of demand growth might come down a little",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841255,
+   "ts": "2026-11-06T18:07:49+00:00",
+   "ingested": "2026-11-06T18:30:07.478027+00:00",
+   "headline": "Fed's Daly: AI repricing trade has been orderly so far",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841254,
+   "ts": "2026-11-06T18:06:54+00:00",
+   "ingested": "2026-11-06T18:30:07.478034+00:00",
+   "headline": "Fed's Daly: Was good to hold at the last meeting due to uncertainty",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841253,
+   "ts": "2026-11-06T18:06:28+00:00",
+   "ingested": "2026-11-06T18:30:07.478041+00:00",
+   "headline": "Fed's Daly: Will have to tighten policy further",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841252,
+   "ts": "2026-11-06T18:06:02+00:00",
+   "ingested": "2026-11-06T18:30:07.478048+00:00",
+   "headline": "Fed's Daly: Solid job market gives latitude to get inflation job done",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841251,
+   "ts": "2026-11-06T18:05:05+00:00",
+   "ingested": "2026-11-06T18:30:07.478055+00:00",
+   "headline": "Fed's Daly: I would like my confidence about inflation to be higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841250,
+   "ts": "2026-11-06T18:03:20+00:00",
+   "ingested": "2026-11-06T18:30:07.478061+00:00",
+   "headline": "Fed's Daly: Wage growth isn't booming",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841249,
+   "ts": "2026-11-06T18:03:09+00:00",
+   "ingested": "2026-11-06T18:30:07.478067+00:00",
+   "headline": "Fed's Daly: Job report good news - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841248,
+   "ts": "2026-11-06T18:02:49+00:00",
+   "ingested": "2026-11-06T18:30:07.478075+00:00",
+   "headline": "Meta's Muse launches spaces for custom in-app experiences, letting users build personalized spaces via prompts $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841247,
+   "ts": "2026-11-06T18:01:31+00:00",
+   "ingested": "2026-11-06T18:30:07.478082+00:00",
+   "headline": "US Baker Hughes Oil Rig Count Actual 463 (Forecast -, Previous 462)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841236,
+   "ts": "2026-11-06T18:00:57+00:00",
+   "ingested": "2026-11-06T18:30:07.478089+00:00",
+   "headline": "US Baker Hughes Total Rig Count Actual 604 (Forecast -, Previous 603)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841231,
+   "ts": "2026-11-06T17:56:25+00:00",
+   "ingested": "2026-11-06T18:30:07.478096+00:00",
+   "headline": "Canada's PM Carney: We will continue to work with the Americans to get a trade deal that works for Canada.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841230,
+   "ts": "2026-11-06T17:55:06+00:00",
+   "ingested": "2026-11-06T18:30:07.478104+00:00",
+   "headline": "Canadian Employment Change Market Reactions, Deviations & Sentiment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841206,
+   "ts": "2026-11-06T17:38:56+00:00",
+   "ingested": "2026-11-06T18:30:07.478110+00:00",
+   "headline": "Microsoft Winds Down Oracle AI Compute Deal $ORCL $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841205,
+   "ts": "2026-11-06T17:36:57+00:00",
+   "ingested": "2026-11-06T18:30:07.478117+00:00",
+   "headline": "Microsoft is winding down its Oracle deal to rent AI cloud capacity. $MSFT $ORCL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841204,
+   "ts": "2026-11-06T17:36:04+00:00",
+   "ingested": "2026-11-06T18:30:07.478124+00:00",
+   "headline": "NFP Market Reactions, Deviations & Sentiment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841203,
+   "ts": "2026-11-06T17:32:04+00:00",
+   "ingested": "2026-11-06T18:30:07.478131+00:00",
+   "headline": "US Treasury Secretary Bessent: We told China to fully, and immediately honor its commitments.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841202,
+   "ts": "2026-11-06T17:31:46+00:00",
+   "ingested": "2026-11-06T18:30:07.478139+00:00",
+   "headline": "US Treasury Secretary Bessent: USTR Greer and I spoke with Vice Premier He Lifeng about the US-China economic relationship.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841194,
+   "ts": "2026-11-06T17:30:15+00:00",
+   "ingested": "2026-11-06T18:30:07.478146+00:00",
+   "headline": "Qatar PM: The US and Iran should accept a good deal over a perfect one.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841193,
+   "ts": "2026-11-06T17:29:54+00:00",
+   "ingested": "2026-11-06T18:30:07.478154+00:00",
+   "headline": "Qatar PM: The US and Iran won't be able to make a \"perfect deal\".",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841192,
+   "ts": "2026-11-06T17:27:52+00:00",
+   "ingested": "2026-11-06T18:30:07.478161+00:00",
+   "headline": "Putin and the Russian Security Council discuss upcoming Ukraine talks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841191,
+   "ts": "2026-11-06T17:23:22+00:00",
+   "ingested": "2026-11-06T18:30:07.478172+00:00",
+   "headline": "The US warns China that it must \u2018immediately\u2019 meet terms of Busan trade truce - FT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841157,
    "ts": "2026-11-06T16:56:22+00:00",
@@ -3767,238 +3999,6 @@
    "ts": "2026-11-05T08:13:54+00:00",
    "ingested": "2026-11-05T08:14:40.896771+00:00",
    "headline": "ECB's Moulin: Essential for France to adopt a budget by year-end.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838304,
-   "ts": "2026-11-05T08:13:34+00:00",
-   "ingested": "2026-11-05T08:14:40.896793+00:00",
-   "headline": "ECB's Moulin: French budget uncertainty amplifies rise in bond yields.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838303,
-   "ts": "2026-11-05T08:12:43+00:00",
-   "ingested": "2026-11-05T08:13:00.930059+00:00",
-   "headline": "ECB\u2019s Moulin: Higher yields are new test for financial sector.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838279,
-   "ts": "2026-11-05T08:01:48+00:00",
-   "ingested": "2026-11-05T08:08:00.892959+00:00",
-   "headline": "Swiss Unemployment Rate Unadjusted Actual 3.0% (Forecast 3%, Previous 3.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838278,
-   "ts": "2026-11-05T08:01:47+00:00",
-   "ingested": "2026-11-05T08:08:00.892980+00:00",
-   "headline": "Swiss Unemployment Rate Adjusted Actual 3.1% (Forecast 3.1%, Previous 3.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838302,
-   "ts": "2026-11-05T08:01:39+00:00",
-   "ingested": "2026-11-05T08:03:00.890248+00:00",
-   "headline": "Currency Strength Chart: Strongest: NZD, CHF, GBP, CAD, AUD, EUR, USD, GBP - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838285,
-   "ts": "2026-11-05T08:00:35+00:00",
-   "ingested": "2026-11-05T08:01:20.888883+00:00",
-   "headline": "ECB's Schnabel: It has become more difficult to put public finances back on a sustainable path.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838284,
-   "ts": "2026-11-05T08:00:32+00:00",
-   "ingested": "2026-11-05T08:01:20.888905+00:00",
-   "headline": "ECB's Schnabel: Rise of non-bank finance and increase in public debt could threaten monetary dominance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838258,
-   "ts": "2026-11-05T07:45:00+00:00",
-   "ingested": "2026-11-05T07:46:20.886967+00:00",
-   "headline": "French Industrial Production MoM Actual -0.5% (Forecast 0.3%, Previous -0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838257,
-   "ts": "2026-11-05T07:43:07+00:00",
-   "ingested": "2026-11-05T07:44:40.889625+00:00",
-   "headline": "RBA's Hauser: Consumption growth has held up better than expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838256,
-   "ts": "2026-11-05T07:41:21+00:00",
-   "ingested": "2026-11-05T07:43:00.898552+00:00",
-   "headline": "RBA's Hauser: There was no attempt to do open-mouth operations for the market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838255,
-   "ts": "2026-11-05T07:31:47+00:00",
-   "ingested": "2026-11-05T07:33:00.891275+00:00",
-   "headline": "RBA's Hauser: Inflation is too high, whichever measure you use",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838235,
-   "ts": "2026-11-05T07:23:55+00:00",
-   "ingested": "2026-11-05T07:24:40.878795+00:00",
-   "headline": "SNB's Chairman Schlegel: Initial signs that the Swiss economy continues to grow",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838234,
-   "ts": "2026-11-05T07:21:37+00:00",
-   "ingested": "2026-11-05T07:23:00.888075+00:00",
-   "headline": "RBA's Hauser: Board discussions were very lively at the last meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838233,
-   "ts": "2026-11-05T07:19:51+00:00",
-   "ingested": "2026-11-05T07:21:20.900500+00:00",
-   "headline": "SNB's Chairman Schlegel: SNB would intervene if price stability were at risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838232,
-   "ts": "2026-11-05T07:16:48+00:00",
-   "ingested": "2026-11-05T07:18:00.897106+00:00",
-   "headline": "SNB's Chairman Schlegel: Not yet seen any significant second-round effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838215,
-   "ts": "2026-11-05T07:04:29+00:00",
-   "ingested": "2026-11-05T07:04:40.886702+00:00",
-   "headline": "BoJ to hold 25th bond market group meetings on December 7-8th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838193,
-   "ts": "2026-11-05T07:01:50+00:00",
-   "ingested": "2026-11-05T07:04:40.886724+00:00",
-   "headline": "German Industrial Orders MoM Actual 4.4% (Forecast 4.5%, Previous -10.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838126,
-   "ts": "2026-11-05T06:01:12+00:00",
-   "ingested": "2026-11-05T06:03:00.895418+00:00",
-   "headline": "China's November diesel exports to decline from previous peaks amid low domestic inventories, trade and industry sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838125,
-   "ts": "2026-11-05T06:01:12+00:00",
-   "ingested": "2026-11-05T06:03:00.895442+00:00",
-   "headline": "Chinese refiners have sold roughly 500,000 metric tons of diesel for November export, traders say based on trade data calculations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838116,
-   "ts": "2026-11-05T06:00:03+00:00",
-   "ingested": "2026-11-05T06:01:20.852236+00:00",
-   "headline": "Russia S&P Global October services PMI dips to 50.1 from September 51.3",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838115,
-   "ts": "2026-11-05T05:54:14+00:00",
-   "ingested": "2026-11-05T05:54:40.853188+00:00",
-   "headline": "Emirates Group: net profit in h1 at 3.6 bln dirhams - chief executive",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838114,
-   "ts": "2026-11-05T05:53:38+00:00",
-   "ingested": "2026-11-05T05:54:40.853211+00:00",
-   "headline": "Emirates Group: h1 revenues reach 66.2 billion dirhams - chief executive on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838088,
-   "ts": "2026-11-05T05:20:55+00:00",
-   "ingested": "2026-11-05T05:21:20.849124+00:00",
-   "headline": "India power secretary: to implement storage requirements for state power utilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838084,
-   "ts": "2026-11-05T05:08:50+00:00",
-   "ingested": "2026-11-05T05:09:40.867804+00:00",
-   "headline": "North Korea: EU should mind its own business instead of criticizing human rights issues",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838083,
-   "ts": "2026-11-05T05:05:37+00:00",
-   "ingested": "2026-11-05T05:06:20.855846+00:00",
-   "headline": "S. Korea finmin: ready for possible rise in market volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838082,
-   "ts": "2026-11-05T05:05:04+00:00",
-   "ingested": "2026-11-05T05:06:20.855867+00:00",
-   "headline": "S. Korea finmin: to track US tariff policies, Middle East conflict",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838081,
-   "ts": "2026-11-05T05:04:31+00:00",
-   "ingested": "2026-11-05T05:06:20.855886+00:00",
-   "headline": "S. Korea finmin: to closely watch shifts in US policy on AI after midterm elections",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838080,
-   "ts": "2026-11-05T05:01:21+00:00",
-   "ingested": "2026-11-05T05:03:00.841042+00:00",
-   "headline": "Microsoft declines multibillion-dollar AI partnership with UK\u2019s nScale - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838050,
-   "ts": "2026-11-05T04:58:51+00:00",
-   "ingested": "2026-11-05T04:59:40.842457+00:00",
-   "headline": "Russia strikes logistics center in Ukraine's Kharkiv region, power plant in Dnipropetrovsk region: Russian defense ministry",
    "channel": "rss",
    "source": "financialjuice"
   }
