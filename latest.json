@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-06T10:52:31.035018+00:00",
+ "updated": "2026-11-06T11:31:37.355406+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840546,
+   "ts": "2026-11-06T11:28:47+00:00",
+   "ingested": "2026-11-06T11:31:37.354862+00:00",
+   "headline": "Iran not satisfied with 'paper commitments\u2019, must see practical US moves before any diplomacy - Deputy head of Iran's top security body tells state TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840545,
+   "ts": "2026-11-06T11:20:40+00:00",
+   "ingested": "2026-11-06T11:31:37.354886+00:00",
+   "headline": "China to improve capital market stabilization system - CCTV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840544,
+   "ts": "2026-11-06T11:16:23+00:00",
+   "ingested": "2026-11-06T11:31:37.354906+00:00",
+   "headline": "China\u2019s President Xi: To expand NEV and AI cooperation with Austria - CCTV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840534,
+   "ts": "2026-11-06T11:13:14+00:00",
+   "ingested": "2026-11-06T11:31:37.354924+00:00",
+   "headline": "Kazakhstan: Oil exports to Germany won't resume by the end of 2026 - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840516,
    "ts": "2026-11-06T10:52:01+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-04T13:58:35+00:00",
    "ingested": "2026-11-04T13:58:45.785636+00:00",
    "headline": "UniCredit: Democratic Midterm Gains Shift Focus to Congressional Oversight and Policy Constraints - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836939,
-   "ts": "2026-11-04T13:55:52+00:00",
-   "ingested": "2026-11-04T13:57:05.785102+00:00",
-   "headline": "Credit Agricole: USD Weakens as Post-Midterm Tech Selloff Raises AI Investment Concerns - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836906,
-   "ts": "2026-11-04T13:39:57+00:00",
-   "ingested": "2026-11-04T13:40:25.773347+00:00",
-   "headline": "Qualcomm: SpaceX selects Qualcomm to accelerate Starlink $SPCX $QCOM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836905,
-   "ts": "2026-11-04T13:36:54+00:00",
-   "ingested": "2026-11-04T13:37:05.778830+00:00",
-   "headline": "US Sentiment: Democratic Sweep Causes Rotation Away from AI & Musk-linked Names - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836904,
-   "ts": "2026-11-04T13:35:44+00:00",
-   "ingested": "2026-11-04T13:37:05.778844+00:00",
-   "headline": "US Treasury Quarterly Refunding",
    "channel": "rss",
    "source": "financialjuice"
   }
