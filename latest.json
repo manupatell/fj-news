@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T09:37:31.071615+00:00",
+ "updated": "2026-11-06T09:39:10.998754+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840410,
+   "ts": "2026-11-06T09:37:59+00:00",
+   "ingested": "2026-11-06T09:39:10.998416+00:00",
+   "headline": "Fed's Williams: Energy passing through to inflation as expected.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840409,
+   "ts": "2026-11-06T09:37:39+00:00",
+   "ingested": "2026-11-06T09:39:10.998428+00:00",
+   "headline": "Fed's Williams: We've seen tariffs effect work way through, mostly now behind us.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840408,
    "ts": "2026-11-06T09:37:12+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T12:48:10+00:00",
    "ingested": "2026-11-04T12:48:45.760158+00:00",
    "headline": "ECB's Knot: ECB may have to approach 2% goal more often from above.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836826,
-   "ts": "2026-11-04T12:46:48+00:00",
-   "ingested": "2026-11-04T12:47:05.766254+00:00",
-   "headline": "ECB's Knot: Core inflation, second-round effects will likely pick up.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836821,
-   "ts": "2026-11-04T12:44:39+00:00",
-   "ingested": "2026-11-04T12:45:25.760838+00:00",
-   "headline": "Meta gets record \u20ac53 billion demand for debut euro bond sale.",
    "channel": "rss",
    "source": "financialjuice"
   }
