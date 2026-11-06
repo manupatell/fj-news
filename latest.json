@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-06T09:34:11.007546+00:00",
+ "updated": "2026-11-06T09:37:31.071615+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840408,
+   "ts": "2026-11-06T09:37:12+00:00",
+   "ingested": "2026-11-06T09:37:31.071225+00:00",
+   "headline": "Credit \u00c1gricole: FX Weekly - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840407,
+   "ts": "2026-11-06T09:36:19+00:00",
+   "ingested": "2026-11-06T09:37:31.071238+00:00",
+   "headline": "Fed's Williams: Remarkably stable and solid labour market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840406,
+   "ts": "2026-11-06T09:36:01+00:00",
+   "ingested": "2026-11-06T09:37:31.071246+00:00",
+   "headline": "Fed's Williams: US facing unusual shocks to demand, supply.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840405,
+   "ts": "2026-11-06T09:35:54+00:00",
+   "ingested": "2026-11-06T09:37:31.071253+00:00",
+   "headline": "Fed's Williams: Growth has strengthened.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840404,
+   "ts": "2026-11-06T09:35:48+00:00",
+   "ingested": "2026-11-06T09:37:31.071260+00:00",
+   "headline": "Fed's Williams: US economy remarkably resilient.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840403,
    "ts": "2026-11-06T09:33:36+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-04T12:44:39+00:00",
    "ingested": "2026-11-04T12:45:25.760838+00:00",
    "headline": "Meta gets record \u20ac53 billion demand for debut euro bond sale.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836820,
-   "ts": "2026-11-04T12:31:32+00:00",
-   "ingested": "2026-11-04T12:32:05.755044+00:00",
-   "headline": "German Fin. Min. Klingbeil: We will work with US Democrats to renew ties.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836793,
-   "ts": "2026-11-04T12:19:14+00:00",
-   "ingested": "2026-11-04T12:20:25.749494+00:00",
-   "headline": "Meta seeks as much as \u20ac9 billion from debut euro bond sale.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836748,
-   "ts": "2026-11-04T12:01:44+00:00",
-   "ingested": "2026-11-04T12:07:05.752144+00:00",
-   "headline": "US MBA 30-Yr Mortgage Rate Actual 7.30% (Forecast -, Previous 7.37%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836755,
-   "ts": "2026-11-04T12:01:03+00:00",
-   "ingested": "2026-11-04T12:02:05.758389+00:00",
-   "headline": "$MCD McDonald's Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836747,
-   "ts": "2026-11-04T12:00:00+00:00",
-   "ingested": "2026-11-04T12:00:25.751252+00:00",
-   "headline": "US MBA Mortgage Applications Actual -1.2% (Forecast -, Previous 3.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
