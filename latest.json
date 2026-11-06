@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T15:17:50.901572+00:00",
+ "updated": "2026-11-06T15:19:30.870516+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841021,
+   "ts": "2026-11-06T15:18:07+00:00",
+   "ingested": "2026-11-06T15:19:30.870072+00:00",
+   "headline": "Crypto Fear and Greed Index: 28/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841020,
    "ts": "2026-11-06T15:17:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T23:52:20+00:00",
    "ingested": "2026-11-04T23:54:06.878515+00:00",
    "headline": "BOJ minutes: one member said it was important to show the market BOJ's resolve to prevent upward price deviations with agile response to global economic conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837696,
-   "ts": "2026-11-04T23:51:13+00:00",
-   "ingested": "2026-11-04T23:52:26.884683+00:00",
-   "headline": "BOJ minutes: one member said it was preferable for the bank to move the policy interest rate closer to the target relatively soon and maintain flexibility for quick adjustments in either direction",
    "channel": "rss",
    "source": "financialjuice"
   }
