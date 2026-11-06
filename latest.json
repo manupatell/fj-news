@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-06T19:22:09.606548+00:00",
+ "updated": "2026-11-06T19:32:09.613702+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841362,
+   "ts": "2026-11-06T19:31:53+00:00",
+   "ingested": "2026-11-06T19:32:09.613411+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.7767 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841361,
+   "ts": "2026-11-06T19:31:41+00:00",
+   "ingested": "2026-11-06T19:32:09.613423+00:00",
+   "headline": "NYMEX Nat Gas Dec. futures settle at $2.9980/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841360,
+   "ts": "2026-11-06T19:31:14+00:00",
+   "ingested": "2026-11-06T19:32:09.613432+00:00",
+   "headline": "NYMEX WTI Crude Dec. futures settle at $90.83 a barrel up 31 cents, 0.34%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841347,
    "ts": "2026-11-06T19:20:36+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-05T09:07:24+00:00",
    "ingested": "2026-11-05T09:08:00.907234+00:00",
    "headline": "G7 Foreign Ministers meeting due on November 9-10 moved from Marseille to Paris for logistical and operational reasons - Email to Participants",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838392,
-   "ts": "2026-11-05T09:06:52+00:00",
-   "ingested": "2026-11-05T09:08:00.907255+00:00",
-   "headline": "South Korea weighs buying long-term US treasuries.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838372,
-   "ts": "2026-11-05T09:02:50+00:00",
-   "ingested": "2026-11-05T09:06:20.925691+00:00",
-   "headline": "Italian Retail Sales NSA YoY Actual 1.60% (Forecast -, Previous 0.50%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838370,
-   "ts": "2026-11-05T09:02:44+00:00",
-   "ingested": "2026-11-05T09:06:20.925712+00:00",
-   "headline": "Italian Retail Sales MoM Actual 0.10% (Forecast 0.05%, Previous 0.30%)",
    "channel": "rss",
    "source": "financialjuice"
   }
