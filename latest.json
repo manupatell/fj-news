@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T07:45:50.988362+00:00",
+ "updated": "2026-11-06T07:50:50.996933+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840237,
+   "ts": "2026-11-06T07:46:50+00:00",
+   "ingested": "2026-11-06T07:50:50.996599+00:00",
+   "headline": "French Current Account Actual -2.7B (Forecast -, Previous -1.5B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840236,
    "ts": "2026-11-06T07:45:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T10:00:01+00:00",
    "ingested": "2026-11-04T10:01:10.163530+00:00",
    "headline": "Eurozone CPI YoY Flash Actual 4% (Forecast 4%, Previous 3.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836555,
-   "ts": "2026-11-04T09:43:32+00:00",
-   "ingested": "2026-11-04T09:44:07.796390+00:00",
-   "headline": "Google extends employee buyout offers to several countries.",
    "channel": "rss",
    "source": "financialjuice"
   }
