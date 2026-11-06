@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T12:50:07.331249+00:00",
+ "updated": "2026-11-06T12:53:27.343079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840684,
+   "ts": "2026-11-06T12:51:40+00:00",
+   "ingested": "2026-11-06T12:53:27.342535+00:00",
+   "headline": "BoE's Pill: Growth sustained by AI is 'somewhat encouraging\"",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840683,
    "ts": "2026-11-06T12:49:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T15:00:00+00:00",
    "ingested": "2026-11-04T15:00:25.796126+00:00",
    "headline": "US ISM Services PMI Actual 54.5 (Forecast 54.8, Previous 54.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837020,
-   "ts": "2026-11-04T15:00:00+00:00",
-   "ingested": "2026-11-04T15:00:25.796142+00:00",
-   "headline": "US ISM Services Employment Actual 51.4 (Forecast 50, Previous 50.1)",
    "channel": "rss",
    "source": "financialjuice"
   }
