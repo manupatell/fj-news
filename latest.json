@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-06T09:39:10.998754+00:00",
+ "updated": "2026-11-06T09:40:51.006504+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840413,
+   "ts": "2026-11-06T09:40:08+00:00",
+   "ingested": "2026-11-06T09:40:51.006137+00:00",
+   "headline": "Fed's Williams: This is appropriate time to gather more info.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840412,
+   "ts": "2026-11-06T09:39:46+00:00",
+   "ingested": "2026-11-06T09:40:51.006149+00:00",
+   "headline": "Fed's Williams: Wage growth consistent with 2% goal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840411,
+   "ts": "2026-11-06T09:39:35+00:00",
+   "ingested": "2026-11-06T09:40:51.006157+00:00",
+   "headline": "Fed's Williams: Inflation expectations well anchored.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840410,
    "ts": "2026-11-06T09:37:59+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-04T12:54:32+00:00",
    "ingested": "2026-11-04T12:55:25.766953+00:00",
    "headline": "ECB's Knot: Europe on receiving end of US-China rivalry.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836829,
-   "ts": "2026-11-04T12:51:14+00:00",
-   "ingested": "2026-11-04T12:52:05.759867+00:00",
-   "headline": "ECB's Knot: AI will bring productivity growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836828,
-   "ts": "2026-11-04T12:49:10+00:00",
-   "ingested": "2026-11-04T12:50:25.763064+00:00",
-   "headline": "ECB's Knot: Will continue to see small shocks that lift inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836827,
-   "ts": "2026-11-04T12:48:10+00:00",
-   "ingested": "2026-11-04T12:48:45.760158+00:00",
-   "headline": "ECB's Knot: ECB may have to approach 2% goal more often from above.",
    "channel": "rss",
    "source": "financialjuice"
   }
