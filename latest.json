@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T03:39:41.962351+00:00",
+ "updated": "2026-11-06T03:41:22.036956+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839993,
+   "ts": "2026-11-06T03:41:06+00:00",
+   "ingested": "2026-11-06T03:41:22.036737+00:00",
+   "headline": "China finance ministry sells 1-year bonds at 1.1403% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839992,
+   "ts": "2026-11-06T03:40:46+00:00",
+   "ingested": "2026-11-06T03:41:22.036750+00:00",
+   "headline": "China finance ministry offers 50-year treasury bonds at 2.1537% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839989,
    "ts": "2026-11-06T03:28:47+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T08:30:14+00:00",
    "ingested": "2026-11-04T08:30:44.598764+00:00",
    "headline": "Swedish Riksbank Rate Actual 2% (Forecast 2%, Previous 1.75%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836414,
-   "ts": "2026-11-04T08:08:27+00:00",
-   "ingested": "2026-11-04T08:08:44.575643+00:00",
-   "headline": "NVIDIA China clients to get 1% of $70 billion RTX chips ordered.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836413,
-   "ts": "2026-11-04T08:07:58+00:00",
-   "ingested": "2026-11-04T08:08:44.575665+00:00",
-   "headline": "BoJ Gov. Ueda to travel to US, Switzerland from November 5-10.",
    "channel": "rss",
    "source": "financialjuice"
   }
