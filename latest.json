@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T13:23:27.328772+00:00",
+ "updated": "2026-11-06T13:28:27.332954+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840739,
+   "ts": "2026-11-06T13:28:02+00:00",
+   "ingested": "2026-11-06T13:28:27.332580+00:00",
+   "headline": "Deutsche Bank: AI Selloff Triggers Broad Risk-Off Move Across Global Markets - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840737,
    "ts": "2026-11-06T13:22:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T16:31:25+00:00",
    "ingested": "2026-11-04T16:53:55.535811+00:00",
    "headline": "US Senate Democrat Leader Schumer: I will be re-elected majority leader.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837152,
-   "ts": "2026-11-04T16:28:56+00:00",
-   "ingested": "2026-11-04T16:53:55.535821+00:00",
-   "headline": "US Senate Democrat Leader Schumer: We will drive costs down, with or without Trump.",
    "channel": "rss",
    "source": "financialjuice"
   }
