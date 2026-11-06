@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T18:30:07.478478+00:00",
+ "updated": "2026-11-06T18:31:59.610465+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841277,
+   "ts": "2026-11-06T18:31:09+00:00",
+   "ingested": "2026-11-06T18:31:59.610237+00:00",
+   "headline": "Council of Economic Advisers Chair Phelan: I don't predict a recession at all",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841273,
    "ts": "2026-11-06T18:25:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T08:20:29+00:00",
    "ingested": "2026-11-05T08:21:20.895082+00:00",
    "headline": "UKMTO gets report of incident near Madinat Ash Shamal, Qatar",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838305,
-   "ts": "2026-11-05T08:13:54+00:00",
-   "ingested": "2026-11-05T08:14:40.896771+00:00",
-   "headline": "ECB's Moulin: Essential for France to adopt a budget by year-end.",
    "channel": "rss",
    "source": "financialjuice"
   }
