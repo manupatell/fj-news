@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T07:00:51.035079+00:00",
+ "updated": "2026-11-06T07:10:50.974200+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840198,
+   "ts": "2026-11-06T07:10:23+00:00",
+   "ingested": "2026-11-06T07:10:50.971721+00:00",
+   "headline": "UK house prices fell 1.2% on year in October - Lloyds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840182,
    "ts": "2026-11-06T07:00:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T09:01:13+00:00",
    "ingested": "2026-11-04T09:01:44.587737+00:00",
    "headline": "ECB sees wage growth at 2.8% in 2Q 2027, 2.4% in 3Q 2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836490,
-   "ts": "2026-11-04T09:00:33+00:00",
-   "ingested": "2026-11-04T09:01:44.587757+00:00",
-   "headline": "Google to invest $15 billion in Malaysia data center expansion.",
    "channel": "rss",
    "source": "financialjuice"
   }
