@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T02:44:41.948450+00:00",
+ "updated": "2026-11-06T02:46:21.961684+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839951,
+   "ts": "2026-11-06T02:45:25+00:00",
+   "ingested": "2026-11-06T02:46:21.961482+00:00",
+   "headline": "S.Korea finmin: will adopt more stabilizing measures if volatility rises further",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839947,
    "ts": "2026-11-06T02:44:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T07:20:45+00:00",
    "ingested": "2026-11-04T07:21:04.560406+00:00",
    "headline": "China: In contact with US, Russia on leaders' meeting.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836328,
-   "ts": "2026-11-04T07:03:55+00:00",
-   "ingested": "2026-11-04T07:04:24.557856+00:00",
-   "headline": "Japan's Dep. Chief Cabinet Sec. Kihara: We will watch market moves with high sense of urgency.",
    "channel": "rss",
    "source": "financialjuice"
   }
