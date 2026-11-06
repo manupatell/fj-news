@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T04:58:29.281852+00:00",
+ "updated": "2026-11-06T05:01:49.298283+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840055,
+   "ts": "2026-11-06T05:00:04+00:00",
+   "ingested": "2026-11-06T05:01:49.298043+00:00",
+   "headline": "Swedish apartment prices rise 5.8% in August-October compared with year-earlier period, svensk maklarstatistik data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840054,
+   "ts": "2026-11-06T05:00:03+00:00",
+   "ingested": "2026-11-06T05:01:49.298056+00:00",
+   "headline": "Swedish single-family home prices rise 4.2% august-october vs year earlier, svensk maklarstatistik data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840051,
    "ts": "2026-11-06T04:47:37+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T08:50:01+00:00",
    "ingested": "2026-11-04T08:51:44.587501+00:00",
    "headline": "French Services PMI Actual 46.2 (Forecast 48.4, Previous 48.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836479,
-   "ts": "2026-11-04T08:50:01+00:00",
-   "ingested": "2026-11-04T08:51:44.587522+00:00",
-   "headline": "French Composite PMI Actual 46.6 (Forecast 48.4, Previous 48.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836459,
-   "ts": "2026-11-04T08:45:00+00:00",
-   "ingested": "2026-11-04T08:46:44.590721+00:00",
-   "headline": "Italian Composite PMI Actual 50.8 (Forecast 50.8, Previous 51.0)",
    "channel": "rss",
    "source": "financialjuice"
   }
