@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-06T19:33:49.612286+00:00",
+ "updated": "2026-11-06T19:42:09.629017+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841366,
+   "ts": "2026-11-06T19:41:22+00:00",
+   "ingested": "2026-11-06T19:42:09.628729+00:00",
+   "headline": "Brent Crude futures settle at $98.32/bbl, up 3 cents, 0.03%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841365,
+   "ts": "2026-11-06T19:41:12+00:00",
+   "ingested": "2026-11-06T19:42:09.628741+00:00",
+   "headline": "Move aimed at easing freight rates and oil prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841364,
+   "ts": "2026-11-06T19:40:54+00:00",
+   "ingested": "2026-11-06T19:42:09.628750+00:00",
+   "headline": "Oil traders are in talks with US to use sanctioned tankers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841363,
    "ts": "2026-11-06T19:32:02+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-05T09:28:56+00:00",
    "ingested": "2026-11-05T09:29:40.919695+00:00",
    "headline": "ING: The USD - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838416,
-   "ts": "2026-11-05T09:22:39+00:00",
-   "ingested": "2026-11-05T09:23:00.908348+00:00",
-   "headline": "Europe Sentiment: US Midterm Result Buoy Stocks Save For Tech - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838395,
-   "ts": "2026-11-05T09:12:17+00:00",
-   "ingested": "2026-11-05T09:13:00.927660+00:00",
-   "headline": "Alaris Equity Partners Income Trust AD_U.TO: RBC lowers target price to C$26 from C$27",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838394,
-   "ts": "2026-11-05T09:09:28+00:00",
-   "ingested": "2026-11-05T09:09:40.909198+00:00",
-   "headline": "China commerce ministry: to keep anti-subsidy duties on US npa imports for 5 years - statement",
    "channel": "rss",
    "source": "financialjuice"
   }

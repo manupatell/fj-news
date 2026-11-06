@@ -22125,3 +22125,6 @@
 {"guid": 9841361, "ts": "2026-11-06T19:31:41+00:00", "ingested": "2026-11-06T19:32:09.613423+00:00", "headline": "NYMEX Nat Gas Dec. futures settle at $2.9980/MMBTU", "channel": "rss", "source": "financialjuice"}
 {"guid": 9841362, "ts": "2026-11-06T19:31:53+00:00", "ingested": "2026-11-06T19:32:09.613411+00:00", "headline": "NYMEX gasoline Dec. futures settle at $2.7767 a gallon", "channel": "rss", "source": "financialjuice"}
 {"guid": 9841363, "ts": "2026-11-06T19:32:02+00:00", "ingested": "2026-11-06T19:33:49.612053+00:00", "headline": "NYMEX diesel Dec. futures settle at $4.3317 a gallon", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841364, "ts": "2026-11-06T19:40:54+00:00", "ingested": "2026-11-06T19:42:09.628750+00:00", "headline": "Oil traders are in talks with US to use sanctioned tankers", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841365, "ts": "2026-11-06T19:41:12+00:00", "ingested": "2026-11-06T19:42:09.628741+00:00", "headline": "Move aimed at easing freight rates and oil prices", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841366, "ts": "2026-11-06T19:41:22+00:00", "ingested": "2026-11-06T19:42:09.628729+00:00", "headline": "Brent Crude futures settle at $98.32/bbl, up 3 cents, 0.03%", "channel": "rss", "source": "financialjuice"}
