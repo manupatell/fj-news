@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T14:18:29.428269+00:00",
+ "updated": "2026-11-06T14:20:09.430306+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840885,
+   "ts": "2026-11-06T14:18:50+00:00",
+   "ingested": "2026-11-06T14:20:09.429891+00:00",
+   "headline": "WH Sr. Adviser Hassett, on Fed: Inflation should be decelerating - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840882,
    "ts": "2026-11-06T14:18:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T19:44:15+00:00",
    "ingested": "2026-11-04T19:44:55.506923+00:00",
    "headline": "Brent crude futures settle at $94.62/bbl, down $8.98, 8.67%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837392,
-   "ts": "2026-11-04T19:31:44+00:00",
-   "ingested": "2026-11-04T19:33:25.554471+00:00",
-   "headline": "NYMEX Natural gas Dec. Futures settle at $2.9590/MMBTU",
    "channel": "rss",
    "source": "financialjuice"
   }
