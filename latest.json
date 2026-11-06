@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T13:00:07.346336+00:00",
+ "updated": "2026-11-06T13:03:27.328703+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840713,
+   "ts": "2026-11-06T13:02:47+00:00",
+   "ingested": "2026-11-06T13:03:27.328340+00:00",
+   "headline": "US October Employment Situation Crib Sheet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840689,
    "ts": "2026-11-06T12:59:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T15:30:01+00:00",
    "ingested": "2026-11-04T16:53:55.535907+00:00",
    "headline": "EIA Gasoline Inventories Actual -0.222M (Forecast 1M, Previous 3.870M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837065,
-   "ts": "2026-11-04T15:30:01+00:00",
-   "ingested": "2026-11-04T16:53:55.535916+00:00",
-   "headline": "EIA Crude Oil Inventories Actual -0.865M (Forecast -1.7M, Previous -1.892M)",
    "channel": "rss",
    "source": "financialjuice"
   }
