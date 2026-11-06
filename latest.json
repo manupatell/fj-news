@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T19:42:09.629017+00:00",
+ "updated": "2026-11-06T19:50:29.624898+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841385,
+   "ts": "2026-11-06T19:50:16+00:00",
+   "ingested": "2026-11-06T19:50:29.624593+00:00",
+   "headline": "Trump blames vote for stock market loss",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841384,
+   "ts": "2026-11-06T19:49:48+00:00",
+   "ingested": "2026-11-06T19:50:29.624605+00:00",
+   "headline": "Trump: Had most incredible job numbers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841366,
    "ts": "2026-11-06T19:41:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T09:35:11+00:00",
    "ingested": "2026-11-05T09:36:20.914177+00:00",
    "headline": "Qatar Emir reshuffles Qatar energy board of directors - Diwan.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838418,
-   "ts": "2026-11-05T09:30:00+00:00",
-   "ingested": "2026-11-05T09:31:20.944189+00:00",
-   "headline": "UK Construction PMI Actual 43.6 (Forecast 46.5, Previous 46.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838417,
-   "ts": "2026-11-05T09:28:56+00:00",
-   "ingested": "2026-11-05T09:29:40.919695+00:00",
-   "headline": "ING: The USD - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
