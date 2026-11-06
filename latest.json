@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T13:13:27.328985+00:00",
+ "updated": "2026-11-06T13:21:47.346241+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840735,
+   "ts": "2026-11-06T13:21:34+00:00",
+   "ingested": "2026-11-06T13:21:47.345805+00:00",
+   "headline": "Bank of America: Record Oil Supply Shock Leaves Market More Vulnerable to Further Disruption - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840734,
+   "ts": "2026-11-06T13:20:49+00:00",
+   "ingested": "2026-11-06T13:21:47.345827+00:00",
+   "headline": "UK's PM Burnham: Won't go for crude spending cuts or chasing numbers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840718,
    "ts": "2026-11-06T13:12:46+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T16:17:51+00:00",
    "ingested": "2026-11-04T16:53:55.535842+00:00",
    "headline": "JAPAN wants US tech companies to share undisclosed software flaws as risks mount - Nikkei.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837149,
-   "ts": "2026-11-04T16:17:31+00:00",
-   "ingested": "2026-11-04T16:53:55.535857+00:00",
-   "headline": "US extends national emergency orders related to China and Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837107,
-   "ts": "2026-11-04T15:43:55+00:00",
-   "ingested": "2026-11-04T16:53:55.535868+00:00",
-   "headline": "US VP Vance: The relationship with Israel is one reason the GOP lost. The reason we lost is the war.",
    "channel": "rss",
    "source": "financialjuice"
   }
