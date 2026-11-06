@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T13:06:47.322829+00:00",
+ "updated": "2026-11-06T13:13:27.328985+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840718,
+   "ts": "2026-11-06T13:12:46+00:00",
+   "ingested": "2026-11-06T13:13:27.328573+00:00",
+   "headline": "Investors said to discuss Anthropic IPO value of $1.2t-$1.3t",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840717,
+   "ts": "2026-11-06T13:12:08+00:00",
+   "ingested": "2026-11-06T13:13:27.328593+00:00",
+   "headline": "UK's PM Burnham: I'm prepared to take difficult decisions on benefits",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840715,
    "ts": "2026-11-06T13:05:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T15:43:55+00:00",
    "ingested": "2026-11-04T16:53:55.535868+00:00",
    "headline": "US VP Vance: The relationship with Israel is one reason the GOP lost. The reason we lost is the war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837105,
-   "ts": "2026-11-04T15:35:50+00:00",
-   "ingested": "2026-11-04T16:53:55.535878+00:00",
-   "headline": "US Gulf Coast Crude stock fell in the latest week to its lowest since December 2022 - EIA.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837068,
-   "ts": "2026-11-04T15:31:48+00:00",
-   "ingested": "2026-11-04T16:53:55.535888+00:00",
-   "headline": "EIA Crude Cushing Inventories  Actual 0.280M (Forecast -, Previous -0.624M)",
    "channel": "rss",
    "source": "financialjuice"
   }
