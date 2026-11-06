@@ -22136,3 +22136,6 @@
 {"guid": 9841399, "ts": "2026-11-06T20:22:27+00:00", "ingested": "2026-11-06T20:23:49.690493+00:00", "headline": "Monday FX Options Expiries", "channel": "rss", "source": "financialjuice"}
 {"guid": 9841414, "ts": "2026-11-06T20:41:49+00:00", "ingested": "2026-11-06T20:42:09.628927+00:00", "headline": "CFTC Positions in the Week of November 3rd 2026", "channel": "rss", "source": "financialjuice"}
 {"guid": 9841435, "ts": "2026-11-06T20:59:11+00:00", "ingested": "2026-11-06T21:00:29.641687+00:00", "headline": "OpenAI closes $11 billion of new round at $1.25 trillion value; initial funding commitments were wired as of Friday.", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841458, "ts": "2026-11-06T21:10:15+00:00", "ingested": "2026-11-06T21:10:29.628222+00:00", "headline": "Gold CFTC Positions Week of November 3rd - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841459, "ts": "2026-11-06T21:10:17+00:00", "ingested": "2026-11-06T21:10:29.628215+00:00", "headline": "Copper CFTC Positions Week of November 3rd - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841460, "ts": "2026-11-06T21:10:18+00:00", "ingested": "2026-11-06T21:10:29.628204+00:00", "headline": "WTI CFTC Positions Week of November 3rd - FJElite", "channel": "rss", "source": "financialjuice"}
