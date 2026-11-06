@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T12:45:07.312357+00:00",
+ "updated": "2026-11-06T12:48:27.315693+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840681,
+   "ts": "2026-11-06T12:47:38+00:00",
+   "ingested": "2026-11-06T12:48:27.315340+00:00",
+   "headline": "BoE's Pill: Nothing baked in for interest rates next year, outlook becomes more uncertain from Spring.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840664,
    "ts": "2026-11-06T12:44:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T15:00:00+00:00",
    "ingested": "2026-11-04T15:00:25.796165+00:00",
    "headline": "US ISM Services Prices Paid Actual 73 (Forecast 74.6, Previous 74.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836995,
-   "ts": "2026-11-04T14:45:00+00:00",
-   "ingested": "2026-11-04T14:45:25.799349+00:00",
-   "headline": "US S&P Services PMI Final Actual 56.1 (Forecast 57.9, Previous 57.9)",
    "channel": "rss",
    "source": "financialjuice"
   }
