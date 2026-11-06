@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T12:03:27.350867+00:00",
+ "updated": "2026-11-06T12:10:07.319294+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840615,
+   "ts": "2026-11-06T12:09:45+00:00",
+   "ingested": "2026-11-06T12:10:07.318793+00:00",
+   "headline": "UKMTO gets report of incident 16nm east of Oman's Khasab",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840613,
    "ts": "2026-11-06T12:02:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T14:02:37+00:00",
    "ingested": "2026-11-04T14:03:45.786276+00:00",
    "headline": "Kremlin on Melania Trump meeting, Peskov: Trilateral talks to focus on security guarantee - TASS.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836941,
-   "ts": "2026-11-04T13:59:52+00:00",
-   "ingested": "2026-11-04T14:00:25.784249+00:00",
-   "headline": "Effective Fed funds rate 3.88% November 3th vs 3.88% November 2nd.",
    "channel": "rss",
    "source": "financialjuice"
   }
