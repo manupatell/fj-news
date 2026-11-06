@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T19:32:09.613702+00:00",
+ "updated": "2026-11-06T19:33:49.612286+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841363,
+   "ts": "2026-11-06T19:32:02+00:00",
+   "ingested": "2026-11-06T19:33:49.612053+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.3317 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841362,
    "ts": "2026-11-06T19:31:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T09:09:28+00:00",
    "ingested": "2026-11-05T09:09:40.909198+00:00",
    "headline": "China commerce ministry: to keep anti-subsidy duties on US npa imports for 5 years - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838393,
-   "ts": "2026-11-05T09:07:24+00:00",
-   "ingested": "2026-11-05T09:08:00.907234+00:00",
-   "headline": "G7 Foreign Ministers meeting due on November 9-10 moved from Marseille to Paris for logistical and operational reasons - Email to Participants",
    "channel": "rss",
    "source": "financialjuice"
   }
