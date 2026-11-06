@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T07:22:31.033682+00:00",
+ "updated": "2026-11-06T07:29:10.968684+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840216,
+   "ts": "2026-11-06T07:28:38+00:00",
+   "ingested": "2026-11-06T07:29:10.968363+00:00",
+   "headline": "Iran's IRGC Navy: Two oil tankers catch fire while attempting to pass through the Strait of Hormuz - IRNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840200,
    "ts": "2026-11-06T07:11:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T09:30:00+00:00",
    "ingested": "2026-11-04T09:30:47.799152+00:00",
    "headline": "UK Services PMI Final Actual 52.8 (Forecast 53.1, Previous 53.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836527,
-   "ts": "2026-11-04T09:21:26+00:00",
-   "ingested": "2026-11-04T09:21:44.613726+00:00",
-   "headline": "Standard Chartered: US Midterm Implications - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
