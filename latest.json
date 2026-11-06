@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T10:50:51.019415+00:00",
+ "updated": "2026-11-06T10:52:31.035018+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840516,
+   "ts": "2026-11-06T10:52:01+00:00",
+   "ingested": "2026-11-06T10:52:31.034678+00:00",
+   "headline": "Germany's Merz held a call with Trump - German government spokesperson",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840495,
    "ts": "2026-11-06T10:40:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T13:35:44+00:00",
    "ingested": "2026-11-04T13:37:05.778844+00:00",
    "headline": "US Treasury Quarterly Refunding",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836903,
-   "ts": "2026-11-04T13:33:25+00:00",
-   "ingested": "2026-11-04T13:33:45.774078+00:00",
-   "headline": "US Treasury QRA",
    "channel": "rss",
    "source": "financialjuice"
   }
