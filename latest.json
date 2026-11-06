@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T19:15:29.636698+00:00",
+ "updated": "2026-11-06T19:22:09.606548+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841347,
+   "ts": "2026-11-06T19:20:36+00:00",
+   "ingested": "2026-11-06T19:22:09.606314+00:00",
+   "headline": "Europe insists Putin end war before discussing Russian concerns",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841319,
    "ts": "2026-11-06T18:55:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T09:02:44+00:00",
    "ingested": "2026-11-05T09:06:20.925712+00:00",
    "headline": "Italian Retail Sales MoM Actual 0.10% (Forecast 0.05%, Previous 0.30%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838366,
-   "ts": "2026-11-05T09:00:01+00:00",
-   "ingested": "2026-11-05T09:01:20.905503+00:00",
-   "headline": "Norwegian Key Policy Rate Actual 4.5% (Forecast 4.5%, Previous 4.50%)",
    "channel": "rss",
    "source": "financialjuice"
   }
