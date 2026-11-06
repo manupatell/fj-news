@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T03:06:21.952616+00:00",
+ "updated": "2026-11-06T03:13:01.960654+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839975,
+   "ts": "2026-11-06T03:12:02+00:00",
+   "ingested": "2026-11-06T03:13:01.960437+00:00",
+   "headline": "Binance: continue making progress restoring withdrawal services, will reopen withdrawals for more assets starting at 04:00 UTC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839964,
    "ts": "2026-11-06T02:54:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T08:01:05+00:00",
    "ingested": "2026-11-04T08:01:54.561272+00:00",
    "headline": "Currency Strength Chart: Strongest: NZD, CHF, GBP, EUR, AUD, JPY, CAD, USD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836349,
-   "ts": "2026-11-04T07:30:13+00:00",
-   "ingested": "2026-11-04T07:30:24.570609+00:00",
-   "headline": "Thune plans to run for minority senate leader - Fox",
    "channel": "rss",
    "source": "financialjuice"
   }
