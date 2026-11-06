@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T21:53:49.677048+00:00",
+ "updated": "2026-11-06T22:02:09.687090+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841513,
+   "ts": "2026-11-06T22:01:05+00:00",
+   "ingested": "2026-11-06T22:02:09.686768+00:00",
+   "headline": "Iran's semi-official Tasnim news agency: initial reports suggest two missiles hit Qeshm Island; no official confirmation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841512,
+   "ts": "2026-11-06T22:00:33+00:00",
+   "ingested": "2026-11-06T22:02:09.686780+00:00",
+   "headline": "Anthropic to start IPO roadshow next week: the information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841473,
    "ts": "2026-11-06T21:10:40+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T12:00:47+00:00",
    "ingested": "2026-11-05T12:01:41.500503+00:00",
    "headline": "BoE's Lombardelli: Energy shock price effects larger and more persistent",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838627,
-   "ts": "2026-11-05T12:00:31+00:00",
-   "ingested": "2026-11-05T12:01:41.500545+00:00",
-   "headline": "BoE: Risk of 2nd-round effects emerging has risen since September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838615,
-   "ts": "2026-11-05T12:00:04+00:00",
-   "ingested": "2026-11-05T12:01:41.500559+00:00",
-   "headline": "BoE Bank Rate Actual 4% (Forecast 4%, Previous 3.75%)",
    "channel": "rss",
    "source": "financialjuice"
   }
