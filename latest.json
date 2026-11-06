@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T23:08:49.702203+00:00",
+ "updated": "2026-11-06T23:17:09.674012+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841568,
+   "ts": "2026-11-06T23:15:56+00:00",
+   "ingested": "2026-11-06T23:17:09.673718+00:00",
+   "headline": "Trump: US will host largest air show worldwide in two years",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841564,
    "ts": "2026-11-06T23:07:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:01:54+00:00",
    "ingested": "2026-11-05T12:03:21.501792+00:00",
    "headline": "BoE's Lombardelli: Likely to be a case for more hikes in the near term",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838618,
-   "ts": "2026-11-05T12:01:54+00:00",
-   "ingested": "2026-11-05T12:03:21.501805+00:00",
-   "headline": "BoE MPC Vote Unchanged Actual 0 (Forecast 2, Previous 6)",
    "channel": "rss",
    "source": "financialjuice"
   }
