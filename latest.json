@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T07:52:30.988660+00:00",
+ "updated": "2026-11-06T07:55:50.988438+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840263,
+   "ts": "2026-11-06T07:55:35+00:00",
+   "ingested": "2026-11-06T07:55:50.988084+00:00",
+   "headline": "BoE Gov. Bailey: If energy prices remain high, another hike is possible",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840262,
+   "ts": "2026-11-06T07:55:24+00:00",
+   "ingested": "2026-11-06T07:55:50.988098+00:00",
+   "headline": "BoE Gov. Bailey: Private wages at upper end range for inflation target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840261,
    "ts": "2026-11-06T07:52:20+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T10:04:34+00:00",
    "ingested": "2026-11-04T10:04:46.852241+00:00",
    "headline": "Adviser to Iran's Revolutionary Guards Commander: In case of war, Tehran's retaliation won't be restricted to source of attack - Tasnim.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836576,
-   "ts": "2026-11-04T10:00:17+00:00",
-   "ingested": "2026-11-04T10:01:10.163485+00:00",
-   "headline": "Eurozone CPI MoM Flash Actual 0.4% (Forecast 0.4%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836575,
-   "ts": "2026-11-04T10:00:02+00:00",
-   "ingested": "2026-11-04T10:01:10.163514+00:00",
-   "headline": "Eurozone Core CPI YoY Flash Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
