@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T20:33:49.694510+00:00",
+ "updated": "2026-11-06T20:42:09.629178+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841414,
+   "ts": "2026-11-06T20:41:49+00:00",
+   "ingested": "2026-11-06T20:42:09.628927+00:00",
+   "headline": "CFTC Positions in the Week of November 3rd 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841399,
    "ts": "2026-11-06T20:22:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T09:49:05+00:00",
    "ingested": "2026-11-05T09:49:40.929013+00:00",
    "headline": "Saudi-led coalition: Destroyed missile launched by Houthis towards Medina",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838459,
-   "ts": "2026-11-05T09:48:53+00:00",
-   "ingested": "2026-11-05T09:49:40.929034+00:00",
-   "headline": "Saudi-led coalition: Intercepts missile targeting Medina region",
    "channel": "rss",
    "source": "financialjuice"
   }
