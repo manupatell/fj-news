@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T18:48:49.623136+00:00",
+ "updated": "2026-11-06T18:55:29.654218+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841319,
+   "ts": "2026-11-06T18:55:01+00:00",
+   "ingested": "2026-11-06T18:55:29.653925+00:00",
+   "headline": "USTR Greer: China needs to implement agricultural and rare earths commitments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841318,
    "ts": "2026-11-06T18:48:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T09:00:01+00:00",
    "ingested": "2026-11-05T09:01:20.905503+00:00",
    "headline": "Norwegian Key Policy Rate Actual 4.5% (Forecast 4.5%, Previous 4.50%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838365,
-   "ts": "2026-11-05T08:55:17+00:00",
-   "ingested": "2026-11-05T08:56:20.936477+00:00",
-   "headline": "Micron pauses work on $4.5bln Taiwan chip plant after labor row.",
    "channel": "rss",
    "source": "financialjuice"
   }
