@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T09:05:51.080882+00:00",
+ "updated": "2026-11-06T09:07:30.997250+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840371,
+   "ts": "2026-11-06T09:06:56+00:00",
+   "ingested": "2026-11-06T09:07:30.996923+00:00",
+   "headline": "China's Xi meets with Gabon president: state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840311,
    "ts": "2026-11-06T08:25:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T11:42:08+00:00",
    "ingested": "2026-11-04T11:43:45.736686+00:00",
    "headline": "France Fin. Min. Lescure: No reason to revise french 2026 deficit goal of 5.4%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836703,
-   "ts": "2026-11-04T11:31:11+00:00",
-   "ingested": "2026-11-04T11:32:05.737102+00:00",
-   "headline": "OpenAI to buy Pierre Computer - Axios",
    "channel": "rss",
    "source": "financialjuice"
   }
