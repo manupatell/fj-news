@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T16:14:30.878798+00:00",
+ "updated": "2026-11-06T16:16:10.900254+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841090,
+   "ts": "2026-11-06T16:15:21+00:00",
+   "ingested": "2026-11-06T16:16:10.899814+00:00",
+   "headline": "ECB's Knot and ECB's De Cos are the only two candidates for ECB president",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841089,
    "ts": "2026-11-06T16:13:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T00:30:00+00:00",
    "ingested": "2026-11-05T00:30:46.876402+00:00",
    "headline": "Japanese Services PMI Actual 51.7 (Forecast -, Previous 52.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837736,
-   "ts": "2026-11-05T00:23:52+00:00",
-   "ingested": "2026-11-05T00:24:06.884237+00:00",
-   "headline": "China PBOC forecast to set yuan midpoint at 6.6783 per dollar: estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
