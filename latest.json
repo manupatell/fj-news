@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T04:40:09.298381+00:00",
+ "updated": "2026-11-06T04:48:29.276082+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840051,
+   "ts": "2026-11-06T04:47:37+00:00",
+   "ingested": "2026-11-06T04:48:29.275886+00:00",
+   "headline": "US judge temporarily halts Trump administration's start of triumphal arch construction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840031,
    "ts": "2026-11-06T04:18:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T08:45:00+00:00",
    "ingested": "2026-11-04T08:46:44.590721+00:00",
    "headline": "Italian Composite PMI Actual 50.8 (Forecast 50.8, Previous 51.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836458,
-   "ts": "2026-11-04T08:45:00+00:00",
-   "ingested": "2026-11-04T08:46:44.590741+00:00",
-   "headline": "Italian Services PMI Actual 52 (Forecast 51.5, Previous 51.7)",
    "channel": "rss",
    "source": "financialjuice"
   }
