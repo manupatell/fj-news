@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T12:41:47.335392+00:00",
+ "updated": "2026-11-06T12:43:27.315429+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840662,
+   "ts": "2026-11-06T12:42:50+00:00",
+   "ingested": "2026-11-06T12:43:27.314895+00:00",
+   "headline": "BoE's Pill: Activity and employment adding to demand at the margin",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840661,
+   "ts": "2026-11-06T12:42:20+00:00",
+   "ingested": "2026-11-06T12:43:27.314915+00:00",
+   "headline": "BoE's Pill: Different camps and different nuances around the decision",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840660,
    "ts": "2026-11-06T12:41:26+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T14:39:34+00:00",
    "ingested": "2026-11-04T14:40:25.809921+00:00",
    "headline": "Bank of America cuts AMD price target to $650 from $720. $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836991,
-   "ts": "2026-11-04T14:31:55+00:00",
-   "ingested": "2026-11-04T14:32:05.808951+00:00",
-   "headline": "OpenAI is to acquire Pierre Computer Company.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836982,
-   "ts": "2026-11-04T14:26:21+00:00",
-   "ingested": "2026-11-04T14:27:05.792983+00:00",
-   "headline": "The UAE mulls a third Crude oil pipeline to avoid the Strait of Hormuz.",
    "channel": "rss",
    "source": "financialjuice"
   }
