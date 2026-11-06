@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T16:44:30.908070+00:00",
+ "updated": "2026-11-06T16:46:10.907759+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841139,
+   "ts": "2026-11-06T16:45:40+00:00",
+   "ingested": "2026-11-06T16:46:10.907363+00:00",
+   "headline": "BoJ's Governor Ueda: We look at the actions of other central banks very, very carefully, as they affect asset prices, including exchange rates and interest rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841135,
    "ts": "2026-11-06T16:44:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T03:39:54+00:00",
    "ingested": "2026-11-05T03:40:06.939203+00:00",
    "headline": "China foreign minister Wang Yi meets North Korea delegation in Beijing led by Kim Song-nam: Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837970,
-   "ts": "2026-11-05T03:18:00+00:00",
-   "ingested": "2026-11-05T03:18:26.938564+00:00",
-   "headline": "New Zealand dollar rises 0.60% to $0.5656",
    "channel": "rss",
    "source": "financialjuice"
   }
