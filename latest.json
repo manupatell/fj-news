@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T15:51:10.874874+00:00",
+ "updated": "2026-11-06T15:54:30.875416+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841062,
+   "ts": "2026-11-06T15:53:49+00:00",
+   "ingested": "2026-11-06T15:54:30.874964+00:00",
+   "headline": "IMF's Managing Director Georgieva: AI investment boom and high valuations are impacting markets around the world.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841061,
+   "ts": "2026-11-06T15:53:15+00:00",
+   "ingested": "2026-11-06T15:54:30.874988+00:00",
+   "headline": "IMF's Managing Director Georgieva: The current time is particularly important for central bankers, requiring the ability to see through uncertainty.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841060,
    "ts": "2026-11-06T15:50:51+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T23:53:39+00:00",
    "ingested": "2026-11-04T23:54:06.878438+00:00",
    "headline": "BOJ minutes: Cabinet office representative says important for BOJ to take proactive, appropriate steps amid excessive economic and market fluctuations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837703,
-   "ts": "2026-11-04T23:53:23+00:00",
-   "ingested": "2026-11-04T23:54:06.878454+00:00",
-   "headline": "BOJ minutes: one member said bank should keep acting promptly without being too cautious",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837702,
-   "ts": "2026-11-04T23:53:13+00:00",
-   "ingested": "2026-11-04T23:54:06.878467+00:00",
-   "headline": "BoJ minutes: one member said BoJ did not need hasty action but should set policy to prevent excessive, persistent inflation",
    "channel": "rss",
    "source": "financialjuice"
   }
