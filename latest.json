@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T10:10:51.110489+00:00",
+ "updated": "2026-11-06T10:14:11.011356+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840462,
+   "ts": "2026-11-06T10:12:37+00:00",
+   "ingested": "2026-11-06T10:14:11.011005+00:00",
+   "headline": "Russia's Putin and Iran's security council secretary discussed the Middle East - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840435,
    "ts": "2026-11-06T10:00:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T13:30:01+00:00",
    "ingested": "2026-11-04T13:30:25.782764+00:00",
    "headline": "Canadian Trade Balance Actual 5.35B (Forecast 5B, Previous 4.20B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836877,
-   "ts": "2026-11-04T13:30:00+00:00",
-   "ingested": "2026-11-04T13:30:25.782780+00:00",
-   "headline": "US Trade Balance Actual -105B (Forecast -107.9B, Previous -105.6B)",
    "channel": "rss",
    "source": "financialjuice"
   }
