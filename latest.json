@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T01:39:41.943462+00:00",
+ "updated": "2026-11-06T01:41:21.949823+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839828,
+   "ts": "2026-11-06T01:40:54+00:00",
+   "ingested": "2026-11-06T01:41:21.949579+00:00",
+   "headline": "Yield on China's 10-year government bonds falls to 1.581% in early trade, nearing record low",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839827,
    "ts": "2026-11-06T01:38:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T05:41:06+00:00",
    "ingested": "2026-11-04T05:42:44.555638+00:00",
    "headline": "Edge: Novamarine to supply platforms made at its Olbia, Italy production facility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836181,
-   "ts": "2026-11-04T05:20:24+00:00",
-   "ingested": "2026-11-04T05:21:04.541238+00:00",
-   "headline": "Trump acknowledges Iran war partly responsible for Republican losses: WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
