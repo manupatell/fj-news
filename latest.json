@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T14:45:13.819221+00:00",
+ "updated": "2026-11-06T14:50:10.869953+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840961,
+   "ts": "2026-11-06T14:48:32+00:00",
+   "ingested": "2026-11-06T14:50:10.869527+00:00",
+   "headline": "WH Sr. Adviser Hassett: We have a job market hitting on all cylinders.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840928,
    "ts": "2026-11-06T14:44:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T23:01:04+00:00",
    "ingested": "2026-11-04T23:02:26.853456+00:00",
    "headline": "Swiss National Bank chairman Schlegel: inflation in Switzerland climbed, October figure exceeded expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837637,
-   "ts": "2026-11-04T23:00:02+00:00",
-   "ingested": "2026-11-04T23:00:46.886684+00:00",
-   "headline": "S.Korea Jan-Sept current account surplus provisional $340.66 billion vs $83.89 billion year earlier: central bank",
    "channel": "rss",
    "source": "financialjuice"
   }
