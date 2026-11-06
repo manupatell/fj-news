@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T12:48:27.315693+00:00",
+ "updated": "2026-11-06T12:50:07.331249+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840683,
+   "ts": "2026-11-06T12:49:45+00:00",
+   "ingested": "2026-11-06T12:50:07.330829+00:00",
+   "headline": "BoE's Pill: Key determinant will be the margin squeeze on companies and how companies react",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840682,
+   "ts": "2026-11-06T12:49:00+00:00",
+   "ingested": "2026-11-06T12:50:07.330853+00:00",
+   "headline": "BoE's Pill: It's possible that the bank rate would stay on hold or even fall if we saw stalling of growth next year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840681,
    "ts": "2026-11-06T12:47:38+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T15:00:00+00:00",
    "ingested": "2026-11-04T15:00:25.796142+00:00",
    "headline": "US ISM Services Employment Actual 51.4 (Forecast 50, Previous 50.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837019,
-   "ts": "2026-11-04T15:00:00+00:00",
-   "ingested": "2026-11-04T15:00:25.796154+00:00",
-   "headline": "US ISM Services New Orders Actual 55.9 (Forecast 58.5, Previous 59.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837018,
-   "ts": "2026-11-04T15:00:00+00:00",
-   "ingested": "2026-11-04T15:00:25.796165+00:00",
-   "headline": "US ISM Services Prices Paid Actual 73 (Forecast 74.6, Previous 74.0)",
    "channel": "rss",
    "source": "financialjuice"
   }
