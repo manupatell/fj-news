@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T15:46:10.878283+00:00",
+ "updated": "2026-11-06T15:51:10.874874+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841060,
+   "ts": "2026-11-06T15:50:51+00:00",
+   "ingested": "2026-11-06T15:51:10.874451+00:00",
+   "headline": "BoJ's Governor Ueda Speaks - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841046,
    "ts": "2026-11-06T15:45:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T23:53:13+00:00",
    "ingested": "2026-11-04T23:54:06.878467+00:00",
    "headline": "BoJ minutes: one member said BoJ did not need hasty action but should set policy to prevent excessive, persistent inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837701,
-   "ts": "2026-11-04T23:53:01+00:00",
-   "ingested": "2026-11-04T23:54:06.878479+00:00",
-   "headline": "BoJ Minutes: Cabinet Office Representative Said BoJ May Need to Consider Its Estimates of Neutral Interest Rate",
    "channel": "rss",
    "source": "financialjuice"
   }
