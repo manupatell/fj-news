@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T09:07:30.997250+00:00",
+ "updated": "2026-11-06T09:17:30.994263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840392,
+   "ts": "2026-11-06T09:16:51+00:00",
+   "ingested": "2026-11-06T09:17:30.993928+00:00",
+   "headline": "Tanzanian court: no proof to convict opposition leader Tundu Lissu of treason",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840371,
    "ts": "2026-11-06T09:06:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T11:42:18+00:00",
    "ingested": "2026-11-04T11:43:45.736674+00:00",
    "headline": "France Fin. Min. Lescure: France must hit 2027 deficit goal of 5% to be credible.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836728,
-   "ts": "2026-11-04T11:42:08+00:00",
-   "ingested": "2026-11-04T11:43:45.736686+00:00",
-   "headline": "France Fin. Min. Lescure: No reason to revise french 2026 deficit goal of 5.4%.",
    "channel": "rss",
    "source": "financialjuice"
   }
