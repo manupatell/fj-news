@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-06T16:34:30.901914+00:00",
+ "updated": "2026-11-06T16:36:10.922491+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841127,
+   "ts": "2026-11-06T16:35:49+00:00",
+   "ingested": "2026-11-06T16:36:10.921914+00:00",
+   "headline": "BoJ's Governor Ueda: We are in equilibrium with wages growing at a level consistent with 2% inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841126,
+   "ts": "2026-11-06T16:35:35+00:00",
+   "ingested": "2026-11-06T16:36:10.921935+00:00",
+   "headline": "BoJ's Governor Ueda: It is necessary to keep inflation at 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841125,
+   "ts": "2026-11-06T16:35:17+00:00",
+   "ingested": "2026-11-06T16:36:10.921953+00:00",
+   "headline": "BoJ's Governor Ueda: The general mood on inflation is that there is a lot remaining to do.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841124,
+   "ts": "2026-11-06T16:34:48+00:00",
+   "ingested": "2026-11-06T16:36:10.921972+00:00",
+   "headline": "BoJ's Governor Ueda: If monetary policy normalization is achieved, nominal variables will be less of an impediment to official resource allocation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841123,
+   "ts": "2026-11-06T16:34:34+00:00",
+   "ingested": "2026-11-06T16:36:10.921986+00:00",
+   "headline": "BoJ's Governor Ueda: Underlying inflation reached 2% for the first time in decades",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841122,
    "ts": "2026-11-06T16:32:43+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-05T01:13:26+00:00",
    "ingested": "2026-11-05T01:15:06.909244+00:00",
    "headline": "Cat Wu, former head of product for Claude code at Anthropic, joins OpenAI to lead product management for core products",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837742,
-   "ts": "2026-11-05T00:31:44+00:00",
-   "ingested": "2026-11-05T00:37:26.940766+00:00",
-   "headline": "Australian Exports Actual 2.3% (Forecast -, Previous 3.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837741,
-   "ts": "2026-11-05T00:31:44+00:00",
-   "ingested": "2026-11-05T00:37:26.940782+00:00",
-   "headline": "Australian Imports Actual -3.3% (Forecast -, Previous 5.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837751,
-   "ts": "2026-11-05T00:30:55+00:00",
-   "ingested": "2026-11-05T00:32:26.921412+00:00",
-   "headline": "South Korea\u2019s Cheonghae unit to increase operations near Strait of Hormuz: Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837745,
-   "ts": "2026-11-05T00:30:04+00:00",
-   "ingested": "2026-11-05T00:30:46.876341+00:00",
-   "headline": "Australia Sept trade surplus at A$2.83 billion, seasonally adjusted vs. poll A$810 million",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837744,
-   "ts": "2026-11-05T00:30:04+00:00",
-   "ingested": "2026-11-05T00:30:46.876358+00:00",
-   "headline": "Japan S&P Global October services PMI at 51.7 vs flash 52.0",
    "channel": "rss",
    "source": "financialjuice"
   }
