@@ -22043,3 +22043,4 @@
 {"guid": 9840969, "ts": "2026-11-06T15:00:03+00:00", "ingested": "2026-11-06T15:01:50.896077+00:00", "headline": "Canadian Ivey PMI Actual 58.3 (Forecast -, Previous 58.2)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9841020, "ts": "2026-11-06T15:17:35+00:00", "ingested": "2026-11-06T15:17:50.901027+00:00", "headline": "Fear and Greed Index: 25/100 = Extreme Fear", "channel": "rss", "source": "financialjuice"}
 {"guid": 9841021, "ts": "2026-11-06T15:18:07+00:00", "ingested": "2026-11-06T15:19:30.870072+00:00", "headline": "Crypto Fear and Greed Index: 28/100 = Fear", "channel": "rss", "source": "financialjuice"}
+{"guid": 9841022, "ts": "2026-11-06T15:27:15+00:00", "ingested": "2026-11-06T15:27:50.864460+00:00", "headline": "Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk", "channel": "rss", "source": "financialjuice"}
