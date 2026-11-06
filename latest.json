@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T15:57:50.885876+00:00",
+ "updated": "2026-11-06T15:59:30.898540+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841068,
+   "ts": "2026-11-06T15:59:06+00:00",
+   "ingested": "2026-11-06T15:59:30.898104+00:00",
+   "headline": "The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841067,
    "ts": "2026-11-06T15:56:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T00:00:51+00:00",
    "ingested": "2026-11-05T00:02:26.868227+00:00",
    "headline": "BoJ minutes: one member noted that the current rate of CPI increase has largely met the price stability target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837709,
-   "ts": "2026-11-04T23:58:58+00:00",
-   "ingested": "2026-11-05T00:00:46.946925+00:00",
-   "headline": "BOJ minutes: members say if trend accelerates further, underlying inflation could rise accordingly",
    "channel": "rss",
    "source": "financialjuice"
   }
