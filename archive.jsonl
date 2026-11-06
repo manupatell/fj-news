@@ -22040,3 +22040,4 @@
 {"guid": 9840966, "ts": "2026-11-06T15:00:00+00:00", "ingested": "2026-11-06T15:00:13.095278+00:00", "headline": "University Michigan Expectations Prelim Actual 50.9 (Forecast 49, Previous 48.8)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9840967, "ts": "2026-11-06T15:00:00+00:00", "ingested": "2026-11-06T15:00:13.095260+00:00", "headline": "University Michigan Sentiment Prelim Actual 51 (Forecast 48, Previous 48.0)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9840968, "ts": "2026-11-06T15:00:00+00:00", "ingested": "2026-11-06T15:00:13.095235+00:00", "headline": "University Michigan 5 Yr Inflation Prelim Actual 3.4% (Forecast 3.5%, Previous 3.5%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9840969, "ts": "2026-11-06T15:00:03+00:00", "ingested": "2026-11-06T15:01:50.896077+00:00", "headline": "Canadian Ivey PMI Actual 58.3 (Forecast -, Previous 58.2)", "channel": "rss", "source": "financialjuice"}
