@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T06:52:30.964370+00:00",
+ "updated": "2026-11-06T07:00:51.035079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840182,
+   "ts": "2026-11-06T07:00:02+00:00",
+   "ingested": "2026-11-06T07:00:51.034729+00:00",
+   "headline": "German Industrial Production MoM Actual 0.7% (Forecast -0.1%, Previous 2.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840181,
+   "ts": "2026-11-06T07:00:02+00:00",
+   "ingested": "2026-11-06T07:00:51.034741+00:00",
+   "headline": "German Industrial Production YoY SA Actual 0.4% (Forecast 1.2%, Previous 2.33%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840158,
    "ts": "2026-11-06T06:32:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T09:00:33+00:00",
    "ingested": "2026-11-04T09:01:44.587757+00:00",
    "headline": "Google to invest $15 billion in Malaysia data center expansion.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836484,
-   "ts": "2026-11-04T09:00:00+00:00",
-   "ingested": "2026-11-04T09:01:44.587774+00:00",
-   "headline": "Eurozone Services PMI Final Actual 51.4 (Forecast 51.7, Previous 51.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836483,
-   "ts": "2026-11-04T09:00:00+00:00",
-   "ingested": "2026-11-04T09:01:44.587789+00:00",
-   "headline": "Eurozone Composite Final PMI Actual 51.7 (Forecast 51.9, Previous 51.9)",
    "channel": "rss",
    "source": "financialjuice"
   }
