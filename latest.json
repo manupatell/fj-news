@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T01:33:01.950801+00:00",
+ "updated": "2026-11-06T01:34:41.963757+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839823,
+   "ts": "2026-11-06T01:33:59+00:00",
+   "ingested": "2026-11-06T01:34:41.963542+00:00",
+   "headline": "Taiwan deputy finance minister: fund may hold emergency meeting if market turns disorderly or confidence breaks down",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839821,
+   "ts": "2026-11-06T01:33:11+00:00",
+   "ingested": "2026-11-06T01:34:41.963554+00:00",
+   "headline": "Taiwan deputy finance minister: national stabilization fund closely tracking stock market and global political, economic shifts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839800,
    "ts": "2026-11-06T01:21:46+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T05:08:55+00:00",
    "ingested": "2026-11-04T05:09:24.525774+00:00",
    "headline": "Trump: I don't expect to alter cabinet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836173,
-   "ts": "2026-11-04T05:08:45+00:00",
-   "ingested": "2026-11-04T05:09:24.525794+00:00",
-   "headline": "Trump: I can cooperate with Democrats on immigration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836172,
-   "ts": "2026-11-04T05:07:24+00:00",
-   "ingested": "2026-11-04T05:07:44.524280+00:00",
-   "headline": "Trump: I could collaborate with Democrats on many issues",
    "channel": "rss",
    "source": "financialjuice"
   }
