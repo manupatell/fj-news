@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T20:10:29.618919+00:00",
+ "updated": "2026-11-06T20:17:09.615909+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841398,
+   "ts": "2026-11-06T20:16:58+00:00",
+   "ingested": "2026-11-06T20:17:09.615573+00:00",
+   "headline": "IBM unveils its most advanced quantum computer in Chicago, marking a milestone for Illinois's quantum future. $IBM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841388,
    "ts": "2026-11-06T20:00:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T09:46:14+00:00",
    "ingested": "2026-11-05T09:48:00.931095+00:00",
    "headline": "MUFG: The GBP - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838435,
-   "ts": "2026-11-05T09:45:01+00:00",
-   "ingested": "2026-11-05T09:46:20.919776+00:00",
-   "headline": "Credit \u00c1gricole: US October Jobs - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
