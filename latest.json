@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T16:26:10.886416+00:00",
+ "updated": "2026-11-06T16:27:50.901389+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841103,
+   "ts": "2026-11-06T16:27:24+00:00",
+   "ingested": "2026-11-06T16:27:50.900974+00:00",
+   "headline": "OpenAI CFO: We will keep investing in AI data centers despite the election results - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841102,
+   "ts": "2026-11-06T16:26:39+00:00",
+   "ingested": "2026-11-06T16:27:50.900997+00:00",
+   "headline": "BoJ's Governor Ueda: Expects rising domestic investment in Japan, but the extent is very uncertain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841090,
    "ts": "2026-11-06T16:15:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T00:30:01+00:00",
    "ingested": "2026-11-05T00:30:46.876381+00:00",
    "headline": "Australian Trade Balance Actual 2826M (Forecast 1000M, Previous 495M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837739,
-   "ts": "2026-11-05T00:30:00+00:00",
-   "ingested": "2026-11-05T00:30:46.876392+00:00",
-   "headline": "Japanese Composite PMI Final Actual 52.1 (Forecast -, Previous 52.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837738,
-   "ts": "2026-11-05T00:30:00+00:00",
-   "ingested": "2026-11-05T00:30:46.876402+00:00",
-   "headline": "Japanese Services PMI Actual 51.7 (Forecast -, Previous 52.0)",
    "channel": "rss",
    "source": "financialjuice"
   }
