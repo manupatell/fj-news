@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-06T14:53:30.857207+00:00",
+ "updated": "2026-11-06T15:00:13.095713+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840968,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T15:00:13.095235+00:00",
+   "headline": "University Michigan 5 Yr Inflation Prelim Actual 3.4% (Forecast 3.5%, Previous 3.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840967,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T15:00:13.095260+00:00",
+   "headline": "University Michigan Sentiment Prelim Actual 51 (Forecast 48, Previous 48.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840966,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T15:00:13.095278+00:00",
+   "headline": "University Michigan Expectations Prelim Actual 50.9 (Forecast 49, Previous 48.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840965,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T15:00:13.095295+00:00",
+   "headline": "University Michigan 1 Yr Inflation Prelim Actual 4.3% (Forecast 4.6%, Previous 4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840964,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T15:00:13.095308+00:00",
+   "headline": "University Michigan Condition Prelim Actual 51 (Forecast 47, Previous 46.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840963,
    "ts": "2026-11-06T14:51:48+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-04T23:27:32+00:00",
    "ingested": "2026-11-04T23:29:06.867274+00:00",
    "headline": "OpenAI: GPT-image-2.6 sunburst and GPT-image-2.6 flare now accessible in API",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837672,
-   "ts": "2026-11-04T23:27:02+00:00",
-   "ingested": "2026-11-04T23:27:26.850596+00:00",
-   "headline": "OpenAI: Images 2.6 available worldwide today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837671,
-   "ts": "2026-11-04T23:26:52+00:00",
-   "ingested": "2026-11-04T23:27:26.850611+00:00",
-   "headline": "OpenAI: introducing Images 2.6 in ChatGPT, Codex, and API - website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837643,
-   "ts": "2026-11-04T23:01:04+00:00",
-   "ingested": "2026-11-04T23:02:26.853413+00:00",
-   "headline": "SNB chairman Schlegel: central bank will monitor situation closely, especially for second-round inflation effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837642,
-   "ts": "2026-11-04T23:01:04+00:00",
-   "ingested": "2026-11-04T23:02:26.853432+00:00",
-   "headline": "SNB\u2019s chairman: central bank won\u2019t hesitate to modify policy if price stability is endangered",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837641,
-   "ts": "2026-11-04T23:01:04+00:00",
-   "ingested": "2026-11-04T23:02:26.853445+00:00",
-   "headline": "SNB Chairman Schlegel: no major second-round effects so far, but can't be excluded later",
    "channel": "rss",
    "source": "financialjuice"
   }
