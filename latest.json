@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T01:38:01.947229+00:00",
+ "updated": "2026-11-06T01:39:41.943462+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839827,
+   "ts": "2026-11-06T01:38:38+00:00",
+   "ingested": "2026-11-06T01:39:41.943231+00:00",
+   "headline": "China's 10-year treasury futures hit record high in early trade",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839826,
+   "ts": "2026-11-06T01:38:30+00:00",
+   "ingested": "2026-11-06T01:39:41.943244+00:00",
+   "headline": "World Liberty Financial: plan to finance buybacks with initial allocation possibly including fees from USD1 reserves and other sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839825,
    "ts": "2026-11-06T01:36:53+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T05:20:24+00:00",
    "ingested": "2026-11-04T05:21:04.541238+00:00",
    "headline": "Trump acknowledges Iran war partly responsible for Republican losses: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836180,
-   "ts": "2026-11-04T05:17:46+00:00",
-   "ingested": "2026-11-04T05:19:24.525511+00:00",
-   "headline": "Democratic challenger Troy Dale Jackson beats Republican incumbent Susan Collins in Maine US Senate race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836179,
-   "ts": "2026-11-04T05:17:29+00:00",
-   "ingested": "2026-11-04T05:17:44.570150+00:00",
-   "headline": "Susan Collins concedes Maine Senate race: NBC News",
    "channel": "rss",
    "source": "financialjuice"
   }
