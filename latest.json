@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T12:01:47.295618+00:00",
+ "updated": "2026-11-06T12:03:27.350867+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840613,
+   "ts": "2026-11-06T12:02:35+00:00",
+   "ingested": "2026-11-06T12:03:27.350416+00:00",
+   "headline": "Trump: As president, I am 100% in favor of Super Intelligence (SI), and will work with the many states in the US",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840546,
    "ts": "2026-11-06T11:28:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T13:59:52+00:00",
    "ingested": "2026-11-04T14:00:25.784249+00:00",
    "headline": "Effective Fed funds rate 3.88% November 3th vs 3.88% November 2nd.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836940,
-   "ts": "2026-11-04T13:58:35+00:00",
-   "ingested": "2026-11-04T13:58:45.785636+00:00",
-   "headline": "UniCredit: Democratic Midterm Gains Shift Focus to Congressional Oversight and Policy Constraints - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
