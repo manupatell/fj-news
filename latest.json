@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-06T21:10:29.628504+00:00",
+ "updated": "2026-11-06T21:12:09.631076+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841473,
+   "ts": "2026-11-06T21:10:40+00:00",
+   "ingested": "2026-11-06T21:12:09.630690+00:00",
+   "headline": "USD CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841472,
+   "ts": "2026-11-06T21:10:38+00:00",
+   "ingested": "2026-11-06T21:12:09.630702+00:00",
+   "headline": "EUR CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841471,
+   "ts": "2026-11-06T21:10:36+00:00",
+   "ingested": "2026-11-06T21:12:09.630710+00:00",
+   "headline": "AUD CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841470,
+   "ts": "2026-11-06T21:10:35+00:00",
+   "ingested": "2026-11-06T21:12:09.630717+00:00",
+   "headline": "JPY CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841469,
+   "ts": "2026-11-06T21:10:32+00:00",
+   "ingested": "2026-11-06T21:12:09.630723+00:00",
+   "headline": "GBP CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841468,
+   "ts": "2026-11-06T21:10:31+00:00",
+   "ingested": "2026-11-06T21:12:09.630730+00:00",
+   "headline": "CHF CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841467,
+   "ts": "2026-11-06T21:10:29+00:00",
+   "ingested": "2026-11-06T21:12:09.630737+00:00",
+   "headline": "NZD CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841466,
+   "ts": "2026-11-06T21:10:28+00:00",
+   "ingested": "2026-11-06T21:12:09.630743+00:00",
+   "headline": "CAD CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841465,
+   "ts": "2026-11-06T21:10:26+00:00",
+   "ingested": "2026-11-06T21:12:09.630749+00:00",
+   "headline": "ZN CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841464,
+   "ts": "2026-11-06T21:10:25+00:00",
+   "ingested": "2026-11-06T21:12:09.630756+00:00",
+   "headline": "ZT CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841463,
+   "ts": "2026-11-06T21:10:23+00:00",
+   "ingested": "2026-11-06T21:12:09.630762+00:00",
+   "headline": "VIX CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841462,
+   "ts": "2026-11-06T21:10:21+00:00",
+   "ingested": "2026-11-06T21:12:09.630769+00:00",
+   "headline": "NQ CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841461,
+   "ts": "2026-11-06T21:10:20+00:00",
+   "ingested": "2026-11-06T21:12:09.630775+00:00",
+   "headline": "ES CFTC Positions Week of November 3rd - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841460,
    "ts": "2026-11-06T21:10:18+00:00",
@@ -3895,110 +3999,6 @@
    "ts": "2026-11-05T12:00:04+00:00",
    "ingested": "2026-11-05T12:01:41.500559+00:00",
    "headline": "BoE Bank Rate Actual 4% (Forecast 4%, Previous 3.75%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838586,
-   "ts": "2026-11-05T11:28:16+00:00",
-   "ingested": "2026-11-05T11:30:01.490429+00:00",
-   "headline": "About 600,000 Nvidia H200 AI chips are in Hong Kong awaiting shipment to mainland China - Two Sources $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838544,
-   "ts": "2026-11-05T10:57:46+00:00",
-   "ingested": "2026-11-05T10:58:21.473323+00:00",
-   "headline": "Kazakhstan hired managers Cerberus, Sigulir Guff, Brookfield, and Ashmore for $1b of oil fund",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838531,
-   "ts": "2026-11-05T10:33:02+00:00",
-   "ingested": "2026-11-05T10:33:21.463982+00:00",
-   "headline": "EU Commission disburses \u20ac4.36b to Ukraine under support loan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838517,
-   "ts": "2026-11-05T10:31:47+00:00",
-   "ingested": "2026-11-05T10:33:21.464004+00:00",
-   "headline": "US Challenger Layoffs Actual 43.994k (Forecast -, Previous 43.281k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838516,
-   "ts": "2026-11-05T10:26:42+00:00",
-   "ingested": "2026-11-05T10:28:21.474654+00:00",
-   "headline": "Oman and Iran discuss efforts to resume navigation in Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838515,
-   "ts": "2026-11-05T10:21:36+00:00",
-   "ingested": "2026-11-05T10:23:21.469648+00:00",
-   "headline": "Binance hack led US regulators to check in on bank systems - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838514,
-   "ts": "2026-11-05T10:20:33+00:00",
-   "ingested": "2026-11-05T10:21:41.502824+00:00",
-   "headline": "ECB's Zigman: Too early to say how much more tightening is needed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838513,
-   "ts": "2026-11-05T10:16:37+00:00",
-   "ingested": "2026-11-05T10:18:21.464450+00:00",
-   "headline": "ECB's Zigman: Rather big chance rates will be raised in December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838485,
-   "ts": "2026-11-05T10:14:55+00:00",
-   "ingested": "2026-11-05T10:16:41.471985+00:00",
-   "headline": "Iran navy claims tanker hit mine in Hormuz Thursday morning - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838484,
-   "ts": "2026-11-05T10:09:17+00:00",
-   "ingested": "2026-11-05T10:10:01.475029+00:00",
-   "headline": "Oman and Iran foreign ministers discuss measures to keep trade and energy flowing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838483,
-   "ts": "2026-11-05T10:08:48+00:00",
-   "ingested": "2026-11-05T10:10:01.475051+00:00",
-   "headline": "Oman and Iran foreign ministers discuss arrangements to secure sea routes, stress shift from de-escalation to lasting deals - ONA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838482,
-   "ts": "2026-11-05T10:01:21+00:00",
-   "ingested": "2026-11-05T10:01:41.475064+00:00",
-   "headline": "Kremlin: Russia's interests will be secured either by military means or peacefully, if Kyiv shows political will.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838481,
-   "ts": "2026-11-05T10:01:12+00:00",
-   "ingested": "2026-11-05T10:01:41.475090+00:00",
-   "headline": "Kremlin restates that Russia wants a peaceful settlement, but as that hasn't been possible so far, its operation in Ukraine continues",
    "channel": "rss",
    "source": "financialjuice"
   }
