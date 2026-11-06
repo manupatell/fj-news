@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-06T14:11:49.470944+00:00",
+ "updated": "2026-11-06T14:13:29.435343+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840867,
+   "ts": "2026-11-06T14:13:18+00:00",
+   "ingested": "2026-11-06T14:13:29.434828+00:00",
+   "headline": "WH Sr. Adviser Hassett: We want communities to decide on data centers - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840866,
+   "ts": "2026-11-06T14:13:01+00:00",
+   "ingested": "2026-11-06T14:13:29.434848+00:00",
+   "headline": "ECB mulls review of bank loans to data centers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840865,
+   "ts": "2026-11-06T14:12:41+00:00",
+   "ingested": "2026-11-06T14:13:29.434864+00:00",
+   "headline": "WH Sr. Adviser Hassett: Trump respects localities that don't want data centers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840864,
+   "ts": "2026-11-06T14:12:31+00:00",
+   "ingested": "2026-11-06T14:13:29.434880+00:00",
+   "headline": "WH Sr. Adviser Hassett: Plenty of room for data center growth to continue - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840863,
    "ts": "2026-11-06T14:11:33+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-04T19:23:31+00:00",
    "ingested": "2026-11-04T19:25:05.548269+00:00",
    "headline": "ECB's Moulin: Skeptical on the government plan to raise the regulated savings cap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837386,
-   "ts": "2026-11-04T19:22:53+00:00",
-   "ingested": "2026-11-04T19:23:25.595977+00:00",
-   "headline": "ECB's Moulin: No longer risk of loop between banks, sovereigns",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837385,
-   "ts": "2026-11-04T19:21:48+00:00",
-   "ingested": "2026-11-04T19:23:25.595992+00:00",
-   "headline": "ECB's Moulin: The solution to France's financial problems is in France and not in Frankfurt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837384,
-   "ts": "2026-11-04T19:21:23+00:00",
-   "ingested": "2026-11-04T19:21:45.556905+00:00",
-   "headline": "ECB's Moulin: Banks can deal with rising rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837362,
-   "ts": "2026-11-04T19:05:50+00:00",
-   "ingested": "2026-11-04T19:06:45.543059+00:00",
-   "headline": "BoE Bank Rate Past Market Reactions & Summary - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
