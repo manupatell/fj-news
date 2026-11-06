@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T23:03:49.688629+00:00",
+ "updated": "2026-11-06T23:08:49.702203+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841564,
+   "ts": "2026-11-06T23:07:19+00:00",
+   "ingested": "2026-11-06T23:08:49.701893+00:00",
+   "headline": "Paraguay's Santiago Pe\u00f1a detained, local media ABC reports",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841563,
    "ts": "2026-11-06T23:03:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:01:54+00:00",
    "ingested": "2026-11-05T12:03:21.501805+00:00",
    "headline": "BoE MPC Vote Unchanged Actual 0 (Forecast 2, Previous 6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838617,
-   "ts": "2026-11-05T12:01:53+00:00",
-   "ingested": "2026-11-05T12:03:21.501818+00:00",
-   "headline": "BoE MPC Vote Cut Actual 0 (Forecast 0, Previous 0)",
    "channel": "rss",
    "source": "financialjuice"
   }
