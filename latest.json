@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T00:21:21.953796+00:00",
+ "updated": "2026-11-06T00:23:01.962728+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839752,
+   "ts": "2026-11-06T00:22:19+00:00",
+   "ingested": "2026-11-06T00:23:01.962498+00:00",
+   "headline": "China PBOC expected to fix yuan midpoint at 6.6762 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839738,
    "ts": "2026-11-06T00:10:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T05:00:04+00:00",
    "ingested": "2026-11-04T05:01:04.522071+00:00",
    "headline": "India HSBC and S&P Global October final services PMI at 55.8 vs flash 56.2",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836097,
-   "ts": "2026-11-04T04:25:21+00:00",
-   "ingested": "2026-11-04T04:26:04.547886+00:00",
-   "headline": "NBC News projects Democrats to gain control of US Senate",
    "channel": "rss",
    "source": "financialjuice"
   }
