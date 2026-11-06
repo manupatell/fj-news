@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T14:43:29.455014+00:00",
+ "updated": "2026-11-06T14:45:13.819221+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840928,
+   "ts": "2026-11-06T14:44:27+00:00",
+   "ingested": "2026-11-06T14:45:13.818804+00:00",
+   "headline": "WH Sr. Adviser Hassett: Trump will read the report and decide on Fed's Cook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840927,
    "ts": "2026-11-06T14:43:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T23:00:02+00:00",
    "ingested": "2026-11-04T23:00:46.886684+00:00",
    "headline": "S.Korea Jan-Sept current account surplus provisional $340.66 billion vs $83.89 billion year earlier: central bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837636,
-   "ts": "2026-11-04T23:00:02+00:00",
-   "ingested": "2026-11-04T23:00:46.886704+00:00",
-   "headline": "S.Korea Sept current-account balance provisional $61.46 billion vs $46.11 billion in Aug: central bank",
    "channel": "rss",
    "source": "financialjuice"
   }
