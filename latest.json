@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T22:45:29.660724+00:00",
+ "updated": "2026-11-06T22:50:29.670587+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841560,
+   "ts": "2026-11-06T22:50:04+00:00",
+   "ingested": "2026-11-06T22:50:29.670263+00:00",
+   "headline": "Paraguay's Pedro Alliana sworn in as president, replacing Santiago Pena following impeachment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841547,
    "ts": "2026-11-06T22:44:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:01:53+00:00",
    "ingested": "2026-11-05T12:03:21.501831+00:00",
    "headline": "BoE MPC Vote Hike Actual 9 (Forecast 7, Previous 3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838656,
-   "ts": "2026-11-05T12:01:33+00:00",
-   "ingested": "2026-11-05T12:03:21.501844+00:00",
-   "headline": "BoE's Lombardelli and Pill see case for further \"near term\" rate hike",
    "channel": "rss",
    "source": "financialjuice"
   }
