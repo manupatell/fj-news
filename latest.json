@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T14:50:10.869953+00:00",
+ "updated": "2026-11-06T14:53:30.857207+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840963,
+   "ts": "2026-11-06T14:51:48+00:00",
+   "ingested": "2026-11-06T14:53:30.856716+00:00",
+   "headline": "Fed's Musalem: Good Fed comms leads to smoother policy transmission",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840961,
    "ts": "2026-11-06T14:48:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T23:01:04+00:00",
    "ingested": "2026-11-04T23:02:26.853445+00:00",
    "headline": "SNB Chairman Schlegel: no major second-round effects so far, but can't be excluded later",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837640,
-   "ts": "2026-11-04T23:01:04+00:00",
-   "ingested": "2026-11-04T23:02:26.853456+00:00",
-   "headline": "Swiss National Bank chairman Schlegel: inflation in Switzerland climbed, October figure exceeded expectations",
    "channel": "rss",
    "source": "financialjuice"
   }
