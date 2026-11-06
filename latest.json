@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T13:31:53.694313+00:00",
+ "updated": "2026-11-06T13:33:29.414835+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840782,
+   "ts": "2026-11-06T13:32:37+00:00",
+   "ingested": "2026-11-06T13:33:29.414436+00:00",
+   "headline": "Traders add to bets on December Fed interest-rate hike.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840752,
+   "ts": "2026-11-06T13:31:54+00:00",
+   "ingested": "2026-11-06T13:33:29.414456+00:00",
+   "headline": "US Government Payrolls Actual 6k (Forecast -, Previous -17k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840751,
    "ts": "2026-11-06T13:30:06+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-04T18:16:48+00:00",
    "ingested": "2026-11-04T18:17:55.510548+00:00",
    "headline": "Meta buys AI startup conductor - Axios $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837285,
-   "ts": "2026-11-04T18:11:40+00:00",
-   "ingested": "2026-11-04T18:11:55.519390+00:00",
-   "headline": "Trump: Price, not the war, was the reason for the midterm loss",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9837284,
-   "ts": "2026-11-04T18:10:59+00:00",
-   "ingested": "2026-11-04T18:11:25.540897+00:00",
-   "headline": "Trump: The Iran thing we had to do, we continue to do it.",
    "channel": "rss",
    "source": "financialjuice"
   }
