@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-06T00:23:01.962728+00:00",
+ "updated": "2026-11-06T00:33:01.944862+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839756,
+   "ts": "2026-11-06T00:31:56+00:00",
+   "ingested": "2026-11-06T00:33:01.944615+00:00",
+   "headline": "Japan PM Takaichi: market turbulence impacting not only Japan but nations worldwide, so monitoring progress closely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839755,
+   "ts": "2026-11-06T00:31:43+00:00",
+   "ingested": "2026-11-06T00:33:01.944627+00:00",
+   "headline": "Japan PM Takaichi: Focus on measures to reinforce economy by enhancing areas with competitive edge",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9839754,
+   "ts": "2026-11-06T00:31:24+00:00",
+   "ingested": "2026-11-06T00:33:01.944635+00:00",
+   "headline": "Japan PM Takaichi: aware AI, chip shares dropping sharply, unsure if temporary or lasting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839752,
    "ts": "2026-11-06T00:22:19+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-04T05:03:44+00:00",
    "ingested": "2026-11-04T05:04:24.542602+00:00",
    "headline": "Democrat Peggy Flanagan wins over Republican Michele Tafoya in contest for democratic-held Minnesota Senate seat: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836167,
-   "ts": "2026-11-04T05:01:30+00:00",
-   "ingested": "2026-11-04T05:02:44.585530+00:00",
-   "headline": "Trump: part of outcome related to Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836139,
-   "ts": "2026-11-04T05:00:51+00:00",
-   "ingested": "2026-11-04T05:01:04.522047+00:00",
-   "headline": "Trump: Democrats will send insane measures and I will veto them",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836136,
-   "ts": "2026-11-04T05:00:04+00:00",
-   "ingested": "2026-11-04T05:01:04.522071+00:00",
-   "headline": "India HSBC and S&P Global October final services PMI at 55.8 vs flash 56.2",
    "channel": "rss",
    "source": "financialjuice"
   }
