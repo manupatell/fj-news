@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T09:40:51.006504+00:00",
+ "updated": "2026-11-06T09:42:30.998103+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9840414,
+   "ts": "2026-11-06T09:41:04+00:00",
+   "ingested": "2026-11-06T09:42:30.997704+00:00",
+   "headline": "ECB's Lane: Energy inflation is going to influence wage negotiations and setting of prices across economy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840413,
    "ts": "2026-11-06T09:40:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T13:15:00+00:00",
    "ingested": "2026-11-04T13:15:25.778648+00:00",
    "headline": "US ADP Employment Change Actual 86k (Forecast 67k, Previous 90k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836830,
-   "ts": "2026-11-04T12:54:32+00:00",
-   "ingested": "2026-11-04T12:55:25.766953+00:00",
-   "headline": "ECB's Knot: Europe on receiving end of US-China rivalry.",
    "channel": "rss",
    "source": "financialjuice"
   }
