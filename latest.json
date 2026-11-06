@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-06T02:33:01.965601+00:00",
+ "updated": "2026-11-06T02:41:21.958079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9839942,
+   "ts": "2026-11-06T02:40:05+00:00",
+   "ingested": "2026-11-06T02:41:21.957858+00:00",
+   "headline": "S.Korea central bank announces sale of 91-day monetary stabilization bonds at 3.175% yield",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9839828,
    "ts": "2026-11-06T01:40:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-04T05:41:23+00:00",
    "ingested": "2026-11-04T05:42:44.555608+00:00",
    "headline": "Edge\u2019s naval shipbuilding unit Abu Dhabi Ship Building to handle full integration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836194,
-   "ts": "2026-11-04T05:41:06+00:00",
-   "ingested": "2026-11-04T05:42:44.555638+00:00",
-   "headline": "Edge: Novamarine to supply platforms made at its Olbia, Italy production facility",
    "channel": "rss",
    "source": "financialjuice"
   }
