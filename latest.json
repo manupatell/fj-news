@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T05:50:08.963368+00:00",
+ "updated": "2026-11-07T06:01:20.072021+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841832,
+   "ts": "2026-11-07T06:00:04+00:00",
+   "ingested": "2026-11-07T06:01:20.071621+00:00",
+   "headline": "Polls close in New Zealand general election: early results expected soon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841793,
    "ts": "2026-11-07T05:06:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:05:17+00:00",
    "ingested": "2026-11-05T12:06:41.503653+00:00",
    "headline": "BoE sees an unemployment rate of 4.8% in 2026, 4.9% in 2027, 5.1% in 2028 (July: 5.0% in 2026, 5.3% in 2027, 5.2% in 2028)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838675,
-   "ts": "2026-11-05T12:05:06+00:00",
-   "ingested": "2026-11-05T12:06:41.503670+00:00",
-   "headline": "BoE: Market rates imply bank rate at 3.9% in Q4 2026, 4.9% in Q4 2027, 4.9% in Q4 2028, 4.7% in Q4 2029",
    "channel": "rss",
    "source": "financialjuice"
   }
