@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T00:54:02.799120+00:00",
+ "updated": "2026-11-07T00:57:22.815284+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841632,
+   "ts": "2026-11-07T00:55:39+00:00",
+   "ingested": "2026-11-07T00:57:22.814796+00:00",
+   "headline": "Qatar's PM: We have achieved a lot and believe a settlement is possible",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841631,
    "ts": "2026-11-07T00:53:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:02:52+00:00",
    "ingested": "2026-11-05T12:03:21.501687+00:00",
    "headline": "BoE: Members still disagree on the amount of slack in the economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838663,
-   "ts": "2026-11-05T12:02:42+00:00",
-   "ingested": "2026-11-05T12:03:21.501703+00:00",
-   "headline": "BoE guidance: Will adjust bank rate as necessary",
    "channel": "rss",
    "source": "financialjuice"
   }
