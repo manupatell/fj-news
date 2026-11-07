@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T00:52:22.777373+00:00",
+ "updated": "2026-11-07T00:54:02.799120+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841631,
+   "ts": "2026-11-07T00:53:22+00:00",
+   "ingested": "2026-11-07T00:54:02.798698+00:00",
+   "headline": "Qatar's PM: U.S. government still open to finding solution after midterm elections",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841630,
    "ts": "2026-11-07T00:51:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:02:42+00:00",
    "ingested": "2026-11-05T12:03:21.501703+00:00",
    "headline": "BoE guidance: Will adjust bank rate as necessary",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838662,
-   "ts": "2026-11-05T12:02:29+00:00",
-   "ingested": "2026-11-05T12:03:21.501718+00:00",
-   "headline": "BoE central projection shows CPI at 2% by Q3 2028",
    "channel": "rss",
    "source": "financialjuice"
   }
