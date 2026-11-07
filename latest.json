@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-07T15:31:42.150971+00:00",
+ "updated": "2026-11-07T15:33:22.305405+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842030,
+   "ts": "2026-11-07T15:32:56+00:00",
+   "ingested": "2026-11-07T15:33:22.304929+00:00",
+   "headline": "Yemen's Houthis say they struck Riyadh airport; no Saudi confirmation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842029,
+   "ts": "2026-11-07T15:31:48+00:00",
+   "ingested": "2026-11-07T15:33:22.304951+00:00",
+   "headline": "Syrian-Saudi military cooperation could evolve into mutual defense pact or Syria joining Mecca defense accord: Syrian diplomatic source to SANA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842023,
    "ts": "2026-11-07T15:30:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T13:06:57+00:00",
    "ingested": "2026-11-05T13:07:41.520703+00:00",
    "headline": "SNB's Chairman Schlegel: SNB doesn't believe in using forward guidance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838806,
-   "ts": "2026-11-05T13:05:57+00:00",
-   "ingested": "2026-11-05T13:07:41.520721+00:00",
-   "headline": "BoE Gov. Bailey: I will not sign up to \"two and done\" outlook for rates.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838805,
-   "ts": "2026-11-05T13:04:16+00:00",
-   "ingested": "2026-11-05T13:06:01.514584+00:00",
-   "headline": "BoE Gov. Bailey: I do not think we have moved too late.",
    "channel": "rss",
    "source": "financialjuice"
   }
