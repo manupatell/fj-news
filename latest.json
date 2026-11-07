@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T21:32:05.540920+00:00",
+ "updated": "2026-11-07T21:40:25.544687+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842142,
+   "ts": "2026-11-07T21:39:19+00:00",
+   "ingested": "2026-11-07T21:40:25.544290+00:00",
+   "headline": "UFC CEO Dana White declines Trump\u2019s offer to become press secretary: source says - CNN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842141,
    "ts": "2026-11-07T21:31:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:34:24+00:00",
    "ingested": "2026-11-05T13:34:51.530238+00:00",
    "headline": "Citi: Democratic Gains Pressure Yields and USD, but Executive Power Remains a Constraint - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838873,
-   "ts": "2026-11-05T13:32:37+00:00",
-   "ingested": "2026-11-05T13:33:11.535469+00:00",
-   "headline": "US Sentiment: The \"Midterm Trade\" Rotation Continues - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
