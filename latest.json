@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T15:33:22.305405+00:00",
+ "updated": "2026-11-07T15:35:02.169180+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842031,
+   "ts": "2026-11-07T15:33:59+00:00",
+   "ingested": "2026-11-07T15:35:02.168695+00:00",
+   "headline": "Yemen's Houthis say they hit Aramco oil sites in Riyadh and Khurais; no prompt Saudi confirmation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842030,
    "ts": "2026-11-07T15:32:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:06:58+00:00",
    "ingested": "2026-11-05T13:07:41.520681+00:00",
    "headline": "BoE Gov. Bailey: Situation is so volatile that we can't put weight on two days news that hasn't been backed up by clear move to peace process.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838807,
-   "ts": "2026-11-05T13:06:57+00:00",
-   "ingested": "2026-11-05T13:07:41.520703+00:00",
-   "headline": "SNB's Chairman Schlegel: SNB doesn't believe in using forward guidance",
    "channel": "rss",
    "source": "financialjuice"
   }
