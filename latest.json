@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-07T09:49:40.114182+00:00",
+ "updated": "2026-11-07T09:56:20.132185+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841900,
+   "ts": "2026-11-07T09:55:01+00:00",
+   "ingested": "2026-11-07T09:56:20.131793+00:00",
+   "headline": "New Zealand opposition leader Hipkins: Next parliament will need all of us to collaborate to find common ground",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841899,
+   "ts": "2026-11-07T09:54:46+00:00",
+   "ingested": "2026-11-07T09:56:20.131817+00:00",
+   "headline": "New Zealand opposition leader Hipkins: shape of next government won\u2019t be clear for a while",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841898,
    "ts": "2026-11-07T09:48:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T12:41:08+00:00",
    "ingested": "2026-11-05T12:42:41.508504+00:00",
    "headline": "SNB's Chairman Schlegel: Switzerland is highly exposed to external economic shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838748,
-   "ts": "2026-11-05T12:40:52+00:00",
-   "ingested": "2026-11-05T12:42:41.508560+00:00",
-   "headline": "SNB's Chairman Schlegel: SNB's main tool is policy rate, if necessary also uses other measures like forex interventions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838747,
-   "ts": "2026-11-05T12:40:37+00:00",
-   "ingested": "2026-11-05T12:41:01.518407+00:00",
-   "headline": "SNB's Chairman Schlegel: SNB has met the price stability goal so far this century",
    "channel": "rss",
    "source": "financialjuice"
   }
