@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T19:10:25.545445+00:00",
+ "updated": "2026-11-07T19:18:45.513172+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842095,
+   "ts": "2026-11-07T19:17:57+00:00",
+   "ingested": "2026-11-07T19:18:45.512664+00:00",
+   "headline": "Saudi civil defense: danger in Jazan has passed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842091,
    "ts": "2026-11-07T19:08:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:13:25+00:00",
    "ingested": "2026-11-05T13:14:21.578563+00:00",
    "headline": "BoE Gov. Bailey: I hope we will have more info by December on the war's outcome",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838816,
-   "ts": "2026-11-05T13:11:24+00:00",
-   "ingested": "2026-11-05T13:12:41.520071+00:00",
-   "headline": "BoE's Lombardelli: Minimum wage rise is in line or below people's expectations.",
    "channel": "rss",
    "source": "financialjuice"
   }
