@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T06:11:20.119250+00:00",
+ "updated": "2026-11-07T06:13:00.075154+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841843,
+   "ts": "2026-11-07T06:11:39+00:00",
+   "ingested": "2026-11-07T06:13:00.074671+00:00",
+   "headline": "New Zealand election commission data: centrist opportunity party to cross threshold with 1.9% of votes counted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841842,
    "ts": "2026-11-07T06:10:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:05:45+00:00",
    "ingested": "2026-11-05T12:06:41.503612+00:00",
    "headline": "BoE sees real post-tax labour income growth of -0.1% in 2026, -0.6% in 2027, 1.0% in 2028 (July: 0.1% in 2026, 0.5% in 2027, 1.1% in 2028)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838677,
-   "ts": "2026-11-05T12:05:35+00:00",
-   "ingested": "2026-11-05T12:06:41.503635+00:00",
-   "headline": "BoE sees private-sector regular wage growth of 3.2% yy in Q4 2026, 3.5% in @4 2027, 3.4% in Q4 2028 (July: 3.0% in Q4 2026, 3.1% in Q4 2027, 3.1% in Q4 2028)",
    "channel": "rss",
    "source": "financialjuice"
   }
