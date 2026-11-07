@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T06:46:20.076111+00:00",
+ "updated": "2026-11-07T06:56:20.117937+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841857,
+   "ts": "2026-11-07T06:55:51+00:00",
+   "ingested": "2026-11-07T06:56:20.117543+00:00",
+   "headline": "Data from New Zealand electoral commission: Ruling National party may form coalition with 20% of votes counted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841853,
    "ts": "2026-11-07T06:35:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:09:26+00:00",
    "ingested": "2026-11-05T12:10:01.511682+00:00",
    "headline": "BoE Press Conference - Watch Live",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838681,
-   "ts": "2026-11-05T12:08:15+00:00",
-   "ingested": "2026-11-05T12:10:01.511704+00:00",
-   "headline": "Traders add to BoE rate bets, see 50% chance of a hike in December",
    "channel": "rss",
    "source": "financialjuice"
   }
