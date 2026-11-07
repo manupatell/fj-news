@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T18:42:05.479551+00:00",
+ "updated": "2026-11-07T18:45:25.495819+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842089,
+   "ts": "2026-11-07T18:43:48+00:00",
+   "ingested": "2026-11-07T18:45:25.495338+00:00",
+   "headline": "Trump: asked White House to bring some aides 'even though some are not from our country'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842088,
    "ts": "2026-11-07T18:40:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:11:05+00:00",
    "ingested": "2026-11-05T13:12:41.520092+00:00",
    "headline": "BoE's Lombardelli: We do not see public-sector wages as a particular risk.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838814,
-   "ts": "2026-11-05T13:10:53+00:00",
-   "ingested": "2026-11-05T13:12:41.520109+00:00",
-   "headline": "BoE's Lombardelli: Consumer-facing sectors talk of less pricing power than business-to-business.",
    "channel": "rss",
    "source": "financialjuice"
   }
