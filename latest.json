@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T10:38:00.144854+00:00",
+ "updated": "2026-11-07T10:44:40.140611+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841909,
+   "ts": "2026-11-07T10:43:21+00:00",
+   "ingested": "2026-11-07T10:44:40.140199+00:00",
+   "headline": "Oil minister: Iraq output exceeds 5 million bpd - state news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841903,
    "ts": "2026-11-07T10:06:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:46:12+00:00",
    "ingested": "2026-11-05T12:47:41.515029+00:00",
    "headline": "Putin envoy Dmitriev dismisses reports of Russian diesel tankers bound for the US changing course as \"fake\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838752,
-   "ts": "2026-11-05T12:41:34+00:00",
-   "ingested": "2026-11-05T12:42:41.508465+00:00",
-   "headline": "SNB's Chairman Schlegel: Our monetary policy strategy works across a broad range of circumstances",
    "channel": "rss",
    "source": "financialjuice"
   }
