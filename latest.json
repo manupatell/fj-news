@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T15:35:02.169180+00:00",
+ "updated": "2026-11-07T15:36:42.147958+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842032,
+   "ts": "2026-11-07T15:34:59+00:00",
+   "ingested": "2026-11-07T15:36:42.147473+00:00",
+   "headline": "Yemen's Houthis: attack on national guard camp in Saudi Arabia's Najran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842031,
    "ts": "2026-11-07T15:33:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:07:38+00:00",
    "ingested": "2026-11-05T13:09:21.524810+00:00",
    "headline": "Iran's Foreign Ministry Spokesman Baqaei: Iranian military experts are not present in Yemen - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838808,
-   "ts": "2026-11-05T13:06:58+00:00",
-   "ingested": "2026-11-05T13:07:41.520681+00:00",
-   "headline": "BoE Gov. Bailey: Situation is so volatile that we can't put weight on two days news that hasn't been backed up by clear move to peace process.",
    "channel": "rss",
    "source": "financialjuice"
   }
