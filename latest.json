@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T19:18:45.513172+00:00",
+ "updated": "2026-11-07T19:27:05.506042+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842096,
+   "ts": "2026-11-07T19:26:32+00:00",
+   "ingested": "2026-11-07T19:27:05.505615+00:00",
+   "headline": "Israeli president selects Gadi Eisenkot, Netanyahu rival, to form government: Israeli media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842095,
    "ts": "2026-11-07T19:17:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:15:22+00:00",
    "ingested": "2026-11-05T13:16:01.531676+00:00",
    "headline": "BoE Gov. Bailey when asked on closer EU ties: He is in favour of greater trade and openness.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838817,
-   "ts": "2026-11-05T13:13:25+00:00",
-   "ingested": "2026-11-05T13:14:21.578563+00:00",
-   "headline": "BoE Gov. Bailey: I hope we will have more info by December on the war's outcome",
    "channel": "rss",
    "source": "financialjuice"
   }
