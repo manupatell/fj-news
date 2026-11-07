@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-07T10:54:40.127747+00:00",
+ "updated": "2026-11-07T11:04:40.149039+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841916,
+   "ts": "2026-11-07T11:03:55+00:00",
+   "ingested": "2026-11-07T11:04:40.148641+00:00",
+   "headline": "New Zealand Prime Minister Luxon: There is a route to form next government but outcome too close to call",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841915,
+   "ts": "2026-11-07T11:03:42+00:00",
+   "ingested": "2026-11-07T11:04:40.148663+00:00",
+   "headline": "New Zealand Prime Minister Luxon: encouraging that current figures show we are largest party in parliament",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841909,
    "ts": "2026-11-07T10:43:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T12:47:45+00:00",
    "ingested": "2026-11-05T12:49:21.525257+00:00",
    "headline": "BoE Gov. Bailey: The latest fall in oil prices is positive news",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838782,
-   "ts": "2026-11-05T12:47:12+00:00",
-   "ingested": "2026-11-05T12:47:41.515006+00:00",
-   "headline": "BoE's Bailey - Market curve prices further restrictiveness into next year, but this largely reflects risk premia, not expected rates; this seems a fair reflection of energy risks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838763,
-   "ts": "2026-11-05T12:46:12+00:00",
-   "ingested": "2026-11-05T12:47:41.515029+00:00",
-   "headline": "Putin envoy Dmitriev dismisses reports of Russian diesel tankers bound for the US changing course as \"fake\"",
    "channel": "rss",
    "source": "financialjuice"
   }
