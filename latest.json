@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T01:02:48.952929+00:00",
+ "updated": "2026-11-07T01:12:48.915961+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841645,
+   "ts": "2026-11-07T01:12:32+00:00",
+   "ingested": "2026-11-07T01:12:48.915521+00:00",
+   "headline": "Qatar's PM: Iran issue must be resolved, another escalation unaffordable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841638,
    "ts": "2026-11-07T01:01:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:03:37+00:00",
    "ingested": "2026-11-05T12:05:01.526007+00:00",
    "headline": "BoE: Budget likely to boost demand by 0.1% in 2026-27, drag by a little over 0.1% by 2029-30",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838667,
-   "ts": "2026-11-05T12:03:27+00:00",
-   "ingested": "2026-11-05T12:05:01.526027+00:00",
-   "headline": "BoE: Government budget likely to cut inflation by 0.25 percentage points by Q2 2027, then raise by the same amount a year later as the effect unwinds.",
    "channel": "rss",
    "source": "financialjuice"
   }
