@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T07:06:20.087811+00:00",
+ "updated": "2026-11-07T07:13:00.082217+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841860,
+   "ts": "2026-11-07T07:11:25+00:00",
+   "ingested": "2026-11-07T07:13:00.081784+00:00",
+   "headline": "New Zealand Electoral Commission data: opposition Labour leads popular vote, but ruling National forms coalition with 24% counted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841857,
    "ts": "2026-11-07T06:55:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:11:47+00:00",
    "ingested": "2026-11-05T12:12:41.509624+00:00",
    "headline": "VISA forecast strongest US holiday sales growth since 2021",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838682,
-   "ts": "2026-11-05T12:09:26+00:00",
-   "ingested": "2026-11-05T12:10:01.511682+00:00",
-   "headline": "BoE Press Conference - Watch Live",
    "channel": "rss",
    "source": "financialjuice"
   }
