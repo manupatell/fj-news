@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-07T17:42:05.478492+00:00",
+ "updated": "2026-11-07T17:43:45.464035+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842064,
+   "ts": "2026-11-07T17:42:12+00:00",
+   "ingested": "2026-11-07T17:43:45.463542+00:00",
+   "headline": "Erdogan tells Trump he hopes diplomatic efforts to end war in Ukraine will produce positive outcome, Erdogan\u2019s office says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842063,
+   "ts": "2026-11-07T17:42:12+00:00",
+   "ingested": "2026-11-07T17:43:45.463569+00:00",
+   "headline": "Erdogan tells Trump US-Iran tensions must be settled diplomatically, Ankara will persist in peace efforts, Erdogan's office says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842062,
+   "ts": "2026-11-07T17:42:12+00:00",
+   "ingested": "2026-11-07T17:43:45.463588+00:00",
+   "headline": "Turkey's Erdogan talks with Trump by phone: discusses regional and global developments, Erdogan's office says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842032,
    "ts": "2026-11-07T15:34:59+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-05T13:08:41+00:00",
    "ingested": "2026-11-05T13:09:21.524750+00:00",
    "headline": "Apple kicks off seven-part US dollar high-grade bond offering.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838811,
-   "ts": "2026-11-05T13:08:20+00:00",
-   "ingested": "2026-11-05T13:09:21.524773+00:00",
-   "headline": "BoE Gov. Bailey: Absent end to war can see the case for 25bps more hike.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838810,
-   "ts": "2026-11-05T13:07:44+00:00",
-   "ingested": "2026-11-05T13:09:21.524792+00:00",
-   "headline": "BoE's Ramsden: Downward trend in uk services price inflation appears to have slowed or stopped",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838809,
-   "ts": "2026-11-05T13:07:38+00:00",
-   "ingested": "2026-11-05T13:09:21.524810+00:00",
-   "headline": "Iran's Foreign Ministry Spokesman Baqaei: Iranian military experts are not present in Yemen - Tasnim",
    "channel": "rss",
    "source": "financialjuice"
   }
