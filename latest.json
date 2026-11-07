@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T08:29:40.111132+00:00",
+ "updated": "2026-11-07T08:38:00.107395+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841882,
+   "ts": "2026-11-07T08:36:20+00:00",
+   "ingested": "2026-11-07T08:38:00.107049+00:00",
+   "headline": "Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841862,
    "ts": "2026-11-07T07:29:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:32:46+00:00",
    "ingested": "2026-11-05T12:34:21.504233+00:00",
    "headline": "BoE Gov. Bailey: We need to limit the impact of the conflict in Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838720,
-   "ts": "2026-11-05T12:19:41+00:00",
-   "ingested": "2026-11-05T12:21:01.509456+00:00",
-   "headline": "Germany\u2019s Chancellor Merz: 'Made in Europe\u2019 rules risk disrupting competition.",
    "channel": "rss",
    "source": "financialjuice"
   }
