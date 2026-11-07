@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-07T06:33:00.069254+00:00",
+ "updated": "2026-11-07T06:36:20.076436+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841853,
+   "ts": "2026-11-07T06:35:10+00:00",
+   "ingested": "2026-11-07T06:36:20.076003+00:00",
+   "headline": "Data from New Zealand electoral commission shows ruling National-led coalition likely to return to power with 10.9% of votes counted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841852,
+   "ts": "2026-11-07T06:35:05+00:00",
+   "ingested": "2026-11-07T06:36:20.076026+00:00",
+   "headline": "New Zealand opposition lawmaker McNulty: National Party support exceeds expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841843,
    "ts": "2026-11-07T06:11:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T12:08:15+00:00",
    "ingested": "2026-11-05T12:10:01.511704+00:00",
    "headline": "Traders add to BoE rate bets, see 50% chance of a hike in December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838679,
-   "ts": "2026-11-05T12:06:08+00:00",
-   "ingested": "2026-11-05T12:06:41.503585+00:00",
-   "headline": "Deputy Economy Minister: Italy is ready to consider changes to its proposed exit tax on rich individuals leaving the country following criticism",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838678,
-   "ts": "2026-11-05T12:05:45+00:00",
-   "ingested": "2026-11-05T12:06:41.503612+00:00",
-   "headline": "BoE sees real post-tax labour income growth of -0.1% in 2026, -0.6% in 2027, 1.0% in 2028 (July: 0.1% in 2026, 0.5% in 2027, 1.1% in 2028)",
    "channel": "rss",
    "source": "financialjuice"
   }
