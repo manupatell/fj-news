@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T11:04:40.149039+00:00",
+ "updated": "2026-11-07T11:06:20.149239+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841917,
+   "ts": "2026-11-07T11:04:47+00:00",
+   "ingested": "2026-11-07T11:06:20.148889+00:00",
+   "headline": "New Zealand Prime Minister Luxon: talks and concessions will be necessary",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841916,
    "ts": "2026-11-07T11:03:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:48:29+00:00",
    "ingested": "2026-11-05T12:49:21.525241+00:00",
    "headline": "BoE Gov. Bailey: Unless there is progress towards resolving conflict, a further increase in the bank rate may be warranted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838784,
-   "ts": "2026-11-05T12:47:45+00:00",
-   "ingested": "2026-11-05T12:49:21.525257+00:00",
-   "headline": "BoE Gov. Bailey: The latest fall in oil prices is positive news",
    "channel": "rss",
    "source": "financialjuice"
   }
