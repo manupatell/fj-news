@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T09:56:20.132185+00:00",
+ "updated": "2026-11-07T10:01:20.118326+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841901,
+   "ts": "2026-11-07T09:59:53+00:00",
+   "ingested": "2026-11-07T10:01:20.117948+00:00",
+   "headline": "Iran navy: oil tanker ignites in eastern Strait of Hormuz - Iranian media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841900,
    "ts": "2026-11-07T09:55:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:41:17+00:00",
    "ingested": "2026-11-05T12:42:41.508487+00:00",
    "headline": "SNB's Chairman Schlegel: Swiss franc has relatively strong safe-haven properties compared to other currencies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838749,
-   "ts": "2026-11-05T12:41:08+00:00",
-   "ingested": "2026-11-05T12:42:41.508504+00:00",
-   "headline": "SNB's Chairman Schlegel: Switzerland is highly exposed to external economic shocks.",
    "channel": "rss",
    "source": "financialjuice"
   }
