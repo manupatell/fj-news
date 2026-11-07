@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T19:33:45.492974+00:00",
+ "updated": "2026-11-07T19:40:25.500469+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842102,
+   "ts": "2026-11-07T19:39:08+00:00",
+   "ingested": "2026-11-07T19:40:25.499955+00:00",
+   "headline": "Explosions heard in Iran's Qeshm: IRNA corrects source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842101,
    "ts": "2026-11-07T19:32:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:19:02+00:00",
    "ingested": "2026-11-05T13:19:21.548274+00:00",
    "headline": "BoE Gov. Bailey when asked about persistent above-target UK inflation: We have been in a world of very big supply shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838824,
-   "ts": "2026-11-05T13:16:03+00:00",
-   "ingested": "2026-11-05T13:17:41.524084+00:00",
-   "headline": "Russia's Ryazan oil refinery appears to have come under attack - Video analysis",
    "channel": "rss",
    "source": "financialjuice"
   }
