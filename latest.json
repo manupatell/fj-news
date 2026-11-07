@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T20:23:45.516772+00:00",
+ "updated": "2026-11-07T20:32:05.499591+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842124,
+   "ts": "2026-11-07T20:31:37+00:00",
+   "ingested": "2026-11-07T20:32:05.499115+00:00",
+   "headline": "Iran\u2019s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842112,
    "ts": "2026-11-07T20:23:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:28:27+00:00",
    "ingested": "2026-11-05T13:29:21.523849+00:00",
    "headline": "SNB's Chairman Schlegel: We have the right tools to fight against inflation in the future.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838845,
-   "ts": "2026-11-05T13:28:15+00:00",
-   "ingested": "2026-11-05T13:29:21.523871+00:00",
-   "headline": "SNB's Chairman Schlegel: At present we don't see a broadening of price pressures in Switzerland",
    "channel": "rss",
    "source": "financialjuice"
   }
