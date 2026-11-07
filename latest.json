@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-07T09:39:40.110830+00:00",
+ "updated": "2026-11-07T09:49:40.114182+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841898,
+   "ts": "2026-11-07T09:48:00+00:00",
+   "ingested": "2026-11-07T09:49:40.113642+00:00",
+   "headline": "Russian forces hit Naftogaz facility thrice overnight in central Ukraine: company",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841892,
    "ts": "2026-11-07T09:09:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T12:40:37+00:00",
    "ingested": "2026-11-05T12:41:01.518407+00:00",
    "headline": "SNB's Chairman Schlegel: SNB has met the price stability goal so far this century",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838746,
-   "ts": "2026-11-05T12:40:23+00:00",
-   "ingested": "2026-11-05T12:41:01.518435+00:00",
-   "headline": "BoE Gov. Bailey: Business investment has grown more than we expected",
    "channel": "rss",
    "source": "financialjuice"
   }
