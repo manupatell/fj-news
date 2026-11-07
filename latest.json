@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-07T15:25:02.144163+00:00",
+ "updated": "2026-11-07T15:30:02.286263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842019,
+   "ts": "2026-11-07T15:29:03+00:00",
+   "ingested": "2026-11-07T15:30:02.285773+00:00",
+   "headline": "Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842018,
+   "ts": "2026-11-07T15:28:41+00:00",
+   "ingested": "2026-11-07T15:30:02.285796+00:00",
+   "headline": "Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9841988,
    "ts": "2026-11-07T14:02:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T13:03:08+00:00",
    "ingested": "2026-11-05T13:04:21.520696+00:00",
    "headline": "BoE's Lombardelli: Euro zone inflation data shows the UK is not alone in exposure to energy prices",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838789,
-   "ts": "2026-11-05T12:59:47+00:00",
-   "ingested": "2026-11-05T13:01:01.582847+00:00",
-   "headline": "Secured Overnight Financing Rate 3.94% November 4 vs 3.97% November 3.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838788,
-   "ts": "2026-11-05T12:51:47+00:00",
-   "ingested": "2026-11-05T12:52:41.546772+00:00",
-   "headline": "BoE Gov. Bailey: If we do see a peace process, that would be a good thing and lower energy prices",
    "channel": "rss",
    "source": "financialjuice"
   }
