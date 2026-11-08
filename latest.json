@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-08T18:50:21.683717+00:00",
+ "updated": "2026-11-08T18:55:21.673164+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842483,
+   "ts": "2026-11-08T18:54:18+00:00",
+   "ingested": "2026-11-08T18:55:21.672737+00:00",
+   "headline": "Iran's Araqchi: must wait for mediators to restart diplomatic process",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842482,
+   "ts": "2026-11-08T18:54:01+00:00",
+   "ingested": "2026-11-08T18:55:21.672759+00:00",
+   "headline": "Iran's Foreign Minister Aragchi: US election outcomes pause mediators' efforts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842480,
    "ts": "2026-11-08T18:38:54+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T14:25:46+00:00",
    "ingested": "2026-11-05T14:26:47.336284+00:00",
    "headline": "Fed's Barkin: AI buildout has definitely had an inflationary impact in the near term.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838980,
-   "ts": "2026-11-05T14:24:04+00:00",
-   "ingested": "2026-11-05T14:25:07.363459+00:00",
-   "headline": "Fed's Barkin: I do not think AI is what is currently driving productivity as much as adaptation to the labor shortages that began during the pandemic",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838979,
-   "ts": "2026-11-05T14:22:02+00:00",
-   "ingested": "2026-11-05T14:23:27.356494+00:00",
-   "headline": "Fed's Barkin: I do not have a point of view about what will happen to fiscal policy following the election.",
    "channel": "rss",
    "source": "financialjuice"
   }
