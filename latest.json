@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T04:16:02.277548+00:00",
+ "updated": "2026-11-08T04:17:42.301411+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842251,
+   "ts": "2026-11-08T04:17:15+00:00",
+   "ingested": "2026-11-08T04:17:42.301015+00:00",
+   "headline": "Israeli military: alerts sounded over suspected hostile infiltration in northern Israel, details under way",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842247,
    "ts": "2026-11-08T04:15:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:50:26+00:00",
    "ingested": "2026-11-05T13:51:41.532631+00:00",
    "headline": "Fed's Hammack: US central bank's independence critical to get inflation to 2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838903,
-   "ts": "2026-11-05T13:50:24+00:00",
-   "ingested": "2026-11-05T13:51:41.532645+00:00",
-   "headline": "Fed's Hammack: Gradual rate-hike path is the best way forward for monetary policy.",
    "channel": "rss",
    "source": "financialjuice"
   }
