@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T20:17:01.704684+00:00",
+ "updated": "2026-11-08T20:20:21.710162+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842509,
+   "ts": "2026-11-08T20:18:36+00:00",
+   "ingested": "2026-11-08T20:20:21.709803+00:00",
+   "headline": "Gas storage facility hit by drone attack with explosives: engineer inside reports fire and black smoke rising",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842508,
    "ts": "2026-11-08T20:16:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T15:04:11+00:00",
    "ingested": "2026-11-05T15:05:07.341872+00:00",
    "headline": "Fed's Barkin concludes Q&A",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839049,
-   "ts": "2026-11-05T15:03:16+00:00",
-   "ingested": "2026-11-05T15:03:27.374815+00:00",
-   "headline": "Fed's Barkin: Raising rates can affect demand and in time, oil prices",
    "channel": "rss",
    "source": "financialjuice"
   }
