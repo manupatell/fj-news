@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T20:27:01.696463+00:00",
+ "updated": "2026-11-08T20:28:41.728863+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842512,
+   "ts": "2026-11-08T20:27:22+00:00",
+   "ingested": "2026-11-08T20:28:41.728496+00:00",
+   "headline": "Nvidia CEO Huang in message to company: fully dedicated to Nvidia and will strive to regain your confidence",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842511,
    "ts": "2026-11-08T20:26:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T15:15:34+00:00",
    "ingested": "2026-11-05T15:16:47.347162+00:00",
    "headline": "Fed's Hammack: See potential strengthening of the labor market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839052,
-   "ts": "2026-11-05T15:13:18+00:00",
-   "ingested": "2026-11-05T15:15:07.393919+00:00",
-   "headline": "Fed's Hammack: See inflationary pressures spilling across the economy",
    "channel": "rss",
    "source": "financialjuice"
   }
