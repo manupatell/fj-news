@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T20:08:41.712389+00:00",
+ "updated": "2026-11-08T20:17:01.704684+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842508,
+   "ts": "2026-11-08T20:16:26+00:00",
+   "ingested": "2026-11-08T20:17:01.704280+00:00",
+   "headline": "Drone strike targets Iraq's Khor Mor gas field in Kurdistan region: security sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842506,
    "ts": "2026-11-08T20:07:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T15:03:16+00:00",
    "ingested": "2026-11-05T15:03:27.374815+00:00",
    "headline": "Fed's Barkin: Raising rates can affect demand and in time, oil prices",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839028,
-   "ts": "2026-11-05T14:57:26+00:00",
-   "ingested": "2026-11-05T14:58:27.342004+00:00",
-   "headline": "UBS cuts ARM Holdings' target price to $270 from $320. $ARM",
    "channel": "rss",
    "source": "financialjuice"
   }
