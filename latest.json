@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-08T09:41:26.525531+00:00",
+ "updated": "2026-11-08T09:43:06.519914+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842318,
+   "ts": "2026-11-08T09:42:44+00:00",
+   "ingested": "2026-11-08T09:43:06.519453+00:00",
+   "headline": "Iran's Revolutionary Guards' spokesperson: US cannot achieve economic blockade or sever Tehran's ties with neighbors - Fars",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842317,
+   "ts": "2026-11-08T09:42:42+00:00",
+   "ingested": "2026-11-08T09:43:06.519469+00:00",
+   "headline": "Saudi energy ministry: limited physical harm caused",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842316,
+   "ts": "2026-11-08T09:42:40+00:00",
+   "ingested": "2026-11-08T09:43:06.519482+00:00",
+   "headline": "Saudi energy ministry: source says debris fell on building, no casualties reported on state TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842315,
+   "ts": "2026-11-08T09:42:39+00:00",
+   "ingested": "2026-11-08T09:43:06.519493+00:00",
+   "headline": "Saudi energy ministry: attempt to strike Aramco building in Riyadh - state TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842279,
    "ts": "2026-11-08T06:04:53+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-05T14:05:50+00:00",
    "ingested": "2026-11-05T14:06:47.328183+00:00",
    "headline": "Supermicro launches KV cache solution with IBM and NVIDIA demonstrating significant inference performance benefits.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838940,
-   "ts": "2026-11-05T14:03:21+00:00",
-   "ingested": "2026-11-05T14:05:07.338086+00:00",
-   "headline": "Apple seeks to raise up to $7 billion from US Dollar bond sale $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838938,
-   "ts": "2026-11-05T14:01:22+00:00",
-   "ingested": "2026-11-05T14:01:47.322918+00:00",
-   "headline": "Fed's Barkin speaks - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838912,
-   "ts": "2026-11-05T13:59:29+00:00",
-   "ingested": "2026-11-05T14:00:07.371847+00:00",
-   "headline": "Effective Fed Funds Rate 3.88% November 4 vs 3.88% November 3",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838911,
-   "ts": "2026-11-05T13:51:08+00:00",
-   "ingested": "2026-11-05T13:51:41.532504+00:00",
-   "headline": "Fed's Hammack: Hard to see the Dollar losing reserve status",
    "channel": "rss",
    "source": "financialjuice"
   }
