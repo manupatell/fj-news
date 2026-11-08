@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T04:32:56.503401+00:00",
+ "updated": "2026-11-08T04:36:26.440025+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842254,
+   "ts": "2026-11-08T04:35:51+00:00",
+   "ingested": "2026-11-08T04:36:26.439633+00:00",
+   "headline": "Israeli military: hostile aircraft alerts in the north were false identification",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842253,
    "ts": "2026-11-08T04:31:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:50:37+00:00",
    "ingested": "2026-11-05T13:51:41.532602+00:00",
    "headline": "Fed's Hammack: Gradual rate hikes are the best way to make sure the US Central Bank gets inflation back to 2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838905,
-   "ts": "2026-11-05T13:50:34+00:00",
-   "ingested": "2026-11-05T13:51:41.532616+00:00",
-   "headline": "Fed's Hammack: Inflation has been too high, moving in wrong direction.",
    "channel": "rss",
    "source": "financialjuice"
   }
