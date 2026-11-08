@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T23:44:01.460322+00:00",
+ "updated": "2026-11-08T23:50:41.480176+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842579,
+   "ts": "2026-11-08T23:50:05+00:00",
+   "ingested": "2026-11-08T23:50:41.479754+00:00",
+   "headline": "Japan foreign reserves $1,179.119 billion at end-October, $1,178.396 billion at end-September: MOF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842577,
    "ts": "2026-11-08T23:32:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T16:13:05+00:00",
    "ingested": "2026-11-05T17:52:31.188808+00:00",
    "headline": "ECB's President Lagarde: There are also demand shocks happening at the same time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839167,
-   "ts": "2026-11-05T16:11:44+00:00",
-   "ingested": "2026-11-05T17:52:31.188818+00:00",
-   "headline": "ECB's President Lagarde: Must pay attention to secondary effects of energy price shock",
    "channel": "rss",
    "source": "financialjuice"
   }
