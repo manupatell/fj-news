@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T10:53:20.274189+00:00",
+ "updated": "2026-11-08T11:03:20.284034+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842339,
+   "ts": "2026-11-08T11:02:48+00:00",
+   "ingested": "2026-11-08T11:03:20.282913+00:00",
+   "headline": "Anthropic secures $3.4bn agreement to produce gas-fired electricity for data centers - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842324,
    "ts": "2026-11-08T09:53:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T14:09:21+00:00",
    "ingested": "2026-11-05T14:10:07.387369+00:00",
    "headline": "Today at noon, two other offending oil tankers collided with sea mines and caught fire in the insecure area east of the Strait of Hormuz - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838945,
-   "ts": "2026-11-05T14:08:59+00:00",
-   "ingested": "2026-11-05T14:10:07.387390+00:00",
-   "headline": "Fed's Barkin: Demand is solid, and the economy is healthy.",
    "channel": "rss",
    "source": "financialjuice"
   }
