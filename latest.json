@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T23:50:41.480176+00:00",
+ "updated": "2026-11-08T23:52:21.464463+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842580,
+   "ts": "2026-11-08T23:51:36+00:00",
+   "ingested": "2026-11-08T23:52:21.463990+00:00",
+   "headline": "Japan's largest daily market intervention in July-Sept quarter was 7.98 trillion yen on July 30, finance ministry data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842579,
    "ts": "2026-11-08T23:50:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T16:13:20+00:00",
    "ingested": "2026-11-05T17:52:31.188797+00:00",
    "headline": "Putin Envoy Dmitriev: Putin appreciates trump's peacemaking efforts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839168,
-   "ts": "2026-11-05T16:13:05+00:00",
-   "ingested": "2026-11-05T17:52:31.188808+00:00",
-   "headline": "ECB's President Lagarde: There are also demand shocks happening at the same time",
    "channel": "rss",
    "source": "financialjuice"
   }
