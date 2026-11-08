@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T18:32:01.673828+00:00",
+ "updated": "2026-11-08T18:40:21.700950+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842480,
+   "ts": "2026-11-08T18:38:54+00:00",
+   "ingested": "2026-11-08T18:40:21.700504+00:00",
+   "headline": "US Treasury asked Iraq to shut most border crossings with Iran, keep just two open: Iraqi foreign minister tells Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842477,
    "ts": "2026-11-08T18:20:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T14:22:02+00:00",
    "ingested": "2026-11-05T14:23:27.356494+00:00",
    "headline": "Fed's Barkin: I do not have a point of view about what will happen to fiscal policy following the election.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838978,
-   "ts": "2026-11-05T14:21:19+00:00",
-   "ingested": "2026-11-05T14:21:47.346306+00:00",
-   "headline": "Fed's Barkin: The budget deficit is \"sizeable,\" fiscal policy over the past few years has been a tailwind for the economy.",
    "channel": "rss",
    "source": "financialjuice"
   }
