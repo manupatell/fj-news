@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-08T23:24:01.475975+00:00",
+ "updated": "2026-11-08T23:25:41.456222+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842571,
+   "ts": "2026-11-08T23:25:08+00:00",
+   "ingested": "2026-11-08T23:25:41.455744+00:00",
+   "headline": "Trump on Nvidia CEO Huang: he is a good person",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842570,
+   "ts": "2026-11-08T23:24:48+00:00",
+   "ingested": "2026-11-08T23:25:41.455761+00:00",
+   "headline": "Trump on Nvidia CEO Huang: I have not discussed allegations with him",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842569,
+   "ts": "2026-11-08T23:24:37+00:00",
+   "ingested": "2026-11-08T23:25:41.455774+00:00",
+   "headline": "Trump on Dana White as press secretary: we will discuss other issues tomorrow",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842568,
    "ts": "2026-11-08T23:23:49+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-05T16:02:13+00:00",
    "ingested": "2026-11-05T17:52:31.188845+00:00",
    "headline": "US Treasury Auction dates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839145,
-   "ts": "2026-11-05T16:00:58+00:00",
-   "ingested": "2026-11-05T17:52:31.188855+00:00",
-   "headline": "BoE Gov. Bailey: Inflation is baked in currently due to the energy price cap.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839143,
-   "ts": "2026-11-05T16:00:38+00:00",
-   "ingested": "2026-11-05T17:52:31.188865+00:00",
-   "headline": "BoE Gov. Bailey: Peace moves would bring limited relief from inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839142,
-   "ts": "2026-11-05T16:00:37+00:00",
-   "ingested": "2026-11-05T17:52:31.188874+00:00",
-   "headline": "BoE Gov. Bailey: The future decisions hinge on how fast inflation comes down.",
    "channel": "rss",
    "source": "financialjuice"
   }
