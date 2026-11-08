@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T05:03:06.468063+00:00",
+ "updated": "2026-11-08T05:06:26.458868+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842272,
+   "ts": "2026-11-08T05:05:48+00:00",
+   "ingested": "2026-11-08T05:06:26.458464+00:00",
+   "headline": "Multiple loud blasts heard in Riyadh: witness source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842271,
    "ts": "2026-11-08T05:01:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:50:49+00:00",
    "ingested": "2026-11-05T13:51:41.532568+00:00",
    "headline": "Fed's Hammack: dollar's status owes to us institutions, legal system",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838907,
-   "ts": "2026-11-05T13:50:43+00:00",
-   "ingested": "2026-11-05T13:51:41.532584+00:00",
-   "headline": "Fed's Hammack: Dollar remains word's top reserve currency.",
    "channel": "rss",
    "source": "financialjuice"
   }
