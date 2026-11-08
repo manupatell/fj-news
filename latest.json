@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-08T23:02:21.460682+00:00",
+ "updated": "2026-11-08T23:04:01.460982+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842564,
+   "ts": "2026-11-08T23:03:41+00:00",
+   "ingested": "2026-11-08T23:04:01.460478+00:00",
+   "headline": "Japan Tobacco Inc.: impact of temporary management on Russian operations under review, JT group continues assessing potential financial effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842563,
+   "ts": "2026-11-08T23:03:07+00:00",
+   "ingested": "2026-11-08T23:04:01.460493+00:00",
+   "headline": "Japan Tobacco Inc.: Russian business continues operating at present",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842562,
+   "ts": "2026-11-08T23:02:50+00:00",
+   "ingested": "2026-11-08T23:04:01.460511+00:00",
+   "headline": "Japan Tobacco Inc.: all JT group\u2019s entities in Russia now under temporary administration",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842561,
+   "ts": "2026-11-08T23:02:25+00:00",
+   "ingested": "2026-11-08T23:04:01.460525+00:00",
+   "headline": "Japan Tobacco expands temporary administration to three additional manufacturing entities beyond four cited in Nov 6 announcement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842557,
    "ts": "2026-11-08T23:00:44+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-05T16:00:27+00:00",
    "ingested": "2026-11-05T17:52:31.188884+00:00",
    "headline": "BoE Gov. Bailey: Inflation risks are on the upside, which could change",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839137,
-   "ts": "2026-11-05T16:00:23+00:00",
-   "ingested": "2026-11-05T17:52:31.188894+00:00",
-   "headline": "BoE Gov. Bailey: The BoE is watching the extent of inflation pass-through.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839134,
-   "ts": "2026-11-05T15:56:51+00:00",
-   "ingested": "2026-11-05T17:52:31.188907+00:00",
-   "headline": "Standard Chartered expects the BoE to deliver a 25 bp rate hike in February 2027 vs the prior forecast of no rate hikes after November 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839133,
-   "ts": "2026-11-05T15:55:08+00:00",
-   "ingested": "2026-11-05T17:52:31.188917+00:00",
-   "headline": "ECB's President Lagarde: Don't expect US tariffs to be revisited right away.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839132,
-   "ts": "2026-11-05T15:51:33+00:00",
-   "ingested": "2026-11-05T17:52:31.188928+00:00",
-   "headline": "ECB\u2019s President Lagarde: We will have many indicators between now and December",
    "channel": "rss",
    "source": "financialjuice"
   }
