@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T15:01:40.354470+00:00",
+ "updated": "2026-11-08T15:11:40.363695+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842422,
+   "ts": "2026-11-08T15:10:40+00:00",
+   "ingested": "2026-11-08T15:11:40.363346+00:00",
+   "headline": "Saudi-led coalition: destroyed two ballistic missile launchers in Yemen\u2019s Saada used by Houthis to attack Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842384,
    "ts": "2026-11-08T13:41:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T14:15:56+00:00",
    "ingested": "2026-11-05T14:16:47.355619+00:00",
    "headline": "Fed's Barkin: The path on policy is straightforward; the issue now is pace and gradual \"makes sense\".",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838951,
-   "ts": "2026-11-05T14:15:18+00:00",
-   "ingested": "2026-11-05T14:16:47.355642+00:00",
-   "headline": "Fed's Barkin: I do not anticipate inflaiton will accelerate, but also don't see it falling at this point",
    "channel": "rss",
    "source": "financialjuice"
   }
