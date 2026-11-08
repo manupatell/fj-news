@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T12:00:00.300403+00:00",
+ "updated": "2026-11-08T12:03:20.288936+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842360,
+   "ts": "2026-11-08T12:01:41+00:00",
+   "ingested": "2026-11-08T12:03:20.288552+00:00",
+   "headline": "Sudanese army detains Ahmed Haroun, Islamist leader and former ruling party chairman: party officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842345,
    "ts": "2026-11-08T11:39:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T14:10:19+00:00",
    "ingested": "2026-11-05T14:11:47.331025+00:00",
    "headline": "Fed's Barkin: I hear broadly that costs are high and increasing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838947,
-   "ts": "2026-11-05T14:10:09+00:00",
-   "ingested": "2026-11-05T14:11:47.331048+00:00",
-   "headline": "Fed's Barkin: Earnings remain strong, and that is encouraging firms to invest and hold onto workers.",
    "channel": "rss",
    "source": "financialjuice"
   }
