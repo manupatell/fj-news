@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T19:30:21.694214+00:00",
+ "updated": "2026-11-08T19:32:01.687034+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842490,
+   "ts": "2026-11-08T19:30:14+00:00",
+   "ingested": "2026-11-08T19:32:01.686670+00:00",
+   "headline": "IRNA: blasts heard on Iran\u2019s Qeshm Island; no official confirmation from Tehran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842484,
    "ts": "2026-11-08T18:59:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T14:27:10+00:00",
    "ingested": "2026-11-05T14:28:27.342432+00:00",
    "headline": "Fitch: Major share of planned data center capacity may face regulatory hurdles under new gubernatorial regimes, particularly in Texas, Georgia, Ohio.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838982,
-   "ts": "2026-11-05T14:27:05+00:00",
-   "ingested": "2026-11-05T14:28:27.342449+00:00",
-   "headline": "Russia's Putin and Iran's top security official Mohsen Rezai meet in Kremlin - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
