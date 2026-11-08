@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T23:00:41.453782+00:00",
+ "updated": "2026-11-08T23:02:21.460682+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842557,
+   "ts": "2026-11-08T23:00:44+00:00",
+   "ingested": "2026-11-08T23:02:21.460239+00:00",
+   "headline": "Japan Tobacco Inc.: update on JT group's operations in Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842549,
    "ts": "2026-11-08T22:30:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T15:51:33+00:00",
    "ingested": "2026-11-05T17:52:31.188928+00:00",
    "headline": "ECB\u2019s President Lagarde: We will have many indicators between now and December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839131,
-   "ts": "2026-11-05T15:49:07+00:00",
-   "ingested": "2026-11-05T17:52:31.188938+00:00",
-   "headline": "ECB's President Lagarde: Still necessary to apply tools to avoid inflation running away",
    "channel": "rss",
    "source": "financialjuice"
   }
