@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-08T22:24:01.437231+00:00",
+ "updated": "2026-11-08T22:30:41.440440+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842549,
+   "ts": "2026-11-08T22:30:03+00:00",
+   "ingested": "2026-11-08T22:30:41.439862+00:00",
+   "headline": "RBA's Hunter: Extra supply will match demand, AI's long-term impact on inflation probably neutral",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842548,
+   "ts": "2026-11-08T22:30:03+00:00",
+   "ingested": "2026-11-08T22:30:41.439884+00:00",
+   "headline": "RBA's Hunter: If returns to AI investment fall short, some asset prices could face sharp, possibly disorderly, adjustments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842547,
+   "ts": "2026-11-08T22:30:03+00:00",
+   "ingested": "2026-11-08T22:30:41.439905+00:00",
+   "headline": "RBA's Hunter: In near term, AI's positive impact on aggregate demand versus economy\u2019s current supply capacity will push inflation higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842546,
+   "ts": "2026-11-08T22:30:02+00:00",
+   "ingested": "2026-11-08T22:30:41.439917+00:00",
+   "headline": "RBA's Hunter: limited proof AI has significantly boosted overall productivity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842545,
+   "ts": "2026-11-08T22:30:02+00:00",
+   "ingested": "2026-11-08T22:30:41.439930+00:00",
+   "headline": "RBA\u2019s Hunter: Limited proof AI significantly impacted overall employment in advanced economies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842544,
+   "ts": "2026-11-08T22:30:02+00:00",
+   "ingested": "2026-11-08T22:30:41.439942+00:00",
+   "headline": "Reserve Bank of Australia Assistant Governor Hunter: AI could be raising risks to financial stability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842515,
    "ts": "2026-11-08T20:40:14+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-05T15:49:07+00:00",
    "ingested": "2026-11-05T17:52:31.188938+00:00",
    "headline": "ECB's President Lagarde: Still necessary to apply tools to avoid inflation running away",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839130,
-   "ts": "2026-11-05T15:47:53+00:00",
-   "ingested": "2026-11-05T17:52:31.188949+00:00",
-   "headline": "ECB's President Lagarde: Very difficult to disentangle supply-driven and demand-driven shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839129,
-   "ts": "2026-11-05T15:47:30+00:00",
-   "ingested": "2026-11-05T17:52:31.188960+00:00",
-   "headline": "ECB's President Lagarde: The current situation is made hard by the energy shock and AI pulling in opposite directions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839102,
-   "ts": "2026-11-05T15:42:55+00:00",
-   "ingested": "2026-11-05T17:52:31.188970+00:00",
-   "headline": "Microsoft Increases Oversight of Neocloud Providers Amid Data Center Delays and Rising Costs $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839081,
-   "ts": "2026-11-05T15:30:01+00:00",
-   "ingested": "2026-11-05T15:31:47.355447+00:00",
-   "headline": "EIA Natural Gas Change BCF Actual 77B (Forecast 78B, Previous 80B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839079,
-   "ts": "2026-11-05T15:22:36+00:00",
-   "ingested": "2026-11-05T15:23:27.355174+00:00",
-   "headline": "Iran's Security Chief Rezaei delivers a message from the country's supreme leader, Mojtaba Khamenei, to Russia's Putin - State Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839077,
-   "ts": "2026-11-05T15:18:19+00:00",
-   "ingested": "2026-11-05T15:20:07.349496+00:00",
-   "headline": "Fear & Greed Index: 27/100 - Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
