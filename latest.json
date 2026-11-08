@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-08T01:51:02.257705+00:00",
+ "updated": "2026-11-08T01:54:22.234523+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842184,
+   "ts": "2026-11-08T01:54:07+00:00",
+   "ingested": "2026-11-08T01:54:22.234117+00:00",
+   "headline": "Saudi civil defense: risk has passed in Al Ahsa governorate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842183,
+   "ts": "2026-11-08T01:52:56+00:00",
+   "ingested": "2026-11-08T01:54:22.234134+00:00",
+   "headline": "Saudi civil defense: danger has passed in Dammam, Dhahran and Abqaiq - state TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842182,
    "ts": "2026-11-08T01:49:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T13:47:17+00:00",
    "ingested": "2026-11-05T13:48:21.538497+00:00",
    "headline": "China's He urges to enhance financial support for AI and computing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838878,
-   "ts": "2026-11-05T13:38:22+00:00",
-   "ingested": "2026-11-05T13:40:01.541122+00:00",
-   "headline": "JPMorgan: Broadening Breadth Looks More Positioning-Driven Than a Fundamental Rotation - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838877,
-   "ts": "2026-11-05T13:37:11+00:00",
-   "ingested": "2026-11-05T13:38:21.541910+00:00",
-   "headline": "Moonshot turned to Europe for Nvidia Blackwell access - CNBC $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
