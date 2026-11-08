@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T20:25:21.697881+00:00",
+ "updated": "2026-11-08T20:27:01.696463+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842511,
+   "ts": "2026-11-08T20:26:48+00:00",
+   "ingested": "2026-11-08T20:27:01.696105+00:00",
+   "headline": "Nvidia CEO Huang in message to company: Was unfaithful to wife, takes full responsibility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842510,
    "ts": "2026-11-08T20:24:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T15:13:18+00:00",
    "ingested": "2026-11-05T15:15:07.393919+00:00",
    "headline": "Fed's Hammack: See inflationary pressures spilling across the economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839051,
-   "ts": "2026-11-05T15:08:18+00:00",
-   "ingested": "2026-11-05T15:10:07.343365+00:00",
-   "headline": "Fed's Hammack: Six FOMC meetings from eight would be a modest shift",
    "channel": "rss",
    "source": "financialjuice"
   }
