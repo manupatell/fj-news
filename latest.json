@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T06:04:46.463691+00:00",
+ "updated": "2026-11-08T06:06:26.454148+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842279,
+   "ts": "2026-11-08T06:04:53+00:00",
+   "ingested": "2026-11-08T06:06:26.453746+00:00",
+   "headline": "Saudi-led coalition: two cruise missiles intercepted and destroyed in Riyadh and southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842276,
    "ts": "2026-11-08T05:33:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T13:51:08+00:00",
    "ingested": "2026-11-05T13:51:41.532504+00:00",
    "headline": "Fed's Hammack: Hard to see the Dollar losing reserve status",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838910,
-   "ts": "2026-11-05T13:50:54+00:00",
-   "ingested": "2026-11-05T13:51:41.532551+00:00",
-   "headline": "Fed's Hammack: US central bank has earned credibility through its actions.",
    "channel": "rss",
    "source": "financialjuice"
   }
