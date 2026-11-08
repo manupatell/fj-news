@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-08T15:11:40.363695+00:00",
+ "updated": "2026-11-08T15:16:40.351257+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842425,
+   "ts": "2026-11-08T15:15:55+00:00",
+   "ingested": "2026-11-08T15:16:40.350888+00:00",
+   "headline": "Eisenkot: with the mandate received today, will lead formation of national emergency government",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842424,
+   "ts": "2026-11-08T15:15:32+00:00",
+   "ingested": "2026-11-08T15:16:40.350907+00:00",
+   "headline": "Eisenkot: urgent demand for fresh, strong leadership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842422,
    "ts": "2026-11-08T15:10:40+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T14:17:53+00:00",
    "ingested": "2026-11-05T14:18:27.351995+00:00",
    "headline": "Fed's Barkin: AI is a big part of current strong demand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838973,
-   "ts": "2026-11-05T14:17:02+00:00",
-   "ingested": "2026-11-05T14:18:27.352017+00:00",
-   "headline": "Fed's Barkin: Policy right now is somewhere around neutral.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838957,
-   "ts": "2026-11-05T14:15:56+00:00",
-   "ingested": "2026-11-05T14:16:47.355619+00:00",
-   "headline": "Fed's Barkin: The path on policy is straightforward; the issue now is pace and gradual \"makes sense\".",
    "channel": "rss",
    "source": "financialjuice"
   }
