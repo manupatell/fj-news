@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-08T19:52:01.685856+00:00",
+ "updated": "2026-11-08T20:00:21.690740+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842498,
+   "ts": "2026-11-08T20:00:05+00:00",
+   "ingested": "2026-11-08T20:00:21.690261+00:00",
+   "headline": "Statement from Nvidia board of directors",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842497,
+   "ts": "2026-11-08T20:00:05+00:00",
+   "ingested": "2026-11-08T20:00:21.690281+00:00",
+   "headline": "Anthropic to begin IPO roadshow next week: the information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842496,
+   "ts": "2026-11-08T20:00:05+00:00",
+   "ingested": "2026-11-08T20:00:21.690298+00:00",
+   "headline": "OpenAI: expanding hacktron access to frontier models via Daybreak Red - blog",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842490,
    "ts": "2026-11-08T19:30:14+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-05T14:32:36+00:00",
    "ingested": "2026-11-05T14:33:27.345257+00:00",
    "headline": "Fed's Barkin: A change in the number of policy-setting meetings is not a big deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838985,
-   "ts": "2026-11-05T14:27:53+00:00",
-   "ingested": "2026-11-05T14:28:27.342366+00:00",
-   "headline": "Fed's Barkin: Data centers, because of a lack of employees, do not have natural constituencies in the communities where they are located.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838984,
-   "ts": "2026-11-05T14:27:50+00:00",
-   "ingested": "2026-11-05T14:28:27.342406+00:00",
-   "headline": "S&PGR rates Apple's sr unsecured notes \"a+\".",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838983,
-   "ts": "2026-11-05T14:27:10+00:00",
-   "ingested": "2026-11-05T14:28:27.342432+00:00",
-   "headline": "Fitch: Major share of planned data center capacity may face regulatory hurdles under new gubernatorial regimes, particularly in Texas, Georgia, Ohio.",
    "channel": "rss",
    "source": "financialjuice"
   }
