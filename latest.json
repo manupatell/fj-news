@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T16:43:41.647977+00:00",
+ "updated": "2026-11-08T16:45:21.632909+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842446,
+   "ts": "2026-11-08T16:43:57+00:00",
+   "ingested": "2026-11-08T16:45:21.632512+00:00",
+   "headline": "Iran navy: oil tanker ignites after hitting naval mine east of Strait of Hormuz - Iranian media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842425,
    "ts": "2026-11-08T15:15:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T14:18:32+00:00",
    "ingested": "2026-11-05T14:20:07.403361+00:00",
    "headline": "Fed's Barkin: Interest rates are probably not the top thing that would curb AI, but they will have some impact",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838974,
-   "ts": "2026-11-05T14:17:53+00:00",
-   "ingested": "2026-11-05T14:18:27.351995+00:00",
-   "headline": "Fed's Barkin: AI is a big part of current strong demand.",
    "channel": "rss",
    "source": "financialjuice"
   }
