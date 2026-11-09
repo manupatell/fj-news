@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-09T19:25:45.163187+00:00",
+ "updated": "2026-11-09T19:32:25.182575+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843866,
+   "ts": "2026-11-09T19:32:11+00:00",
+   "ingested": "2026-11-09T19:32:25.182041+00:00",
+   "headline": "NYMEX Gasoline December futures settle at $2.6509 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843865,
+   "ts": "2026-11-09T19:32:00+00:00",
+   "ingested": "2026-11-09T19:32:25.182059+00:00",
+   "headline": "US Secretary of State Rubio: We're negotiating an MOU on US military aid for Israel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843863,
+   "ts": "2026-11-09T19:31:41+00:00",
+   "ingested": "2026-11-09T19:32:25.182072+00:00",
+   "headline": "NYMEX Natural Gas December futures settle at $3.2180/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843851,
+   "ts": "2026-11-09T19:31:05+00:00",
+   "ingested": "2026-11-09T19:32:25.182086+00:00",
+   "headline": "NYMEX WTI Crude December futures settle at $86.85 a barrel, down $3.98, 4.38%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843838,
    "ts": "2026-11-09T19:14:01+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-06T13:30:05+00:00",
    "ingested": "2026-11-06T13:31:53.693642+00:00",
    "headline": "US Average Earnings MoM Actual 0.4% (Forecast 0.3%, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840746,
-   "ts": "2026-11-06T13:30:03+00:00",
-   "ingested": "2026-11-06T13:31:53.693656+00:00",
-   "headline": "US Unemployment Rate Actual 4.1% (Forecast 4.2%, Previous 4.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840745,
-   "ts": "2026-11-06T13:30:03+00:00",
-   "ingested": "2026-11-06T13:31:53.693669+00:00",
-   "headline": "US Nonfarm Payrolls Actual 165k (Forecast 70k, Previous 29k, Revised 60K)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840744,
-   "ts": "2026-11-06T13:30:03+00:00",
-   "ingested": "2026-11-06T13:31:53.693684+00:00",
-   "headline": "US Average Workweek Hrs Actual 34.4 (Forecast 34.4, Previous 34.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840743,
-   "ts": "2026-11-06T13:30:01+00:00",
-   "ingested": "2026-11-06T13:31:53.693697+00:00",
-   "headline": "Canadian Participation Rate Actual 64.8% (Forecast 64.8%, Previous 64.8%)",
    "channel": "rss",
    "source": "financialjuice"
   }
