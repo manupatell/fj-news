@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T13:08:46.961735+00:00",
+ "updated": "2026-11-09T13:12:06.941519+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843336,
+   "ts": "2026-11-09T13:10:46+00:00",
+   "ingested": "2026-11-09T13:12:06.941269+00:00",
+   "headline": "Eurogroup President: The ideal situation would be to make a decision on a new ECB president by the end of the year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843335,
    "ts": "2026-11-09T13:08:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T23:52:26+00:00",
    "ingested": "2026-11-05T23:56:21.914311+00:00",
    "headline": "Japanese Foreign Stock Investment Actual 1,077.7B (Forecast -, Previous 288.1B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839716,
-   "ts": "2026-11-05T23:52:26+00:00",
-   "ingested": "2026-11-05T23:56:21.914323+00:00",
-   "headline": "Foreign Investment Japanese Bonds Actual 1,481.7B (Forecast -, Previous 43.3B)",
    "channel": "rss",
    "source": "financialjuice"
   }
