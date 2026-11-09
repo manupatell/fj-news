@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T14:03:46.984142+00:00",
+ "updated": "2026-11-09T14:05:26.979646+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843412,
+   "ts": "2026-11-09T14:04:42+00:00",
+   "ingested": "2026-11-09T14:05:26.979392+00:00",
+   "headline": "Fitch Ratings: Binance hack suggests stronger Bitcoin market resilience to stress.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843411,
    "ts": "2026-11-09T14:03:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T00:49:04+00:00",
    "ingested": "2026-11-06T00:49:41.922958+00:00",
    "headline": "Japan PM Takaichi: Proceeds from BoJ's accelerated ETF sales can fund bonds to help government secure funds for public spending targeting public investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839772,
-   "ts": "2026-11-06T00:47:24+00:00",
-   "ingested": "2026-11-06T00:48:01.937051+00:00",
-   "headline": "Japan PM Takaichi: Proceeds from BoJ ETF sales reflect Japan's economic growth, should be used to promote further growth and a virtuous economic cycle",
    "channel": "rss",
    "source": "financialjuice"
   }
