@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T23:30:45.235591+00:00",
+ "updated": "2026-11-09T23:35:45.246636+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844156,
+   "ts": "2026-11-09T23:34:59+00:00",
+   "ingested": "2026-11-09T23:35:45.246178+00:00",
+   "headline": "Japan Sept household spending falls 6.8% year/year, government says (poll -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844137,
+   "ts": "2026-11-09T23:32:13+00:00",
+   "ingested": "2026-11-09T23:35:45.246196+00:00",
+   "headline": "Japanese All Household Spending MoM Actual -2.8% (Forecast -, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844136,
    "ts": "2026-11-09T23:30:07+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T15:53:15+00:00",
    "ingested": "2026-11-06T15:54:30.874988+00:00",
    "headline": "IMF's Managing Director Georgieva: The current time is particularly important for central bankers, requiring the ability to see through uncertainty.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841060,
-   "ts": "2026-11-06T15:50:51+00:00",
-   "ingested": "2026-11-06T15:51:10.874451+00:00",
-   "headline": "BoJ's Governor Ueda Speaks - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841046,
-   "ts": "2026-11-06T15:45:46+00:00",
-   "ingested": "2026-11-06T15:46:10.877844+00:00",
-   "headline": "The PBOC is to keep cracking down on crypto-related activities",
    "channel": "rss",
    "source": "financialjuice"
   }
