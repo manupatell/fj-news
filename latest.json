@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T03:13:21.524895+00:00",
+ "updated": "2026-11-09T03:24:02.915936+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842750,
+   "ts": "2026-11-09T03:22:28+00:00",
+   "ingested": "2026-11-09T03:24:02.915436+00:00",
+   "headline": "Ousted Bangladeshi Prime Minister Sheikh Hasina requests new passport and ID card to return home from self-imposed exile in Delhi",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842745,
    "ts": "2026-11-09T03:02:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T18:54:13+00:00",
    "ingested": "2026-11-05T18:56:01.001575+00:00",
    "headline": "Saudi Aramco cuts December arab light OSP to Asia to -$7/bbl",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839357,
-   "ts": "2026-11-05T18:39:29+00:00",
-   "ingested": "2026-11-05T18:41:00.991791+00:00",
-   "headline": "Apple draws $31 billion of orders for high-grade bond sale $AAPL",
    "channel": "rss",
    "source": "financialjuice"
   }
