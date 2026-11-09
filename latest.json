@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T02:33:21.515667+00:00",
+ "updated": "2026-11-09T02:35:01.529788+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842731,
+   "ts": "2026-11-09T02:34:48+00:00",
+   "ingested": "2026-11-09T02:35:01.529365+00:00",
+   "headline": "China to extend suspension of 24% US tariffs for two months from Nov. 10, maintain 10% tariffs: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842643,
    "ts": "2026-11-09T01:42:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T17:43:50+00:00",
    "ingested": "2026-11-05T17:52:31.188631+00:00",
    "headline": "DoJ creates an AI Task Force to block foreign adversaries - Fox.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839284,
-   "ts": "2026-11-05T17:31:41+00:00",
-   "ingested": "2026-11-05T17:52:31.188642+00:00",
-   "headline": "US held talks with Iran on deporting Iranians during the war - AP.",
    "channel": "rss",
    "source": "financialjuice"
   }
