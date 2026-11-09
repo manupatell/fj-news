@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T04:34:02.914977+00:00",
+ "updated": "2026-11-09T04:39:02.905825+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842792,
+   "ts": "2026-11-09T04:38:47+00:00",
+   "ingested": "2026-11-09T04:39:02.905271+00:00",
+   "headline": "Iranian provincial official: Overnight US strike on Qeshm island did not affect key infrastructure and services - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842776,
    "ts": "2026-11-09T04:12:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T19:31:29+00:00",
    "ingested": "2026-11-05T19:32:41.008352+00:00",
    "headline": "NYMEX Nat Gas Dec. futures settle at $2.9470/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839412,
-   "ts": "2026-11-05T19:31:00+00:00",
-   "ingested": "2026-11-05T19:32:41.008364+00:00",
-   "headline": "NYMEX WTI Crude Dec. futures settle at $90.52 a barrel up $2.40, 2.72%",
    "channel": "rss",
    "source": "financialjuice"
   }
