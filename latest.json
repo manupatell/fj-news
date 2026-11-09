@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T19:39:05.235775+00:00",
+ "updated": "2026-11-09T19:40:45.164714+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843871,
+   "ts": "2026-11-09T19:40:10+00:00",
+   "ingested": "2026-11-09T19:40:45.164214+00:00",
+   "headline": "Al Arabiya sources: A preliminary agreement on reducing Iran\u2019s uranium enrichment is likely to be reached.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843870,
+   "ts": "2026-11-09T19:39:09+00:00",
+   "ingested": "2026-11-09T19:40:45.164234+00:00",
+   "headline": "Al Arabiya sources: Washington has allowed uranium enrichment inside Iran to 3.67%, and Tehran has agreed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843869,
    "ts": "2026-11-09T19:37:45+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T13:31:54+00:00",
    "ingested": "2026-11-06T13:33:29.414456+00:00",
    "headline": "US Government Payrolls Actual 6k (Forecast -, Previous -17k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840751,
-   "ts": "2026-11-06T13:30:06+00:00",
-   "ingested": "2026-11-06T13:31:53.693575+00:00",
-   "headline": "US Manufacturing Payrolls Actual 19k (Forecast 7k, Previous 9k, Revised 13K)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840750,
-   "ts": "2026-11-06T13:30:06+00:00",
-   "ingested": "2026-11-06T13:31:53.693597+00:00",
-   "headline": "US Labor Force Participation  Actual 61.9% (Forecast 61.8%, Previous 61.8%)",
    "channel": "rss",
    "source": "financialjuice"
   }
