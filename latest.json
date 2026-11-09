@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T20:00:45.250063+00:00",
+ "updated": "2026-11-09T20:05:45.232082+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843905,
+   "ts": "2026-11-09T20:04:53+00:00",
+   "ingested": "2026-11-09T20:05:45.231625+00:00",
+   "headline": "US Treasury Investor Flows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843904,
+   "ts": "2026-11-09T20:04:09+00:00",
+   "ingested": "2026-11-09T20:05:45.231647+00:00",
+   "headline": "Nvidia's CEO Huang is scheduled to attend Semafor\u2019s Silicon Valley & The World - Source. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843888,
    "ts": "2026-11-09T19:59:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T14:02:58+00:00",
    "ingested": "2026-11-06T14:03:29.415519+00:00",
    "headline": "Amazon launches text-based Alexa for shopping in US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840858,
-   "ts": "2026-11-06T14:02:27+00:00",
-   "ingested": "2026-11-06T14:03:29.415538+00:00",
-   "headline": "TSMC weighs making advanced memory chips - Information.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840839,
-   "ts": "2026-11-06T14:01:12+00:00",
-   "ingested": "2026-11-06T14:01:49.438930+00:00",
-   "headline": "Iran's Revolutionary Guards: Shot down a US MQ-1 drone over Qeshm island - Fars News Agency",
    "channel": "rss",
    "source": "financialjuice"
   }
