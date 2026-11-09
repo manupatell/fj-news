@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T06:39:03.007451+00:00",
+ "updated": "2026-11-09T06:49:02.949365+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842939,
+   "ts": "2026-11-09T06:48:50+00:00",
+   "ingested": "2026-11-09T06:49:02.948872+00:00",
+   "headline": "South Korea Industry Minister: Experts say unlike in the stock market, AI investment in the real economy is still robust.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842938,
+   "ts": "2026-11-09T06:48:24+00:00",
+   "ingested": "2026-11-09T06:49:02.948891+00:00",
+   "headline": "South Korea Industry Minister: Do not believe AI investment will slow due to us midterm election - Yonhap.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842900,
    "ts": "2026-11-09T06:17:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T20:31:12+00:00",
    "ingested": "2026-11-05T20:32:41.026453+00:00",
    "headline": "Iran's Major General Rezaei: Putin said that he would do anything to end the war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839460,
-   "ts": "2026-11-05T20:22:21+00:00",
-   "ingested": "2026-11-05T20:22:41.032443+00:00",
-   "headline": "Friday FX Options Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839441,
-   "ts": "2026-11-05T19:59:53+00:00",
-   "ingested": "2026-11-05T20:01:01.080516+00:00",
-   "headline": "Israel\u2019s Herzog to decide Sunday who will try to form govt",
    "channel": "rss",
    "source": "financialjuice"
   }
