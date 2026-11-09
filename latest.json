@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T14:08:46.955327+00:00",
+ "updated": "2026-11-09T14:10:26.969232+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843416,
+   "ts": "2026-11-09T14:09:52+00:00",
+   "ingested": "2026-11-09T14:10:26.968911+00:00",
+   "headline": "Fitch Ratings: For Bitcoin-backed securities, the Binance hack reinforces the benefits of conservative collateral coverage and  short liquidation periods.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843414,
    "ts": "2026-11-09T14:07:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T01:33:59+00:00",
    "ingested": "2026-11-06T01:34:41.963542+00:00",
    "headline": "Taiwan deputy finance minister: fund may hold emergency meeting if market turns disorderly or confidence breaks down",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839821,
-   "ts": "2026-11-06T01:33:11+00:00",
-   "ingested": "2026-11-06T01:34:41.963554+00:00",
-   "headline": "Taiwan deputy finance minister: national stabilization fund closely tracking stock market and global political, economic shifts",
    "channel": "rss",
    "source": "financialjuice"
   }
