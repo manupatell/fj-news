@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T19:42:25.168406+00:00",
+ "updated": "2026-11-09T19:44:05.168585+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843873,
+   "ts": "2026-11-09T19:42:19+00:00",
+   "ingested": "2026-11-09T19:44:05.168123+00:00",
+   "headline": "Al Arabiya sources: Under the proposed framework, the Strait of Hormuz will be opened and the naval blockade lifted immediately.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843872,
    "ts": "2026-11-09T19:41:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T13:53:47+00:00",
    "ingested": "2026-11-06T13:55:09.436722+00:00",
    "headline": "Bank of Canada December rate hike chances fall to roughly 32% from 40% after jobs report - Swaps Data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840782,
-   "ts": "2026-11-06T13:32:37+00:00",
-   "ingested": "2026-11-06T13:33:29.414436+00:00",
-   "headline": "Traders add to bets on December Fed interest-rate hike.",
    "channel": "rss",
    "source": "financialjuice"
   }
