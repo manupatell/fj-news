@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T06:14:02.972689+00:00",
+ "updated": "2026-11-09T06:19:02.951799+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842900,
+   "ts": "2026-11-09T06:17:22+00:00",
+   "ingested": "2026-11-09T06:19:02.951308+00:00",
+   "headline": "The diesel deal offers a chance for a gradual restoration of business ties between Russia and US - Tass Cites Russian Foreign Ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842885,
    "ts": "2026-11-09T06:10:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T19:59:53+00:00",
    "ingested": "2026-11-05T20:01:01.080516+00:00",
    "headline": "Israel\u2019s Herzog to decide Sunday who will try to form govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839440,
-   "ts": "2026-11-05T19:52:10+00:00",
-   "ingested": "2026-11-05T19:52:41.012669+00:00",
-   "headline": "Lawmakers request Huang briefing on link to China. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
