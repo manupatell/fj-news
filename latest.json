@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T08:09:02.958109+00:00",
+ "updated": "2026-11-09T08:10:43.035504+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843037,
+   "ts": "2026-11-09T08:09:58+00:00",
+   "ingested": "2026-11-09T08:10:43.035021+00:00",
+   "headline": "NVIDIA plans investments in Motif Tech, Rlwrld, upstage.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843036,
    "ts": "2026-11-09T08:08:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T22:29:32+00:00",
    "ingested": "2026-11-05T22:31:01.075049+00:00",
    "headline": "US Secretary of State Rubio: working for Trump through end of his term has always been my plan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839603,
-   "ts": "2026-11-05T22:28:48+00:00",
-   "ingested": "2026-11-05T22:29:21.058088+00:00",
-   "headline": "Rubio denies reports he'll quit roles to run for president - NYT",
    "channel": "rss",
    "source": "financialjuice"
   }
