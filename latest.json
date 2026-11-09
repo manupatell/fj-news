@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T18:50:25.171897+00:00",
+ "updated": "2026-11-09T19:00:45.167601+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843821,
+   "ts": "2026-11-09T19:00:30+00:00",
+   "ingested": "2026-11-09T19:00:45.167107+00:00",
+   "headline": "Bank of France: Great uncertainty on growth assessment.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843781,
    "ts": "2026-11-09T18:23:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T13:28:02+00:00",
    "ingested": "2026-11-06T13:28:27.332580+00:00",
    "headline": "Deutsche Bank: AI Selloff Triggers Broad Risk-Off Move Across Global Markets - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840737,
-   "ts": "2026-11-06T13:22:54+00:00",
-   "ingested": "2026-11-06T13:23:27.328357+00:00",
-   "headline": "Cr\u00e9dit Agricole: Midterm Outcome Adds to USD Downside Risks - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
