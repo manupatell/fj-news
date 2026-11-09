@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T14:18:46.972953+00:00",
+ "updated": "2026-11-09T14:25:27.003065+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843436,
+   "ts": "2026-11-09T14:24:00+00:00",
+   "ingested": "2026-11-09T14:25:27.002740+00:00",
+   "headline": "Credit Agricole on US CPI - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843434,
    "ts": "2026-11-09T14:18:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T01:38:38+00:00",
    "ingested": "2026-11-06T01:39:41.943231+00:00",
    "headline": "China's 10-year treasury futures hit record high in early trade",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839826,
-   "ts": "2026-11-06T01:38:30+00:00",
-   "ingested": "2026-11-06T01:39:41.943244+00:00",
-   "headline": "World Liberty Financial: plan to finance buybacks with initial allocation possibly including fees from USD1 reserves and other sources",
    "channel": "rss",
    "source": "financialjuice"
   }
