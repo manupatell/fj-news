@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T13:07:06.992085+00:00",
+ "updated": "2026-11-09T13:08:46.961735+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843335,
+   "ts": "2026-11-09T13:08:33+00:00",
+   "ingested": "2026-11-09T13:08:46.961460+00:00",
+   "headline": "Qatari Official: The US and Iran are talking to mediators on deal details.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843334,
+   "ts": "2026-11-09T13:08:12+00:00",
+   "ingested": "2026-11-09T13:08:46.961472+00:00",
+   "headline": "Qatari Official: Reports on US-Iran proposal details are false. Negotiations are ongoing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843332,
    "ts": "2026-11-09T13:05:51+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T23:52:26+00:00",
    "ingested": "2026-11-05T23:56:21.914323+00:00",
    "headline": "Foreign Investment Japanese Bonds Actual 1,481.7B (Forecast -, Previous 43.3B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839715,
-   "ts": "2026-11-05T23:51:50+00:00",
-   "ingested": "2026-11-05T23:56:21.914333+00:00",
-   "headline": "Foreign Investment Japanese Stocks Actual 1,129.3B (Forecast -, Previous 1,180.9B ,Revision 1,182.2B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839714,
-   "ts": "2026-11-05T23:51:50+00:00",
-   "ingested": "2026-11-05T23:56:21.914341+00:00",
-   "headline": "Japanese Foreign Bond Investment Actual 1,312.0B (Forecast -, Previous -92.6B)",
    "channel": "rss",
    "source": "financialjuice"
   }
