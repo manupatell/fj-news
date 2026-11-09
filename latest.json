@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T11:46:06.910253+00:00",
+ "updated": "2026-11-09T11:56:06.908928+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843254,
+   "ts": "2026-11-09T11:55:19+00:00",
+   "ingested": "2026-11-09T11:56:06.908585+00:00",
+   "headline": "UK PM Burnham: No decision has been made yet on cut to 2030 electric vehicle sales target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843232,
    "ts": "2026-11-09T11:34:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T23:29:19+00:00",
    "ingested": "2026-11-05T23:31:01.064921+00:00",
    "headline": "Japan government allocates 10 billion yen from reserve for cybersecurity efforts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839667,
-   "ts": "2026-11-05T23:19:52+00:00",
-   "ingested": "2026-11-05T23:21:01.127464+00:00",
-   "headline": "Major investors skeptical anthropic ipo can reach $1.5 trillion value: wsj",
    "channel": "rss",
    "source": "financialjuice"
   }
