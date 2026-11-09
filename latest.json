@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T14:05:26.979646+00:00",
+ "updated": "2026-11-09T14:08:46.955327+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843414,
+   "ts": "2026-11-09T14:07:46+00:00",
+   "ingested": "2026-11-09T14:08:46.955053+00:00",
+   "headline": "Fitch Ratings: We believe the lower level of disruption in the bitcoin market is probably due to crypto trading market structures having become deeper and more diversified.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843413,
+   "ts": "2026-11-09T14:07:25+00:00",
+   "ingested": "2026-11-09T14:08:46.955068+00:00",
+   "headline": "Fitch Ratings: The risk of Bitcoin market liquidity becoming constrained in response to crypto-specific shocks may have reduced as the market has matured.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843412,
    "ts": "2026-11-09T14:04:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T01:33:11+00:00",
    "ingested": "2026-11-06T01:34:41.963554+00:00",
    "headline": "Taiwan deputy finance minister: national stabilization fund closely tracking stock market and global political, economic shifts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839800,
-   "ts": "2026-11-06T01:21:46+00:00",
-   "ingested": "2026-11-06T01:23:01.948462+00:00",
-   "headline": "China cbank pumps 226 bln yuan via overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839773,
-   "ts": "2026-11-06T00:49:04+00:00",
-   "ingested": "2026-11-06T00:49:41.922958+00:00",
-   "headline": "Japan PM Takaichi: Proceeds from BoJ's accelerated ETF sales can fund bonds to help government secure funds for public spending targeting public investment",
    "channel": "rss",
    "source": "financialjuice"
   }
