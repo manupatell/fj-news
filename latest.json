@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T04:09:02.930199+00:00",
+ "updated": "2026-11-09T04:14:02.914782+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842776,
+   "ts": "2026-11-09T04:12:45+00:00",
+   "ingested": "2026-11-09T04:14:02.914304+00:00",
+   "headline": "Iran's state TV, citing unnamed Revolutionary Guards navy official: Navigational aid systems in southern Hormuz destroyed, halting vessel transit on unauthorized route overnight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842764,
    "ts": "2026-11-09T03:48:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T19:31:00+00:00",
    "ingested": "2026-11-05T19:32:41.008364+00:00",
    "headline": "NYMEX WTI Crude Dec. futures settle at $90.52 a barrel up $2.40, 2.72%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839408,
-   "ts": "2026-11-05T19:30:11+00:00",
-   "ingested": "2026-11-05T19:31:01.007784+00:00",
-   "headline": "Rubio considers leaving administration after GOP's midterm loss",
    "channel": "rss",
    "source": "financialjuice"
   }
