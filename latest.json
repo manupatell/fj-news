@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T06:10:42.937529+00:00",
+ "updated": "2026-11-09T06:14:02.972689+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842885,
+   "ts": "2026-11-09T06:10:46+00:00",
+   "ingested": "2026-11-09T06:14:02.972240+00:00",
+   "headline": "Japanese Leading Indicator Change Actual -1.6 (Forecast -, Previous 0.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842870,
    "ts": "2026-11-09T05:49:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T19:52:10+00:00",
    "ingested": "2026-11-05T19:52:41.012669+00:00",
    "headline": "Lawmakers request Huang briefing on link to China. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839439,
-   "ts": "2026-11-05T19:49:58+00:00",
-   "ingested": "2026-11-05T19:51:01.088911+00:00",
-   "headline": "Nvidia in talks on small AI data center network: The Information",
    "channel": "rss",
    "source": "financialjuice"
   }
