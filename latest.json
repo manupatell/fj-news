@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-09T23:50:45.254467+00:00",
+ "updated": "2026-11-09T23:52:25.251655+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844186,
+   "ts": "2026-11-09T23:52:08+00:00",
+   "ingested": "2026-11-09T23:52:25.251184+00:00",
+   "headline": "BOJ summary: one member said central bank should raise rates when feasible without excessive caution",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844185,
+   "ts": "2026-11-09T23:51:56+00:00",
+   "ingested": "2026-11-09T23:52:25.251202+00:00",
+   "headline": "BOJ summary: one member says appropriate to continue raising rates as underlying inflation nears price target levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844184,
+   "ts": "2026-11-09T23:51:32+00:00",
+   "ingested": "2026-11-09T23:52:25.251214+00:00",
+   "headline": "BoJ summary: one member notes some economic weakness, urges careful monitoring of economic and price outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844183,
+   "ts": "2026-11-09T23:51:20+00:00",
+   "ingested": "2026-11-09T23:52:25.251228+00:00",
+   "headline": "BoJ October meeting summary of opinions: one member said maintaining policy is suitable to assess risks around economy, prices a bit more",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844182,
    "ts": "2026-11-09T23:50:20+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-06T15:59:06+00:00",
    "ingested": "2026-11-06T15:59:30.898104+00:00",
    "headline": "The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841067,
-   "ts": "2026-11-06T15:56:29+00:00",
-   "ingested": "2026-11-06T15:57:50.885368+00:00",
-   "headline": "IMF Chief Georgieva: Widening imbalances have often been accompanied by fragile growth, and in some cases, have preceded financial crises",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841066,
-   "ts": "2026-11-06T15:56:03+00:00",
-   "ingested": "2026-11-06T15:57:50.885392+00:00",
-   "headline": "French Energy Ministry: 3.6 million barrels of diesel have been sold out of the French strategic reserves to date",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841065,
-   "ts": "2026-11-06T15:55:13+00:00",
-   "ingested": "2026-11-06T15:56:12.861843+00:00",
-   "headline": "IMF Chief Georgieva: Market volatility on AI likely to continue",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841064,
-   "ts": "2026-11-06T15:54:47+00:00",
-   "ingested": "2026-11-06T15:56:12.861864+00:00",
-   "headline": "IMF Chief Georgieva: large and rising global imbalances remain a matter of concern",
    "channel": "rss",
    "source": "financialjuice"
   }
