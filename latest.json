@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T19:55:45.163711+00:00",
+ "updated": "2026-11-09T19:59:05.172385+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843887,
+   "ts": "2026-11-09T19:57:40+00:00",
+   "ingested": "2026-11-09T19:59:05.171939+00:00",
+   "headline": "Diplomat: Trump and Qatar's PM talks were positive - Axios.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843874,
    "ts": "2026-11-09T19:44:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T13:59:28+00:00",
    "ingested": "2026-11-06T14:00:09.448638+00:00",
    "headline": "Effective Fed Funds Rate 3.88% November 5 vs 3.88% November 4.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840832,
-   "ts": "2026-11-06T13:56:10+00:00",
-   "ingested": "2026-11-06T13:56:49.426786+00:00",
-   "headline": "NATO reconnaissance aircraft detected near Russia's Kaliningrad region for third time since Monday - TASS Cites Source in Air Traffic Control Services.",
    "channel": "rss",
    "source": "financialjuice"
   }
