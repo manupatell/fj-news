@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T19:40:45.164714+00:00",
+ "updated": "2026-11-09T19:42:25.168406+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843872,
+   "ts": "2026-11-09T19:41:59+00:00",
+   "ingested": "2026-11-09T19:42:25.167967+00:00",
+   "headline": "Al Arabiya sources: The US will release Iranian assets worth between $6 billion and $9 billion if an agreement is reached.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843871,
    "ts": "2026-11-09T19:40:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T13:32:37+00:00",
    "ingested": "2026-11-06T13:33:29.414436+00:00",
    "headline": "Traders add to bets on December Fed interest-rate hike.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840752,
-   "ts": "2026-11-06T13:31:54+00:00",
-   "ingested": "2026-11-06T13:33:29.414456+00:00",
-   "headline": "US Government Payrolls Actual 6k (Forecast -, Previous -17k)",
    "channel": "rss",
    "source": "financialjuice"
   }
