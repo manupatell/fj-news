@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T12:54:26.920562+00:00",
+ "updated": "2026-11-09T12:56:06.935993+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843328,
+   "ts": "2026-11-09T12:55:04+00:00",
+   "ingested": "2026-11-09T12:56:06.935742+00:00",
+   "headline": "Fitch: A re-escalation of hostilities due to Iran war later in 2027 or beyond cannot be ruled out.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843327,
    "ts": "2026-11-09T12:53:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T23:36:09+00:00",
    "ingested": "2026-11-05T23:36:21.924002+00:00",
    "headline": "S.Korea finmin: to take necessary steps to prevent stock market from overreacting relative to fundamentals",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839697,
-   "ts": "2026-11-05T23:35:21+00:00",
-   "ingested": "2026-11-05T23:36:21.924014+00:00",
-   "headline": "S.Korea finmin: cannot dismiss spillover impact of US stock market slump on global markets",
    "channel": "rss",
    "source": "financialjuice"
   }
