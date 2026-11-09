@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T12:51:06.939115+00:00",
+ "updated": "2026-11-09T12:52:46.919496+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843325,
+   "ts": "2026-11-09T12:52:14+00:00",
+   "ingested": "2026-11-09T12:52:46.919255+00:00",
+   "headline": "The Iraqi Prime Minister presented proposals to end the Iran war during his phone conversation with Trump - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843291,
    "ts": "2026-11-09T12:30:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T23:33:20+00:00",
    "ingested": "2026-11-05T23:34:41.899442+00:00",
    "headline": "Some potential Anthropic investors aim for valuation of $1.5 trillion at the high end, sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839694,
-   "ts": "2026-11-05T23:33:20+00:00",
-   "ingested": "2026-11-05T23:34:41.899455+00:00",
-   "headline": "Anthropic IPO may face delay amid AI-driven market selloff: potential investors",
    "channel": "rss",
    "source": "financialjuice"
   }
