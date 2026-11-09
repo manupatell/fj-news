@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T13:58:46.968834+00:00",
+ "updated": "2026-11-09T14:03:46.984142+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843411,
+   "ts": "2026-11-09T14:03:31+00:00",
+   "ingested": "2026-11-09T14:03:46.983817+00:00",
+   "headline": "US Sentiment: Huang Scandal Leads to NVDA Shares Declining - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843397,
    "ts": "2026-11-09T13:57:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T00:47:24+00:00",
    "ingested": "2026-11-06T00:48:01.937051+00:00",
    "headline": "Japan PM Takaichi: Proceeds from BoJ ETF sales reflect Japan's economic growth, should be used to promote further growth and a virtuous economic cycle",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839760,
-   "ts": "2026-11-06T00:46:01+00:00",
-   "ingested": "2026-11-06T00:46:21.949136+00:00",
-   "headline": "Japan PM Takaichi: aim to use proceeds from BoJ\u2019s faster ETF sales to fund spending on key areas for Japan's economic security",
    "channel": "rss",
    "source": "financialjuice"
   }
