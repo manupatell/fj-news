@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-09T23:22:25.253909+00:00",
+ "updated": "2026-11-09T23:30:45.235591+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844136,
+   "ts": "2026-11-09T23:30:07+00:00",
+   "ingested": "2026-11-09T23:30:45.235128+00:00",
+   "headline": "Japanese All Household Spending YoY Actual -6.8% (Forecast -3%, Previous -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844135,
+   "ts": "2026-11-09T23:30:07+00:00",
+   "ingested": "2026-11-09T23:30:45.235143+00:00",
+   "headline": "Japan September household spending falls 2.8% month on month, government says (Poll: 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844134,
+   "ts": "2026-11-09T23:30:04+00:00",
+   "ingested": "2026-11-09T23:30:45.235155+00:00",
+   "headline": "Australia November Westpac-MI consumer confidence index declines 2.7% to 78.2",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844133,
+   "ts": "2026-11-09T23:30:04+00:00",
+   "ingested": "2026-11-09T23:30:45.235166+00:00",
+   "headline": "Japan Sept household spending down 6.7% year/year: govt (Poll: -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844132,
+   "ts": "2026-11-09T23:30:00+00:00",
+   "ingested": "2026-11-09T23:30:45.235175+00:00",
+   "headline": "Australian Consumer Sentiment Actual -2.7% (Forecast -, Previous -4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844125,
    "ts": "2026-11-09T23:01:37+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-06T15:45:46+00:00",
    "ingested": "2026-11-06T15:46:10.877844+00:00",
    "headline": "The PBOC is to keep cracking down on crypto-related activities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841041,
-   "ts": "2026-11-06T15:39:48+00:00",
-   "ingested": "2026-11-06T15:41:10.882409+00:00",
-   "headline": "Oil tanker sinking in the Strait of Hormuz after being targeted - Iran's Sepah News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841022,
-   "ts": "2026-11-06T15:27:15+00:00",
-   "ingested": "2026-11-06T15:27:50.864460+00:00",
-   "headline": "Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841021,
-   "ts": "2026-11-06T15:18:07+00:00",
-   "ingested": "2026-11-06T15:19:30.870072+00:00",
-   "headline": "Crypto Fear and Greed Index: 28/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841020,
-   "ts": "2026-11-06T15:17:35+00:00",
-   "ingested": "2026-11-06T15:17:50.901027+00:00",
-   "headline": "Fear and Greed Index: 25/100 = Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840969,
-   "ts": "2026-11-06T15:00:03+00:00",
-   "ingested": "2026-11-06T15:01:50.896077+00:00",
-   "headline": "Canadian Ivey PMI Actual 58.3 (Forecast -, Previous 58.2)",
    "channel": "rss",
    "source": "financialjuice"
   }
