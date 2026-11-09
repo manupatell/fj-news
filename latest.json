@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T14:10:26.969232+00:00",
+ "updated": "2026-11-09T14:12:06.990217+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843417,
+   "ts": "2026-11-09T14:10:58+00:00",
+   "ingested": "2026-11-09T14:12:06.989896+00:00",
+   "headline": "JPMorgan's Middle East Scenarios - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843416,
    "ts": "2026-11-09T14:09:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T01:36:11+00:00",
    "ingested": "2026-11-06T01:36:21.965507+00:00",
    "headline": "Taiwan deputy finance minister: Taiwan's fundamentals currently remain very strong, stable",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839823,
-   "ts": "2026-11-06T01:33:59+00:00",
-   "ingested": "2026-11-06T01:34:41.963542+00:00",
-   "headline": "Taiwan deputy finance minister: fund may hold emergency meeting if market turns disorderly or confidence breaks down",
    "channel": "rss",
    "source": "financialjuice"
   }
