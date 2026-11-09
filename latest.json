@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T19:44:05.168585+00:00",
+ "updated": "2026-11-09T19:45:45.174115+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843874,
+   "ts": "2026-11-09T19:44:40+00:00",
+   "ingested": "2026-11-09T19:45:45.173673+00:00",
+   "headline": "Brent Crude futures settle at $92.57/bbl, down $5.75, 5.85%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843873,
    "ts": "2026-11-09T19:42:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T13:56:10+00:00",
    "ingested": "2026-11-06T13:56:49.426786+00:00",
    "headline": "NATO reconnaissance aircraft detected near Russia's Kaliningrad region for third time since Monday - TASS Cites Source in Air Traffic Control Services.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840831,
-   "ts": "2026-11-06T13:53:47+00:00",
-   "ingested": "2026-11-06T13:55:09.436722+00:00",
-   "headline": "Bank of Canada December rate hike chances fall to roughly 32% from 40% after jobs report - Swaps Data",
    "channel": "rss",
    "source": "financialjuice"
   }
