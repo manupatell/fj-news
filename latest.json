@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T21:12:25.204825+00:00",
+ "updated": "2026-11-09T21:15:45.199038+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843990,
+   "ts": "2026-11-09T21:15:19+00:00",
+   "ingested": "2026-11-09T21:15:45.198614+00:00",
+   "headline": "US CPI Prep: All Eyes on Core CPI for Evidence of Broadening Price Pressure - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843989,
+   "ts": "2026-11-09T21:15:17+00:00",
+   "ingested": "2026-11-09T21:15:45.198630+00:00",
+   "headline": "US October CPI Crib Sheet - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843988,
    "ts": "2026-11-09T21:11:27+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T14:23:15+00:00",
    "ingested": "2026-11-06T14:23:29.430544+00:00",
    "headline": "WH Sr. Adviser Hassett: I acknowledges \"hiccups\" in chip firms in recent weeks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840890,
-   "ts": "2026-11-06T14:22:11+00:00",
-   "ingested": "2026-11-06T14:23:29.430564+00:00",
-   "headline": "WH Sr. Adviser Hassett: Intel performance is good news for chip market.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840887,
-   "ts": "2026-11-06T14:20:30+00:00",
-   "ingested": "2026-11-06T14:21:49.431372+00:00",
-   "headline": "WH Sr. Adviser Hassett: Reassuring to see Intel turn around sharply over time.",
    "channel": "rss",
    "source": "financialjuice"
   }
