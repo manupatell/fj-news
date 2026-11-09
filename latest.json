@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T14:15:27.005795+00:00",
+ "updated": "2026-11-09T14:18:46.972953+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843434,
+   "ts": "2026-11-09T14:18:13+00:00",
+   "ingested": "2026-11-09T14:18:46.972599+00:00",
+   "headline": "Federal Reserve Banks of Dallas and New York open a pilot survey of the private credit market on November 9th - Statement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843419,
    "ts": "2026-11-09T14:14:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T01:38:30+00:00",
    "ingested": "2026-11-06T01:39:41.943244+00:00",
    "headline": "World Liberty Financial: plan to finance buybacks with initial allocation possibly including fees from USD1 reserves and other sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839825,
-   "ts": "2026-11-06T01:36:53+00:00",
-   "ingested": "2026-11-06T01:38:01.946995+00:00",
-   "headline": "World Liberty Financial: to introduce new WLFI token repurchase program",
    "channel": "rss",
    "source": "financialjuice"
   }
