@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T23:55:45.236490+00:00",
+ "updated": "2026-11-09T23:57:25.234902+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844194,
+   "ts": "2026-11-09T23:56:55+00:00",
+   "ingested": "2026-11-09T23:57:25.234497+00:00",
+   "headline": "BOJ summary: one member said outcome of next year's annual pay talks warrants attention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844193,
+   "ts": "2026-11-09T23:55:55+00:00",
+   "ingested": "2026-11-09T23:57:25.234512+00:00",
+   "headline": "BOJ summary: one member said next rate increase unlikely to significantly hurt economy on net basis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844192,
    "ts": "2026-11-09T23:55:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T16:31:41+00:00",
    "ingested": "2026-11-06T16:32:50.891632+00:00",
    "headline": "IMF's Managing Director Georgieva: The BoJ's policy normalization has been impressively smooth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841103,
-   "ts": "2026-11-06T16:27:24+00:00",
-   "ingested": "2026-11-06T16:27:50.900974+00:00",
-   "headline": "OpenAI CFO: We will keep investing in AI data centers despite the election results - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841102,
-   "ts": "2026-11-06T16:26:39+00:00",
-   "ingested": "2026-11-06T16:27:50.900997+00:00",
-   "headline": "BoJ's Governor Ueda: Expects rising domestic investment in Japan, but the extent is very uncertain",
    "channel": "rss",
    "source": "financialjuice"
   }
