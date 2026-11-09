@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-09T23:52:25.251655+00:00",
+ "updated": "2026-11-09T23:54:05.244258+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844188,
+   "ts": "2026-11-09T23:53:23+00:00",
+   "ingested": "2026-11-09T23:54:05.243772+00:00",
+   "headline": "BoJ summary: one member said underlying inflation has hit 2%, BoJ must raise policy rate to neutral level soon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844187,
+   "ts": "2026-11-09T23:53:16+00:00",
+   "ingested": "2026-11-09T23:54:05.243788+00:00",
+   "headline": "BOJ summary: one member said Japan entering new phase requiring faster rate hikes toward neutral levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844181,
+   "ts": "2026-11-09T23:52:12+00:00",
+   "ingested": "2026-11-09T23:54:05.243800+00:00",
+   "headline": "Japanese Bank Lending YoY Actual 5.2% (Forecast -, Previous 5.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844186,
    "ts": "2026-11-09T23:52:08+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-06T16:00:55+00:00",
    "ingested": "2026-11-06T16:01:10.946787+00:00",
    "headline": "The proposals stop short of complete dismantlement, but do address Iran\u2019s stockpile of highly enriched uranium, the diplomat familiar with the talks adds, saying that the offers would see Iran receive significant sanctions relief from the US - Times of Israel",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841074,
-   "ts": "2026-11-06T16:00:28+00:00",
-   "ingested": "2026-11-06T16:01:10.946809+00:00",
-   "headline": "BoJ's Governor Ueda: Japan current account is now driven by income flows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841070,
-   "ts": "2026-11-06T16:00:10+00:00",
-   "ingested": "2026-11-06T16:01:10.946825+00:00",
-   "headline": "BoJ's Governor Ueda: Japan's current account underwent a striking shift",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841068,
-   "ts": "2026-11-06T15:59:06+00:00",
-   "ingested": "2026-11-06T15:59:30.898104+00:00",
-   "headline": "The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.",
    "channel": "rss",
    "source": "financialjuice"
   }
