@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T13:48:46.965242+00:00",
+ "updated": "2026-11-09T13:57:06.970528+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843396,
+   "ts": "2026-11-09T13:55:32+00:00",
+   "ingested": "2026-11-09T13:57:06.970274+00:00",
+   "headline": "USTR suspends any action related to China's shipbuilding and maritime sector until January 10th, 2027, to allow for further discussion - Federal Register.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843395,
    "ts": "2026-11-09T13:48:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T00:31:56+00:00",
    "ingested": "2026-11-06T00:33:01.944615+00:00",
    "headline": "Japan PM Takaichi: market turbulence impacting not only Japan but nations worldwide, so monitoring progress closely",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839755,
-   "ts": "2026-11-06T00:31:43+00:00",
-   "ingested": "2026-11-06T00:33:01.944627+00:00",
-   "headline": "Japan PM Takaichi: Focus on measures to reinforce economy by enhancing areas with competitive edge",
    "channel": "rss",
    "source": "financialjuice"
   }
