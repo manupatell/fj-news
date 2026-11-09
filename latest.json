@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T02:45:01.532297+00:00",
+ "updated": "2026-11-09T02:53:21.515807+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842740,
+   "ts": "2026-11-09T02:52:09+00:00",
+   "ingested": "2026-11-09T02:53:21.515379+00:00",
+   "headline": "Nvidia shares tumble about 3.5% after hours on Blue Ocean alternative trading system",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842739,
+   "ts": "2026-11-09T02:52:09+00:00",
+   "ingested": "2026-11-09T02:53:21.515395+00:00",
+   "headline": "Nvidia perpetual futures drop about 3%: Hyperliquid pricing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842731,
    "ts": "2026-11-09T02:34:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T17:48:48+00:00",
    "ingested": "2026-11-05T17:52:31.188598+00:00",
    "headline": "AT&T and T-Mobile may drop Boost Mobile if Musk buys it - Semafor. $TMUS $T",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839305,
-   "ts": "2026-11-05T17:47:47+00:00",
-   "ingested": "2026-11-05T17:52:31.188618+00:00",
-   "headline": "US Sec. of Defense Hegseth could face an impeachment vote as soon as next week - Fox.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839287,
-   "ts": "2026-11-05T17:43:50+00:00",
-   "ingested": "2026-11-05T17:52:31.188631+00:00",
-   "headline": "DoJ creates an AI Task Force to block foreign adversaries - Fox.",
    "channel": "rss",
    "source": "financialjuice"
   }
