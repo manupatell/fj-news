@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T13:38:46.977193+00:00",
+ "updated": "2026-11-09T13:48:46.965242+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843395,
+   "ts": "2026-11-09T13:48:11+00:00",
+   "ingested": "2026-11-09T13:48:46.964905+00:00",
+   "headline": "Mehr News citing Ankara: Qatar will host Trump's vice president and Iran's General Rezaei next week.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843369,
    "ts": "2026-11-09T13:37:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T00:31:43+00:00",
    "ingested": "2026-11-06T00:33:01.944627+00:00",
    "headline": "Japan PM Takaichi: Focus on measures to reinforce economy by enhancing areas with competitive edge",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839754,
-   "ts": "2026-11-06T00:31:24+00:00",
-   "ingested": "2026-11-06T00:33:01.944635+00:00",
-   "headline": "Japan PM Takaichi: aware AI, chip shares dropping sharply, unsure if temporary or lasting",
    "channel": "rss",
    "source": "financialjuice"
   }
