@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T07:30:42.957737+00:00",
+ "updated": "2026-11-09T07:34:02.955118+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842991,
+   "ts": "2026-11-09T07:32:46+00:00",
+   "ingested": "2026-11-09T07:34:02.954699+00:00",
+   "headline": "Iran Foreign Ministry Spokesperson Baghaei: Iran's two-day proposal is the most reasonable proposal on the table.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842942,
    "ts": "2026-11-09T07:00:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-05T21:03:27+00:00",
    "ingested": "2026-11-05T21:04:21.055452+00:00",
    "headline": "Canada deficit projected to be C$62.3 bln in 2026-27",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839509,
-   "ts": "2026-11-05T21:01:56+00:00",
-   "ingested": "2026-11-05T21:02:41.029758+00:00",
-   "headline": "US NFP Prep: Wages in Focus as Inflation is Still the Priority",
    "channel": "rss",
    "source": "financialjuice"
   }
