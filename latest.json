@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-09T13:23:47.002108+00:00",
+ "updated": "2026-11-09T13:25:26.962465+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843358,
+   "ts": "2026-11-09T13:24:09+00:00",
+   "ingested": "2026-11-09T13:25:26.962132+00:00",
+   "headline": "UKMTO received a late report of an incident near Khasab, Oman. The incident was on November 7th. Tanker reported to be on fire, crew evacuated. UKMTO reclassified this incident as an attack.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843357,
    "ts": "2026-11-09T13:22:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T00:22:19+00:00",
    "ingested": "2026-11-06T00:23:01.962498+00:00",
    "headline": "China PBOC expected to fix yuan midpoint at 6.6762 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839738,
-   "ts": "2026-11-06T00:10:35+00:00",
-   "ingested": "2026-11-06T00:11:21.929008+00:00",
-   "headline": "Saudi civil defense: threat has ended in Najran region",
    "channel": "rss",
    "source": "financialjuice"
   }
