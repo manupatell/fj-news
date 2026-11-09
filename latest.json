@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-09T01:36:41.536984+00:00",
+ "updated": "2026-11-09T01:43:21.505956+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842643,
+   "ts": "2026-11-09T01:42:39+00:00",
+   "ingested": "2026-11-09T01:43:21.505540+00:00",
+   "headline": "South Korea industry vice minister: Nvidia's current issues won't impact country's contracted GPU supply",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842642,
+   "ts": "2026-11-09T01:41:56+00:00",
+   "ingested": "2026-11-09T01:43:21.505557+00:00",
+   "headline": "Drones strike industrial zone in Kirishi in Russia's Leningrad region: officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842637,
    "ts": "2026-11-09T01:32:07+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-05T17:31:41+00:00",
    "ingested": "2026-11-05T17:52:31.188642+00:00",
    "headline": "US held talks with Iran on deporting Iranians during the war - AP.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839256,
-   "ts": "2026-11-05T17:11:04+00:00",
-   "ingested": "2026-11-05T17:52:31.188657+00:00",
-   "headline": "Qatarenergy is in talks for more long-term deals to buy LNG from US firms, plans to purchase 3 million to 6 million tons of LNG annually.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839255,
-   "ts": "2026-11-05T17:05:54+00:00",
-   "ingested": "2026-11-05T17:52:31.188668+00:00",
-   "headline": "US Sec. of Defense Hegseth expands the Washington, D.C. National Guard presence - Politico.",
    "channel": "rss",
    "source": "financialjuice"
   }
