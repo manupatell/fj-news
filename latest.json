@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T18:32:18.511300+00:00",
+ "updated": "2026-11-10T18:39:38.480261+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845783,
+   "ts": "2026-11-10T18:38:57+00:00",
+   "ingested": "2026-11-10T18:39:38.479850+00:00",
+   "headline": "Qatar's PM Al Thani told G7 foreign ministers in Paris that Doha had secured \"at least two weeks\" to pursue diplomatic efforts for a Washington-Tehran understanding - Jerusalem Post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845780,
    "ts": "2026-11-10T18:31:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T06:48:50+00:00",
    "ingested": "2026-11-09T06:49:02.948872+00:00",
    "headline": "South Korea Industry Minister: Experts say unlike in the stock market, AI investment in the real economy is still robust.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842938,
-   "ts": "2026-11-09T06:48:24+00:00",
-   "ingested": "2026-11-09T06:49:02.948891+00:00",
-   "headline": "South Korea Industry Minister: Do not believe AI investment will slow due to us midterm election - Yonhap.",
    "channel": "rss",
    "source": "financialjuice"
   }
