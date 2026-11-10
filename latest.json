@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:59:58.536323+00:00",
+ "updated": "2026-11-10T22:01:08.526506+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846046,
+   "ts": "2026-11-10T22:00:46+00:00",
+   "ingested": "2026-11-10T22:01:08.526093+00:00",
+   "headline": "Latvia army: people in Ludza region near Belarus border told to seek shelter over airspace threat",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846042,
    "ts": "2026-11-10T21:49:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T15:00:01+00:00",
    "ingested": "2026-11-09T18:40:22.380907+00:00",
    "headline": "US Wholesale Sales MoM Actual 2.8% (Forecast 1.1%, Previous 1.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843474,
-   "ts": "2026-11-09T15:00:00+00:00",
-   "ingested": "2026-11-09T18:40:22.380920+00:00",
-   "headline": "US Wholesale Inventories MoM Revised Actual 0.7% (Forecast 0.6%, Previous 0.6%)",
    "channel": "rss",
    "source": "financialjuice"
   }
