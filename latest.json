@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:21:05.592165+00:00",
+ "updated": "2026-11-10T13:24:25.572367+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845313,
+   "ts": "2026-11-10T13:22:48+00:00",
+   "ingested": "2026-11-10T13:24:25.571909+00:00",
+   "headline": "BoE's Lombardelli: Long term inflation expectations are very well anchored, we don't see de-anchoring:.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845312,
    "ts": "2026-11-10T13:20:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T20:23:24+00:00",
    "ingested": "2026-11-07T20:23:45.516342+00:00",
    "headline": "Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842107,
-   "ts": "2026-11-07T20:13:51+00:00",
-   "ingested": "2026-11-07T20:15:25.564146+00:00",
-   "headline": "Explosions heard in Jask, Sirik, Bandar Abbas and Geshm in southern Iran: Iranian state TV",
    "channel": "rss",
    "source": "financialjuice"
   }
