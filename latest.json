@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T12:36:25.558068+00:00",
+ "updated": "2026-11-10T12:41:55.568093+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845223,
+   "ts": "2026-11-10T12:41:40+00:00",
+   "ingested": "2026-11-10T12:41:55.567645+00:00",
+   "headline": "Ukraine-Russia trilateral talks finished for today - Kyiv.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845222,
    "ts": "2026-11-10T12:36:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T10:06:17+00:00",
    "ingested": "2026-11-07T10:08:00.121685+00:00",
    "headline": "Saudi civil defense issues warning of possible threat in Jizan city",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841901,
-   "ts": "2026-11-07T09:59:53+00:00",
-   "ingested": "2026-11-07T10:01:20.117948+00:00",
-   "headline": "Iran navy: oil tanker ignites in eastern Strait of Hormuz - Iranian media",
    "channel": "rss",
    "source": "financialjuice"
   }
