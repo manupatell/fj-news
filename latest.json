@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-10T22:51:38.543874+00:00",
+ "updated": "2026-11-10T23:00:19.035918+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846106,
+   "ts": "2026-11-10T23:00:03+00:00",
+   "ingested": "2026-11-10T23:00:19.035640+00:00",
+   "headline": "Tankan: Japan manufacturers February index expected at +28, non-manufacturers at +29",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846105,
+   "ts": "2026-11-10T23:00:03+00:00",
+   "ingested": "2026-11-10T23:00:19.035656+00:00",
+   "headline": "South Korea\u2019s October employment rises 139,000 year on year vs 113,000 in September: stats office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846104,
+   "ts": "2026-11-10T23:00:03+00:00",
+   "ingested": "2026-11-10T23:00:19.035667+00:00",
+   "headline": "S.Korea\u2019s October unemployment rate slips to 2.5% from 2.6% in September: stats office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846103,
+   "ts": "2026-11-10T23:00:03+00:00",
+   "ingested": "2026-11-10T23:00:19.035675+00:00",
+   "headline": "Tankan: Japan manufacturers index rises to 27 in November from 22 in October",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846094,
    "ts": "2026-11-10T22:42:08+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-09T15:25:30+00:00",
    "ingested": "2026-11-09T18:40:22.380818+00:00",
    "headline": "Fed's Goolsbee: Starting to see inflation kicking up in services.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843509,
-   "ts": "2026-11-09T15:25:19+00:00",
-   "ingested": "2026-11-09T18:40:22.380829+00:00",
-   "headline": "Moody's affirms Verizon's Baa1 Sr unsecured; outlook stable. $VZ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843508,
-   "ts": "2026-11-09T15:24:07+00:00",
-   "ingested": "2026-11-09T18:40:22.380841+00:00",
-   "headline": "Fed's Goolsbee: We've got to come to terms with inflation failure",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843507,
-   "ts": "2026-11-09T15:23:44+00:00",
-   "ingested": "2026-11-09T18:40:22.380851+00:00",
-   "headline": "Fed's Goolsbee: Big problem has all been on the inflation side.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843506,
-   "ts": "2026-11-09T15:23:22+00:00",
-   "ingested": "2026-11-09T18:40:22.380861+00:00",
-   "headline": "Fed's Goolsbee: Employment and growth are actually pretty stable.",
    "channel": "rss",
    "source": "financialjuice"
   }
