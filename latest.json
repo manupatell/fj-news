@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T11:25:25.532849+00:00",
+ "updated": "2026-11-10T11:33:45.549838+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845134,
+   "ts": "2026-11-10T11:32:52+00:00",
+   "ingested": "2026-11-10T11:33:45.549392+00:00",
+   "headline": "AMD, Broadcom, Google, others to invest $26b in Anthropic.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845105,
    "ts": "2026-11-10T11:13:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T06:00:04+00:00",
    "ingested": "2026-11-07T06:01:20.071621+00:00",
    "headline": "Polls close in New Zealand general election: early results expected soon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841793,
-   "ts": "2026-11-07T05:06:45+00:00",
-   "ingested": "2026-11-07T05:08:28.959293+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed Houthi cruise missile targeted at Riyadh",
    "channel": "rss",
    "source": "financialjuice"
   }
