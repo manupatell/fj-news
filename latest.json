@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T11:33:45.549838+00:00",
+ "updated": "2026-11-10T11:35:25.608690+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845135,
+   "ts": "2026-11-10T11:35:05+00:00",
+   "ingested": "2026-11-10T11:35:25.608267+00:00",
+   "headline": "AMD agrees to buy $2.58 of Anthropic class n stock.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845134,
    "ts": "2026-11-10T11:32:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T06:10:52+00:00",
    "ingested": "2026-11-07T06:11:20.118783+00:00",
    "headline": "New Zealand Electoral Commission data: ruling National at 30.81%, opposition Labour on 29.88% with 1.6% of votes counted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841832,
-   "ts": "2026-11-07T06:00:04+00:00",
-   "ingested": "2026-11-07T06:01:20.071621+00:00",
-   "headline": "Polls close in New Zealand general election: early results expected soon",
    "channel": "rss",
    "source": "financialjuice"
   }
