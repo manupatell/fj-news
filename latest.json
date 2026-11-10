@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:15:08.503302+00:00",
+ "updated": "2026-11-10T21:16:08.523757+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845985,
+   "ts": "2026-11-10T21:15:12+00:00",
+   "ingested": "2026-11-10T21:16:08.523341+00:00",
+   "headline": "Fed's Bowman: AI will make workers more productive, create new jobs, and eliminate less-necessary jobs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845984,
    "ts": "2026-11-10T21:14:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T14:07:25+00:00",
    "ingested": "2026-11-09T14:08:46.955068+00:00",
    "headline": "Fitch Ratings: The risk of Bitcoin market liquidity becoming constrained in response to crypto-specific shocks may have reduced as the market has matured.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843412,
-   "ts": "2026-11-09T14:04:42+00:00",
-   "ingested": "2026-11-09T14:05:26.979392+00:00",
-   "headline": "Fitch Ratings: Binance hack suggests stronger Bitcoin market resilience to stress.",
    "channel": "rss",
    "source": "financialjuice"
   }
