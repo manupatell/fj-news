@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T13:26:05.577760+00:00",
+ "updated": "2026-11-10T13:29:25.578152+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845316,
+   "ts": "2026-11-10T13:29:10+00:00",
+   "ingested": "2026-11-10T13:29:25.577700+00:00",
+   "headline": "BoE's Lombardelli: A number of European countries such as France have really difficult debt trajectories.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845315,
+   "ts": "2026-11-10T13:28:52+00:00",
+   "ingested": "2026-11-10T13:29:25.577716+00:00",
+   "headline": "US Sec. of Defense Hegseth ends remarks to reporters.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845314,
    "ts": "2026-11-10T13:25:16+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-07T21:11:04+00:00",
    "ingested": "2026-11-07T21:12:05.534926+00:00",
    "headline": "Iran's IRGC navy: two oil tankers struck mines near Strait of Hormuz - Iranian state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842125,
-   "ts": "2026-11-07T20:36:31+00:00",
-   "ingested": "2026-11-07T20:37:05.566786+00:00",
-   "headline": "US Central Command: Forces disabled commercial ship in Gulf of Oman Saturday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842124,
-   "ts": "2026-11-07T20:31:37+00:00",
-   "ingested": "2026-11-07T20:32:05.499115+00:00",
-   "headline": "Iran\u2019s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks",
    "channel": "rss",
    "source": "financialjuice"
   }
