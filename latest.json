@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:36:05.582545+00:00",
+ "updated": "2026-11-10T13:37:45.579483+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845349,
+   "ts": "2026-11-10T13:36:11+00:00",
+   "ingested": "2026-11-10T13:37:45.579071+00:00",
+   "headline": "US Secretary of State Rubio on Iran: Economic pressure on Iran is going to get even worse.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845348,
    "ts": "2026-11-10T13:35:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T01:47:44+00:00",
    "ingested": "2026-11-08T01:49:22.287746+00:00",
    "headline": "Saudi civil defense issues warning of potential threat in Dhahran and Abqaiq",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842178,
-   "ts": "2026-11-08T01:43:29+00:00",
-   "ingested": "2026-11-08T01:44:22.277463+00:00",
-   "headline": "Saudi civil defense issues warning of potential hazard in Dammam - post on X",
    "channel": "rss",
    "source": "financialjuice"
   }
