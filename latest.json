@@ -1,7 +1,167 @@
 {
- "updated": "2026-11-10T07:25:22.707562+00:00",
+ "updated": "2026-11-10T09:21:50.943303+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844940,
+   "ts": "2026-11-10T09:21:09+00:00",
+   "ingested": "2026-11-10T09:21:50.942636+00:00",
+   "headline": "Kremlin on whether resumption of Black sea Shipping is on agenda of talks in Abu Dhabi: Will not answer such questions while talks are underway.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844925,
+   "ts": "2026-11-10T09:06:22+00:00",
+   "ingested": "2026-11-10T09:21:50.942657+00:00",
+   "headline": "UAE's energy ministry selling 1.7 mln bbls of Arab light oil from salvaged tanker for November 10-20 loading - Document.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844924,
+   "ts": "2026-11-10T09:02:54+00:00",
+   "ingested": "2026-11-10T09:21:50.942672+00:00",
+   "headline": "Fed's Waller: Labor market solid, supply and demand roughly in balance, employment close to Fed's goal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844923,
+   "ts": "2026-11-10T09:02:41+00:00",
+   "ingested": "2026-11-10T09:21:50.942686+00:00",
+   "headline": "Fed's Waller: Fed staff analyses suggest more producer price increases ahead, and potential for energy price shock to be more persistent.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844922,
+   "ts": "2026-11-10T09:02:03+00:00",
+   "ingested": "2026-11-10T09:21:50.942698+00:00",
+   "headline": "Fed's Waller: Suspect GDP growth is backing off in current quarter, but output will continue to grow at solid pace.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844921,
+   "ts": "2026-11-10T09:01:49+00:00",
+   "ingested": "2026-11-10T09:21:50.942707+00:00",
+   "headline": "Fed's Waller: Particularly concerned about the breadth of price increases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844920,
+   "ts": "2026-11-10T09:01:30+00:00",
+   "ingested": "2026-11-10T09:21:50.942719+00:00",
+   "headline": "Fed's Waller: Was willing to wait on policy tightening in October; what matters is that promised hikes are delivered in a reasonable period of time.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844919,
+   "ts": "2026-11-10T09:01:17+00:00",
+   "ingested": "2026-11-10T09:21:50.942732+00:00",
+   "headline": "Fed's Waller: US inflation is too high, \u2018September's inflation data was bad.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844898,
+   "ts": "2026-11-10T09:00:59+00:00",
+   "ingested": "2026-11-10T09:21:50.942744+00:00",
+   "headline": "Fed's Waller: Would support quarter-point rate hike in December even if October CPI improves vs September.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844897,
+   "ts": "2026-11-10T09:00:40+00:00",
+   "ingested": "2026-11-10T09:21:50.942756+00:00",
+   "headline": "Fed's Waller: Half-point Fed rate hike may be needed in december, if October core CPI inflation comes in around 0.3% or higher.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844888,
+   "ts": "2026-11-10T08:55:52+00:00",
+   "ingested": "2026-11-10T09:21:50.942766+00:00",
+   "headline": "BoE Breeden: Firms now very good at adapting to cost shocks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844847,
+   "ts": "2026-11-10T08:21:23+00:00",
+   "ingested": "2026-11-10T09:21:50.942777+00:00",
+   "headline": "Qatari PM makes unscheduled stop at G7 to brief Europeans, Saudi Arabia after Trump talks on Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844832,
+   "ts": "2026-11-10T08:13:49+00:00",
+   "ingested": "2026-11-10T09:21:50.942787+00:00",
+   "headline": "trilateral talks on Ukraine start in Abu-Dhabi - Ria",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844817,
+   "ts": "2026-11-10T08:00:40+00:00",
+   "ingested": "2026-11-10T09:21:50.942798+00:00",
+   "headline": "Currency Strength Chart: Strongest: NZD, EUR, CHF, GBP, CAD, USD, JPY, AUD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844811,
+   "ts": "2026-11-10T07:59:18+00:00",
+   "ingested": "2026-11-10T09:21:50.942808+00:00",
+   "headline": "ECB's Lane: Europe's economic resilience is quite reassuring.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844810,
+   "ts": "2026-11-10T07:59:06+00:00",
+   "ingested": "2026-11-10T09:21:50.942817+00:00",
+   "headline": "ECB's Lane: French fiscal problems need to be fixed in Paris.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844809,
+   "ts": "2026-11-10T07:58:56+00:00",
+   "ingested": "2026-11-10T09:21:50.942826+00:00",
+   "headline": "ECB's Lane: Expect core, food inflation to quicken.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844808,
+   "ts": "2026-11-10T07:58:39+00:00",
+   "ingested": "2026-11-10T09:21:50.942835+00:00",
+   "headline": "ECB's Lane: More to come in terms of peak inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844807,
+   "ts": "2026-11-10T07:58:29+00:00",
+   "ingested": "2026-11-10T09:21:50.942845+00:00",
+   "headline": "ECB's Lane: Prudent to hike in December if data don't shift.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844806,
+   "ts": "2026-11-10T07:58:20+00:00",
+   "ingested": "2026-11-10T09:21:50.942855+00:00",
+   "headline": "ECB's Lane: Inflation likely \u201ca little bit' over 4% at year-end.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844752,
    "ts": "2026-11-10T07:14:19+00:00",
@@ -3839,166 +3999,6 @@
    "ts": "2026-11-06T22:44:29+00:00",
    "ingested": "2026-11-06T22:45:29.660369+00:00",
    "headline": "Paraguay prosecutor's office issues arrest warrant for former central bank chief",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841546,
-   "ts": "2026-11-06T22:44:07+00:00",
-   "ingested": "2026-11-06T22:45:29.660382+00:00",
-   "headline": "Paraguay prosecutor's office issues arrest warrant for Santiago Pena",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841534,
-   "ts": "2026-11-06T22:21:11+00:00",
-   "ingested": "2026-11-06T22:22:09.664269+00:00",
-   "headline": "Week Ahead Sentiment: Quiet Week Post Stock Market Bloodbath - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841522,
-   "ts": "2026-11-06T22:08:26+00:00",
-   "ingested": "2026-11-06T22:08:49.683272+00:00",
-   "headline": "Iran state broadcaster cites informed source: two blasts heard near Suza area in Qeshm Island, no casualty reports",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841513,
-   "ts": "2026-11-06T22:01:05+00:00",
-   "ingested": "2026-11-06T22:02:09.686768+00:00",
-   "headline": "Iran's semi-official Tasnim news agency: initial reports suggest two missiles hit Qeshm Island; no official confirmation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841512,
-   "ts": "2026-11-06T22:00:33+00:00",
-   "ingested": "2026-11-06T22:02:09.686780+00:00",
-   "headline": "Anthropic to start IPO roadshow next week: the information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841473,
-   "ts": "2026-11-06T21:10:40+00:00",
-   "ingested": "2026-11-06T21:12:09.630690+00:00",
-   "headline": "USD CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841472,
-   "ts": "2026-11-06T21:10:38+00:00",
-   "ingested": "2026-11-06T21:12:09.630702+00:00",
-   "headline": "EUR CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841471,
-   "ts": "2026-11-06T21:10:36+00:00",
-   "ingested": "2026-11-06T21:12:09.630710+00:00",
-   "headline": "AUD CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841470,
-   "ts": "2026-11-06T21:10:35+00:00",
-   "ingested": "2026-11-06T21:12:09.630717+00:00",
-   "headline": "JPY CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841469,
-   "ts": "2026-11-06T21:10:32+00:00",
-   "ingested": "2026-11-06T21:12:09.630723+00:00",
-   "headline": "GBP CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841468,
-   "ts": "2026-11-06T21:10:31+00:00",
-   "ingested": "2026-11-06T21:12:09.630730+00:00",
-   "headline": "CHF CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841467,
-   "ts": "2026-11-06T21:10:29+00:00",
-   "ingested": "2026-11-06T21:12:09.630737+00:00",
-   "headline": "NZD CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841466,
-   "ts": "2026-11-06T21:10:28+00:00",
-   "ingested": "2026-11-06T21:12:09.630743+00:00",
-   "headline": "CAD CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841465,
-   "ts": "2026-11-06T21:10:26+00:00",
-   "ingested": "2026-11-06T21:12:09.630749+00:00",
-   "headline": "ZN CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841464,
-   "ts": "2026-11-06T21:10:25+00:00",
-   "ingested": "2026-11-06T21:12:09.630756+00:00",
-   "headline": "ZT CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841463,
-   "ts": "2026-11-06T21:10:23+00:00",
-   "ingested": "2026-11-06T21:12:09.630762+00:00",
-   "headline": "VIX CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841462,
-   "ts": "2026-11-06T21:10:21+00:00",
-   "ingested": "2026-11-06T21:12:09.630769+00:00",
-   "headline": "NQ CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841461,
-   "ts": "2026-11-06T21:10:20+00:00",
-   "ingested": "2026-11-06T21:12:09.630775+00:00",
-   "headline": "ES CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841460,
-   "ts": "2026-11-06T21:10:18+00:00",
-   "ingested": "2026-11-06T21:10:29.628204+00:00",
-   "headline": "WTI CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841459,
-   "ts": "2026-11-06T21:10:17+00:00",
-   "ingested": "2026-11-06T21:10:29.628215+00:00",
-   "headline": "Copper CFTC Positions Week of November 3rd - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
