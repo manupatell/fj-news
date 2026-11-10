@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:02:05.608043+00:00",
+ "updated": "2026-11-10T14:03:45.599424+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845400,
+   "ts": "2026-11-10T14:03:29+00:00",
+   "ingested": "2026-11-10T14:03:45.599024+00:00",
+   "headline": "US Sentiment: CPI Hammers Markets, 50 BPS Hike Expectation Grows - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845383,
    "ts": "2026-11-10T14:01:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T05:05:48+00:00",
    "ingested": "2026-11-08T05:06:26.458464+00:00",
    "headline": "Multiple loud blasts heard in Riyadh: witness source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842271,
-   "ts": "2026-11-08T05:01:41+00:00",
-   "ingested": "2026-11-08T05:03:06.467674+00:00",
-   "headline": "Saudi civil defense issues early alert in Riyadh region",
    "channel": "rss",
    "source": "financialjuice"
   }
