@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T14:03:45.599424+00:00",
+ "updated": "2026-11-10T14:05:25.601167+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845402,
+   "ts": "2026-11-10T14:05:00+00:00",
+   "ingested": "2026-11-10T14:05:25.600701+00:00",
+   "headline": "Adobe & Google deepen AI partnership. $ADBE $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845401,
+   "ts": "2026-11-10T14:04:02+00:00",
+   "ingested": "2026-11-10T14:05:25.600721+00:00",
+   "headline": "Bets on a 50-basis point Fed rate hike in December begin to build after hotter-than-expected CPI, odds last at around 10% - CME Fedwatch.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845400,
    "ts": "2026-11-10T14:03:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-08T06:04:53+00:00",
    "ingested": "2026-11-08T06:06:26.453746+00:00",
    "headline": "Saudi-led coalition: two cruise missiles intercepted and destroyed in Riyadh and southern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842276,
-   "ts": "2026-11-08T05:33:40+00:00",
-   "ingested": "2026-11-08T05:34:46.462904+00:00",
-   "headline": "Saudi-led coalition: intercepts and destroys two missiles launched by Houthis toward Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842272,
-   "ts": "2026-11-08T05:05:48+00:00",
-   "ingested": "2026-11-08T05:06:26.458464+00:00",
-   "headline": "Multiple loud blasts heard in Riyadh: witness source",
    "channel": "rss",
    "source": "financialjuice"
   }
