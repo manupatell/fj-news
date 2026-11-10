@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-10T23:22:09.032727+00:00",
+ "updated": "2026-11-10T23:31:18.993158+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846153,
+   "ts": "2026-11-10T23:30:14+00:00",
+   "ingested": "2026-11-10T23:31:18.992695+00:00",
+   "headline": "Fed's Paulson: backed recent rate moves",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846152,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992709+00:00",
+   "headline": "Fed's Paulson: economy more resilient than expected, job market firm and steady",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846151,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992718+00:00",
+   "headline": "Fed's Paulson: underlying inflation remains between 2.5% and 3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846150,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992725+00:00",
+   "headline": "Fed's Paulson: AI and energy effect on inflation difficult to measure",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846149,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992732+00:00",
+   "headline": "Fed's Paulson: monetary policy must stay somewhat tight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846148,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992745+00:00",
+   "headline": "Fed\u2019s Paulson: further \u2018gradual\u2019 rate increases appropriate given high inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846147,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992753+00:00",
+   "headline": "Fed\u2019s Paulson: central bank has \u2018more work to do\u2019 to reduce inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846146,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992761+00:00",
+   "headline": "Fed's Paulson: CPI data indicates inflation still an issue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846145,
+   "ts": "2026-11-10T23:30:04+00:00",
+   "ingested": "2026-11-10T23:31:18.992767+00:00",
+   "headline": "Fed's Paulson: inflation outlook risks elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846144,
+   "ts": "2026-11-10T23:30:03+00:00",
+   "ingested": "2026-11-10T23:31:18.992775+00:00",
+   "headline": "Fed\u2019s Paulson: precise trajectory of rate policy hinges on economic developments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846143,
+   "ts": "2026-11-10T23:30:03+00:00",
+   "ingested": "2026-11-10T23:31:18.992782+00:00",
+   "headline": "Fed's Paulson: slow rate increases have allowed economy time to adapt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846142,
+   "ts": "2026-11-10T23:30:03+00:00",
+   "ingested": "2026-11-10T23:31:18.992789+00:00",
+   "headline": "Fed\u2019s Paulson: gradual rate increases have allowed officials room to assess impact",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846141,
    "ts": "2026-11-10T23:21:51+00:00",
@@ -3903,102 +3999,6 @@
    "ts": "2026-11-09T16:08:57+00:00",
    "ingested": "2026-11-09T18:40:22.380625+00:00",
    "headline": "French Foreign Minister Barrot: There will be EU sanctions against Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843582,
-   "ts": "2026-11-09T16:08:39+00:00",
-   "ingested": "2026-11-09T18:40:22.380637+00:00",
-   "headline": "French Foreign Minister Barrot on Iran Fridge attacks: There will be consequences for Iran as a result of this.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843581,
-   "ts": "2026-11-09T16:08:19+00:00",
-   "ingested": "2026-11-09T18:40:22.380654+00:00",
-   "headline": "France\u2019s Barrot: Iran Revolutionary Guard are behind this cyberattack on the fridges. The Iranian Ambassador had been summoned to the Foreign Ministry.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843579,
-   "ts": "2026-11-09T16:04:13+00:00",
-   "ingested": "2026-11-09T18:40:22.380665+00:00",
-   "headline": "US probe of Megaspeed was halted after Nvidia intervened - NYT. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843578,
-   "ts": "2026-11-09T16:03:40+00:00",
-   "ingested": "2026-11-09T18:40:22.380675+00:00",
-   "headline": "US chip inquiry was halted after Nvidia intervention - NYT. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843563,
-   "ts": "2026-11-09T16:00:53+00:00",
-   "ingested": "2026-11-09T18:40:22.380685+00:00",
-   "headline": "NY Fed: In October households more upbeat on personal financial situation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843562,
-   "ts": "2026-11-09T16:00:50+00:00",
-   "ingested": "2026-11-09T18:40:22.380696+00:00",
-   "headline": "NY Fed: October expectations of current and future credit access unchanged.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843561,
-   "ts": "2026-11-09T16:00:42+00:00",
-   "ingested": "2026-11-09T18:40:22.380707+00:00",
-   "headline": "NY Fed: October year-ahead expected gas price change moderates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843560,
-   "ts": "2026-11-09T16:00:36+00:00",
-   "ingested": "2026-11-09T18:40:22.380718+00:00",
-   "headline": "NY Fed: October expectation of rising unemployment rate is the highest since April 2020.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843559,
-   "ts": "2026-11-09T16:00:31+00:00",
-   "ingested": "2026-11-09T18:40:22.380728+00:00",
-   "headline": "NY Fed: October year-ahead expected home price change unchanged at 3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843555,
-   "ts": "2026-11-09T16:00:21+00:00",
-   "ingested": "2026-11-09T18:40:22.380739+00:00",
-   "headline": "NY Fed: October three-year-ahead expected inflation unchanged from September at 3.3%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843554,
-   "ts": "2026-11-09T16:00:00+00:00",
-   "ingested": "2026-11-09T18:40:22.380750+00:00",
-   "headline": "NY Fed 1 Yr Inflation Expectations Actual 3.91% (Forecast 3.79%, Previous 3.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843552,
-   "ts": "2026-11-09T15:52:39+00:00",
-   "ingested": "2026-11-09T18:40:22.380761+00:00",
-   "headline": "French officials suspect Iran was behind October refrigerator hacks - sources",
    "channel": "rss",
    "source": "financialjuice"
   }
