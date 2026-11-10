@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T12:47:05.605271+00:00",
+ "updated": "2026-11-10T12:56:05.596724+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845247,
+   "ts": "2026-11-10T12:54:40+00:00",
+   "ingested": "2026-11-10T12:56:05.596294+00:00",
+   "headline": "First house vote on Hegseth impeachment slated for 5:30pm ET.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845229,
    "ts": "2026-11-10T12:45:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T11:04:47+00:00",
    "ingested": "2026-11-07T11:06:20.148889+00:00",
    "headline": "New Zealand Prime Minister Luxon: talks and concessions will be necessary",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841916,
-   "ts": "2026-11-07T11:03:55+00:00",
-   "ingested": "2026-11-07T11:04:40.148641+00:00",
-   "headline": "New Zealand Prime Minister Luxon: There is a route to form next government but outcome too close to call",
    "channel": "rss",
    "source": "financialjuice"
   }
