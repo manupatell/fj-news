@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:34:25.581128+00:00",
+ "updated": "2026-11-10T13:36:05.582545+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845348,
+   "ts": "2026-11-10T13:35:00+00:00",
+   "ingested": "2026-11-10T13:36:05.582123+00:00",
+   "headline": "Traders boost bets on a half-point Fed rate hike next month.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845347,
    "ts": "2026-11-10T13:33:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T01:43:29+00:00",
    "ingested": "2026-11-08T01:44:22.277463+00:00",
    "headline": "Saudi civil defense issues warning of potential hazard in Dammam - post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842142,
-   "ts": "2026-11-07T21:39:19+00:00",
-   "ingested": "2026-11-07T21:40:25.544290+00:00",
-   "headline": "UFC CEO Dana White declines Trump\u2019s offer to become press secretary: source says - CNN",
    "channel": "rss",
    "source": "financialjuice"
   }
