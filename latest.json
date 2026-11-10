@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:19:45.644617+00:00",
+ "updated": "2026-11-10T14:21:25.639215+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845423,
+   "ts": "2026-11-10T14:20:03+00:00",
+   "ingested": "2026-11-10T14:21:25.638787+00:00",
+   "headline": "WH Sr. Adviser Hassett: Trickle down from energy prices is showing in the data - Fox Business",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845422,
    "ts": "2026-11-10T14:19:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T09:52:00+00:00",
    "ingested": "2026-11-08T09:53:06.526919+00:00",
    "headline": "IAEA: plant's link to only external power line, Ferosplavna-1, lost early today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842321,
-   "ts": "2026-11-08T09:51:40+00:00",
-   "ingested": "2026-11-08T09:53:06.526933+00:00",
-   "headline": "IAEA: Zaporizhzhia nuclear plant again loses all off-site power, relies on emergency diesel generators for reactor cooling",
    "channel": "rss",
    "source": "financialjuice"
   }
