@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T17:32:38.459020+00:00",
+ "updated": "2026-11-10T17:35:28.461766+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845699,
+   "ts": "2026-11-10T17:33:57+00:00",
+   "ingested": "2026-11-10T17:35:28.461344+00:00",
+   "headline": "Schumer calls for passing bill on AI chip exports.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845698,
    "ts": "2026-11-10T17:32:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T03:47:34+00:00",
    "ingested": "2026-11-09T03:49:02.893578+00:00",
    "headline": "China transport ministry: to extend suspension of special port fees on US vessels until Jan. 10, 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842750,
-   "ts": "2026-11-09T03:22:28+00:00",
-   "ingested": "2026-11-09T03:24:02.915436+00:00",
-   "headline": "Ousted Bangladeshi Prime Minister Sheikh Hasina requests new passport and ID card to return home from self-imposed exile in Delhi",
    "channel": "rss",
    "source": "financialjuice"
   }
