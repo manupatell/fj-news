@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T20:42:08.550295+00:00",
+ "updated": "2026-11-10T20:44:18.538480+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845949,
+   "ts": "2026-11-10T20:44:07+00:00",
+   "ingested": "2026-11-10T20:44:18.538082+00:00",
+   "headline": "Iran's Parliamentary Speaker Ghalibaf: China plays a \"prominent role\" in helping end the war",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845948,
    "ts": "2026-11-10T20:31:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:10:46+00:00",
    "ingested": "2026-11-09T13:12:06.941269+00:00",
    "headline": "Eurogroup President: The ideal situation would be to make a decision on a new ECB president by the end of the year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843335,
-   "ts": "2026-11-09T13:08:33+00:00",
-   "ingested": "2026-11-09T13:08:46.961460+00:00",
-   "headline": "Qatari Official: The US and Iran are talking to mediators on deal details.",
    "channel": "rss",
    "source": "financialjuice"
   }
