@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:02:45.570626+00:00",
+ "updated": "2026-11-10T13:06:05.577875+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845281,
+   "ts": "2026-11-10T13:04:16+00:00",
+   "ingested": "2026-11-10T13:06:05.577444+00:00",
+   "headline": "UBS on US CPI - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845280,
    "ts": "2026-11-10T13:02:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T15:29:03+00:00",
    "ingested": "2026-11-07T15:30:02.285773+00:00",
    "headline": "Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842018,
-   "ts": "2026-11-07T15:28:41+00:00",
-   "ingested": "2026-11-07T15:30:02.285796+00:00",
-   "headline": "Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency",
    "channel": "rss",
    "source": "financialjuice"
   }
