@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T23:45:22.938254+00:00",
+ "updated": "2026-11-10T23:46:22.993875+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846190,
+   "ts": "2026-11-10T23:46:03+00:00",
+   "ingested": "2026-11-10T23:46:22.993581+00:00",
+   "headline": "Fed's Goolsbee: my concern is emerging widespread price overheating",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846185,
    "ts": "2026-11-10T23:45:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T16:32:02+00:00",
    "ingested": "2026-11-09T18:40:22.380535+00:00",
    "headline": "US 3-Month Bill Bid-to-Cover Actual 2.67 (Forecast -, Previous 2.880)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843608,
-   "ts": "2026-11-09T16:29:11+00:00",
-   "ingested": "2026-11-09T18:40:22.380547+00:00",
-   "headline": "Stocks of crude oil in US SPR fell to 279.5 mln barrels last week, lowest since 1982.",
    "channel": "rss",
    "source": "financialjuice"
   }
