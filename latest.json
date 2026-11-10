@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:28:05.610762+00:00",
+ "updated": "2026-11-10T14:36:25.625858+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845450,
+   "ts": "2026-11-10T14:34:54+00:00",
+   "ingested": "2026-11-10T14:36:25.625442+00:00",
+   "headline": "UK: Government security group is leading an investigation into a potential leak of budget measures which may have moved financial markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845427,
    "ts": "2026-11-10T14:27:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T11:02:48+00:00",
    "ingested": "2026-11-08T11:03:20.282913+00:00",
    "headline": "Anthropic secures $3.4bn agreement to produce gas-fired electricity for data centers - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842324,
-   "ts": "2026-11-08T09:53:40+00:00",
-   "ingested": "2026-11-08T09:54:46.536909+00:00",
-   "headline": "IAEA: team at ZnPP informed plant currently has adequate fuel reserves to run limited emergency diesel generators for two weeks",
    "channel": "rss",
    "source": "financialjuice"
   }
