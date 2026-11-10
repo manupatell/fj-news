@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T07:05:22.707435+00:00",
+ "updated": "2026-11-10T07:15:22.713375+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844752,
+   "ts": "2026-11-10T07:14:19+00:00",
+   "ingested": "2026-11-10T07:15:22.712996+00:00",
+   "headline": "China's Guo: China spy allegations around NVIDIA unfounded.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844720,
    "ts": "2026-11-10T07:02:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T21:10:17+00:00",
    "ingested": "2026-11-06T21:10:29.628215+00:00",
    "headline": "Copper CFTC Positions Week of November 3rd - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841458,
-   "ts": "2026-11-06T21:10:15+00:00",
-   "ingested": "2026-11-06T21:10:29.628222+00:00",
-   "headline": "Gold CFTC Positions Week of November 3rd - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
