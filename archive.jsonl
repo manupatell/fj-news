@@ -22857,3 +22857,4 @@
 {"guid": 9845836, "ts": "2026-11-10T19:31:10+00:00", "ingested": "2026-11-10T19:32:08.521721+00:00", "headline": "NYMEX WTI crude Dec. futures settle at $86.04 a barrel, down 81 cents, 0.93%", "channel": "rss", "source": "financialjuice"}
 {"guid": 9845844, "ts": "2026-11-10T19:31:17+00:00", "ingested": "2026-11-10T19:32:08.521708+00:00", "headline": "NYMEX gasoline Dec. futures settle at $2.6088 a gallon", "channel": "rss", "source": "financialjuice"}
 {"guid": 9845852, "ts": "2026-11-10T19:31:24+00:00", "ingested": "2026-11-10T19:32:08.521691+00:00", "headline": "NYMEX diesel Dec. futures settle at $4.1309 a gallon", "channel": "rss", "source": "financialjuice"}
+{"guid": 9845855, "ts": "2026-11-10T19:32:08+00:00", "ingested": "2026-11-10T19:32:18.497969+00:00", "headline": "NYMEX Natural Gas December futures settle at $3.2960/MMBTU", "channel": "rss", "source": "financialjuice"}
