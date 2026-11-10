@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:17:45.600844+00:00",
+ "updated": "2026-11-10T13:19:25.577811+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845311,
+   "ts": "2026-11-10T13:17:58+00:00",
+   "ingested": "2026-11-10T13:19:25.577380+00:00",
+   "headline": "US Sec. of Defense Hegseth: If Iran makes a wrong move, we're locked and loaded.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845309,
    "ts": "2026-11-10T13:17:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T19:39:08+00:00",
    "ingested": "2026-11-07T19:40:25.499955+00:00",
    "headline": "Explosions heard in Iran's Qeshm: IRNA corrects source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842101,
-   "ts": "2026-11-07T19:32:45+00:00",
-   "ingested": "2026-11-07T19:33:45.492629+00:00",
-   "headline": "Explosions reported in Iran's Qeshm: ISNA News Agency",
    "channel": "rss",
    "source": "financialjuice"
   }
