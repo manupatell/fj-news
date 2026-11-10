@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T05:33:42.684445+00:00",
+ "updated": "2026-11-10T05:35:22.682614+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844635,
+   "ts": "2026-11-10T05:34:55+00:00",
+   "ingested": "2026-11-10T05:35:22.682305+00:00",
+   "headline": "Dutch September manufacturing output rises 0.2% month on month: CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844634,
    "ts": "2026-11-10T05:33:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T19:31:41+00:00",
    "ingested": "2026-11-06T19:32:09.613423+00:00",
    "headline": "NYMEX Nat Gas Dec. futures settle at $2.9980/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841360,
-   "ts": "2026-11-06T19:31:14+00:00",
-   "ingested": "2026-11-06T19:32:09.613432+00:00",
-   "headline": "NYMEX WTI Crude Dec. futures settle at $90.83 a barrel up 31 cents, 0.34%",
    "channel": "rss",
    "source": "financialjuice"
   }
