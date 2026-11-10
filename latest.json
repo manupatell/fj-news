@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T02:55:22.634905+00:00",
+ "updated": "2026-11-10T03:02:02.645871+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844496,
+   "ts": "2026-11-10T03:01:04+00:00",
+   "ingested": "2026-11-10T03:02:02.645560+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys drone over eastern Saudi Arabia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844463,
    "ts": "2026-11-10T02:34:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T18:13:18+00:00",
    "ingested": "2026-11-06T18:30:07.477991+00:00",
    "headline": "Fed's Daly: When you step back from 'painful' volatility, this is the kind of rebalancing that you would hope for",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841259,
-   "ts": "2026-11-06T18:10:38+00:00",
-   "ingested": "2026-11-06T18:30:07.477999+00:00",
-   "headline": "Canada's Prime Minister Carney: We are talking to China about next steps on trade development",
    "channel": "rss",
    "source": "financialjuice"
   }
