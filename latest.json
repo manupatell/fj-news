@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T18:39:38.480261+00:00",
+ "updated": "2026-11-10T18:45:48.492778+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845785,
+   "ts": "2026-11-10T18:44:46+00:00",
+   "ingested": "2026-11-10T18:45:48.492356+00:00",
+   "headline": "Fed's Schmid: Some concerning trends in prices, underneath the whole energy story",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845783,
    "ts": "2026-11-10T18:38:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T07:00:03+00:00",
    "ingested": "2026-11-09T07:00:42.992974+00:00",
    "headline": "German Trade Balance SA Actual 15.6B (Forecast 19.4B, Previous 19.5B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842939,
-   "ts": "2026-11-09T06:48:50+00:00",
-   "ingested": "2026-11-09T06:49:02.948872+00:00",
-   "headline": "South Korea Industry Minister: Experts say unlike in the stock market, AI investment in the real economy is still robust.",
    "channel": "rss",
    "source": "financialjuice"
   }
