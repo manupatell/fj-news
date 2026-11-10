@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:14:45.613493+00:00",
+ "updated": "2026-11-10T14:16:25.641835+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845415,
+   "ts": "2026-11-10T14:15:58+00:00",
+   "ingested": "2026-11-10T14:16:25.641429+00:00",
+   "headline": "Yemen's Houthis denies attacking East-West pipeline in the Medina region.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845405,
    "ts": "2026-11-10T14:13:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T09:42:42+00:00",
    "ingested": "2026-11-08T09:43:06.519469+00:00",
    "headline": "Saudi energy ministry: limited physical harm caused",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842316,
-   "ts": "2026-11-08T09:42:40+00:00",
-   "ingested": "2026-11-08T09:43:06.519482+00:00",
-   "headline": "Saudi energy ministry: source says debris fell on building, no casualties reported on state TV",
    "channel": "rss",
    "source": "financialjuice"
   }
