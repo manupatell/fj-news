@@ -22829,3 +22829,4 @@
 {"guid": 9845729, "ts": "2026-11-10T18:00:22+00:00", "ingested": "2026-11-10T18:01:08.570262+00:00", "headline": "Treasury WI 10 Yr yield 5.010% before $42 billion auction", "channel": "rss", "source": "financialjuice"}
 {"guid": 9845734, "ts": "2026-11-10T18:02:06+00:00", "ingested": "2026-11-10T18:02:48.461973+00:00", "headline": "US 10-Year Note Bid-to-Cover Actual 2.46 (Forecast -, Previous 2.770)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9845735, "ts": "2026-11-10T18:02:06+00:00", "ingested": "2026-11-10T18:02:48.461957+00:00", "headline": "US 10-Year Note High Yield Actual 5.02% (Forecast -, Previous 5.300%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9845736, "ts": "2026-11-10T18:03:25+00:00", "ingested": "2026-11-10T18:03:48.473265+00:00", "headline": "US 10 Yr Note Auction", "channel": "rss", "source": "financialjuice"}
