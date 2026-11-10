@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T06:57:02.700279+00:00",
+ "updated": "2026-11-10T07:00:22.704302+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844718,
+   "ts": "2026-11-10T06:59:41+00:00",
+   "ingested": "2026-11-10T07:00:22.703987+00:00",
+   "headline": "ECB's Moulin: Expect continuity at ECB if Knot or de Cos take over.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844717,
    "ts": "2026-11-10T06:56:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T20:41:49+00:00",
    "ingested": "2026-11-06T20:42:09.628927+00:00",
    "headline": "CFTC Positions in the Week of November 3rd 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841399,
-   "ts": "2026-11-06T20:22:27+00:00",
-   "ingested": "2026-11-06T20:23:49.690493+00:00",
-   "headline": "Monday FX Options Expiries",
    "channel": "rss",
    "source": "financialjuice"
   }
