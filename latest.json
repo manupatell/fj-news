@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T18:03:48.473698+00:00",
+ "updated": "2026-11-10T18:07:08.498897+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845737,
+   "ts": "2026-11-10T18:06:48+00:00",
+   "ingested": "2026-11-10T18:07:08.498467+00:00",
+   "headline": "US 10-yr notes will carry 5% coupon, highest since 2006",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845736,
    "ts": "2026-11-10T18:03:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T05:00:42+00:00",
    "ingested": "2026-11-09T05:02:22.956497+00:00",
    "headline": "China auto industry body CPCA: China sold 1.65 million passenger cars in Oct, down 27.3% y/y",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842805,
-   "ts": "2026-11-09T05:00:05+00:00",
-   "ingested": "2026-11-09T05:00:42.924625+00:00",
-   "headline": "Nvidia, Rebellions and SK Telecom announce partnership to develop sovereign AI infrastructure with Nvidia NVLink Fusion",
    "channel": "rss",
    "source": "financialjuice"
   }
