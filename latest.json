@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T19:32:18.498440+00:00",
+ "updated": "2026-11-10T19:40:58.544653+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845857,
+   "ts": "2026-11-10T19:39:43+00:00",
+   "ingested": "2026-11-10T19:40:58.544227+00:00",
+   "headline": "House GOP considering issuing subpoena to Nvidia CEO - ABC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845855,
    "ts": "2026-11-10T19:32:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T11:34:57+00:00",
    "ingested": "2026-11-09T11:36:06.903494+00:00",
    "headline": "Apple's AI features on Ipad, Macbook get China's approval.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843231,
-   "ts": "2026-11-09T11:32:02+00:00",
-   "ingested": "2026-11-09T11:32:46.920518+00:00",
-   "headline": "French Labour Minister: To advance minimum wage raise to December 1.",
    "channel": "rss",
    "source": "financialjuice"
   }
