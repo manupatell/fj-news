@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T14:00:35.627232+00:00",
+ "updated": "2026-11-10T14:01:05.648696+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845381,
+   "ts": "2026-11-10T14:00:42+00:00",
+   "ingested": "2026-11-10T14:01:05.629697+00:00",
+   "headline": "ECB settled \u20ac1,625.2 bln public-sector bond purchases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845380,
+   "ts": "2026-11-10T14:00:32+00:00",
+   "ingested": "2026-11-10T14:01:05.629713+00:00",
+   "headline": "ECB bond holdings under PEPP \u20ac1.26 tln as of last week.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845377,
    "ts": "2026-11-10T14:00:19+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-08T04:31:55+00:00",
    "ingested": "2026-11-08T04:32:56.503007+00:00",
    "headline": "Iran executes three men convicted of involvement in armed unrest during January 2026 protests: state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842251,
-   "ts": "2026-11-08T04:17:15+00:00",
-   "ingested": "2026-11-08T04:17:42.301015+00:00",
-   "headline": "Israeli military: alerts sounded over suspected hostile infiltration in northern Israel, details under way",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842247,
-   "ts": "2026-11-08T04:15:02+00:00",
-   "ingested": "2026-11-08T04:16:02.277105+00:00",
-   "headline": "Israeli military: alerts triggered over suspected hostile incursion in northern Israel, investigation ongoing",
    "channel": "rss",
    "source": "financialjuice"
   }
