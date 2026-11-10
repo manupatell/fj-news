@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:01:18.554534+00:00",
+ "updated": "2026-11-10T21:02:58.498730+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845977,
+   "ts": "2026-11-10T21:01:38+00:00",
+   "ingested": "2026-11-10T21:02:58.498301+00:00",
+   "headline": "Fed's Bowman: Inflation expectations are an important data point, but they are not necessarily controlling how I think about things.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845962,
    "ts": "2026-11-10T21:00:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:24:09+00:00",
    "ingested": "2026-11-09T13:25:26.962132+00:00",
    "headline": "UKMTO received a late report of an incident near Khasab, Oman. The incident was on November 7th. Tanker reported to be on fire, crew evacuated. UKMTO reclassified this incident as an attack.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843357,
-   "ts": "2026-11-09T13:22:39+00:00",
-   "ingested": "2026-11-09T13:23:47.001785+00:00",
-   "headline": "Iraq PM visited Tehran on Friday for Iran-US war talks - Fars.",
    "channel": "rss",
    "source": "financialjuice"
   }
