@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:00:38.555162+00:00",
+ "updated": "2026-11-10T21:01:18.554534+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845962,
+   "ts": "2026-11-10T21:00:53+00:00",
+   "ingested": "2026-11-10T21:01:18.554138+00:00",
+   "headline": "Fed's Bowman: Longer-term inflation expectations are very well anchored.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845957,
    "ts": "2026-11-10T21:00:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:22:39+00:00",
    "ingested": "2026-11-09T13:23:47.001785+00:00",
    "headline": "Iraq PM visited Tehran on Friday for Iran-US war talks - Fars.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843337,
-   "ts": "2026-11-09T13:13:02+00:00",
-   "ingested": "2026-11-09T13:13:46.966675+00:00",
-   "headline": "Admin will give a congressional briefing today on NVIDIA CEO - CBS. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
