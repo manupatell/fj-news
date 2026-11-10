@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T12:33:05.562410+00:00",
+ "updated": "2026-11-10T12:34:45.561176+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845219,
+   "ts": "2026-11-10T12:34:33+00:00",
+   "ingested": "2026-11-10T12:34:45.560726+00:00",
+   "headline": "BoE's Lombardelli: The longer energy costs stay high, the greater pressure there will be on businesses to restore margins.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845218,
+   "ts": "2026-11-10T12:33:20+00:00",
+   "ingested": "2026-11-10T12:34:45.560741+00:00",
+   "headline": "BoE's Lombardelli: Greater prospect of second-round effects.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845217,
    "ts": "2026-11-10T12:32:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-07T09:48:00+00:00",
    "ingested": "2026-11-07T09:49:40.113642+00:00",
    "headline": "Russian forces hit Naftogaz facility thrice overnight in central Ukraine: company",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841892,
-   "ts": "2026-11-07T09:09:25+00:00",
-   "ingested": "2026-11-07T09:09:40.108030+00:00",
-   "headline": "New Zealand finance minister Willis: very unlikely to be returning to parliament",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841883,
-   "ts": "2026-11-07T08:38:15+00:00",
-   "ingested": "2026-11-07T08:39:40.104328+00:00",
-   "headline": "Ukraine's Zelenskiy: Russians deployed 172 drones and 36 ballistic missiles, all targeted at Kyiv and nearby areas overnight",
    "channel": "rss",
    "source": "financialjuice"
   }
