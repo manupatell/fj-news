@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T12:24:45.598702+00:00",
+ "updated": "2026-11-10T12:31:25.564691+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845196,
+   "ts": "2026-11-10T12:30:10+00:00",
+   "ingested": "2026-11-10T12:31:25.564254+00:00",
+   "headline": "China's Foreign Minister Wang Yi holds talks with French counterpart over phone - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845195,
    "ts": "2026-11-10T12:23:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T07:24:40+00:00",
    "ingested": "2026-11-07T07:26:20.088234+00:00",
    "headline": "New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841860,
-   "ts": "2026-11-07T07:11:25+00:00",
-   "ingested": "2026-11-07T07:13:00.081784+00:00",
-   "headline": "New Zealand Electoral Commission data: opposition Labour leads popular vote, but ruling National forms coalition with 24% counted",
    "channel": "rss",
    "source": "financialjuice"
   }
