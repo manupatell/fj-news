@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T02:27:02.633552+00:00",
+ "updated": "2026-11-10T02:32:02.632304+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844434,
+   "ts": "2026-11-10T02:31:02+00:00",
+   "ingested": "2026-11-10T02:32:02.631928+00:00",
+   "headline": "China Oct trade surplus $105.28 billion vs poll $125.8 billion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844433,
+   "ts": "2026-11-10T02:30:51+00:00",
+   "ingested": "2026-11-10T02:32:02.631951+00:00",
+   "headline": "China oct dollar-denominated exports rise 35.2% y/y, beating poll of 33.5% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844299,
    "ts": "2026-11-10T01:21:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T17:55:06+00:00",
    "ingested": "2026-11-06T18:30:07.478104+00:00",
    "headline": "Canadian Employment Change Market Reactions, Deviations & Sentiment - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841206,
-   "ts": "2026-11-06T17:38:56+00:00",
-   "ingested": "2026-11-06T18:30:07.478110+00:00",
-   "headline": "Microsoft Winds Down Oracle AI Compute Deal $ORCL $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841205,
-   "ts": "2026-11-06T17:36:57+00:00",
-   "ingested": "2026-11-06T18:30:07.478117+00:00",
-   "headline": "Microsoft is winding down its Oracle deal to rent AI cloud capacity. $MSFT $ORCL",
    "channel": "rss",
    "source": "financialjuice"
   }
