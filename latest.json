@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T18:01:08.570683+00:00",
+ "updated": "2026-11-10T18:02:48.462383+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845735,
+   "ts": "2026-11-10T18:02:06+00:00",
+   "ingested": "2026-11-10T18:02:48.461957+00:00",
+   "headline": "US 10-Year Note High Yield Actual 5.02% (Forecast -, Previous 5.300%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845734,
+   "ts": "2026-11-10T18:02:06+00:00",
+   "ingested": "2026-11-10T18:02:48.461973+00:00",
+   "headline": "US 10-Year Note Bid-to-Cover Actual 2.46 (Forecast -, Previous 2.770)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845729,
    "ts": "2026-11-10T18:00:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T04:38:47+00:00",
    "ingested": "2026-11-09T04:39:02.905271+00:00",
    "headline": "Iranian provincial official: Overnight US strike on Qeshm island did not affect key infrastructure and services - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842776,
-   "ts": "2026-11-09T04:12:45+00:00",
-   "ingested": "2026-11-09T04:14:02.914304+00:00",
-   "headline": "Iran's state TV, citing unnamed Revolutionary Guards navy official: Navigational aid systems in southern Hormuz destroyed, halting vessel transit on unauthorized route overnight",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842764,
-   "ts": "2026-11-09T03:48:00+00:00",
-   "ingested": "2026-11-09T03:49:02.893559+00:00",
-   "headline": "China transport ministry: to keep suspending probe into impact on shipping, shipbuilding supply chain security until Jan 10, 2027",
    "channel": "rss",
    "source": "financialjuice"
   }
