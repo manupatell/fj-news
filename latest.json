@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T13:07:45.572924+00:00",
+ "updated": "2026-11-10T13:09:25.587149+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845285,
+   "ts": "2026-11-10T13:08:49+00:00",
+   "ingested": "2026-11-10T13:09:25.586680+00:00",
+   "headline": "BoE's Lombardelli: I think there may be less slack in the UK economy than the central BoE view, perhaps 0-1% rather than 1%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845284,
+   "ts": "2026-11-10T13:08:05+00:00",
+   "ingested": "2026-11-10T13:09:25.586696+00:00",
+   "headline": "US Sec. of Defense Hegseth Press Conference - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845283,
    "ts": "2026-11-10T13:07:27+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-07T15:32:56+00:00",
    "ingested": "2026-11-07T15:33:22.304929+00:00",
    "headline": "Yemen's Houthis say they struck Riyadh airport; no Saudi confirmation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842029,
-   "ts": "2026-11-07T15:31:48+00:00",
-   "ingested": "2026-11-07T15:33:22.304951+00:00",
-   "headline": "Syrian-Saudi military cooperation could evolve into mutual defense pact or Syria joining Mecca defense accord: Syrian diplomatic source to SANA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842023,
-   "ts": "2026-11-07T15:30:58+00:00",
-   "ingested": "2026-11-07T15:31:42.150490+00:00",
-   "headline": "Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA",
    "channel": "rss",
    "source": "financialjuice"
   }
