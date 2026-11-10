@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:03:08.542070+00:00",
+ "updated": "2026-11-10T21:06:08.497586+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845979,
+   "ts": "2026-11-10T21:05:49+00:00",
+   "ingested": "2026-11-10T21:06:08.497189+00:00",
+   "headline": "$CRWV CoreWeave Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845978,
    "ts": "2026-11-10T21:02:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:48:11+00:00",
    "ingested": "2026-11-09T13:48:46.964905+00:00",
    "headline": "Mehr News citing Ankara: Qatar will host Trump's vice president and Iran's General Rezaei next week.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843369,
-   "ts": "2026-11-09T13:37:55+00:00",
-   "ingested": "2026-11-09T13:38:46.976833+00:00",
-   "headline": "Russian delegation has left for Abu Dhabi - IFX.",
    "channel": "rss",
    "source": "financialjuice"
   }
