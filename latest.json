@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-10T20:23:18.528887+00:00",
+ "updated": "2026-11-10T20:31:18.522994+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845926,
+   "ts": "2026-11-10T20:30:50+00:00",
+   "ingested": "2026-11-10T20:31:18.522519+00:00",
+   "headline": "Fed's Bowman: Core PCE likely rose 3.3% in October on energy prices, AI-related demand",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845925,
+   "ts": "2026-11-10T20:30:46+00:00",
+   "ingested": "2026-11-10T20:31:18.522534+00:00",
+   "headline": "Fed's Bowman: Bringing inflation down remains a priority.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845923,
+   "ts": "2026-11-10T20:30:33+00:00",
+   "ingested": "2026-11-10T20:31:18.522547+00:00",
+   "headline": "Fed's Bowman: Financial conditions have tightened, the Fed must weigh the costs of additional policy tightening.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845922,
+   "ts": "2026-11-10T20:30:31+00:00",
+   "ingested": "2026-11-10T20:31:18.522558+00:00",
+   "headline": "Fed's Bowman: Persistent inflation, firming labor conditions suggest still work to do",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845917,
    "ts": "2026-11-10T20:21:43+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-09T12:53:06+00:00",
    "ingested": "2026-11-09T12:54:26.920316+00:00",
    "headline": "EU's Pierrakakis: European economy has demonstrated resilience.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843325,
-   "ts": "2026-11-09T12:52:14+00:00",
-   "ingested": "2026-11-09T12:52:46.919255+00:00",
-   "headline": "The Iraqi Prime Minister presented proposals to end the Iran war during his phone conversation with Trump - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843291,
-   "ts": "2026-11-09T12:30:52+00:00",
-   "ingested": "2026-11-09T12:31:06.935534+00:00",
-   "headline": "Google to challenge NVIDIA with two new versions of TPU systems.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843290,
-   "ts": "2026-11-09T12:30:30+00:00",
-   "ingested": "2026-11-09T12:31:06.935548+00:00",
-   "headline": "Google\u2019s TPU 8tx and 8i max to handle more specialized tasks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843272,
-   "ts": "2026-11-09T12:13:46+00:00",
-   "ingested": "2026-11-09T12:14:26.905911+00:00",
-   "headline": "French unions call for fresh strikes November 17 - CGT Head Binet",
    "channel": "rss",
    "source": "financialjuice"
   }
