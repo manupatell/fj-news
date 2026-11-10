@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T05:00:22.685181+00:00",
+ "updated": "2026-11-10T05:02:02.693981+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844584,
+   "ts": "2026-11-10T05:00:24+00:00",
+   "ingested": "2026-11-10T05:02:02.693580+00:00",
+   "headline": "Japanese Economy Watchers Poll Actual 46.1 (Forecast 47.1, Previous 47.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844576,
    "ts": "2026-11-10T04:49:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-06T18:25:47+00:00",
    "ingested": "2026-11-06T18:30:07.477956+00:00",
    "headline": "Council of Economic Advisers Chair Phelan: we'll need to see the next CPI to see what the Fed will do",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841271,
-   "ts": "2026-11-06T18:22:30+00:00",
-   "ingested": "2026-11-06T18:30:07.477971+00:00",
-   "headline": "Fed's Daly: Services inflation not coming down in the way we would expect",
    "channel": "rss",
    "source": "financialjuice"
   }
