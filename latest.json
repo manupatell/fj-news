@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T18:57:08.446753+00:00",
+ "updated": "2026-11-10T19:05:58.566114+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845809,
+   "ts": "2026-11-10T19:04:23+00:00",
+   "ingested": "2026-11-10T19:05:58.565705+00:00",
+   "headline": "Fed's Schmid: A lot of interesting data points between now and Fed's December meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845804,
    "ts": "2026-11-10T18:55:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T08:01:41+00:00",
    "ingested": "2026-11-09T08:02:22.966491+00:00",
    "headline": "China to extend suspension of exports controls targeting US companies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843014,
-   "ts": "2026-11-09T07:55:21+00:00",
-   "ingested": "2026-11-09T07:55:42.983109+00:00",
-   "headline": "Iran's Baghaei: IAEA visit to Bushehr has been made in recent days.",
    "channel": "rss",
    "source": "financialjuice"
   }
