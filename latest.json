@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:02:58.498730+00:00",
+ "updated": "2026-11-10T21:03:08.542070+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845978,
+   "ts": "2026-11-10T21:02:55+00:00",
+   "ingested": "2026-11-10T21:03:08.541667+00:00",
+   "headline": "Fed's Bowman: I would need to see AI and Middle East risks abate before I could be confident inflation will come down next year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845977,
    "ts": "2026-11-10T21:01:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:37:55+00:00",
    "ingested": "2026-11-09T13:38:46.976833+00:00",
    "headline": "Russian delegation has left for Abu Dhabi - IFX.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843358,
-   "ts": "2026-11-09T13:24:09+00:00",
-   "ingested": "2026-11-09T13:25:26.962132+00:00",
-   "headline": "UKMTO received a late report of an incident near Khasab, Oman. The incident was on November 7th. Tanker reported to be on fire, crew evacuated. UKMTO reclassified this incident as an attack.",
    "channel": "rss",
    "source": "financialjuice"
   }
