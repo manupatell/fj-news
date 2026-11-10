@@ -1,7 +1,383 @@
 {
- "updated": "2026-11-10T15:01:25.632845+00:00",
+ "updated": "2026-11-10T17:13:18.538698+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845666,
+   "ts": "2026-11-10T17:09:17+00:00",
+   "ingested": "2026-11-10T17:13:18.537671+00:00",
+   "headline": "Third oil tanker involved in illegal activity explodes in the Strait of Hormuz - IRIB News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845664,
+   "ts": "2026-11-10T17:02:51+00:00",
+   "ingested": "2026-11-10T17:13:18.537689+00:00",
+   "headline": "US STEO Report",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845645,
+   "ts": "2026-11-10T17:00:04+00:00",
+   "ingested": "2026-11-10T17:13:18.537703+00:00",
+   "headline": "WASDE Cotton End Stocks Actual 3.7M (Forecast 3.6M, Previous 3.8M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845644,
+   "ts": "2026-11-10T17:00:04+00:00",
+   "ingested": "2026-11-10T17:13:18.537715+00:00",
+   "headline": "WASDE Corn End Stocks Actual 1758M (Forecast 1.87M, Previous 1.849M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845643,
+   "ts": "2026-11-10T17:00:03+00:00",
+   "ingested": "2026-11-10T17:13:18.537726+00:00",
+   "headline": "WASDE Soybean End Stocks Actual 300M (Forecast 330M, Previous 315M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845642,
+   "ts": "2026-11-10T17:00:03+00:00",
+   "ingested": "2026-11-10T17:13:18.537736+00:00",
+   "headline": "WASDE Wheat End Stocks Actual 743M (Forecast 740M, Previous 740M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845641,
+   "ts": "2026-11-10T16:50:25+00:00",
+   "ingested": "2026-11-10T17:13:18.537750+00:00",
+   "headline": "Microsoft\u2019s market value surpasses Nvidia for the first time since June 2025. $MSFT $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845639,
+   "ts": "2026-11-10T16:46:53+00:00",
+   "ingested": "2026-11-10T17:13:18.537760+00:00",
+   "headline": "Syria weighs sending troops to aid Saudi war with Houthis - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845632,
+   "ts": "2026-11-10T16:44:31+00:00",
+   "ingested": "2026-11-10T17:13:18.537774+00:00",
+   "headline": "Canada PM Carney: Don't need a contested tax on web giants",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845631,
+   "ts": "2026-11-10T16:42:26+00:00",
+   "ingested": "2026-11-10T17:13:18.537785+00:00",
+   "headline": "Canada PM Carney: There are still some difficult areas in trade talks with the US",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845630,
+   "ts": "2026-11-10T16:36:01+00:00",
+   "ingested": "2026-11-10T17:13:18.537795+00:00",
+   "headline": "Canada's PM Carney: I may meet Trump later this month at Asian summits",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845629,
+   "ts": "2026-11-10T16:35:40+00:00",
+   "ingested": "2026-11-10T17:13:18.537805+00:00",
+   "headline": "Canada's PM Carney: I spoke briefly to Trump over the weekend.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845607,
+   "ts": "2026-11-10T16:25:47+00:00",
+   "ingested": "2026-11-10T17:13:18.537817+00:00",
+   "headline": "Canada's PM Carney: I will meet China's Xi later this month, says this will be a chance to have frank conversations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845592,
+   "ts": "2026-11-10T16:15:56+00:00",
+   "ingested": "2026-11-10T17:13:18.537827+00:00",
+   "headline": "Iran's Major General Rezai: Hormuz will not be reopened until Iran's 7 conditions are met.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845589,
+   "ts": "2026-11-10T16:15:02+00:00",
+   "ingested": "2026-11-10T17:13:18.537838+00:00",
+   "headline": "Russian delegation in Abu Dhabi did not have any contact with Europeans, according to a source - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845588,
+   "ts": "2026-11-10T16:13:31+00:00",
+   "ingested": "2026-11-10T17:13:18.537848+00:00",
+   "headline": "Goldman and Citi among banks in $270 mln stablecoin backing. $GS $C",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845587,
+   "ts": "2026-11-10T16:11:55+00:00",
+   "ingested": "2026-11-10T17:13:18.537861+00:00",
+   "headline": "Iran's Major General Rezai: asked the US to provide a clear and unambiguous response to our conditions, but they haven't yet provided such a response.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845586,
+   "ts": "2026-11-10T16:10:57+00:00",
+   "ingested": "2026-11-10T17:13:18.537871+00:00",
+   "headline": "Iran's Major General Rezai: The American response is deceptive - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845584,
+   "ts": "2026-11-10T16:02:24+00:00",
+   "ingested": "2026-11-10T17:13:18.537881+00:00",
+   "headline": "Google: Introducing 3 new domains: .eat, .fly, & .here. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845570,
+   "ts": "2026-11-10T16:00:59+00:00",
+   "ingested": "2026-11-10T17:13:18.537891+00:00",
+   "headline": "NY Fed: US Household Debt Rises $334 Billion to $19.1 Trillion in Q3",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845569,
+   "ts": "2026-11-10T16:00:49+00:00",
+   "ingested": "2026-11-10T17:13:18.537905+00:00",
+   "headline": "Google launches Gemini 4 Carbon globally; introductory price $2/1m input tokens. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845565,
+   "ts": "2026-11-10T15:56:59+00:00",
+   "ingested": "2026-11-10T17:13:18.537916+00:00",
+   "headline": "Press briefing by Russian delegation after talks in Abu Dhabi will take place on Wednesday - IFX cites source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845564,
+   "ts": "2026-11-10T15:56:44+00:00",
+   "ingested": "2026-11-10T17:13:18.537928+00:00",
+   "headline": "Deutsche Bank expects Fed to deliver an additional 25 BPS rate hike in January 2027 vs prior forecast of rate hikes in December and March",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845563,
+   "ts": "2026-11-10T15:55:30+00:00",
+   "ingested": "2026-11-10T17:13:18.537937+00:00",
+   "headline": "Traders fully price two quarter-point BoE hikes by March",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845561,
+   "ts": "2026-11-10T15:52:01+00:00",
+   "ingested": "2026-11-10T17:13:18.537948+00:00",
+   "headline": "Fed's Logan: Price pressures are also broader than tariffs, and the broad trend is likely to persist.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845560,
+   "ts": "2026-11-10T15:51:56+00:00",
+   "ingested": "2026-11-10T17:13:18.537958+00:00",
+   "headline": "Fed's Logan: Economic growth is strong, consumer spending solid, business spending robust.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845559,
+   "ts": "2026-11-10T15:51:48+00:00",
+   "ingested": "2026-11-10T17:13:18.537968+00:00",
+   "headline": "Fed's Logan: Inflation is trending meaningfully higher than the 2% goal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845558,
+   "ts": "2026-11-10T15:51:46+00:00",
+   "ingested": "2026-11-10T17:13:18.537977+00:00",
+   "headline": "Fed's Logan: Labor market is balanced and even tightening a bit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845557,
+   "ts": "2026-11-10T15:51:36+00:00",
+   "ingested": "2026-11-10T17:13:18.537988+00:00",
+   "headline": "Fed's Logan: Concerned that higher-than-expected consumer price index means personal consumption expenditures inflation could rise.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845556,
+   "ts": "2026-11-10T15:51:29+00:00",
+   "ingested": "2026-11-10T17:13:18.538000+00:00",
+   "headline": "Fed's Logan: Accommodative policy is adding to inflationary pressures; the real Fed funds rate is 78 basis points, data suggest.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845555,
+   "ts": "2026-11-10T15:51:25+00:00",
+   "ingested": "2026-11-10T17:13:18.538009+00:00",
+   "headline": "Fed's Logan: Wartime energy disruptions not the only source of price pressures.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845554,
+   "ts": "2026-11-10T15:51:17+00:00",
+   "ingested": "2026-11-10T17:13:18.538020+00:00",
+   "headline": "Fed's Logan: Fed policy rate is at least 50 basis points below a modestly restrictive level.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845553,
+   "ts": "2026-11-10T15:51:08+00:00",
+   "ingested": "2026-11-10T17:13:18.538031+00:00",
+   "headline": "Fed's Logan: After two more rate hikes, it would make sense to pause and assess what further action may be appropriate.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845552,
+   "ts": "2026-11-10T15:51:06+00:00",
+   "ingested": "2026-11-10T17:13:18.538042+00:00",
+   "headline": "Fed's Logan: Higher bond-market rates signal monetary policy has work to do, not an independent tailwind for activity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845551,
+   "ts": "2026-11-10T15:50:58+00:00",
+   "ingested": "2026-11-10T17:13:18.538052+00:00",
+   "headline": "Fed's Logan: Important to promptly achieve balance in outlook, risks for inflation and employment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845550,
+   "ts": "2026-11-10T15:50:56+00:00",
+   "ingested": "2026-11-10T17:13:18.538063+00:00",
+   "headline": "Fed's Logan: Adjusting policy gradually can reduce the risk that economic activity deteriorates more sharply than necessary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845549,
+   "ts": "2026-11-10T15:50:40+00:00",
+   "ingested": "2026-11-10T17:13:18.538075+00:00",
+   "headline": "Fed's Logan: It may be possible to raise interest rates more rapidly this winter than the US central bank has moved so far.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845548,
+   "ts": "2026-11-10T15:50:38+00:00",
+   "ingested": "2026-11-10T17:13:18.538085+00:00",
+   "headline": "Fed's Logan: More rapid rate hikes possibly needed this winter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845547,
+   "ts": "2026-11-10T15:50:24+00:00",
+   "ingested": "2026-11-10T17:13:18.538096+00:00",
+   "headline": "Fed's Logan: It is clear that Fed needs at least two more quarter-percentage-point rate increases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845532,
+   "ts": "2026-11-10T15:43:43+00:00",
+   "ingested": "2026-11-10T17:13:18.538104+00:00",
+   "headline": "UKMTO: Tanker struck by unknown projectile.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845531,
+   "ts": "2026-11-10T15:42:38+00:00",
+   "ingested": "2026-11-10T17:13:18.538116+00:00",
+   "headline": "UKMTO receives a report of an incident near Oman\u2019s Lima on November 10th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845530,
+   "ts": "2026-11-10T15:41:24+00:00",
+   "ingested": "2026-11-10T17:13:18.538125+00:00",
+   "headline": "WATCH LIVE: Fed's Logan Speaks 10:50 ET",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845529,
+   "ts": "2026-11-10T15:35:01+00:00",
+   "ingested": "2026-11-10T17:13:18.538135+00:00",
+   "headline": "Israel's Prime Minister Netanyahu: Israel to face pressure to retreat from security zones.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845528,
+   "ts": "2026-11-10T15:33:41+00:00",
+   "ingested": "2026-11-10T17:13:18.538145+00:00",
+   "headline": "Israel's Prime Minister Netanyahu: Iran working to renew nuclear threat.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845508,
+   "ts": "2026-11-10T15:19:44+00:00",
+   "ingested": "2026-11-10T17:13:18.538154+00:00",
+   "headline": "Fear & Greed Index: 34/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845507,
+   "ts": "2026-11-10T15:18:10+00:00",
+   "ingested": "2026-11-10T17:13:18.538163+00:00",
+   "headline": "Crypto Fear & Greed Index: 32/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845483,
+   "ts": "2026-11-10T15:08:17+00:00",
+   "ingested": "2026-11-10T17:13:18.538177+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: War does not end with military action or sanctions; The solution is diplomacy and compliance with Iran's conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845472,
    "ts": "2026-11-10T14:56:19+00:00",
@@ -3623,382 +3999,6 @@
    "ts": "2026-11-09T01:30:15+00:00",
    "ingested": "2026-11-09T01:31:41.500494+00:00",
    "headline": "China: October food CPI falls 2.9% year on year; non-food CPI rises 1.5%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842635,
-   "ts": "2026-11-09T01:30:15+00:00",
-   "ingested": "2026-11-09T01:31:41.500513+00:00",
-   "headline": "China october cpi unchanged from previous month: poll matches 0.0%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842634,
-   "ts": "2026-11-09T01:30:13+00:00",
-   "ingested": "2026-11-09T01:31:41.500526+00:00",
-   "headline": "China October producer prices rise 0.7% month on month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842632,
-   "ts": "2026-11-09T01:30:13+00:00",
-   "ingested": "2026-11-09T01:31:41.500538+00:00",
-   "headline": "China October CPI rises 0.7% year on year, poll expected 0.8%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842630,
-   "ts": "2026-11-09T01:21:25+00:00",
-   "ingested": "2026-11-09T01:21:41.507613+00:00",
-   "headline": "China cbank injects 182 billion yuan via overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842589,
-   "ts": "2026-11-09T00:23:43+00:00",
-   "ingested": "2026-11-09T00:24:01.474760+00:00",
-   "headline": "Trump, when asked if Rubio will remain secretary of state: \u2018I think so!\u2019 in CBS \u201860 Minutes\u2019 interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842588,
-   "ts": "2026-11-09T00:22:26+00:00",
-   "ingested": "2026-11-09T00:24:01.474780+00:00",
-   "headline": "China PBOC likely to fix yuan mid-point at 6.6799 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842587,
-   "ts": "2026-11-09T00:08:31+00:00",
-   "ingested": "2026-11-09T00:09:01.481512+00:00",
-   "headline": "Trump: AI risk can be managed, but 'I don't mind guardrails' in CBS '60 Minutes' interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842580,
-   "ts": "2026-11-08T23:51:36+00:00",
-   "ingested": "2026-11-08T23:52:21.463990+00:00",
-   "headline": "Japan's largest daily market intervention in July-Sept quarter was 7.98 trillion yen on July 30, finance ministry data shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842579,
-   "ts": "2026-11-08T23:50:05+00:00",
-   "ingested": "2026-11-08T23:50:41.479754+00:00",
-   "headline": "Japan foreign reserves $1,179.119 billion at end-October, $1,178.396 billion at end-September: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842577,
-   "ts": "2026-11-08T23:32:27+00:00",
-   "ingested": "2026-11-08T23:34:01.469980+00:00",
-   "headline": "Trump: many people disliked Vance's remarks on Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842573,
-   "ts": "2026-11-08T23:30:25+00:00",
-   "ingested": "2026-11-08T23:30:41.467294+00:00",
-   "headline": "Trump: I expect to hold talks with Xi and Putin",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842572,
-   "ts": "2026-11-08T23:26:13+00:00",
-   "ingested": "2026-11-08T23:27:21.470630+00:00",
-   "headline": "Trump on Nvidia's Huang: I would take him but don't know if he will join Asia trip",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842571,
-   "ts": "2026-11-08T23:25:08+00:00",
-   "ingested": "2026-11-08T23:25:41.455744+00:00",
-   "headline": "Trump on Nvidia CEO Huang: he is a good person",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842570,
-   "ts": "2026-11-08T23:24:48+00:00",
-   "ingested": "2026-11-08T23:25:41.455761+00:00",
-   "headline": "Trump on Nvidia CEO Huang: I have not discussed allegations with him",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842569,
-   "ts": "2026-11-08T23:24:37+00:00",
-   "ingested": "2026-11-08T23:25:41.455774+00:00",
-   "headline": "Trump on Dana White as press secretary: we will discuss other issues tomorrow",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842568,
-   "ts": "2026-11-08T23:23:49+00:00",
-   "ingested": "2026-11-08T23:24:01.475537+00:00",
-   "headline": "Trump on Dana White as press secretary: he was joking",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842564,
-   "ts": "2026-11-08T23:03:41+00:00",
-   "ingested": "2026-11-08T23:04:01.460478+00:00",
-   "headline": "Japan Tobacco Inc.: impact of temporary management on Russian operations under review, JT group continues assessing potential financial effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842563,
-   "ts": "2026-11-08T23:03:07+00:00",
-   "ingested": "2026-11-08T23:04:01.460493+00:00",
-   "headline": "Japan Tobacco Inc.: Russian business continues operating at present",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842562,
-   "ts": "2026-11-08T23:02:50+00:00",
-   "ingested": "2026-11-08T23:04:01.460511+00:00",
-   "headline": "Japan Tobacco Inc.: all JT group\u2019s entities in Russia now under temporary administration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842561,
-   "ts": "2026-11-08T23:02:25+00:00",
-   "ingested": "2026-11-08T23:04:01.460525+00:00",
-   "headline": "Japan Tobacco expands temporary administration to three additional manufacturing entities beyond four cited in Nov 6 announcement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842557,
-   "ts": "2026-11-08T23:00:44+00:00",
-   "ingested": "2026-11-08T23:02:21.460239+00:00",
-   "headline": "Japan Tobacco Inc.: update on JT group's operations in Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842549,
-   "ts": "2026-11-08T22:30:03+00:00",
-   "ingested": "2026-11-08T22:30:41.439862+00:00",
-   "headline": "RBA's Hunter: Extra supply will match demand, AI's long-term impact on inflation probably neutral",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842548,
-   "ts": "2026-11-08T22:30:03+00:00",
-   "ingested": "2026-11-08T22:30:41.439884+00:00",
-   "headline": "RBA's Hunter: If returns to AI investment fall short, some asset prices could face sharp, possibly disorderly, adjustments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842547,
-   "ts": "2026-11-08T22:30:03+00:00",
-   "ingested": "2026-11-08T22:30:41.439905+00:00",
-   "headline": "RBA's Hunter: In near term, AI's positive impact on aggregate demand versus economy\u2019s current supply capacity will push inflation higher",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842546,
-   "ts": "2026-11-08T22:30:02+00:00",
-   "ingested": "2026-11-08T22:30:41.439917+00:00",
-   "headline": "RBA's Hunter: limited proof AI has significantly boosted overall productivity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842545,
-   "ts": "2026-11-08T22:30:02+00:00",
-   "ingested": "2026-11-08T22:30:41.439930+00:00",
-   "headline": "RBA\u2019s Hunter: Limited proof AI significantly impacted overall employment in advanced economies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842544,
-   "ts": "2026-11-08T22:30:02+00:00",
-   "ingested": "2026-11-08T22:30:41.439942+00:00",
-   "headline": "Reserve Bank of Australia Assistant Governor Hunter: AI could be raising risks to financial stability",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842515,
-   "ts": "2026-11-08T20:40:14+00:00",
-   "ingested": "2026-11-08T20:42:01.758712+00:00",
-   "headline": "nearly 2.8 gw of power output lost from grid after attack on iraq's Khor Mor field: Kurdistan region's electricity ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842513,
-   "ts": "2026-11-08T20:30:32+00:00",
-   "ingested": "2026-11-08T20:32:01.705744+00:00",
-   "headline": "Production operations halted at Iraq's Khor Mor gas field after drone strike: security sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842512,
-   "ts": "2026-11-08T20:27:22+00:00",
-   "ingested": "2026-11-08T20:28:41.728496+00:00",
-   "headline": "Nvidia CEO Huang in message to company: fully dedicated to Nvidia and will strive to regain your confidence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842511,
-   "ts": "2026-11-08T20:26:48+00:00",
-   "ingested": "2026-11-08T20:27:01.696105+00:00",
-   "headline": "Nvidia CEO Huang in message to company: Was unfaithful to wife, takes full responsibility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842510,
-   "ts": "2026-11-08T20:24:54+00:00",
-   "ingested": "2026-11-08T20:25:21.697504+00:00",
-   "headline": "Nvidia spokesperson: probe news won't slow Nvidia, Jensen committed to continue leading as CEO without disruption",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842509,
-   "ts": "2026-11-08T20:18:36+00:00",
-   "ingested": "2026-11-08T20:20:21.709803+00:00",
-   "headline": "Gas storage facility hit by drone attack with explosives: engineer inside reports fire and black smoke rising",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842508,
-   "ts": "2026-11-08T20:16:26+00:00",
-   "ingested": "2026-11-08T20:17:01.704280+00:00",
-   "headline": "Drone strike targets Iraq's Khor Mor gas field in Kurdistan region: security sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842506,
-   "ts": "2026-11-08T20:07:50+00:00",
-   "ingested": "2026-11-08T20:08:41.711983+00:00",
-   "headline": "Nvidia launches independent probe after report founder and CEO Jensen Huang targeted by foreign intelligence effort",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842505,
-   "ts": "2026-11-08T20:07:30+00:00",
-   "ingested": "2026-11-08T20:08:41.712004+00:00",
-   "headline": "Nvidia board expresses confidence in Jensen and leadership team, will provide updates as needed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842504,
-   "ts": "2026-11-08T20:07:23+00:00",
-   "ingested": "2026-11-08T20:08:41.712019+00:00",
-   "headline": "Nvidia's Jensen fully backs the review and pledges cooperation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842503,
-   "ts": "2026-11-08T20:03:28+00:00",
-   "ingested": "2026-11-08T20:03:41.850025+00:00",
-   "headline": "Nvidia board: no signs of national security breach or company secrets compromised",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842502,
-   "ts": "2026-11-08T20:02:22+00:00",
-   "ingested": "2026-11-08T20:03:41.850044+00:00",
-   "headline": "Nvidia's independent directors and external counsel to supervise investigation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842501,
-   "ts": "2026-11-08T20:01:40+00:00",
-   "ingested": "2026-11-08T20:02:01.738018+00:00",
-   "headline": "Nvidia board launches independent probe into foreign intelligence targeting CEO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842498,
-   "ts": "2026-11-08T20:00:05+00:00",
-   "ingested": "2026-11-08T20:00:21.690261+00:00",
-   "headline": "Statement from Nvidia board of directors",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842497,
-   "ts": "2026-11-08T20:00:05+00:00",
-   "ingested": "2026-11-08T20:00:21.690281+00:00",
-   "headline": "Anthropic to begin IPO roadshow next week: the information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842496,
-   "ts": "2026-11-08T20:00:05+00:00",
-   "ingested": "2026-11-08T20:00:21.690298+00:00",
-   "headline": "OpenAI: expanding hacktron access to frontier models via Daybreak Red - blog",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842490,
-   "ts": "2026-11-08T19:30:14+00:00",
-   "ingested": "2026-11-08T19:32:01.686670+00:00",
-   "headline": "IRNA: blasts heard on Iran\u2019s Qeshm Island; no official confirmation from Tehran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842484,
-   "ts": "2026-11-08T18:59:57+00:00",
-   "ingested": "2026-11-08T19:00:21.676936+00:00",
-   "headline": "IAEA: power restored to Zaporizhzhya nuclear plant",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842483,
-   "ts": "2026-11-08T18:54:18+00:00",
-   "ingested": "2026-11-08T18:55:21.672737+00:00",
-   "headline": "Iran's Araqchi: must wait for mediators to restart diplomatic process",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842482,
-   "ts": "2026-11-08T18:54:01+00:00",
-   "ingested": "2026-11-08T18:55:21.672759+00:00",
-   "headline": "Iran's Foreign Minister Aragchi: US election outcomes pause mediators' efforts",
    "channel": "rss",
    "source": "financialjuice"
   }
