@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:21:25.639215+00:00",
+ "updated": "2026-11-10T14:24:45.616359+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845426,
+   "ts": "2026-11-10T14:24:08+00:00",
+   "ingested": "2026-11-10T14:24:45.615920+00:00",
+   "headline": "WH Sr. Adviser Hassett ends remarks on Fox Business",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845423,
    "ts": "2026-11-10T14:20:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T09:52:41+00:00",
    "ingested": "2026-11-08T09:53:06.526902+00:00",
    "headline": "IAEA on ZnPP: cause and site of latest disconnection remain unknown",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842322,
-   "ts": "2026-11-08T09:52:00+00:00",
-   "ingested": "2026-11-08T09:53:06.526919+00:00",
-   "headline": "IAEA: plant's link to only external power line, Ferosplavna-1, lost early today",
    "channel": "rss",
    "source": "financialjuice"
   }
