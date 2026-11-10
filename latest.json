@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-10T19:30:18.616759+00:00",
+ "updated": "2026-11-10T19:32:08.522138+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845852,
+   "ts": "2026-11-10T19:31:24+00:00",
+   "ingested": "2026-11-10T19:32:08.521691+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.1309 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845844,
+   "ts": "2026-11-10T19:31:17+00:00",
+   "ingested": "2026-11-10T19:32:08.521708+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.6088 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845836,
+   "ts": "2026-11-10T19:31:10+00:00",
+   "ingested": "2026-11-10T19:32:08.521721+00:00",
+   "headline": "NYMEX WTI crude Dec. futures settle at $86.04 a barrel, down 81 cents, 0.93%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845835,
+   "ts": "2026-11-10T19:30:59+00:00",
+   "ingested": "2026-11-10T19:32:08.521735+00:00",
+   "headline": "A fire breaks out on a platform in Iran's South Pars field, the situation is under control - Iran's Fars news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845827,
    "ts": "2026-11-10T19:30:02+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-09T11:31:42+00:00",
    "ingested": "2026-11-09T11:32:46.920534+00:00",
    "headline": "French Labour Minister: Government to raise minimum wage by 1.6% to \u20ac1,502.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843111,
-   "ts": "2026-11-09T09:30:00+00:00",
-   "ingested": "2026-11-09T09:31:06.862919+00:00",
-   "headline": "Eurozone Sentix Investor Confidence Index Actual 2.4 (Forecast 2.05, Previous 2.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843110,
-   "ts": "2026-11-09T09:26:58+00:00",
-   "ingested": "2026-11-09T09:27:46.874113+00:00",
-   "headline": "ING: The EUR - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843037,
-   "ts": "2026-11-09T08:09:58+00:00",
-   "ingested": "2026-11-09T08:10:43.035021+00:00",
-   "headline": "NVIDIA plans investments in Motif Tech, Rlwrld, upstage.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843036,
-   "ts": "2026-11-09T08:08:15+00:00",
-   "ingested": "2026-11-09T08:09:02.957648+00:00",
-   "headline": "NVIDIA to invest in Korean AI startup Point2.",
    "channel": "rss",
    "source": "financialjuice"
   }
