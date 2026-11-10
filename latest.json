@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:41:05.587259+00:00",
+ "updated": "2026-11-10T13:47:45.612006+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845373,
+   "ts": "2026-11-10T13:47:14+00:00",
+   "ingested": "2026-11-10T13:47:45.611582+00:00",
+   "headline": "US Secretary of State Rubio on China: AI should be an issue we raise at the upcoming Trump-Xi summit.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845350,
    "ts": "2026-11-10T13:40:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T01:52:56+00:00",
    "ingested": "2026-11-08T01:54:22.234134+00:00",
    "headline": "Saudi civil defense: danger has passed in Dammam, Dhahran and Abqaiq - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842182,
-   "ts": "2026-11-08T01:49:48+00:00",
-   "ingested": "2026-11-08T01:51:02.257281+00:00",
-   "headline": "Saudi civil defense issues warning over possible threat in Al Ahsa governorate",
    "channel": "rss",
    "source": "financialjuice"
   }
