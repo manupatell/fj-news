@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T21:49:08.586111+00:00",
+ "updated": "2026-11-10T21:49:18.537064+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846042,
+   "ts": "2026-11-10T21:49:07+00:00",
+   "ingested": "2026-11-10T21:49:18.536648+00:00",
+   "headline": "US API Gasoline Stock Change Actual 2.7M (Forecast -, Previous 1.427M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846041,
+   "ts": "2026-11-10T21:48:59+00:00",
+   "ingested": "2026-11-10T21:49:18.536664+00:00",
+   "headline": "US API Distillate Stock Change Actual -8M (Forecast -, Previous -1.192M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846040,
    "ts": "2026-11-10T21:48:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T15:00:00+00:00",
    "ingested": "2026-11-09T18:40:22.380920+00:00",
    "headline": "US Wholesale Inventories MoM Revised Actual 0.7% (Forecast 0.6%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843452,
-   "ts": "2026-11-09T14:39:05+00:00",
-   "ingested": "2026-11-09T18:40:22.380931+00:00",
-   "headline": "Trump administration vows to speed deployments of counter-drone systems to address threats - Memo",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843436,
-   "ts": "2026-11-09T14:24:00+00:00",
-   "ingested": "2026-11-09T14:25:27.002740+00:00",
-   "headline": "Credit Agricole on US CPI - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
