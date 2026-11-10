@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T10:05:25.519747+00:00",
+ "updated": "2026-11-10T10:08:45.513982+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845025,
+   "ts": "2026-11-10T10:07:36+00:00",
+   "ingested": "2026-11-10T10:08:45.513538+00:00",
+   "headline": "Fed's Waller: Minimum we need to take back the 3 insurance cuts.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845024,
    "ts": "2026-11-10T10:03:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T02:00:47+00:00",
    "ingested": "2026-11-07T02:01:49.018345+00:00",
    "headline": "China foreign exchange reserves $3.405 trillion at end-October vs $3.400 trillion at end-September: central bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841645,
-   "ts": "2026-11-07T01:12:32+00:00",
-   "ingested": "2026-11-07T01:12:48.915521+00:00",
-   "headline": "Qatar's PM: Iran issue must be resolved, another escalation unaffordable",
    "channel": "rss",
    "source": "financialjuice"
   }
