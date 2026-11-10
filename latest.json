@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:06:05.577875+00:00",
+ "updated": "2026-11-10T13:07:45.572924+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845283,
+   "ts": "2026-11-10T13:07:27+00:00",
+   "ingested": "2026-11-10T13:07:45.572509+00:00",
+   "headline": "US Sec. of Defense Hegseth: Impeachment tells the US's enemies that the US will punish its own warriors and leadership for carrying out lawful military operations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845281,
    "ts": "2026-11-10T13:04:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T15:30:58+00:00",
    "ingested": "2026-11-07T15:31:42.150490+00:00",
    "headline": "Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842019,
-   "ts": "2026-11-07T15:29:03+00:00",
-   "ingested": "2026-11-07T15:30:02.285773+00:00",
-   "headline": "Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA",
    "channel": "rss",
    "source": "financialjuice"
   }
