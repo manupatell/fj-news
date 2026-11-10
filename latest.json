@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T14:36:25.625858+00:00",
+ "updated": "2026-11-10T14:38:05.622589+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845452,
+   "ts": "2026-11-10T14:37:41+00:00",
+   "ingested": "2026-11-10T14:38:05.622157+00:00",
+   "headline": "Anthropic hires first UK lobby firm in global AI policy push.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845451,
+   "ts": "2026-11-10T14:36:28+00:00",
+   "ingested": "2026-11-10T14:38:05.622174+00:00",
+   "headline": "House Panel calls on the Treasury to review financial institutions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845450,
    "ts": "2026-11-10T14:34:54+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-08T12:01:41+00:00",
    "ingested": "2026-11-08T12:03:20.288552+00:00",
    "headline": "Sudanese army detains Ahmed Haroun, Islamist leader and former ruling party chairman: party officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842345,
-   "ts": "2026-11-08T11:39:49+00:00",
-   "ingested": "2026-11-08T11:40:00.296168+00:00",
-   "headline": "French foreign minister Barrot: Europeans to join Ukraine discussions in Abu Dhabi",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842339,
-   "ts": "2026-11-08T11:02:48+00:00",
-   "ingested": "2026-11-08T11:03:20.282913+00:00",
-   "headline": "Anthropic secures $3.4bn agreement to produce gas-fired electricity for data centers - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
