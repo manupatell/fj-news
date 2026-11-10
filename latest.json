@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-10T09:53:45.530463+00:00",
+ "updated": "2026-11-10T10:03:45.507987+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845022,
+   "ts": "2026-11-10T10:02:40+00:00",
+   "ingested": "2026-11-10T10:03:45.507522+00:00",
+   "headline": "UK 30 Yr Gilt Bid-to-Cover Actual 3.75 (Forecast -, Previous 3.84)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845021,
+   "ts": "2026-11-10T10:02:39+00:00",
+   "ingested": "2026-11-10T10:03:45.507538+00:00",
+   "headline": "UK 30 Yr Gilt Yield Actual 5.54% (Forecast -, Previous 5.517%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845020,
+   "ts": "2026-11-10T10:02:27+00:00",
+   "ingested": "2026-11-10T10:03:45.507550+00:00",
+   "headline": "ECB's Kazaks: Still appropriate to act in a gradual way.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845019,
+   "ts": "2026-11-10T10:02:18+00:00",
+   "ingested": "2026-11-10T10:03:45.507560+00:00",
+   "headline": "ECB's Kazaks: Policy must stop energy inflation spilling over.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845018,
+   "ts": "2026-11-10T10:02:08+00:00",
+   "ingested": "2026-11-10T10:03:45.507569+00:00",
+   "headline": "ECB's Kazaks: We must remain vigilant, cautious.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845000,
    "ts": "2026-11-10T09:53:21+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-07T01:01:08+00:00",
    "ingested": "2026-11-07T01:02:48.952459+00:00",
    "headline": "China voices concerns over U.S. trade restrictions against China: Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841637,
-   "ts": "2026-11-07T01:01:08+00:00",
-   "ingested": "2026-11-07T01:02:48.952479+00:00",
-   "headline": "China, U.S. agree to continue talks to maintain stable, positive trade ties - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841636,
-   "ts": "2026-11-07T01:01:06+00:00",
-   "ingested": "2026-11-07T01:02:48.952496+00:00",
-   "headline": "Chinese vice premier He Lifeng holds video call with top U.S. officials Bessent and Greer: Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841632,
-   "ts": "2026-11-07T00:55:39+00:00",
-   "ingested": "2026-11-07T00:57:22.814796+00:00",
-   "headline": "Qatar's PM: We have achieved a lot and believe a settlement is possible",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841631,
-   "ts": "2026-11-07T00:53:22+00:00",
-   "ingested": "2026-11-07T00:54:02.798698+00:00",
-   "headline": "Qatar's PM: U.S. government still open to finding solution after midterm elections",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841630,
-   "ts": "2026-11-07T00:51:21+00:00",
-   "ingested": "2026-11-07T00:52:22.776895+00:00",
-   "headline": "Qatar's PM: Mediation efforts continue to prevent situation from spiraling out of control - Al Jazeera TV",
    "channel": "rss",
    "source": "financialjuice"
   }
