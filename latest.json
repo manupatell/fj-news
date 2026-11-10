@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:00:25.693395+00:00",
+ "updated": "2026-11-10T14:00:35.627232+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845377,
+   "ts": "2026-11-10T14:00:19+00:00",
+   "ingested": "2026-11-10T14:00:35.626810+00:00",
+   "headline": "ECB\u2019s Cipollone warns of delay in a digital Euro if talks drag on.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845376,
    "ts": "2026-11-10T13:59:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T04:15:02+00:00",
    "ingested": "2026-11-08T04:16:02.277105+00:00",
    "headline": "Israeli military: alerts triggered over suspected hostile incursion in northern Israel, investigation ongoing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842233,
-   "ts": "2026-11-08T02:29:55+00:00",
-   "ingested": "2026-11-08T02:31:02.247951+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis towards Saudi Arabia's eastern region",
    "channel": "rss",
    "source": "financialjuice"
   }
