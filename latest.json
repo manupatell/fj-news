@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T14:16:25.641835+00:00",
+ "updated": "2026-11-10T14:19:45.644617+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845422,
+   "ts": "2026-11-10T14:19:34+00:00",
+   "ingested": "2026-11-10T14:19:45.644187+00:00",
+   "headline": "SNB's Martin: Swiss economy to grow moderately over the next quarters",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845421,
+   "ts": "2026-11-10T14:19:24+00:00",
+   "ingested": "2026-11-10T14:19:45.644202+00:00",
+   "headline": "WH Sr. Adviser Hassett: CPI report was disappointing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845415,
    "ts": "2026-11-10T14:15:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-08T09:51:40+00:00",
    "ingested": "2026-11-08T09:53:06.526933+00:00",
    "headline": "IAEA: Zaporizhzhia nuclear plant again loses all off-site power, relies on emergency diesel generators for reactor cooling",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842318,
-   "ts": "2026-11-08T09:42:44+00:00",
-   "ingested": "2026-11-08T09:43:06.519453+00:00",
-   "headline": "Iran's Revolutionary Guards' spokesperson: US cannot achieve economic blockade or sever Tehran's ties with neighbors - Fars",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842317,
-   "ts": "2026-11-08T09:42:42+00:00",
-   "ingested": "2026-11-08T09:43:06.519469+00:00",
-   "headline": "Saudi energy ministry: limited physical harm caused",
    "channel": "rss",
    "source": "financialjuice"
   }
