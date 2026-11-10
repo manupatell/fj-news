@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T11:10:25.537667+00:00",
+ "updated": "2026-11-10T11:15:25.536408+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845105,
+   "ts": "2026-11-10T11:13:53+00:00",
+   "ingested": "2026-11-10T11:15:25.535937+00:00",
+   "headline": "Microsoft push WH to halt import ban on china AI.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845077,
    "ts": "2026-11-10T11:00:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T05:06:45+00:00",
    "ingested": "2026-11-07T05:08:28.959293+00:00",
    "headline": "Saudi-led coalition: intercepted and destroyed Houthi cruise missile targeted at Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841792,
-   "ts": "2026-11-07T05:03:04+00:00",
-   "ingested": "2026-11-07T05:03:28.957093+00:00",
-   "headline": "Britain preparing to host Volodymyr Zelenskiy for state visit next year: FT",
    "channel": "rss",
    "source": "financialjuice"
   }
