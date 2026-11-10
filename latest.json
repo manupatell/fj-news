@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T17:29:18.464575+00:00",
+ "updated": "2026-11-10T17:31:08.445089+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845695,
+   "ts": "2026-11-10T17:30:30+00:00",
+   "ingested": "2026-11-10T17:31:08.444683+00:00",
+   "headline": "ECB's Lane: It's informative that underlying inflation hasn't moved yet, it means it's the usual delayed response",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845691,
+   "ts": "2026-11-10T17:29:27+00:00",
+   "ingested": "2026-11-10T17:31:08.444700+00:00",
+   "headline": "IRGC Spokesman: US navigation aid equipment was completely destroyed in the south of the Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845690,
    "ts": "2026-11-10T17:27:38+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T02:56:14+00:00",
    "ingested": "2026-11-09T02:56:41.514527+00:00",
    "headline": "South Korea finance minister: $10 billion remittance for US nuclear project to proceed only after business feasibility review completion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842740,
-   "ts": "2026-11-09T02:52:09+00:00",
-   "ingested": "2026-11-09T02:53:21.515379+00:00",
-   "headline": "Nvidia shares tumble about 3.5% after hours on Blue Ocean alternative trading system",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842739,
-   "ts": "2026-11-09T02:52:09+00:00",
-   "ingested": "2026-11-09T02:53:21.515395+00:00",
-   "headline": "Nvidia perpetual futures drop about 3%: Hyperliquid pricing",
    "channel": "rss",
    "source": "financialjuice"
   }
