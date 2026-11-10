@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T22:32:38.561773+00:00",
+ "updated": "2026-11-10T22:39:58.595112+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846093,
+   "ts": "2026-11-10T22:39:01+00:00",
+   "ingested": "2026-11-10T22:39:58.594720+00:00",
+   "headline": "Lithuania's national crisis management centre tells people in two regions bordering Belarus and Poland to take cover amid air alert over possible drone",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846079,
    "ts": "2026-11-10T22:22:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T15:18:29+00:00",
    "ingested": "2026-11-09T18:40:22.380871+00:00",
    "headline": "Fear & Greed Index: 31/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843503,
-   "ts": "2026-11-09T15:17:52+00:00",
-   "ingested": "2026-11-09T18:40:22.380883+00:00",
-   "headline": "Crypto Fear & Greed Index: 29/100 - Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
