@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:56:25.615489+00:00",
+ "updated": "2026-11-10T14:58:05.607624+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845472,
+   "ts": "2026-11-10T14:56:19+00:00",
+   "ingested": "2026-11-10T14:58:05.607214+00:00",
+   "headline": "US CPI Market Reactions, Deviations & Sentiment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845470,
    "ts": "2026-11-10T14:55:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T18:54:01+00:00",
    "ingested": "2026-11-08T18:55:21.672759+00:00",
    "headline": "Iran's Foreign Minister Aragchi: US election outcomes pause mediators' efforts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842480,
-   "ts": "2026-11-08T18:38:54+00:00",
-   "ingested": "2026-11-08T18:40:21.700504+00:00",
-   "headline": "US Treasury asked Iraq to shut most border crossings with Iran, keep just two open: Iraqi foreign minister tells Al Jazeera",
    "channel": "rss",
    "source": "financialjuice"
   }
