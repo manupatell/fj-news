@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T19:55:38.489134+00:00",
+ "updated": "2026-11-10T20:00:48.480570+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845866,
+   "ts": "2026-11-10T20:00:00+00:00",
+   "ingested": "2026-11-10T20:00:48.480147+00:00",
+   "headline": "US regulator postpones Wall Street push to trade AI computing futures- FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845865,
+   "ts": "2026-11-10T19:59:41+00:00",
+   "ingested": "2026-11-10T20:00:48.480164+00:00",
+   "headline": "Fitch Ratings: The Democrat win is mixed for the US AI ecosystem, energy, healthcare & defense",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845859,
    "ts": "2026-11-10T19:45:16+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T12:02:25+00:00",
    "ingested": "2026-11-09T12:02:46.940396+00:00",
    "headline": "UBS Global Research 2027 Outlook: We expect global growth to pick up to 3.5% next year, but an unusually large share of that rests on two issues: continued build-out of AI infrastructure and a resolution of the Middle East conflict.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843269,
-   "ts": "2026-11-09T12:02:01+00:00",
-   "ingested": "2026-11-09T12:02:46.940410+00:00",
-   "headline": "UBS Global Research 2027 Outlook: Expects S&P 500 index to hit 8900 by year-end.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843268,
-   "ts": "2026-11-09T12:01:36+00:00",
-   "ingested": "2026-11-09T12:02:46.940418+00:00",
-   "headline": "UBS Global Research 2027 Outlook: Expects Stoxx 600 index to hit 750 by year-end.",
    "channel": "rss",
    "source": "financialjuice"
   }
