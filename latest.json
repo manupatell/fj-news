@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T13:24:25.572367+00:00",
+ "updated": "2026-11-10T13:26:05.577760+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845314,
+   "ts": "2026-11-10T13:25:16+00:00",
+   "ingested": "2026-11-10T13:26:05.577326+00:00",
+   "headline": "BoE's Lombardelli: Policy is less restrictive than we thought.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845313,
    "ts": "2026-11-10T13:22:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T20:31:37+00:00",
    "ingested": "2026-11-07T20:32:05.499115+00:00",
    "headline": "Iran\u2019s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842112,
-   "ts": "2026-11-07T20:23:24+00:00",
-   "ingested": "2026-11-07T20:23:45.516342+00:00",
-   "headline": "Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz",
    "channel": "rss",
    "source": "financialjuice"
   }
