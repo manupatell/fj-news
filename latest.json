@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-10T13:01:05.569408+00:00",
+ "updated": "2026-11-10T13:02:45.570626+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845280,
+   "ts": "2026-11-10T13:02:32+00:00",
+   "ingested": "2026-11-10T13:02:45.570160+00:00",
+   "headline": "IBM and Microsoft launch Imagine enterprise AI agent platform; Microsoft to provide AI, cloud and security foundation, IBM Consulting brings 6,000+ pre-built AI agents $IBM $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845279,
+   "ts": "2026-11-10T13:02:08+00:00",
+   "ingested": "2026-11-10T13:02:45.570176+00:00",
+   "headline": "Oracle launches AI treasury analytics for financial firms $ORCL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845275,
+   "ts": "2026-11-10T13:01:21+00:00",
+   "ingested": "2026-11-10T13:02:45.570188+00:00",
+   "headline": "IBM & Microsoft report a new AI agent platform. $IBM $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845248,
    "ts": "2026-11-10T13:00:02+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-07T15:28:41+00:00",
    "ingested": "2026-11-07T15:30:02.285796+00:00",
    "headline": "Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841988,
-   "ts": "2026-11-07T14:02:18+00:00",
-   "ingested": "2026-11-07T14:03:22.125245+00:00",
-   "headline": "ECB releases media interview with Yomiuri Shimbun",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841969,
-   "ts": "2026-11-07T13:24:10+00:00",
-   "ingested": "2026-11-07T13:25:02.166051+00:00",
-   "headline": "Expanding on naval blockade: US military to form task force to strengthen efforts restricting Iran's use of land routes and Caspian Sea, statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841945,
-   "ts": "2026-11-07T12:27:19+00:00",
-   "ingested": "2026-11-07T12:28:22.101020+00:00",
-   "headline": "Saudi civil defence warns of potential threat in Najran",
    "channel": "rss",
    "source": "financialjuice"
   }
