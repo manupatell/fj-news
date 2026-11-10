@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-10T02:33:42.930510+00:00",
+ "updated": "2026-11-10T02:35:22.637760+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844463,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637218+00:00",
+   "headline": "China October natural gas imports 10.01 mln tonnes vs 10.86 mln tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844462,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637241+00:00",
+   "headline": "China jan-oct unwrought copper and copper products imports total 4,211,000 tonnes, vs 4,456,000 tonnes a year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844461,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637259+00:00",
+   "headline": "China October unwrought aluminium and aluminium products exports 594,000 tonnes vs 656,000 tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844460,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637276+00:00",
+   "headline": "China jan-oct crude oil imports 399.90 mln tonnes vs 470.94 mln tonnes yr earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844459,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637293+00:00",
+   "headline": "China jan-oct natural gas shipments 99.22 mln tonnes vs 102.09 mln tonnes yr earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844458,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637310+00:00",
+   "headline": "China jan-oct unwrought aluminium and aluminium product exports total 5,914,000 tonnes vs 5,020,000 tonnes yr earlier - customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844457,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637325+00:00",
+   "headline": "China October unwrought copper and copper products imports 453,000 tonnes, vs 461,000 tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844456,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637340+00:00",
+   "headline": "China Jan-Oct rare earth shipments 48,097.2 tonnes vs 52,699.1 tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844455,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T02:35:22.637355+00:00",
+   "headline": "China October crude oil imports 41.94 million tonnes vs 37.10 million tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844454,
+   "ts": "2026-11-10T02:34:53+00:00",
+   "ingested": "2026-11-10T02:35:22.637369+00:00",
+   "headline": "China October oil product imports 3.15 mln tonnes vs 1.85 mln tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844453,
+   "ts": "2026-11-10T02:34:53+00:00",
+   "ingested": "2026-11-10T02:35:22.637383+00:00",
+   "headline": "China jan-oct oil product imports at 27.15 million tonnes vs 34.19 million tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844452,
+   "ts": "2026-11-10T02:34:53+00:00",
+   "ingested": "2026-11-10T02:35:22.637397+00:00",
+   "headline": "China October rare earth shipments 4,386 tonnes vs 4,269.8 tonnes in September - customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844451,
+   "ts": "2026-11-10T02:34:51+00:00",
+   "ingested": "2026-11-10T02:35:22.637410+00:00",
+   "headline": "China October trade surplus with United States $32.71 billion, customs data show",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844450,
    "ts": "2026-11-10T02:32:09+00:00",
@@ -3895,110 +3999,6 @@
    "ts": "2026-11-06T18:10:38+00:00",
    "ingested": "2026-11-06T18:30:07.477999+00:00",
    "headline": "Canada's Prime Minister Carney: We are talking to China about next steps on trade development",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841258,
-   "ts": "2026-11-06T18:09:19+00:00",
-   "ingested": "2026-11-06T18:30:07.478007+00:00",
-   "headline": "Council of Economic Advisers Chair Phelan: Don't think the Fed will see the job report as inflationary",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841257,
-   "ts": "2026-11-06T18:08:51+00:00",
-   "ingested": "2026-11-06T18:30:07.478014+00:00",
-   "headline": "Fed's Daly: Businesses are cautiously optimistic about outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841256,
-   "ts": "2026-11-06T18:08:35+00:00",
-   "ingested": "2026-11-06T18:30:07.478021+00:00",
-   "headline": "Fed's Daly: If AI repricing signals slowing of demand growth might come down a little",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841255,
-   "ts": "2026-11-06T18:07:49+00:00",
-   "ingested": "2026-11-06T18:30:07.478027+00:00",
-   "headline": "Fed's Daly: AI repricing trade has been orderly so far",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841254,
-   "ts": "2026-11-06T18:06:54+00:00",
-   "ingested": "2026-11-06T18:30:07.478034+00:00",
-   "headline": "Fed's Daly: Was good to hold at the last meeting due to uncertainty",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841253,
-   "ts": "2026-11-06T18:06:28+00:00",
-   "ingested": "2026-11-06T18:30:07.478041+00:00",
-   "headline": "Fed's Daly: Will have to tighten policy further",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841252,
-   "ts": "2026-11-06T18:06:02+00:00",
-   "ingested": "2026-11-06T18:30:07.478048+00:00",
-   "headline": "Fed's Daly: Solid job market gives latitude to get inflation job done",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841251,
-   "ts": "2026-11-06T18:05:05+00:00",
-   "ingested": "2026-11-06T18:30:07.478055+00:00",
-   "headline": "Fed's Daly: I would like my confidence about inflation to be higher",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841250,
-   "ts": "2026-11-06T18:03:20+00:00",
-   "ingested": "2026-11-06T18:30:07.478061+00:00",
-   "headline": "Fed's Daly: Wage growth isn't booming",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841249,
-   "ts": "2026-11-06T18:03:09+00:00",
-   "ingested": "2026-11-06T18:30:07.478067+00:00",
-   "headline": "Fed's Daly: Job report good news - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841248,
-   "ts": "2026-11-06T18:02:49+00:00",
-   "ingested": "2026-11-06T18:30:07.478075+00:00",
-   "headline": "Meta's Muse launches spaces for custom in-app experiences, letting users build personalized spaces via prompts $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841247,
-   "ts": "2026-11-06T18:01:31+00:00",
-   "ingested": "2026-11-06T18:30:07.478082+00:00",
-   "headline": "US Baker Hughes Oil Rig Count Actual 463 (Forecast -, Previous 462)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841236,
-   "ts": "2026-11-06T18:00:57+00:00",
-   "ingested": "2026-11-06T18:30:07.478089+00:00",
-   "headline": "US Baker Hughes Total Rig Count Actual 604 (Forecast -, Previous 603)",
    "channel": "rss",
    "source": "financialjuice"
   }
