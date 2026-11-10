@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T10:03:45.507987+00:00",
+ "updated": "2026-11-10T10:05:25.519747+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845024,
+   "ts": "2026-11-10T10:03:55+00:00",
+   "ingested": "2026-11-10T10:05:25.519327+00:00",
+   "headline": "UniCredit: France - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845022,
    "ts": "2026-11-10T10:02:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T01:12:32+00:00",
    "ingested": "2026-11-07T01:12:48.915521+00:00",
    "headline": "Qatar's PM: Iran issue must be resolved, another escalation unaffordable",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841638,
-   "ts": "2026-11-07T01:01:08+00:00",
-   "ingested": "2026-11-07T01:02:48.952459+00:00",
-   "headline": "China voices concerns over U.S. trade restrictions against China: Xinhua",
    "channel": "rss",
    "source": "financialjuice"
   }
