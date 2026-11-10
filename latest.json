@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T05:02:02.693981+00:00",
+ "updated": "2026-11-10T05:12:02.681163+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844604,
+   "ts": "2026-11-10T05:11:45+00:00",
+   "ingested": "2026-11-10T05:12:02.680629+00:00",
+   "headline": "UK's Streeting: Would prefer more communication channels with Russia, especially military-to-military level - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844603,
+   "ts": "2026-11-10T05:11:11+00:00",
+   "ingested": "2026-11-10T05:12:02.680650+00:00",
+   "headline": "UK Defence Minister Streeting: UK and Russia require fresh backchannel to prevent 'miscalculation' - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844584,
    "ts": "2026-11-10T05:00:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T18:33:24+00:00",
    "ingested": "2026-11-06T18:33:49.594853+00:00",
    "headline": "Musk: See SpaceX 4Q revenue up 'something like' 70% from 3Q $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841277,
-   "ts": "2026-11-06T18:31:09+00:00",
-   "ingested": "2026-11-06T18:31:59.610237+00:00",
-   "headline": "Council of Economic Advisers Chair Phelan: I don't predict a recession at all",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841273,
-   "ts": "2026-11-06T18:25:47+00:00",
-   "ingested": "2026-11-06T18:30:07.477956+00:00",
-   "headline": "Council of Economic Advisers Chair Phelan: we'll need to see the next CPI to see what the Fed will do",
    "channel": "rss",
    "source": "financialjuice"
   }
