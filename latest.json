@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T12:00:25.562096+00:00",
+ "updated": "2026-11-10T12:08:45.567368+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845181,
+   "ts": "2026-11-10T12:07:56+00:00",
+   "ingested": "2026-11-10T12:08:45.566907+00:00",
+   "headline": "BoE mulls adjusting how it conducts remaining APF gilt sales.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845154,
    "ts": "2026-11-10T11:48:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T06:35:10+00:00",
    "ingested": "2026-11-07T06:36:20.076003+00:00",
    "headline": "Data from New Zealand electoral commission shows ruling National-led coalition likely to return to power with 10.9% of votes counted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841852,
-   "ts": "2026-11-07T06:35:05+00:00",
-   "ingested": "2026-11-07T06:36:20.076026+00:00",
-   "headline": "New Zealand opposition lawmaker McNulty: National Party support exceeds expectations",
    "channel": "rss",
    "source": "financialjuice"
   }
