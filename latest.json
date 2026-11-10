@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T17:31:38.486480+00:00",
+ "updated": "2026-11-10T17:32:38.459020+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845698,
+   "ts": "2026-11-10T17:32:12+00:00",
+   "ingested": "2026-11-10T17:32:38.458573+00:00",
+   "headline": "ECB's Lane: It would be a surprise if there are no second-round effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845697,
+   "ts": "2026-11-10T17:31:59+00:00",
+   "ingested": "2026-11-10T17:32:38.458590+00:00",
+   "headline": "ECB's Lane: Energy prices are already reversing; if that continues, headline inflation could fall while underlying inflation rises",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845696,
    "ts": "2026-11-10T17:31:26+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T03:22:28+00:00",
    "ingested": "2026-11-09T03:24:02.915436+00:00",
    "headline": "Ousted Bangladeshi Prime Minister Sheikh Hasina requests new passport and ID card to return home from self-imposed exile in Delhi",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842745,
-   "ts": "2026-11-09T03:02:26+00:00",
-   "ingested": "2026-11-09T03:03:21.518972+00:00",
-   "headline": "China: building fire in Taiyuan kills 14 - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842742,
-   "ts": "2026-11-09T02:56:33+00:00",
-   "ingested": "2026-11-09T02:58:21.519785+00:00",
-   "headline": "South Korea finance minister: nuclear project remittance to US remains preliminary, will review closely",
    "channel": "rss",
    "source": "financialjuice"
   }
