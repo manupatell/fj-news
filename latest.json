@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T20:54:58.564321+00:00",
+ "updated": "2026-11-10T21:00:38.555162+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845957,
+   "ts": "2026-11-10T21:00:09+00:00",
+   "ingested": "2026-11-10T21:00:38.554757+00:00",
+   "headline": "Anthropic Backers Market Up to $500 Million in IPO Shares for 3%-5% Fee",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845949,
    "ts": "2026-11-10T20:44:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:13:02+00:00",
    "ingested": "2026-11-09T13:13:46.966675+00:00",
    "headline": "Admin will give a congressional briefing today on NVIDIA CEO - CBS. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843336,
-   "ts": "2026-11-09T13:10:46+00:00",
-   "ingested": "2026-11-09T13:12:06.941269+00:00",
-   "headline": "Eurogroup President: The ideal situation would be to make a decision on a new ECB president by the end of the year.",
    "channel": "rss",
    "source": "financialjuice"
   }
