@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T04:43:42.667353+00:00",
+ "updated": "2026-11-10T04:50:22.666725+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844576,
+   "ts": "2026-11-10T04:49:09+00:00",
+   "ingested": "2026-11-10T04:50:22.666394+00:00",
+   "headline": "U.S. evacuated planes from RAF Mildenhall in U.K. on Monday after threat from Iran: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844575,
+   "ts": "2026-11-10T04:48:42+00:00",
+   "ingested": "2026-11-10T04:50:22.666415+00:00",
+   "headline": "U.S. aircraft withdrawn from second U.K. base over Iran threat: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9844496,
    "ts": "2026-11-10T03:01:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-06T18:22:30+00:00",
    "ingested": "2026-11-06T18:30:07.477971+00:00",
    "headline": "Fed's Daly: Services inflation not coming down in the way we would expect",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841270,
-   "ts": "2026-11-06T18:21:38+00:00",
-   "ingested": "2026-11-06T18:30:07.477980+00:00",
-   "headline": "Fed's Daly: Rates could be slightly restrictive to neutral",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841260,
-   "ts": "2026-11-06T18:13:18+00:00",
-   "ingested": "2026-11-06T18:30:07.477991+00:00",
-   "headline": "Fed's Daly: When you step back from 'painful' volatility, this is the kind of rebalancing that you would hope for",
    "channel": "rss",
    "source": "financialjuice"
   }
