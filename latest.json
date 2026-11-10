@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-10T21:21:18.545062+00:00",
+ "updated": "2026-11-10T21:29:58.528338+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846003,
+   "ts": "2026-11-10T21:29:18+00:00",
+   "ingested": "2026-11-10T21:29:58.527938+00:00",
+   "headline": "Fed's Bowman: Need to think about what pace and what timeline to address it",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846002,
+   "ts": "2026-11-10T21:28:45+00:00",
+   "ingested": "2026-11-10T21:29:58.527954+00:00",
+   "headline": "Fed's Bowman: The fact that inflation is not on a downward trend should give us pause",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846000,
    "ts": "2026-11-10T21:21:05+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T14:14:28+00:00",
    "ingested": "2026-11-09T14:15:27.005536+00:00",
    "headline": "Citi: CPI priced as bigger event than NVDA EPS this time round - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843417,
-   "ts": "2026-11-09T14:10:58+00:00",
-   "ingested": "2026-11-09T14:12:06.989896+00:00",
-   "headline": "JPMorgan's Middle East Scenarios - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843416,
-   "ts": "2026-11-09T14:09:52+00:00",
-   "ingested": "2026-11-09T14:10:26.968911+00:00",
-   "headline": "Fitch Ratings: For Bitcoin-backed securities, the Binance hack reinforces the benefits of conservative collateral coverage and  short liquidation periods.",
    "channel": "rss",
    "source": "financialjuice"
   }
