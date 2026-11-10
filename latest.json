@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T17:15:08.456335+00:00",
+ "updated": "2026-11-10T17:20:08.491792+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845684,
+   "ts": "2026-11-10T17:19:42+00:00",
+   "ingested": "2026-11-10T17:20:08.491382+00:00",
+   "headline": "UK's PM Burnham rejects dynamic alignment of UK with EU financial rules",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845667,
    "ts": "2026-11-10T17:13:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T01:32:04+00:00",
    "ingested": "2026-11-09T01:36:41.536527+00:00",
    "headline": "Chinese CPI YoY Actual 0.7% (Forecast 0.8%, Previous 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842631,
-   "ts": "2026-11-09T01:32:04+00:00",
-   "ingested": "2026-11-09T01:36:41.536541+00:00",
-   "headline": "Chinese PPI YoY Actual 5.7% (Forecast 5.3%, Previous 5.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
