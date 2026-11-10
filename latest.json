@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T11:48:45.580403+00:00",
+ "updated": "2026-11-10T11:50:25.549129+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845154,
+   "ts": "2026-11-10T11:48:35+00:00",
+   "ingested": "2026-11-10T11:50:25.548668+00:00",
+   "headline": "TSMC: Approved investments in Anthropic up to $500 mln.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845153,
    "ts": "2026-11-10T11:47:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-07T06:35:05+00:00",
    "ingested": "2026-11-07T06:36:20.076026+00:00",
    "headline": "New Zealand opposition lawmaker McNulty: National Party support exceeds expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841843,
-   "ts": "2026-11-07T06:11:39+00:00",
-   "ingested": "2026-11-07T06:13:00.074671+00:00",
-   "headline": "New Zealand election commission data: centrist opportunity party to cross threshold with 1.9% of votes counted",
    "channel": "rss",
    "source": "financialjuice"
   }
