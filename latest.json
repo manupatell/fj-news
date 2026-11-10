@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:16:08.523757+00:00",
+ "updated": "2026-11-10T21:19:48.521038+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845999,
+   "ts": "2026-11-10T21:18:43+00:00",
+   "ingested": "2026-11-10T21:19:48.520597+00:00",
+   "headline": "Fed's Bowman: The Fed does ongoing cybersecurity examinations of banks, and has seen a great deal of focus on identifying and patching vulnerabilities.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845985,
    "ts": "2026-11-10T21:15:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T14:07:46+00:00",
    "ingested": "2026-11-09T14:08:46.955053+00:00",
    "headline": "Fitch Ratings: We believe the lower level of disruption in the bitcoin market is probably due to crypto trading market structures having become deeper and more diversified.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843413,
-   "ts": "2026-11-09T14:07:25+00:00",
-   "ingested": "2026-11-09T14:08:46.955068+00:00",
-   "headline": "Fitch Ratings: The risk of Bitcoin market liquidity becoming constrained in response to crypto-specific shocks may have reduced as the market has matured.",
    "channel": "rss",
    "source": "financialjuice"
   }
