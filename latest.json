@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T14:05:25.601167+00:00",
+ "updated": "2026-11-10T14:13:05.622074+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845404,
+   "ts": "2026-11-10T14:12:07+00:00",
+   "ingested": "2026-11-10T14:13:05.621649+00:00",
+   "headline": "Yemen's Houthis attacked oil pumping stations of Saudi Arabia's East-West pipeline - Statement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845402,
    "ts": "2026-11-10T14:05:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-08T09:42:39+00:00",
    "ingested": "2026-11-08T09:43:06.519493+00:00",
    "headline": "Saudi energy ministry: attempt to strike Aramco building in Riyadh - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9842279,
-   "ts": "2026-11-08T06:04:53+00:00",
-   "ingested": "2026-11-08T06:06:26.453746+00:00",
-   "headline": "Saudi-led coalition: two cruise missiles intercepted and destroyed in Riyadh and southern region",
    "channel": "rss",
    "source": "financialjuice"
   }
