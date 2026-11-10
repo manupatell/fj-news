@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:06:08.497586+00:00",
+ "updated": "2026-11-10T21:07:48.558920+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845980,
+   "ts": "2026-11-10T21:06:32+00:00",
+   "ingested": "2026-11-10T21:07:48.558488+00:00",
+   "headline": "Fed's Bowman: The Fed is trying to gather data on AI debt counterparties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845979,
    "ts": "2026-11-10T21:05:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T13:55:32+00:00",
    "ingested": "2026-11-09T13:57:06.970274+00:00",
    "headline": "USTR suspends any action related to China's shipbuilding and maritime sector until January 10th, 2027, to allow for further discussion - Federal Register.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843395,
-   "ts": "2026-11-09T13:48:11+00:00",
-   "ingested": "2026-11-09T13:48:46.964905+00:00",
-   "headline": "Mehr News citing Ankara: Qatar will host Trump's vice president and Iran's General Rezaei next week.",
    "channel": "rss",
    "source": "financialjuice"
   }
