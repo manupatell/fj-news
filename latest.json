@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T21:08:48.503929+00:00",
+ "updated": "2026-11-10T21:09:48.521445+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845982,
+   "ts": "2026-11-10T21:09:22+00:00",
+   "ingested": "2026-11-10T21:09:48.521058+00:00",
+   "headline": "OpenAI revenue jumps to $10b in 3Q - The Information.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845981,
    "ts": "2026-11-10T21:07:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T14:03:31+00:00",
    "ingested": "2026-11-09T14:03:46.983817+00:00",
    "headline": "US Sentiment: Huang Scandal Leads to NVDA Shares Declining - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843397,
-   "ts": "2026-11-09T13:57:31+00:00",
-   "ingested": "2026-11-09T13:58:46.968564+00:00",
-   "headline": "USTR also announces determination to further extend all 178 current exclusions related to China's technology transfer, intellectual property, and innovation - Federal Register.",
    "channel": "rss",
    "source": "financialjuice"
   }
