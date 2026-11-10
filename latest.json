@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-10T12:31:25.564691+00:00",
+ "updated": "2026-11-10T12:33:05.562410+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9845217,
+   "ts": "2026-11-10T12:32:43+00:00",
+   "ingested": "2026-11-10T12:33:05.561898+00:00",
+   "headline": "BoE's Lombardelli: Energy shock has become more persistent.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845216,
+   "ts": "2026-11-10T12:31:45+00:00",
+   "ingested": "2026-11-10T12:33:05.561914+00:00",
+   "headline": "BoE's Lombardelli: Labour market is stuck in low gear.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9845215,
+   "ts": "2026-11-10T12:31:23+00:00",
+   "ingested": "2026-11-10T12:33:05.561931+00:00",
+   "headline": "China's Foreign Minister Wang Yi: Hopes EU will work with china to build stable, balanced China-EU 'key trade partnership\u2019 - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9845196,
    "ts": "2026-11-10T12:30:10+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-07T08:38:15+00:00",
    "ingested": "2026-11-07T08:39:40.104328+00:00",
    "headline": "Ukraine's Zelenskiy: Russians deployed 172 drones and 36 ballistic missiles, all targeted at Kyiv and nearby areas overnight",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841882,
-   "ts": "2026-11-07T08:36:20+00:00",
-   "ingested": "2026-11-07T08:38:00.107049+00:00",
-   "headline": "Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841862,
-   "ts": "2026-11-07T07:29:26+00:00",
-   "ingested": "2026-11-07T07:29:40.100661+00:00",
-   "headline": "Russia's delegation at trilateral meeting with US and Ukraine to include Medinsky, Ryabkov, Galuzin, Kostyukov, and Zhigarlovsky: IFX cites Kremlin",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841861,
-   "ts": "2026-11-07T07:24:40+00:00",
-   "ingested": "2026-11-07T07:26:20.088234+00:00",
-   "headline": "New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted",
    "channel": "rss",
    "source": "financialjuice"
   }
