@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T06:02:44.651466+00:00",
+ "updated": "2026-11-11T06:04:24.615590+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846616,
+   "ts": "2026-11-11T06:02:46+00:00",
+   "ingested": "2026-11-11T06:04:24.615211+00:00",
+   "headline": "China Jan-Oct vehicle sales fall 5.1% y/y vs +12.4% a year ago: industry group",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846615,
    "ts": "2026-11-11T06:02:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T18:03:23+00:00",
    "ingested": "2026-11-09T18:40:22.380062+00:00",
    "headline": "US 3 Yr Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843749,
-   "ts": "2026-11-09T18:02:04+00:00",
-   "ingested": "2026-11-09T18:40:22.380073+00:00",
-   "headline": "US 3-Year Note High Yield Actual 4.627% (Forecast -, Previous 4.932%)",
    "channel": "rss",
    "source": "financialjuice"
   }
