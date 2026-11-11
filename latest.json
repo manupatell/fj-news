@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T09:49:24.677257+00:00",
+ "updated": "2026-11-11T09:56:04.685204+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846884,
+   "ts": "2026-11-11T09:55:20+00:00",
+   "ingested": "2026-11-11T09:56:04.684766+00:00",
+   "headline": "UniCredit: AI Debt and Bonds - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846882,
    "ts": "2026-11-11T09:48:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T19:14:01+00:00",
    "ingested": "2026-11-09T19:15:45.162491+00:00",
    "headline": "US Secretary of State Rubio: We need to speak more about disruption from AI on the economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843836,
-   "ts": "2026-11-09T19:07:20+00:00",
-   "ingested": "2026-11-09T19:09:05.161631+00:00",
-   "headline": "US Sec. of Defense Hegseth's impeachment articles are introduced in the House.",
    "channel": "rss",
    "source": "financialjuice"
   }
