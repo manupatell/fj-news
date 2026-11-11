@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T11:03:00.279118+00:00",
+ "updated": "2026-11-11T11:04:40.224360+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846988,
+   "ts": "2026-11-11T11:04:11+00:00",
+   "ingested": "2026-11-11T11:04:40.223577+00:00",
+   "headline": "Germany's Schnitzer cites significant economic recovery",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846987,
+   "ts": "2026-11-11T11:03:33+00:00",
+   "ingested": "2026-11-11T11:04:40.223665+00:00",
+   "headline": "Russia's delegation begins briefing in Abu Dhabi",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846986,
    "ts": "2026-11-11T11:02:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T20:37:52+00:00",
    "ingested": "2026-11-09T20:39:05.170715+00:00",
    "headline": "China insists Trump-Xi-Putin summit follow scripted format, sources say - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843928,
-   "ts": "2026-11-09T20:30:22+00:00",
-   "ingested": "2026-11-09T20:30:45.178383+00:00",
-   "headline": "US Democrat House Leader Jeffries: I strongly support chip restrictions in the Senate NDAA on China becoming law.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843927,
-   "ts": "2026-11-09T20:29:09+00:00",
-   "ingested": "2026-11-09T20:30:45.178401+00:00",
-   "headline": "US Democrat House Majority Leader Jeffries asked about Nvidia: There are real concerns to address $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
