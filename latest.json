@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-11T23:03:10.880046+00:00",
+ "updated": "2026-11-11T23:37:17.279861+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847926,
+   "ts": "2026-11-11T23:33:41+00:00",
+   "ingested": "2026-11-11T23:37:17.279452+00:00",
+   "headline": "US State Department: Rubio and China\u2019s Wang Yi agree on importance of leader-level talks to advance peace and denuclearization, including potential trilateral summit with Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847918,
+   "ts": "2026-11-11T23:31:43+00:00",
+   "ingested": "2026-11-11T23:37:17.279470+00:00",
+   "headline": "Trump administration aware Nvidia board prepping to remove CEO Jensen Huang soon: CBS News reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847912,
+   "ts": "2026-11-11T23:31:10+00:00",
+   "ingested": "2026-11-11T23:37:17.279481+00:00",
+   "headline": "Saudi civil defence: shrapnel from destroyed missiles fell in Sabuhah village in Mecca region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847910,
+   "ts": "2026-11-11T23:29:29+00:00",
+   "ingested": "2026-11-11T23:37:17.279490+00:00",
+   "headline": "Saudi civil defence: debris fell after destruction of two ballistic missiles aimed at Mecca",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847908,
+   "ts": "2026-11-11T23:22:28+00:00",
+   "ingested": "2026-11-11T23:37:17.279499+00:00",
+   "headline": "Nvidia board meeting Wednesday to determine if CEO Jensen Huang will be removed: source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847907,
+   "ts": "2026-11-11T23:18:18+00:00",
+   "ingested": "2026-11-11T23:37:17.279507+00:00",
+   "headline": "Israeli strike on Nasser hospital building in southern Gaza kills at least four: Gaza civil defence spokesperson",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847895,
+   "ts": "2026-11-11T23:13:25+00:00",
+   "ingested": "2026-11-11T23:37:17.279514+00:00",
+   "headline": "Saudi-led coalition: drone destroyed over kingdom's eastern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847894,
+   "ts": "2026-11-11T23:12:39+00:00",
+   "ingested": "2026-11-11T23:37:17.279525+00:00",
+   "headline": "US stock futures decline after WSJ reports Nvidia ready to replace CEO; Nvidia shares drop in after-hours trading",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847893,
+   "ts": "2026-11-11T23:10:27+00:00",
+   "ingested": "2026-11-11T23:37:17.279533+00:00",
+   "headline": "Explosions heard in Ukraine's Kyiv: source witness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847871,
    "ts": "2026-11-11T22:45:32+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-11-10T10:07:36+00:00",
    "ingested": "2026-11-10T10:08:45.513538+00:00",
    "headline": "Fed's Waller: Minimum we need to take back the 3 insurance cuts.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845024,
-   "ts": "2026-11-10T10:03:55+00:00",
-   "ingested": "2026-11-10T10:05:25.519327+00:00",
-   "headline": "UniCredit: France - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845022,
-   "ts": "2026-11-10T10:02:40+00:00",
-   "ingested": "2026-11-10T10:03:45.507522+00:00",
-   "headline": "UK 30 Yr Gilt Bid-to-Cover Actual 3.75 (Forecast -, Previous 3.84)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845021,
-   "ts": "2026-11-10T10:02:39+00:00",
-   "ingested": "2026-11-10T10:03:45.507538+00:00",
-   "headline": "UK 30 Yr Gilt Yield Actual 5.54% (Forecast -, Previous 5.517%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845020,
-   "ts": "2026-11-10T10:02:27+00:00",
-   "ingested": "2026-11-10T10:03:45.507550+00:00",
-   "headline": "ECB's Kazaks: Still appropriate to act in a gradual way.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845019,
-   "ts": "2026-11-10T10:02:18+00:00",
-   "ingested": "2026-11-10T10:03:45.507560+00:00",
-   "headline": "ECB's Kazaks: Policy must stop energy inflation spilling over.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845018,
-   "ts": "2026-11-10T10:02:08+00:00",
-   "ingested": "2026-11-10T10:03:45.507569+00:00",
-   "headline": "ECB's Kazaks: We must remain vigilant, cautious.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845000,
-   "ts": "2026-11-10T09:53:21+00:00",
-   "ingested": "2026-11-10T09:53:45.530044+00:00",
-   "headline": "Fed's Waller: We need to raise rates to put downward pressure on inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844999,
-   "ts": "2026-11-10T09:53:12+00:00",
-   "ingested": "2026-11-10T09:53:45.530061+00:00",
-   "headline": "Fed's Waller: Real rates have to rise to maintain level of restrictiveness in monetary policy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844947,
-   "ts": "2026-11-10T09:27:29+00:00",
-   "ingested": "2026-11-10T09:28:45.504748+00:00",
-   "headline": "EU participants further said: tackling post-war security issues and lowering conflict risk are essential",
    "channel": "rss",
    "source": "financialjuice"
   }
