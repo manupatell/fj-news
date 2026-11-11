@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T15:04:50.283731+00:00",
+ "updated": "2026-11-11T15:06:30.294188+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847355,
+   "ts": "2026-11-11T15:05:28+00:00",
+   "ingested": "2026-11-11T15:06:30.293827+00:00",
+   "headline": "Russia's Medinsky: Russia sees no possibility of any territorial exchanges with Ukraine - TASS.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847354,
+   "ts": "2026-11-11T15:04:40+00:00",
+   "ingested": "2026-11-11T15:06:30.293850+00:00",
+   "headline": "UK Finance Minister Healey: Ending the war in the Middle East will be the single biggest economic benefit to Britain.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847351,
    "ts": "2026-11-11T15:04:20+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T02:34:54+00:00",
    "ingested": "2026-11-10T02:35:22.637340+00:00",
    "headline": "China Jan-Oct rare earth shipments 48,097.2 tonnes vs 52,699.1 tonnes year earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844455,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637355+00:00",
-   "headline": "China October crude oil imports 41.94 million tonnes vs 37.10 million tonnes in September: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844454,
-   "ts": "2026-11-10T02:34:53+00:00",
-   "ingested": "2026-11-10T02:35:22.637369+00:00",
-   "headline": "China October oil product imports 3.15 mln tonnes vs 1.85 mln tonnes in September: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
