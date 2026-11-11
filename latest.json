@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T19:15:30.766374+00:00",
+ "updated": "2026-11-11T19:17:10.769869+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847660,
+   "ts": "2026-11-11T19:16:52+00:00",
+   "ingested": "2026-11-11T19:17:10.769499+00:00",
+   "headline": "Pemex increases oil processing to the highest level since 2013",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847647,
    "ts": "2026-11-11T19:14:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T07:58:29+00:00",
    "ingested": "2026-11-10T09:21:50.942845+00:00",
    "headline": "ECB's Lane: Prudent to hike in December if data don't shift.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844806,
-   "ts": "2026-11-10T07:58:20+00:00",
-   "ingested": "2026-11-10T09:21:50.942855+00:00",
-   "headline": "ECB's Lane: Inflation likely \u201ca little bit' over 4% at year-end.",
    "channel": "rss",
    "source": "financialjuice"
   }
