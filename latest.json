@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T12:01:20.237829+00:00",
+ "updated": "2026-11-11T12:03:00.236627+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847085,
+   "ts": "2026-11-11T12:01:14+00:00",
+   "ingested": "2026-11-11T12:03:00.236171+00:00",
+   "headline": "IBM quantum nighthawk R3 to execute 10,000 operations on 520 qubits $IBM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847083,
    "ts": "2026-11-11T12:00:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T23:52:08+00:00",
    "ingested": "2026-11-09T23:52:25.251184+00:00",
    "headline": "BOJ summary: one member said central bank should raise rates when feasible without excessive caution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844185,
-   "ts": "2026-11-09T23:51:56+00:00",
-   "ingested": "2026-11-09T23:52:25.251202+00:00",
-   "headline": "BOJ summary: one member says appropriate to continue raising rates as underlying inflation nears price target levels",
    "channel": "rss",
    "source": "financialjuice"
   }
