@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T11:48:00.227612+00:00",
+ "updated": "2026-11-11T11:49:40.247841+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847074,
+   "ts": "2026-11-11T11:47:53+00:00",
+   "ingested": "2026-11-11T11:49:40.247436+00:00",
+   "headline": "Nvidia PT cut to $200 from $500 at Baird; downgrade to neutral $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847051,
    "ts": "2026-11-11T11:36:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T23:50:01+00:00",
    "ingested": "2026-11-09T23:50:45.254000+00:00",
    "headline": "Japanese Current Account NSA Yen Actual 2372.3B (Forecast 3300B, Previous 4,062.0B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844156,
-   "ts": "2026-11-09T23:34:59+00:00",
-   "ingested": "2026-11-09T23:35:45.246178+00:00",
-   "headline": "Japan Sept household spending falls 6.8% year/year, government says (poll -3.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
