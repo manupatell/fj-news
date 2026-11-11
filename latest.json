@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T14:19:50.268896+00:00",
+ "updated": "2026-11-11T14:21:30.272328+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847280,
+   "ts": "2026-11-11T14:21:00+00:00",
+   "ingested": "2026-11-11T14:21:30.271935+00:00",
+   "headline": "House China Panel Chair John Moolenaar: There will likely be subpoenas if he doesn't respond.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847279,
+   "ts": "2026-11-11T14:20:51+00:00",
+   "ingested": "2026-11-11T14:21:30.271955+00:00",
+   "headline": "House China Panel Chair Moolenaar: Given Nvidia CEO until end of business today. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847278,
    "ts": "2026-11-11T14:18:50+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T01:00:22+00:00",
    "ingested": "2026-11-10T01:47:02.693232+00:00",
    "headline": "Taiwan shares advance more than 2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844271,
-   "ts": "2026-11-10T00:50:12+00:00",
-   "ingested": "2026-11-10T01:47:02.693249+00:00",
-   "headline": "Arrow agrees to buy 62mt West Pilbara DSO Fe, RHI-AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844270,
-   "ts": "2026-11-10T00:47:42+00:00",
-   "ingested": "2026-11-10T01:47:02.693262+00:00",
-   "headline": "Saudi civil defense: danger has passed in Riyadh - Saudi state TV",
    "channel": "rss",
    "source": "financialjuice"
   }
