@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T13:56:30.274832+00:00",
+ "updated": "2026-11-11T13:58:10.268953+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847235,
+   "ts": "2026-11-11T13:56:24+00:00",
+   "ingested": "2026-11-11T13:58:10.268571+00:00",
+   "headline": "Russia's top Ukrainian negotiator, Medinsky: Seems like we're closer to peace - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847234,
    "ts": "2026-11-11T13:56:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T00:30:03+00:00",
    "ingested": "2026-11-10T01:47:02.693303+00:00",
    "headline": "Australia October business conditions index dips to -2 from -1 in September: NAB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844232,
-   "ts": "2026-11-10T00:30:01+00:00",
-   "ingested": "2026-11-10T01:47:02.693316+00:00",
-   "headline": "Australian NAB Business Confidence Actual -15 (Forecast -, Previous -13)",
    "channel": "rss",
    "source": "financialjuice"
   }
