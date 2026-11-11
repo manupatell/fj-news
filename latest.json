@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T18:37:10.748548+00:00",
+ "updated": "2026-11-11T18:40:30.774975+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847615,
+   "ts": "2026-11-11T18:38:56+00:00",
+   "ingested": "2026-11-11T18:40:30.774560+00:00",
+   "headline": "BoE's Greene: It's appropriate to proactively tighten monetary policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847614,
    "ts": "2026-11-11T18:36:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T07:02:00+00:00",
    "ingested": "2026-11-10T07:05:22.707111+00:00",
    "headline": "Norwegian CPI YoY Actual 3.6% (Forecast 3.7%, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844719,
-   "ts": "2026-11-10T07:02:00+00:00",
-   "ingested": "2026-11-10T07:05:22.707131+00:00",
-   "headline": "Norwegian CPI MoM Actual 0.3% (Forecast -, Previous 0.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
