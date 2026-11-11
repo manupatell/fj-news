@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T19:27:20.836975+00:00",
+ "updated": "2026-11-11T19:28:20.764112+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847665,
+   "ts": "2026-11-11T19:27:55+00:00",
+   "ingested": "2026-11-11T19:28:20.763773+00:00",
+   "headline": "Talks about Vance meeting with Iranians preliminary - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847664,
    "ts": "2026-11-11T19:26:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T07:59:06+00:00",
    "ingested": "2026-11-10T09:21:50.942817+00:00",
    "headline": "ECB's Lane: French fiscal problems need to be fixed in Paris.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844809,
-   "ts": "2026-11-10T07:58:56+00:00",
-   "ingested": "2026-11-10T09:21:50.942826+00:00",
-   "headline": "ECB's Lane: Expect core, food inflation to quicken.",
    "channel": "rss",
    "source": "financialjuice"
   }
