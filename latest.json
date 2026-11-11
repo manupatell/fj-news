@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-11T09:16:04.661360+00:00",
+ "updated": "2026-11-11T09:26:04.737521+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846848,
+   "ts": "2026-11-11T09:25:04+00:00",
+   "ingested": "2026-11-11T09:26:04.737046+00:00",
+   "headline": "Kremlin: no plans for talks with EU delegation in Abu Dhabi, no meetings held",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846847,
+   "ts": "2026-11-11T09:25:04+00:00",
+   "ingested": "2026-11-11T09:26:04.737062+00:00",
+   "headline": "Kremlin: Russia and EU currently have virtually no relations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846846,
+   "ts": "2026-11-11T09:25:04+00:00",
+   "ingested": "2026-11-11T09:26:04.737073+00:00",
+   "headline": "Kremlin: Putin has been regularly updated by Russian delegation at Abu Dhabi talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846827,
    "ts": "2026-11-11T09:14:47+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-09T19:00:30+00:00",
    "ingested": "2026-11-09T19:00:45.167107+00:00",
    "headline": "Bank of France: Great uncertainty on growth assessment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843781,
-   "ts": "2026-11-09T18:23:21+00:00",
-   "ingested": "2026-11-09T18:40:22.379879+00:00",
-   "headline": "Nvidia's Jensen Huang no longer set to attend Monday Anthropic CEO forum - Business Insider. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843780,
-   "ts": "2026-11-09T18:23:04+00:00",
-   "ingested": "2026-11-09T18:40:22.379902+00:00",
-   "headline": "Saudi-led coalition: Destroyed factory used by Yemen's Houthis to make ballistic missile components.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843779,
-   "ts": "2026-11-09T18:21:09+00:00",
-   "ingested": "2026-11-09T18:40:22.379920+00:00",
-   "headline": "Fed's Barkin: I do not think ballot measures approved in recent elections will impede data center expansion, firms will find somewhere to build.",
    "channel": "rss",
    "source": "financialjuice"
   }
