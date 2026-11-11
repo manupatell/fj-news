@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-11T22:28:10.818689+00:00",
+ "updated": "2026-11-11T22:29:50.816245+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847854,
+   "ts": "2026-11-11T22:29:19+00:00",
+   "ingested": "2026-11-11T22:29:50.815821+00:00",
+   "headline": "Nvidia board preparing to meet as soon as today to decide CEO\u2019s future: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847853,
+   "ts": "2026-11-11T22:29:15+00:00",
+   "ingested": "2026-11-11T22:29:50.815838+00:00",
+   "headline": "Nvidia board preparing to meet as soon as today to decide CEO Jensen's future: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847852,
+   "ts": "2026-11-11T22:29:14+00:00",
+   "ingested": "2026-11-11T22:29:50.815849+00:00",
+   "headline": "Nvidia prepares to replace CEO Jensen Huang - WSJ. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847851,
+   "ts": "2026-11-11T22:28:42+00:00",
+   "ingested": "2026-11-11T22:29:50.815859+00:00",
+   "headline": "Nvidia prepares to replace CEO Jensen Huang: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847850,
    "ts": "2026-11-11T22:26:51+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-10T09:26:46+00:00",
    "ingested": "2026-11-10T09:27:05.560424+00:00",
    "headline": "EU: shared goal is to create a practical and mutually supportive security framework",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844945,
-   "ts": "2026-11-10T09:26:31+00:00",
-   "ingested": "2026-11-10T09:27:05.560442+00:00",
-   "headline": "EU: Participants underscore any arrangements must honor sovereignty, territorial integrity, independent decision-making, and deliver credible security guarantees for Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844944,
-   "ts": "2026-11-10T09:25:56+00:00",
-   "ingested": "2026-11-10T09:27:05.560455+00:00",
-   "headline": "Ahead of talks with Russia, European partners, Ukraine and US hold meeting to strengthen coordination on ending war in Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844943,
-   "ts": "2026-11-10T09:25:45+00:00",
-   "ingested": "2026-11-10T09:27:05.560466+00:00",
-   "headline": "MTR Corp: Northern link aimed to start operating by end of 2034",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844942,
-   "ts": "2026-11-10T09:25:41+00:00",
-   "ingested": "2026-11-10T09:27:05.560481+00:00",
-   "headline": "MTR Corp enters project deal for NOL part 2 on November 10, 2026",
    "channel": "rss",
    "source": "financialjuice"
   }
