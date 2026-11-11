@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T18:18:20.781318+00:00",
+ "updated": "2026-11-11T18:25:30.743138+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847602,
+   "ts": "2026-11-11T18:24:11+00:00",
+   "ingested": "2026-11-11T18:25:30.742798+00:00",
+   "headline": "A growing number of Republicans on Capitol Hill want to draft Marco Rubio for a 2028 presidential bid - Politico",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847598,
    "ts": "2026-11-11T18:17:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T06:54:48+00:00",
    "ingested": "2026-11-10T06:55:22.734805+00:00",
    "headline": "ECB's Moulin: We see positive signs on energy prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844713,
-   "ts": "2026-11-10T06:52:07+00:00",
-   "ingested": "2026-11-10T06:53:42.699120+00:00",
-   "headline": "France's Foreign Minister: Europeans will be in the room for the Ukraine-Russia talks in Abu Dhabi.",
    "channel": "rss",
    "source": "financialjuice"
   }
