@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T10:06:04.682944+00:00",
+ "updated": "2026-11-11T10:11:04.706391+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846895,
+   "ts": "2026-11-11T10:10:46+00:00",
+   "ingested": "2026-11-11T10:11:04.705930+00:00",
+   "headline": "Bytedance prepares Muse-like AI agent release for the coming weeks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846884,
    "ts": "2026-11-11T09:55:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T19:31:05+00:00",
    "ingested": "2026-11-09T19:32:25.182086+00:00",
    "headline": "NYMEX WTI Crude December futures settle at $86.85 a barrel, down $3.98, 4.38%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843838,
-   "ts": "2026-11-09T19:14:01+00:00",
-   "ingested": "2026-11-09T19:15:45.162491+00:00",
-   "headline": "US Secretary of State Rubio: We need to speak more about disruption from AI on the economy.",
    "channel": "rss",
    "source": "financialjuice"
   }
