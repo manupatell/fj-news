@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T15:08:10.294390+00:00",
+ "updated": "2026-11-11T15:11:30.290695+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847360,
+   "ts": "2026-11-11T15:10:06+00:00",
+   "ingested": "2026-11-11T15:11:30.290390+00:00",
+   "headline": "UK's Chancellor Healey on headroom: Use when you need it, rebuild when you can.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847359,
    "ts": "2026-11-11T15:07:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T02:34:54+00:00",
    "ingested": "2026-11-10T02:35:22.637259+00:00",
    "headline": "China October unwrought aluminium and aluminium products exports 594,000 tonnes vs 656,000 tonnes in September: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844460,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637276+00:00",
-   "headline": "China jan-oct crude oil imports 399.90 mln tonnes vs 470.94 mln tonnes yr earlier: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
