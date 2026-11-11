@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T00:30:02.963638+00:00",
+ "updated": "2026-11-11T00:30:12.902016+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846230,
+   "ts": "2026-11-11T00:29:57+00:00",
+   "ingested": "2026-11-11T00:30:12.901650+00:00",
+   "headline": "Anthropic bankers set to lift IPO valuation to $1.5tn or higher - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846229,
    "ts": "2026-11-11T00:18:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:04:37+00:00",
    "ingested": "2026-11-09T18:40:22.380385+00:00",
    "headline": "Fed's Barkin: Firms say they will be trying to pass on higher costs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843661,
-   "ts": "2026-11-09T17:04:30+00:00",
-   "ingested": "2026-11-09T18:40:22.380398+00:00",
-   "headline": "Fed's Barkin: Resilient demand alongside broad-based cost increases putting upward pressure on prices.",
    "channel": "rss",
    "source": "financialjuice"
   }
