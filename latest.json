@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T20:13:10.784904+00:00",
+ "updated": "2026-11-11T20:23:10.784348+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847724,
+   "ts": "2026-11-11T20:22:44+00:00",
+   "ingested": "2026-11-11T20:23:10.783962+00:00",
+   "headline": "Thursday FX Option Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847701,
    "ts": "2026-11-11T20:01:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T09:00:59+00:00",
    "ingested": "2026-11-10T09:21:50.942744+00:00",
    "headline": "Fed's Waller: Would support quarter-point rate hike in December even if October CPI improves vs September.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844897,
-   "ts": "2026-11-10T09:00:40+00:00",
-   "ingested": "2026-11-10T09:21:50.942756+00:00",
-   "headline": "Fed's Waller: Half-point Fed rate hike may be needed in december, if October core CPI inflation comes in around 0.3% or higher.",
    "channel": "rss",
    "source": "financialjuice"
   }
