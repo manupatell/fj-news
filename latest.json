@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T03:31:42.744003+00:00",
+ "updated": "2026-11-11T03:41:42.676444+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846468,
+   "ts": "2026-11-11T03:39:53+00:00",
+   "ingested": "2026-11-11T03:41:42.676066+00:00",
+   "headline": "China finance ministry offers 2-month bills at 1.0506% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846451,
    "ts": "2026-11-11T03:10:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:39:23+00:00",
    "ingested": "2026-11-09T18:40:22.380166+00:00",
    "headline": "US Official: NATO will remain central to European collective defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843688,
-   "ts": "2026-11-09T17:30:06+00:00",
-   "ingested": "2026-11-09T18:40:22.380178+00:00",
-   "headline": "US Official: Meeting between President Trump and Qatar's PM and Foreign Minister has begun at the White House - Al Jazeera",
    "channel": "rss",
    "source": "financialjuice"
   }
