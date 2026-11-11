@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T17:23:20.771595+00:00",
+ "updated": "2026-11-11T17:26:40.734920+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847533,
+   "ts": "2026-11-11T17:26:02+00:00",
+   "ingested": "2026-11-11T17:26:40.734523+00:00",
+   "headline": "US Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors - NY Times",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847518,
    "ts": "2026-11-11T17:09:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T06:28:25+00:00",
    "ingested": "2026-11-10T06:28:42.687284+00:00",
    "headline": "BoE's Lombardelli: Seeing a real fall-off in hiring in labour market, but not seeing much in the way of redundancies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844680,
-   "ts": "2026-11-10T06:28:02+00:00",
-   "ingested": "2026-11-10T06:28:42.687304+00:00",
-   "headline": "Ukraine peace only one item in wider Abu Dhabi talks - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
