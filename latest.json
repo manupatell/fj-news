@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T10:51:20.227588+00:00",
+ "updated": "2026-11-11T10:54:40.220371+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846957,
+   "ts": "2026-11-11T10:52:56+00:00",
+   "ingested": "2026-11-11T10:54:40.219987+00:00",
+   "headline": "Turkey\u2019s President Erdogan: environmental factors carefully considered in energy security measures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846956,
    "ts": "2026-11-11T10:50:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T19:37:45+00:00",
    "ingested": "2026-11-09T19:39:05.235305+00:00",
    "headline": "Al Arabiya sources: Arrangements are being made to discuss the return of IAEA inspectors to Iran, without clarifying the scope of their duties.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843868,
-   "ts": "2026-11-09T19:32:50+00:00",
-   "ingested": "2026-11-09T19:34:05.165412+00:00",
-   "headline": "US Secretary of State Rubio: Israel has clearly graduated beyond US military aid.",
    "channel": "rss",
    "source": "financialjuice"
   }
