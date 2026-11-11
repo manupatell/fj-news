@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-11T14:33:10.334717+00:00",
+ "updated": "2026-11-11T14:34:50.275192+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847305,
+   "ts": "2026-11-11T14:34:39+00:00",
+   "ingested": "2026-11-11T14:34:50.274787+00:00",
+   "headline": "Russia's Ushakov: Europe format talks to weigh Abu Dhabi outcome - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847304,
+   "ts": "2026-11-11T14:34:34+00:00",
+   "ingested": "2026-11-11T14:34:50.274807+00:00",
+   "headline": "UK's Chancellor Healey aims to beat growth forecasts next year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847303,
+   "ts": "2026-11-11T14:34:19+00:00",
+   "ingested": "2026-11-11T14:34:50.274823+00:00",
+   "headline": "Kremlin: Putin-trUmp meeting at APEC being prepared - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847302,
+   "ts": "2026-11-11T14:33:53+00:00",
+   "ingested": "2026-11-11T14:34:50.274837+00:00",
+   "headline": "UK's Chancellor Healey: UK economy showing real resilience.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847301,
+   "ts": "2026-11-11T14:33:17+00:00",
+   "ingested": "2026-11-11T14:34:50.274851+00:00",
+   "headline": "Russia's Ushakov: Putin to meet Witkoff, Kushner Thursday morning - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847300,
    "ts": "2026-11-11T14:32:22+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-10T01:21:10+00:00",
    "ingested": "2026-11-10T01:47:02.693013+00:00",
    "headline": "China cbank injects 190 billion yuan via overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844298,
-   "ts": "2026-11-10T01:20:45+00:00",
-   "ingested": "2026-11-10T01:47:02.693067+00:00",
-   "headline": "Japan FinMin Katayama: no decisions made on preferential tax treatment for retail JGBs, leaves debate to LDP",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844297,
-   "ts": "2026-11-10T01:20:16+00:00",
-   "ingested": "2026-11-10T01:47:02.693089+00:00",
-   "headline": "Japan finmin Katayama: some smaller banks concerned about funds moving to retail JGBs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844296,
-   "ts": "2026-11-10T01:17:00+00:00",
-   "ingested": "2026-11-10T01:47:02.693108+00:00",
-   "headline": "Japan finance minister Katayama: no effect on BoJ operations from expected government proceeds of ETF sales",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844290,
-   "ts": "2026-11-10T01:14:46+00:00",
-   "ingested": "2026-11-10T01:47:02.693125+00:00",
-   "headline": "anthropic: google, nvidia, amd, broadcom, micron, microsoft, tsmc to invest $26 billion via private placement at ipo price",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844289,
-   "ts": "2026-11-10T01:07:58+00:00",
-   "ingested": "2026-11-10T01:47:02.693141+00:00",
-   "headline": "Australia PM Albanese: all review suggests compulsory company reporting on misaligned behaviour or cyber incidents",
    "channel": "rss",
    "source": "financialjuice"
   }
