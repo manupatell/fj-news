@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T01:33:02.637140+00:00",
+ "updated": "2026-11-11T01:41:22.653036+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846307,
+   "ts": "2026-11-11T01:40:03+00:00",
+   "ingested": "2026-11-11T01:41:22.652696+00:00",
+   "headline": "S.Korea central bank: sells 2-year monetary stabilisation bonds yielding 3.720%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846291,
    "ts": "2026-11-11T01:21:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:24:36+00:00",
    "ingested": "2026-11-09T18:40:22.380277+00:00",
    "headline": "Fed's Barkin sees risk of firms passing on higher energy costs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843678,
-   "ts": "2026-11-09T17:23:58+00:00",
-   "ingested": "2026-11-09T18:40:22.380292+00:00",
-   "headline": "Preparations underway in Doha to potentially host a new round of US-Iran talks in the coming week as mediators Pakistan and Qatar work to bridge gaps - Asia One News Reporter on X",
    "channel": "rss",
    "source": "financialjuice"
   }
