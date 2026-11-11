@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-11T05:59:24.614826+00:00",
+ "updated": "2026-11-11T06:02:44.651466+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846615,
+   "ts": "2026-11-11T06:02:33+00:00",
+   "ingested": "2026-11-11T06:02:44.650864+00:00",
+   "headline": "China Oct vehicle sales fall 9.2% y/y vs 8.4% in Sept: industry association",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846614,
+   "ts": "2026-11-11T06:01:49+00:00",
+   "ingested": "2026-11-11T06:02:44.650886+00:00",
+   "headline": "China October new energy vehicle sales rise 13.1% y/y: state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846613,
+   "ts": "2026-11-11T06:01:13+00:00",
+   "ingested": "2026-11-11T06:02:44.650902+00:00",
+   "headline": "China Jan-Oct new energy vehicle sales rise 11.3% y/y: Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846610,
    "ts": "2026-11-11T05:49:01+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-09T18:02:04+00:00",
    "ingested": "2026-11-09T18:40:22.380073+00:00",
    "headline": "US 3-Year Note High Yield Actual 4.627% (Forecast -, Previous 4.932%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843730,
-   "ts": "2026-11-09T18:00:21+00:00",
-   "ingested": "2026-11-09T18:40:22.380084+00:00",
-   "headline": "Treasury WI 3y yield 4.622% before $58 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843729,
-   "ts": "2026-11-09T17:57:21+00:00",
-   "ingested": "2026-11-09T18:40:22.380094+00:00",
-   "headline": "Fed's Barkin: Government debt, not consumer debt is at historic level",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843728,
-   "ts": "2026-11-09T17:53:47+00:00",
-   "ingested": "2026-11-09T18:40:22.380109+00:00",
-   "headline": "US Official: US envoys may visit Putin in Russia after the Abu Dhabi talks.",
    "channel": "rss",
    "source": "financialjuice"
   }
