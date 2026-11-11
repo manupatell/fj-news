@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-11T23:47:27.205555+00:00",
+ "updated": "2026-11-11T23:50:47.205385+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847946,
+   "ts": "2026-11-11T23:50:36+00:00",
+   "ingested": "2026-11-11T23:50:47.204949+00:00",
+   "headline": "Japanese Foreign Stock Investment Actual -643.9B (Forecast -, Previous 1,077.7B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847945,
+   "ts": "2026-11-11T23:50:36+00:00",
+   "ingested": "2026-11-11T23:50:47.204961+00:00",
+   "headline": "Foreign Investment Japanese Bonds Actual 1371.1B (Forecast -, Previous 1,481.7B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847944,
+   "ts": "2026-11-11T23:50:04+00:00",
+   "ingested": "2026-11-11T23:50:47.204973+00:00",
+   "headline": "Japan October domestic corporate goods price index rises 0.7% month-on-month: BoJ (Poll: +0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847943,
+   "ts": "2026-11-11T23:50:04+00:00",
+   "ingested": "2026-11-11T23:50:47.204981+00:00",
+   "headline": "Japan Oct domestic corporate goods price index rises 7.1% yr/yr: BoJ (Poll +6.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847939,
+   "ts": "2026-11-11T23:50:01+00:00",
+   "ingested": "2026-11-11T23:50:47.204989+00:00",
+   "headline": "Japanese PPI YoY Actual 7.1% (Forecast 6.5%, Previous 6.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847926,
    "ts": "2026-11-11T23:33:41+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-10T11:13:53+00:00",
    "ingested": "2026-11-10T11:15:25.535937+00:00",
    "headline": "Microsoft push WH to halt import ban on china AI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845077,
-   "ts": "2026-11-10T11:00:00+00:00",
-   "ingested": "2026-11-10T11:00:25.541758+00:00",
-   "headline": "US NFIB Business Optimism Index Actual 97.8 (Forecast 98.2, Previous 97.90)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845038,
-   "ts": "2026-11-10T10:27:47+00:00",
-   "ingested": "2026-11-10T10:28:45.521012+00:00",
-   "headline": "Iran's IRGC Navy: Two tankers caught fire after hitting naval mines in Strait of Hormuz - State Media.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845027,
-   "ts": "2026-11-10T10:09:20+00:00",
-   "ingested": "2026-11-10T10:10:25.517853+00:00",
-   "headline": "Fed's Waller: We're not going to jack up rates 150 or 200 bps.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845026,
-   "ts": "2026-11-10T10:08:51+00:00",
-   "ingested": "2026-11-10T10:10:25.517869+00:00",
-   "headline": "Fed's Waller: Not super hawkish, we don't want to slam economy down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845025,
-   "ts": "2026-11-10T10:07:36+00:00",
-   "ingested": "2026-11-10T10:08:45.513538+00:00",
-   "headline": "Fed's Waller: Minimum we need to take back the 3 insurance cuts.",
    "channel": "rss",
    "source": "financialjuice"
   }
