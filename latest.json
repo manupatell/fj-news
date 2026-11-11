@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T10:12:44.684613+00:00",
+ "updated": "2026-11-11T10:19:40.220126+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846921,
+   "ts": "2026-11-11T10:18:49+00:00",
+   "ingested": "2026-11-11T10:19:40.219631+00:00",
+   "headline": "Ukraine Naftogaz: Russia hit Dnipropetrovsk region facility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846920,
+   "ts": "2026-11-11T10:18:39+00:00",
+   "ingested": "2026-11-11T10:19:40.219654+00:00",
+   "headline": "Iran IRGC claims 2 tankers hit mines in Hormuz overnight - Fars",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846895,
    "ts": "2026-11-11T10:10:46+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T19:32:00+00:00",
    "ingested": "2026-11-09T19:32:25.182059+00:00",
    "headline": "US Secretary of State Rubio: We're negotiating an MOU on US military aid for Israel.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843863,
-   "ts": "2026-11-09T19:31:41+00:00",
-   "ingested": "2026-11-09T19:32:25.182072+00:00",
-   "headline": "NYMEX Natural Gas December futures settle at $3.2180/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843851,
-   "ts": "2026-11-09T19:31:05+00:00",
-   "ingested": "2026-11-09T19:32:25.182086+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $86.85 a barrel, down $3.98, 4.38%.",
    "channel": "rss",
    "source": "financialjuice"
   }
