@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-11T12:59:40.262786+00:00",
+ "updated": "2026-11-11T13:01:20.244840+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847163,
+   "ts": "2026-11-11T13:00:57+00:00",
+   "ingested": "2026-11-11T13:01:20.244316+00:00",
+   "headline": "Saudi Arabia tells OPEC it pumped 10.6m b/d in October",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847162,
+   "ts": "2026-11-11T13:00:50+00:00",
+   "ingested": "2026-11-11T13:01:20.244341+00:00",
+   "headline": "Saudi Arabia tells OPEC it produced 10.563 million bpd of crude in October, up from 8.372 mbpd in September.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847161,
+   "ts": "2026-11-11T13:00:39+00:00",
+   "ingested": "2026-11-11T13:01:20.244363+00:00",
+   "headline": "OEPC: OPEC+ crude output (including former member UAE) averaged 41.23 million bpd in October, up 2.04 million bpd from September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847159,
+   "ts": "2026-11-11T13:00:24+00:00",
+   "ingested": "2026-11-11T13:01:20.244381+00:00",
+   "headline": "OPEC leaves 2026, 2027 global oil demand growth forecasts unchanged - Copy of monthly report",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847156,
    "ts": "2026-11-11T12:58:13+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-10T00:01:00+00:00",
    "ingested": "2026-11-10T00:02:25.264684+00:00",
    "headline": "UK BRC Retail Sales YoY Actual 1.1% (Forecast 1.2%, Previous 1.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844195,
-   "ts": "2026-11-09T23:57:36+00:00",
-   "ingested": "2026-11-09T23:59:05.244911+00:00",
-   "headline": "Boj Summary: One member said wage growth for next year unlikely to rise much from this year, risk of second-round effects low",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844194,
-   "ts": "2026-11-09T23:56:55+00:00",
-   "ingested": "2026-11-09T23:57:25.234497+00:00",
-   "headline": "BOJ summary: one member said outcome of next year's annual pay talks warrants attention",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844193,
-   "ts": "2026-11-09T23:55:55+00:00",
-   "ingested": "2026-11-09T23:57:25.234512+00:00",
-   "headline": "BOJ summary: one member said next rate increase unlikely to significantly hurt economy on net basis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844192,
-   "ts": "2026-11-09T23:55:11+00:00",
-   "ingested": "2026-11-09T23:55:45.235933+00:00",
-   "headline": "BOJ Summary: One Member Says Japan\u2019s Neutral Rate Likely Well Above 1%",
    "channel": "rss",
    "source": "financialjuice"
   }
