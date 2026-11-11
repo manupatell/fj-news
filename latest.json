@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T10:44:40.225526+00:00",
+ "updated": "2026-11-11T10:51:20.227588+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846956,
+   "ts": "2026-11-11T10:50:35+00:00",
+   "ingested": "2026-11-11T10:51:20.227048+00:00",
+   "headline": "Mauritius central bank sets repo rate at 5%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846939,
    "ts": "2026-11-11T10:33:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T19:32:50+00:00",
    "ingested": "2026-11-09T19:34:05.165412+00:00",
    "headline": "US Secretary of State Rubio: Israel has clearly graduated beyond US military aid.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843867,
-   "ts": "2026-11-09T19:32:27+00:00",
-   "ingested": "2026-11-09T19:34:05.165430+00:00",
-   "headline": "NYMEX Diesel December futures settle at $4.2148 a gallon.",
    "channel": "rss",
    "source": "financialjuice"
   }
