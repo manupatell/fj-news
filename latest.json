@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T21:46:30.812030+00:00",
+ "updated": "2026-11-11T21:51:30.805996+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847802,
+   "ts": "2026-11-11T21:47:00+00:00",
+   "ingested": "2026-11-11T21:51:30.805626+00:00",
+   "headline": "New Zealand External Migration & Visitors Actual 9.8% (Forecast -, Previous 8.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847801,
    "ts": "2026-11-11T21:45:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T09:02:54+00:00",
    "ingested": "2026-11-10T09:21:50.942672+00:00",
    "headline": "Fed's Waller: Labor market solid, supply and demand roughly in balance, employment close to Fed's goal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844923,
-   "ts": "2026-11-10T09:02:41+00:00",
-   "ingested": "2026-11-10T09:21:50.942686+00:00",
-   "headline": "Fed's Waller: Fed staff analyses suggest more producer price increases ahead, and potential for energy price shock to be more persistent.",
    "channel": "rss",
    "source": "financialjuice"
   }
