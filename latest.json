@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T01:19:42.674786+00:00",
+ "updated": "2026-11-11T01:23:02.667007+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846291,
+   "ts": "2026-11-11T01:21:13+00:00",
+   "ingested": "2026-11-11T01:23:02.666673+00:00",
+   "headline": "China cbank injects 187 billion yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846290,
    "ts": "2026-11-11T01:18:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:23:58+00:00",
    "ingested": "2026-11-09T18:40:22.380292+00:00",
    "headline": "Preparations underway in Doha to potentially host a new round of US-Iran talks in the coming week as mediators Pakistan and Qatar work to bridge gaps - Asia One News Reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843668,
-   "ts": "2026-11-09T17:15:04+00:00",
-   "ingested": "2026-11-09T18:40:22.380303+00:00",
-   "headline": "Past US CPI Market Reactions, Deviations & Sentiment - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
