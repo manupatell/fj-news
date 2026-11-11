@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-11T00:30:12.902016+00:00",
+ "updated": "2026-11-11T00:31:52.970226+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846233,
+   "ts": "2026-11-11T00:30:03+00:00",
+   "ingested": "2026-11-11T00:31:52.969826+00:00",
+   "headline": "Australia Q3 owner-occupied housing finance value declines 5.3% q/q, seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846232,
+   "ts": "2026-11-11T00:30:03+00:00",
+   "ingested": "2026-11-11T00:31:52.969868+00:00",
+   "headline": "Australia Q3 housing finance value falls 15.5% quarter-on-quarter, seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846231,
+   "ts": "2026-11-11T00:30:03+00:00",
+   "ingested": "2026-11-11T00:31:52.969879+00:00",
+   "headline": "Australia Q3 value of investment housing finance down 32.3% q/q, seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846230,
    "ts": "2026-11-11T00:29:57+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-09T17:05:06+00:00",
    "ingested": "2026-11-09T18:40:22.380337+00:00",
    "headline": "Fed's Barkin: Layoffs remain muted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843664,
-   "ts": "2026-11-09T17:04:58+00:00",
-   "ingested": "2026-11-09T18:40:22.380349+00:00",
-   "headline": "Fed's Barkin: Bankers say loan pipelines are healthy, demand extending well beyond artificial intelligence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843663,
-   "ts": "2026-11-09T17:04:45+00:00",
-   "ingested": "2026-11-09T18:40:22.380374+00:00",
-   "headline": "Fed's Barkin: Businesses are performing well, with 'remarkable' earnings:",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843662,
-   "ts": "2026-11-09T17:04:37+00:00",
-   "ingested": "2026-11-09T18:40:22.380385+00:00",
-   "headline": "Fed's Barkin: Firms say they will be trying to pass on higher costs",
    "channel": "rss",
    "source": "financialjuice"
   }
