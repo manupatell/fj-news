@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-11T18:30:30.745983+00:00",
+ "updated": "2026-11-11T18:37:10.748548+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847614,
+   "ts": "2026-11-11T18:36:47+00:00",
+   "ingested": "2026-11-11T18:37:10.748047+00:00",
+   "headline": "BoE's Greene suggests there is less labor market slack than thought.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847613,
+   "ts": "2026-11-11T18:36:28+00:00",
+   "ingested": "2026-11-11T18:37:10.748062+00:00",
+   "headline": "BoE's Greene: Data shows wage growth in the UK is too high - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847612,
+   "ts": "2026-11-11T18:35:45+00:00",
+   "ingested": "2026-11-11T18:37:10.748073+00:00",
+   "headline": "Yemen's Houthis deny attacking Mecca region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847611,
+   "ts": "2026-11-11T18:35:35+00:00",
+   "ingested": "2026-11-11T18:37:10.748083+00:00",
+   "headline": "Yemen's Houthis: Attacked pumping station in Yanbu region with drone",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847604,
    "ts": "2026-11-11T18:29:50+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-10T07:02:00+00:00",
    "ingested": "2026-11-10T07:05:22.707131+00:00",
    "headline": "Norwegian CPI MoM Actual 0.3% (Forecast -, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844718,
-   "ts": "2026-11-10T06:59:41+00:00",
-   "ingested": "2026-11-10T07:00:22.703987+00:00",
-   "headline": "ECB's Moulin: Expect continuity at ECB if Knot or de Cos take over.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844717,
-   "ts": "2026-11-10T06:56:26+00:00",
-   "ingested": "2026-11-10T06:57:02.699908+00:00",
-   "headline": "Adnoc CFO: Made no decisions on alternative LNG export facilities.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844716,
-   "ts": "2026-11-10T06:56:05+00:00",
-   "ingested": "2026-11-10T06:57:02.699929+00:00",
-   "headline": "Adnoc CFO:s LNG exports through Strait of Hormuz remain below preconflict level.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844715,
-   "ts": "2026-11-10T06:55:42+00:00",
-   "ingested": "2026-11-10T06:57:02.699945+00:00",
-   "headline": "adnoc CFO: Seeing month-by-month improvement in LNG cargoes exiting Strait.",
    "channel": "rss",
    "source": "financialjuice"
   }
