@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T18:25:30.743138+00:00",
+ "updated": "2026-11-11T18:30:30.745983+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847604,
+   "ts": "2026-11-11T18:29:50+00:00",
+   "ingested": "2026-11-11T18:30:30.745623+00:00",
+   "headline": "BoE's Green: It is appropriate to proactively tighten our monetary policy stance to lean against the risk of wage growth getting stuck at higher levels - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847602,
    "ts": "2026-11-11T18:24:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T06:55:42+00:00",
    "ingested": "2026-11-10T06:57:02.699945+00:00",
    "headline": "adnoc CFO: Seeing month-by-month improvement in LNG cargoes exiting Strait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844714,
-   "ts": "2026-11-10T06:54:48+00:00",
-   "ingested": "2026-11-10T06:55:22.734805+00:00",
-   "headline": "ECB's Moulin: We see positive signs on energy prices.",
    "channel": "rss",
    "source": "financialjuice"
   }
