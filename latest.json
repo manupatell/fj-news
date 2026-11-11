@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T21:43:10.799035+00:00",
+ "updated": "2026-11-11T21:46:30.812030+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847801,
+   "ts": "2026-11-11T21:45:00+00:00",
+   "ingested": "2026-11-11T21:46:30.811616+00:00",
+   "headline": "New Zealand Visitor Arrivals Actual 2290 (Forecast -, Previous 1,530)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847786,
    "ts": "2026-11-11T21:22:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T09:02:41+00:00",
    "ingested": "2026-11-10T09:21:50.942686+00:00",
    "headline": "Fed's Waller: Fed staff analyses suggest more producer price increases ahead, and potential for energy price shock to be more persistent.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844922,
-   "ts": "2026-11-10T09:02:03+00:00",
-   "ingested": "2026-11-10T09:21:50.942698+00:00",
-   "headline": "Fed's Waller: Suspect GDP growth is backing off in current quarter, but output will continue to grow at solid pace.",
    "channel": "rss",
    "source": "financialjuice"
   }
