@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-11T15:06:30.294188+00:00",
+ "updated": "2026-11-11T15:08:10.294390+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847359,
+   "ts": "2026-11-11T15:07:48+00:00",
+   "ingested": "2026-11-11T15:08:10.293977+00:00",
+   "headline": "Russia's Medinsky: The safety zone along the border with Ukraine is substantial; it is expanding and will continue to expand - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847358,
+   "ts": "2026-11-11T15:07:02+00:00",
+   "ingested": "2026-11-11T15:08:10.293999+00:00",
+   "headline": "China's Foreign Minister Wang Yi and US Secretary of State Rubio discuss Xi-Trump interactions - Xinhua.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847357,
+   "ts": "2026-11-11T15:07:02+00:00",
+   "ingested": "2026-11-11T15:08:10.294019+00:00",
+   "headline": "Kremlin Spokesman Peskov: Talks between Putin and Trump following the trilateral talks between the delegations in Abu Dhabi is not planned for now - TASS.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847356,
+   "ts": "2026-11-11T15:06:23+00:00",
+   "ingested": "2026-11-11T15:08:10.294038+00:00",
+   "headline": "Russia's Medinsky: If we succeed in creating a fair security system, we will ensure peace in Europe for decades and centuries to come.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847355,
    "ts": "2026-11-11T15:05:28+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-10T02:34:54+00:00",
    "ingested": "2026-11-10T02:35:22.637276+00:00",
    "headline": "China jan-oct crude oil imports 399.90 mln tonnes vs 470.94 mln tonnes yr earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844459,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637293+00:00",
-   "headline": "China jan-oct natural gas shipments 99.22 mln tonnes vs 102.09 mln tonnes yr earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844458,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637310+00:00",
-   "headline": "China jan-oct unwrought aluminium and aluminium product exports total 5,914,000 tonnes vs 5,020,000 tonnes yr earlier - customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844457,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637325+00:00",
-   "headline": "China October unwrought copper and copper products imports 453,000 tonnes, vs 461,000 tonnes in September: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844456,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637340+00:00",
-   "headline": "China Jan-Oct rare earth shipments 48,097.2 tonnes vs 52,699.1 tonnes year earlier: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
