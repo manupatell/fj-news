@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T14:16:30.270444+00:00",
+ "updated": "2026-11-11T14:19:50.268896+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847278,
+   "ts": "2026-11-11T14:18:50+00:00",
+   "ingested": "2026-11-11T14:19:50.268557+00:00",
+   "headline": "Iran's Security Chief Rezaei to Lebanon's al Mayadeen: We are working on nuclear-powered ships and submarines, so we need our enriched materials.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847257,
    "ts": "2026-11-11T14:06:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T00:47:42+00:00",
    "ingested": "2026-11-10T01:47:02.693262+00:00",
    "headline": "Saudi civil defense: danger has passed in Riyadh - Saudi state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844248,
-   "ts": "2026-11-10T00:40:16+00:00",
-   "ingested": "2026-11-10T01:47:02.693275+00:00",
-   "headline": "Saudi civil defense issues warning of potential hazard in Riyadh",
    "channel": "rss",
    "source": "financialjuice"
   }
