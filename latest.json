@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T14:28:10.270972+00:00",
+ "updated": "2026-11-11T14:29:50.269462+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847285,
+   "ts": "2026-11-11T14:28:28+00:00",
+   "ingested": "2026-11-11T14:29:50.269103+00:00",
+   "headline": "Iran's Rezaei: Tehran will target us military bases in European countries if US aircraft take off from them to strike Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847284,
    "ts": "2026-11-11T14:27:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T01:07:05+00:00",
    "ingested": "2026-11-10T01:47:02.693156+00:00",
    "headline": "South Korea president Lee: Seoul must foster cooperation with US Congress, expand ties with US state governments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844287,
-   "ts": "2026-11-10T01:06:01+00:00",
-   "ingested": "2026-11-10T01:47:02.693170+00:00",
-   "headline": "Australia PM Albanese: AI protections to be overseen by new dedicated AI safety regulator",
    "channel": "rss",
    "source": "financialjuice"
   }
