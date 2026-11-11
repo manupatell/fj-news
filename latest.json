@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T10:29:40.217176+00:00",
+ "updated": "2026-11-11T10:34:40.217399+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846939,
+   "ts": "2026-11-11T10:33:53+00:00",
+   "ingested": "2026-11-11T10:34:40.216796+00:00",
+   "headline": "German 30 Yr Bund Yield Actual 3.66% (Forecast -, Previous 3.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846938,
+   "ts": "2026-11-11T10:33:53+00:00",
+   "ingested": "2026-11-11T10:34:40.216817+00:00",
+   "headline": "German 30 Yr Bund Bid-to-cover Actual 1.297 (Forecast -, Previous 1.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846921,
    "ts": "2026-11-11T10:18:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-09T19:32:27+00:00",
    "ingested": "2026-11-09T19:34:05.165430+00:00",
    "headline": "NYMEX Diesel December futures settle at $4.2148 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843866,
-   "ts": "2026-11-09T19:32:11+00:00",
-   "ingested": "2026-11-09T19:32:25.182041+00:00",
-   "headline": "NYMEX Gasoline December futures settle at $2.6509 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843865,
-   "ts": "2026-11-09T19:32:00+00:00",
-   "ingested": "2026-11-09T19:32:25.182059+00:00",
-   "headline": "US Secretary of State Rubio: We're negotiating an MOU on US military aid for Israel.",
    "channel": "rss",
    "source": "financialjuice"
   }
