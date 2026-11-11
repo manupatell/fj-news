@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T08:59:24.682073+00:00",
+ "updated": "2026-11-11T09:01:04.666330+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846811,
+   "ts": "2026-11-11T09:00:36+00:00",
+   "ingested": "2026-11-11T09:01:04.665818+00:00",
+   "headline": "Italian Industrial Production MoM Actual 1.2% (Forecast 0.7%, Previous -1.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846787,
    "ts": "2026-11-11T08:39:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T18:20:53+00:00",
    "ingested": "2026-11-09T18:40:22.379935+00:00",
    "headline": "Fed's Barkin: Last job report was healthy, but still see firms in low-hire, low-fire environment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843777,
-   "ts": "2026-11-09T18:20:41+00:00",
-   "ingested": "2026-11-09T18:40:22.379948+00:00",
-   "headline": "Fed's Barkin: Would an advantage if each fed policy meeting were set to include two full months of economy data",
    "channel": "rss",
    "source": "financialjuice"
   }
