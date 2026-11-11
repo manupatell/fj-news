@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T02:50:32.686031+00:00",
+ "updated": "2026-11-11T02:56:02.700470+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846436,
+   "ts": "2026-11-11T02:54:58+00:00",
+   "ingested": "2026-11-11T02:56:02.700124+00:00",
+   "headline": "Republican US Senator Kevin Cramer from Senate Banking Committee urges Nvidia CEO to resign: Politico",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846324,
    "ts": "2026-11-11T01:49:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:27:17+00:00",
    "ingested": "2026-11-09T18:40:22.380241+00:00",
    "headline": "BoE Governor Bailey: Growing signs of beginnings of positive supply shock from AI, investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843682,
-   "ts": "2026-11-09T17:27:12+00:00",
-   "ingested": "2026-11-09T18:40:22.380254+00:00",
-   "headline": "BoE Governor Bailey: AI, digital technology and robotics have potential to raise sustainable economic growth through higher productivity.",
    "channel": "rss",
    "source": "financialjuice"
   }
