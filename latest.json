@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T13:54:50.268808+00:00",
+ "updated": "2026-11-11T13:56:30.274832+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847234,
+   "ts": "2026-11-11T13:56:06+00:00",
+   "ingested": "2026-11-11T13:56:30.274462+00:00",
+   "headline": "Germany's Council of Economic Experts' Felbermayr: There will be more, not less, trade uncertainty after US midterms.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847233,
    "ts": "2026-11-11T13:54:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T00:30:01+00:00",
    "ingested": "2026-11-10T01:47:02.693316+00:00",
    "headline": "Australian NAB Business Confidence Actual -15 (Forecast -, Previous -13)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844231,
-   "ts": "2026-11-10T00:30:00+00:00",
-   "ingested": "2026-11-10T01:47:02.693330+00:00",
-   "headline": "Australian NAB Business Conditions Actual -2 (Forecast -, Previous -1)",
    "channel": "rss",
    "source": "financialjuice"
   }
