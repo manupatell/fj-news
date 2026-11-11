@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T13:03:00.264956+00:00",
+ "updated": "2026-11-11T13:08:00.265566+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847181,
+   "ts": "2026-11-11T13:07:18+00:00",
+   "ingested": "2026-11-11T13:08:00.265202+00:00",
+   "headline": "Deutsche Bank's View on US CPI - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847179,
    "ts": "2026-11-11T13:01:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T00:01:04+00:00",
    "ingested": "2026-11-10T00:02:25.264660+00:00",
    "headline": "British Retail Consortium like-for-like sales in October up 1.1% year-on-year vs 1.0% in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844199,
-   "ts": "2026-11-10T00:01:04+00:00",
-   "ingested": "2026-11-10T00:02:25.264672+00:00",
-   "headline": "Barclays: UK October consumer confidence weakest since April",
    "channel": "rss",
    "source": "financialjuice"
   }
