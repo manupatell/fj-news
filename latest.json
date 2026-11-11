@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T15:11:30.290695+00:00",
+ "updated": "2026-11-11T15:14:50.285767+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847361,
+   "ts": "2026-11-11T15:13:17+00:00",
+   "ingested": "2026-11-11T15:14:50.285416+00:00",
+   "headline": "Bessent confronts Lutnick over China inaction - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847360,
    "ts": "2026-11-11T15:10:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T02:34:54+00:00",
    "ingested": "2026-11-10T02:35:22.637241+00:00",
    "headline": "China jan-oct unwrought copper and copper products imports total 4,211,000 tonnes, vs 4,456,000 tonnes a year earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844461,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T02:35:22.637259+00:00",
-   "headline": "China October unwrought aluminium and aluminium products exports 594,000 tonnes vs 656,000 tonnes in September: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
