@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T04:44:24.595415+00:00",
+ "updated": "2026-11-11T04:54:24.625505+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846532,
+   "ts": "2026-11-11T04:53:21+00:00",
+   "ingested": "2026-11-11T04:54:24.625120+00:00",
+   "headline": "Drone debris kills two in Russia's Smolensk region: governor, Russian newswires",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846468,
    "ts": "2026-11-11T03:39:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:45:09+00:00",
    "ingested": "2026-11-09T18:40:22.380155+00:00",
    "headline": "BoE Gov. Bailey: No longer luxury of assuming supply shocks fade away.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843708,
-   "ts": "2026-11-09T17:39:23+00:00",
-   "ingested": "2026-11-09T18:40:22.380166+00:00",
-   "headline": "US Official: NATO will remain central to European collective defense",
    "channel": "rss",
    "source": "financialjuice"
   }
