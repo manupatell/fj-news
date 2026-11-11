@@ -23142,3 +23142,5 @@
 {"guid": 9847664, "ts": "2026-11-11T19:26:43+00:00", "ingested": "2026-11-11T19:27:20.836576+00:00", "headline": "Trump open to Vance restarting talks with Iran - WSJ", "channel": "rss", "source": "financialjuice"}
 {"guid": 9847665, "ts": "2026-11-11T19:27:55+00:00", "ingested": "2026-11-11T19:28:20.763773+00:00", "headline": "Talks about Vance meeting with Iranians preliminary - WSJ", "channel": "rss", "source": "financialjuice"}
 {"guid": 9847668, "ts": "2026-11-11T19:30:54+00:00", "ingested": "2026-11-11T19:31:10.783867+00:00", "headline": "NYMEX WTI crude Dec. futures settle at $86.53 a barrel, up 49 cents, 0.57%", "channel": "rss", "source": "financialjuice"}
+{"guid": 9847669, "ts": "2026-11-11T19:31:01+00:00", "ingested": "2026-11-11T19:31:20.787505+00:00", "headline": "NYMEX gasoline Dec. futures settle at $2.6075 a gallon", "channel": "rss", "source": "financialjuice"}
+{"guid": 9847670, "ts": "2026-11-11T19:31:10+00:00", "ingested": "2026-11-11T19:31:20.787489+00:00", "headline": "NYMEX diesel Dec. futures settle at $4.2113 a gallon", "channel": "rss", "source": "financialjuice"}

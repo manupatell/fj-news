@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T19:31:10.784221+00:00",
+ "updated": "2026-11-11T19:31:20.787854+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847670,
+   "ts": "2026-11-11T19:31:10+00:00",
+   "ingested": "2026-11-11T19:31:20.787489+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.2113 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847669,
+   "ts": "2026-11-11T19:31:01+00:00",
+   "ingested": "2026-11-11T19:31:20.787505+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.6075 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847668,
    "ts": "2026-11-11T19:30:54+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T08:13:49+00:00",
    "ingested": "2026-11-10T09:21:50.942787+00:00",
    "headline": "trilateral talks on Ukraine start in Abu-Dhabi - Ria",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844817,
-   "ts": "2026-11-10T08:00:40+00:00",
-   "ingested": "2026-11-10T09:21:50.942798+00:00",
-   "headline": "Currency Strength Chart: Strongest: NZD, EUR, CHF, GBP, CAD, USD, JPY, AUD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844811,
-   "ts": "2026-11-10T07:59:18+00:00",
-   "ingested": "2026-11-10T09:21:50.942808+00:00",
-   "headline": "ECB's Lane: Europe's economic resilience is quite reassuring.",
    "channel": "rss",
    "source": "financialjuice"
   }
