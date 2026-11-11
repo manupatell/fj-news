@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T13:01:20.244840+00:00",
+ "updated": "2026-11-11T13:03:00.264956+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847179,
+   "ts": "2026-11-11T13:01:52+00:00",
+   "ingested": "2026-11-11T13:03:00.264603+00:00",
+   "headline": "Citi's Summary of JPY Weakness - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847163,
    "ts": "2026-11-11T13:00:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T00:01:04+00:00",
    "ingested": "2026-11-10T00:02:25.264672+00:00",
    "headline": "Barclays: UK October consumer confidence weakest since April",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844198,
-   "ts": "2026-11-10T00:01:00+00:00",
-   "ingested": "2026-11-10T00:02:25.264684+00:00",
-   "headline": "UK BRC Retail Sales YoY Actual 1.1% (Forecast 1.2%, Previous 1.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
