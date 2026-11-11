@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T11:31:20.217595+00:00",
+ "updated": "2026-11-11T11:34:40.228936+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847050,
+   "ts": "2026-11-11T11:33:44+00:00",
+   "ingested": "2026-11-11T11:34:40.228534+00:00",
+   "headline": "Ukrainian Negotiator: Kyiv heard no ultimatums from either side at talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847045,
    "ts": "2026-11-11T11:30:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T23:32:13+00:00",
    "ingested": "2026-11-09T23:35:45.246196+00:00",
    "headline": "Japanese All Household Spending MoM Actual -2.8% (Forecast -, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844136,
-   "ts": "2026-11-09T23:30:07+00:00",
-   "ingested": "2026-11-09T23:30:45.235128+00:00",
-   "headline": "Japanese All Household Spending YoY Actual -6.8% (Forecast -3%, Previous -3.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
