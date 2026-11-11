@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T14:24:50.275763+00:00",
+ "updated": "2026-11-11T14:28:10.270972+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847284,
+   "ts": "2026-11-11T14:27:21+00:00",
+   "ingested": "2026-11-11T14:28:10.270653+00:00",
+   "headline": "Iran's Rezaei: Putin told me that he has emphasized to US that Iran is not a country that can be overthrown.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847283,
    "ts": "2026-11-11T14:24:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T01:06:01+00:00",
    "ingested": "2026-11-10T01:47:02.693170+00:00",
    "headline": "Australia PM Albanese: AI protections to be overseen by new dedicated AI safety regulator",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844286,
-   "ts": "2026-11-10T01:05:38+00:00",
-   "ingested": "2026-11-10T01:47:02.693183+00:00",
-   "headline": "Australia PM Albanese announces mandatory AI safety and security measures",
    "channel": "rss",
    "source": "financialjuice"
   }
