@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T15:29:50.372622+00:00",
+ "updated": "2026-11-11T15:34:50.334336+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847392,
+   "ts": "2026-11-11T15:33:46+00:00",
+   "ingested": "2026-11-11T15:34:50.333950+00:00",
+   "headline": "Internal Fed debate emerges over Williams exit date. Fed debate over 2027 vs 2028 departure - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847383,
    "ts": "2026-11-11T15:18:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T04:48:42+00:00",
    "ingested": "2026-11-10T04:50:22.666415+00:00",
    "headline": "U.S. aircraft withdrawn from second U.K. base over Iran threat: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844496,
-   "ts": "2026-11-10T03:01:04+00:00",
-   "ingested": "2026-11-10T03:02:02.645560+00:00",
-   "headline": "Saudi-led coalition: intercepts and destroys drone over eastern Saudi Arabia",
    "channel": "rss",
    "source": "financialjuice"
   }
