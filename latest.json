@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-11T11:29:40.231879+00:00",
+ "updated": "2026-11-11T11:31:20.217595+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847045,
+   "ts": "2026-11-11T11:30:57+00:00",
+   "ingested": "2026-11-11T11:31:20.216983+00:00",
+   "headline": "06:29:22\nUS Envoy Kushner: These peace deals are complex, but we see all the different ingredients to make a deal, and we are trying to find a way to make it come together",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847044,
+   "ts": "2026-11-11T11:30:30+00:00",
+   "ingested": "2026-11-11T11:31:20.217003+00:00",
+   "headline": "US Envoy Kushner: Would be great for Zelenskyy and Putin to meet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847041,
+   "ts": "2026-11-11T11:30:12+00:00",
+   "ingested": "2026-11-11T11:31:20.217019+00:00",
+   "headline": "US Envoy Kushner: Need Europeans for discussions on post-war security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847040,
+   "ts": "2026-11-11T11:30:02+00:00",
+   "ingested": "2026-11-11T11:31:20.217035+00:00",
+   "headline": "US Envoy Kushner: There is no trust right now between the sides, but we should rely on interests",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847039,
+   "ts": "2026-11-11T11:29:45+00:00",
+   "ingested": "2026-11-11T11:31:20.217050+00:00",
+   "headline": "US Envoy Kushner: We need to have the Europeans at the table",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847038,
+   "ts": "2026-11-11T11:29:33+00:00",
+   "ingested": "2026-11-11T11:31:20.217094+00:00",
+   "headline": "US Envoy Kushner: Europe should agree on its representative for talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847037,
    "ts": "2026-11-11T11:29:26+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-09T23:30:07+00:00",
    "ingested": "2026-11-09T23:30:45.235128+00:00",
    "headline": "Japanese All Household Spending YoY Actual -6.8% (Forecast -3%, Previous -3.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844135,
-   "ts": "2026-11-09T23:30:07+00:00",
-   "ingested": "2026-11-09T23:30:45.235143+00:00",
-   "headline": "Japan September household spending falls 2.8% month on month, government says (Poll: 0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844134,
-   "ts": "2026-11-09T23:30:04+00:00",
-   "ingested": "2026-11-09T23:30:45.235155+00:00",
-   "headline": "Australia November Westpac-MI consumer confidence index declines 2.7% to 78.2",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844133,
-   "ts": "2026-11-09T23:30:04+00:00",
-   "ingested": "2026-11-09T23:30:45.235166+00:00",
-   "headline": "Japan Sept household spending down 6.7% year/year: govt (Poll: -3.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844132,
-   "ts": "2026-11-09T23:30:00+00:00",
-   "ingested": "2026-11-09T23:30:45.235175+00:00",
-   "headline": "Australian Consumer Sentiment Actual -2.7% (Forecast -, Previous -4.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844125,
-   "ts": "2026-11-09T23:01:37+00:00",
-   "ingested": "2026-11-09T23:02:25.222548+00:00",
-   "headline": "Iraq to temporarily shut Mandali border crossing with Iran from Friday to complete technical requirements: state news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844110,
-   "ts": "2026-11-09T22:59:34+00:00",
-   "ingested": "2026-11-09T23:00:45.234676+00:00",
-   "headline": "White House: Michael Losapio named director of cybersecurity and infrastructure security agency",
    "channel": "rss",
    "source": "financialjuice"
   }
