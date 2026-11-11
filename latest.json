@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T09:26:04.737521+00:00",
+ "updated": "2026-11-11T09:27:44.675525+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846849,
+   "ts": "2026-11-11T09:26:29+00:00",
+   "ingested": "2026-11-11T09:27:44.675091+00:00",
+   "headline": "Iran: US attack to trigger strikes on distant US bases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846848,
    "ts": "2026-11-11T09:25:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T19:00:38+00:00",
    "ingested": "2026-11-09T19:02:25.180545+00:00",
    "headline": "Bank of France: The economy is going to grow moderately in 4Q.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843821,
-   "ts": "2026-11-09T19:00:30+00:00",
-   "ingested": "2026-11-09T19:00:45.167107+00:00",
-   "headline": "Bank of France: Great uncertainty on growth assessment.",
    "channel": "rss",
    "source": "financialjuice"
   }
