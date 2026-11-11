@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-11T15:53:10.299711+00:00",
+ "updated": "2026-11-11T17:23:20.771595+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847518,
+   "ts": "2026-11-11T17:09:47+00:00",
+   "ingested": "2026-11-11T17:23:20.770988+00:00",
+   "headline": "Google brings Gemini Live to Apple Carplay globally. $GOOGL $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847472,
+   "ts": "2026-11-11T16:41:57+00:00",
+   "ingested": "2026-11-11T17:23:20.771010+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: We have reached an understanding with Oman about the shipping lane and traffic separation system in the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847471,
+   "ts": "2026-11-11T16:40:45+00:00",
+   "ingested": "2026-11-11T17:23:20.771027+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: We are ready to help Saudi Arabia and Ansar Allah resolve their differences if they ask us to - Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847458,
+   "ts": "2026-11-11T16:31:03+00:00",
+   "ingested": "2026-11-11T17:23:20.771046+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: Americans traveled to Russia and asked Putin to talk to Iran in order to conduct direct talks between Iran and US - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847454,
+   "ts": "2026-11-11T16:24:06+00:00",
+   "ingested": "2026-11-11T17:23:20.771063+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: The ball is now in the Americans\u2019 court, and they must make a decision and announce it -  Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847453,
+   "ts": "2026-11-11T16:23:58+00:00",
+   "ingested": "2026-11-11T17:23:20.771076+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: To reopen the Strait of Hormuz and resume talks, US has to fully implement Iran's 7 conditions - Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847452,
+   "ts": "2026-11-11T16:22:53+00:00",
+   "ingested": "2026-11-11T17:23:20.771091+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: US has not yet given any official and specific response to the message and plan presented by Iran - Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847451,
+   "ts": "2026-11-11T16:20:46+00:00",
+   "ingested": "2026-11-11T17:23:20.771101+00:00",
+   "headline": "WATCH LIVE: Trump Speaks 11:30 AM ET",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847441,
+   "ts": "2026-11-11T16:13:10+00:00",
+   "ingested": "2026-11-11T17:23:20.771112+00:00",
+   "headline": "Google is letting staff test a 'fast' new Gemini AI model named Hydrogen - Business Insider. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847440,
+   "ts": "2026-11-11T16:10:28+00:00",
+   "ingested": "2026-11-11T17:23:20.771121+00:00",
+   "headline": "Russian Foreign Ministry: Russia's ambassador to US Darchiev dies - TASS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847439,
+   "ts": "2026-11-11T16:02:32+00:00",
+   "ingested": "2026-11-11T17:23:20.771133+00:00",
+   "headline": "Meta\u2019s head of infrastructure, engineering to step down in 2027, to be succeeded by Brown. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847420,
+   "ts": "2026-11-11T16:00:34+00:00",
+   "ingested": "2026-11-11T17:23:20.771144+00:00",
+   "headline": "David Cameron warns UK's PM Burnham not to seek to rejoin EU.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847410,
+   "ts": "2026-11-11T15:53:46+00:00",
+   "ingested": "2026-11-11T17:23:20.771154+00:00",
+   "headline": "Iran gas deficit surges to 530 mln cubic meters per day - ISNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847392,
    "ts": "2026-11-11T15:33:46+00:00",
@@ -3895,110 +3999,6 @@
    "ts": "2026-11-10T06:28:02+00:00",
    "ingested": "2026-11-10T06:28:42.687304+00:00",
    "headline": "Ukraine peace only one item in wider Abu Dhabi talks - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844679,
-   "ts": "2026-11-10T06:26:28+00:00",
-   "ingested": "2026-11-10T06:27:02.709725+00:00",
-   "headline": "BoE's Lombardelli: Young people in UK hit by \u2018low-gear economy\u2019.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844656,
-   "ts": "2026-11-10T06:00:17+00:00",
-   "ingested": "2026-11-10T06:02:02.679836+00:00",
-   "headline": "Finnish September industrial output rises 4.5% y/y - Statistics Finland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844635,
-   "ts": "2026-11-10T05:34:55+00:00",
-   "ingested": "2026-11-10T05:35:22.682305+00:00",
-   "headline": "Dutch September manufacturing output rises 0.2% month on month: CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844634,
-   "ts": "2026-11-10T05:33:16+00:00",
-   "ingested": "2026-11-10T05:33:42.684136+00:00",
-   "headline": "Russian Defence Ministry: Russian forces strike cargo ship, tanker in Black Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844617,
-   "ts": "2026-11-10T05:30:03+00:00",
-   "ingested": "2026-11-10T05:30:22.689972+00:00",
-   "headline": "Dutch Oct CPI rises 3.7% y/y after 3.4% in Sept: CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844616,
-   "ts": "2026-11-10T05:30:01+00:00",
-   "ingested": "2026-11-10T05:30:22.689993+00:00",
-   "headline": "Dutch CPI YoY Actual 3.7% (Forecast 3.7%, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844615,
-   "ts": "2026-11-10T05:30:01+00:00",
-   "ingested": "2026-11-10T05:30:22.690010+00:00",
-   "headline": "Dutch CPI MoM Actual 0.7% (Forecast -, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844614,
-   "ts": "2026-11-10T05:29:00+00:00",
-   "ingested": "2026-11-10T05:30:22.690043+00:00",
-   "headline": "Moonshot AI accessed a cache of Nvidia\u2019s most advanced chips this summer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844604,
-   "ts": "2026-11-10T05:11:45+00:00",
-   "ingested": "2026-11-10T05:12:02.680629+00:00",
-   "headline": "UK's Streeting: Would prefer more communication channels with Russia, especially military-to-military level - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844603,
-   "ts": "2026-11-10T05:11:11+00:00",
-   "ingested": "2026-11-10T05:12:02.680650+00:00",
-   "headline": "UK Defence Minister Streeting: UK and Russia require fresh backchannel to prevent 'miscalculation' - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844584,
-   "ts": "2026-11-10T05:00:24+00:00",
-   "ingested": "2026-11-10T05:02:02.693580+00:00",
-   "headline": "Japanese Economy Watchers Poll Actual 46.1 (Forecast 47.1, Previous 47.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844576,
-   "ts": "2026-11-10T04:49:09+00:00",
-   "ingested": "2026-11-10T04:50:22.666394+00:00",
-   "headline": "U.S. evacuated planes from RAF Mildenhall in U.K. on Monday after threat from Iran: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844575,
-   "ts": "2026-11-10T04:48:42+00:00",
-   "ingested": "2026-11-10T04:50:22.666415+00:00",
-   "headline": "U.S. aircraft withdrawn from second U.K. base over Iran threat: WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
