@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T19:05:30.757348+00:00",
+ "updated": "2026-11-11T19:15:30.766374+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847647,
+   "ts": "2026-11-11T19:14:06+00:00",
+   "ingested": "2026-11-11T19:15:30.765977+00:00",
+   "headline": "The US asks Russia to submit a new European security proposal - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847645,
    "ts": "2026-11-11T19:04:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T07:58:20+00:00",
    "ingested": "2026-11-10T09:21:50.942855+00:00",
    "headline": "ECB's Lane: Inflation likely \u201ca little bit' over 4% at year-end.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844752,
-   "ts": "2026-11-10T07:14:19+00:00",
-   "ingested": "2026-11-10T07:15:22.712996+00:00",
-   "headline": "China's Guo: China spy allegations around NVIDIA unfounded.",
    "channel": "rss",
    "source": "financialjuice"
   }
