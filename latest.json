@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T08:31:04.649811+00:00",
+ "updated": "2026-11-11T08:39:24.653189+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846787,
+   "ts": "2026-11-11T08:39:14+00:00",
+   "ingested": "2026-11-11T08:39:24.652753+00:00",
+   "headline": "Russia, US, Ukraine delegations resume discussions on second day of trilateral talks in Abu Dhabi - Ria.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846763,
    "ts": "2026-11-11T08:20:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T18:20:41+00:00",
    "ingested": "2026-11-09T18:40:22.379948+00:00",
    "headline": "Fed's Barkin: Would an advantage if each fed policy meeting were set to include two full months of economy data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843776,
-   "ts": "2026-11-09T18:20:32+00:00",
-   "ingested": "2026-11-09T18:40:22.379961+00:00",
-   "headline": "Fed's Barkin: Current policy rate likely around or slightly below neutral",
    "channel": "rss",
    "source": "financialjuice"
   }
