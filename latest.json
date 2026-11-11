@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T03:03:12.706821+00:00",
+ "updated": "2026-11-11T03:04:52.726086+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846449,
+   "ts": "2026-11-11T03:03:32+00:00",
+   "ingested": "2026-11-11T03:04:52.725766+00:00",
+   "headline": "Russia's Ust-Luga port area ablaze: governor cites initial data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846448,
    "ts": "2026-11-11T03:03:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-09T17:27:30+00:00",
    "ingested": "2026-11-09T18:40:22.380204+00:00",
    "headline": "BoE Governor Bailey: Frontier AI has increased cyberattack risks, more extensive model testing is needed before and after release",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843685,
-   "ts": "2026-11-09T17:27:26+00:00",
-   "ingested": "2026-11-09T18:40:22.380218+00:00",
-   "headline": "BoE Governor Bailey: AI returns may be strong but markets could overvalue them or returns could take longer than expected to materialize",
    "channel": "rss",
    "source": "financialjuice"
   }
