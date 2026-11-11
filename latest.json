@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T19:28:20.764112+00:00",
+ "updated": "2026-11-11T19:31:10.784221+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847668,
+   "ts": "2026-11-11T19:30:54+00:00",
+   "ingested": "2026-11-11T19:31:10.783867+00:00",
+   "headline": "NYMEX WTI crude Dec. futures settle at $86.53 a barrel, up 49 cents, 0.57%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847665,
    "ts": "2026-11-11T19:27:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T07:59:18+00:00",
    "ingested": "2026-11-10T09:21:50.942808+00:00",
    "headline": "ECB's Lane: Europe's economic resilience is quite reassuring.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844810,
-   "ts": "2026-11-10T07:59:06+00:00",
-   "ingested": "2026-11-10T09:21:50.942817+00:00",
-   "headline": "ECB's Lane: French fiscal problems need to be fixed in Paris.",
    "channel": "rss",
    "source": "financialjuice"
   }
