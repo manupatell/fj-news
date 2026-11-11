@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T21:18:10.796650+00:00",
+ "updated": "2026-11-11T21:23:10.816541+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847786,
+   "ts": "2026-11-11T21:22:26+00:00",
+   "ingested": "2026-11-11T21:23:10.816146+00:00",
+   "headline": "RBNZ: RBNZ Reverse Stress Test demonstrates the resilience of insurers and improves risk management.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847773,
    "ts": "2026-11-11T21:16:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T09:02:03+00:00",
    "ingested": "2026-11-10T09:21:50.942698+00:00",
    "headline": "Fed's Waller: Suspect GDP growth is backing off in current quarter, but output will continue to grow at solid pace.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844921,
-   "ts": "2026-11-10T09:01:49+00:00",
-   "ingested": "2026-11-10T09:21:50.942707+00:00",
-   "headline": "Fed's Waller: Particularly concerned about the breadth of price increases.",
    "channel": "rss",
    "source": "financialjuice"
   }
