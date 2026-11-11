@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T14:51:30.283921+00:00",
+ "updated": "2026-11-11T14:54:50.304647+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847326,
+   "ts": "2026-11-11T14:53:06+00:00",
+   "ingested": "2026-11-11T14:54:50.304334+00:00",
+   "headline": "CoreWeave CEO Intrator: Our build plans are not being delayed or in any way transformed - CNBC. $CRWV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847325,
    "ts": "2026-11-11T14:50:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T02:31:53+00:00",
    "ingested": "2026-11-10T02:33:42.930198+00:00",
    "headline": "China october yuan-denominated exports rise 28.7% year-on-year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844434,
-   "ts": "2026-11-10T02:31:02+00:00",
-   "ingested": "2026-11-10T02:32:02.631928+00:00",
-   "headline": "China Oct trade surplus $105.28 billion vs poll $125.8 billion",
    "channel": "rss",
    "source": "financialjuice"
   }
