@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T20:53:10.793410+00:00",
+ "updated": "2026-11-11T21:03:10.791681+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847764,
+   "ts": "2026-11-11T21:02:10+00:00",
+   "ingested": "2026-11-11T21:03:10.791306+00:00",
+   "headline": "Trump authorized a crackdown on chip smugglers today - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847724,
    "ts": "2026-11-11T20:22:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T09:01:17+00:00",
    "ingested": "2026-11-10T09:21:50.942732+00:00",
    "headline": "Fed's Waller: US inflation is too high, \u2018September's inflation data was bad.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844898,
-   "ts": "2026-11-10T09:00:59+00:00",
-   "ingested": "2026-11-10T09:21:50.942744+00:00",
-   "headline": "Fed's Waller: Would support quarter-point rate hike in December even if October CPI improves vs September.",
    "channel": "rss",
    "source": "financialjuice"
   }
