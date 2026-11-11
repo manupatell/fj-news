@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-11T06:56:04.658844+00:00",
+ "updated": "2026-11-11T07:01:04.646177+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9846670,
+   "ts": "2026-11-11T07:00:04+00:00",
+   "ingested": "2026-11-11T07:01:04.645703+00:00",
+   "headline": "German CPI Final YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846669,
+   "ts": "2026-11-11T07:00:04+00:00",
+   "ingested": "2026-11-11T07:01:04.645719+00:00",
+   "headline": "German HICP Final YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846668,
+   "ts": "2026-11-11T07:00:04+00:00",
+   "ingested": "2026-11-11T07:01:04.645731+00:00",
+   "headline": "German CPI Final MoM Actual -0.2% (Forecast -0.2%, Previous -0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9846667,
+   "ts": "2026-11-11T07:00:04+00:00",
+   "ingested": "2026-11-11T07:01:04.645741+00:00",
+   "headline": "German HICP Final MoM Actual -0.1% (Forecast -0.1%, Previous -0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9846616,
    "ts": "2026-11-11T06:02:46+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-09T18:18:14+00:00",
    "ingested": "2026-11-09T18:40:22.380002+00:00",
    "headline": "Trump and the PM of Qatar that took place around noon lasted around 45 minutes and focused on the negotiations with Iran, per source familiar - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843753,
-   "ts": "2026-11-09T18:11:25+00:00",
-   "ingested": "2026-11-09T18:40:22.380014+00:00",
-   "headline": "US wants the Russians to agree to multilateral negotiations with Europe at the table - CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843752,
-   "ts": "2026-11-09T18:11:02+00:00",
-   "ingested": "2026-11-09T18:40:22.380030+00:00",
-   "headline": "US Officials on Russia-Ukraine: We don't expect to resolve the war in the Abu Dhabi talks, but to get each side to clarify their positions so they can then explore compromises - CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843750,
-   "ts": "2026-11-09T18:04:00+00:00",
-   "ingested": "2026-11-09T18:40:22.380042+00:00",
-   "headline": "US 3-Year Note Bid-to-Cover Actual 2.530 (Forecast -, Previous 2.620)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9843751,
-   "ts": "2026-11-09T18:03:23+00:00",
-   "ingested": "2026-11-09T18:40:22.380062+00:00",
-   "headline": "US 3 Yr Note Auction",
    "channel": "rss",
    "source": "financialjuice"
   }
