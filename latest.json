@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T13:49:46.240645+00:00",
+ "updated": "2026-11-12T13:51:26.223937+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849039,
+   "ts": "2026-11-12T13:50:33+00:00",
+   "ingested": "2026-11-12T13:51:26.223568+00:00",
+   "headline": "Nvidia will report Q3 fiscal 2027 financial results November 17th $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849037,
    "ts": "2026-11-12T13:49:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T18:30:57+00:00",
    "ingested": "2026-11-10T18:32:18.510853+00:00",
    "headline": "BoC Meeting Minutes: Governing Council noted that rising cost pressures would eventually be reflected in core measures of inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845760,
-   "ts": "2026-11-10T18:30:45+00:00",
-   "ingested": "2026-11-10T18:32:18.510864+00:00",
-   "headline": "BoC Meeting Minutes: Governing Council agreed it would need to carefully. assess how economic developments would affect the outlook.",
    "channel": "rss",
    "source": "financialjuice"
   }
