@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T04:58:47.286387+00:00",
+ "updated": "2026-11-12T05:03:47.258324+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848327,
+   "ts": "2026-11-12T05:02:34+00:00",
+   "ingested": "2026-11-12T05:03:47.257968+00:00",
+   "headline": "France signals backing for Spain's ECB presidential candidate Pablo Hernandez de Cos - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848325,
+   "ts": "2026-11-12T05:02:21+00:00",
+   "ingested": "2026-11-12T05:03:47.257981+00:00",
+   "headline": "EU and UK likely to postpone 10% electric car tariff: FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848290,
    "ts": "2026-11-12T04:57:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T13:25:16+00:00",
    "ingested": "2026-11-10T13:26:05.577326+00:00",
    "headline": "BoE's Lombardelli: Policy is less restrictive than we thought.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845313,
-   "ts": "2026-11-10T13:22:48+00:00",
-   "ingested": "2026-11-10T13:24:25.571909+00:00",
-   "headline": "BoE's Lombardelli: Long term inflation expectations are very well anchored, we don't see de-anchoring:.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845312,
-   "ts": "2026-11-10T13:20:19+00:00",
-   "ingested": "2026-11-10T13:21:05.591712+00:00",
-   "headline": "US Sec. of Defense Hegseth: We can see Iran's nuclear sites, andwe can take action if needed.",
    "channel": "rss",
    "source": "financialjuice"
   }
