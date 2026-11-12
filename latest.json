@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T16:15:08.133257+00:00",
+ "updated": "2026-11-12T16:16:48.151027+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849295,
+   "ts": "2026-11-12T16:16:35+00:00",
+   "ingested": "2026-11-12T16:16:48.150637+00:00",
+   "headline": "Fed's Goolsbee: Inflation has been well above target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849287,
    "ts": "2026-11-12T16:14:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T22:22:47+00:00",
    "ingested": "2026-11-10T22:22:58.566669+00:00",
    "headline": "Uniserve Communications to acquire more Nvidia B300 systems to boost Canadian AI compute capacity; secures $4 million loan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846061,
-   "ts": "2026-11-10T22:01:36+00:00",
-   "ingested": "2026-11-10T22:02:58.582881+00:00",
-   "headline": "Lithuanian national crisis management centre: NATO fighters on Baltic air defense mission scrambled over object flying from Belarus toward Baltics",
    "channel": "rss",
    "source": "financialjuice"
   }
