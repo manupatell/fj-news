@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-12T14:01:26.232607+00:00",
+ "updated": "2026-11-12T14:03:06.225895+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849069,
+   "ts": "2026-11-12T14:02:31+00:00",
+   "ingested": "2026-11-12T14:03:06.225433+00:00",
+   "headline": "Credit Agricole on FX Risk Index - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849068,
+   "ts": "2026-11-12T14:02:02+00:00",
+   "ingested": "2026-11-12T14:03:06.225450+00:00",
+   "headline": "Fed's Hammack: I don't believe the Fed is currently behind the curve",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849053,
+   "ts": "2026-11-12T14:01:45+00:00",
+   "ingested": "2026-11-12T14:03:06.225462+00:00",
+   "headline": "Fed's Hammack: Recent inflation data has shown broadening price pressures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849051,
+   "ts": "2026-11-12T14:01:37+00:00",
+   "ingested": "2026-11-12T14:03:06.225493+00:00",
+   "headline": "Fed's Hammack: If we get behind, a larger move could be needed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849050,
    "ts": "2026-11-12T14:00:51+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-10T18:50:06+00:00",
    "ingested": "2026-11-10T18:50:18.473816+00:00",
    "headline": "Fed's Schmid: Demand is strong, and rates not a cause for hesitation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845801,
-   "ts": "2026-11-10T18:48:42+00:00",
-   "ingested": "2026-11-10T18:49:58.518506+00:00",
-   "headline": "Fed's Schmid: Could argue housing is going through an 'interesting dynamic\u2019 but elsewhere can't find any restriction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845800,
-   "ts": "2026-11-10T18:48:21+00:00",
-   "ingested": "2026-11-10T18:49:58.518523+00:00",
-   "headline": "Fed's Schmid: Fed benchmark rate fairly accommodative today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845799,
-   "ts": "2026-11-10T18:48:08+00:00",
-   "ingested": "2026-11-10T18:49:58.518536+00:00",
-   "headline": "UK Police: The country to which the allegations relate is Russia.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845798,
-   "ts": "2026-11-10T18:47:54+00:00",
-   "ingested": "2026-11-10T18:48:18.523077+00:00",
-   "headline": "UK Police: Member of US Army arrested as part of counter terrorism policing investigation",
    "channel": "rss",
    "source": "financialjuice"
   }
