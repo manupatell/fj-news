@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-12T17:00:08.136311+00:00",
+ "updated": "2026-11-12T17:01:48.134883+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849399,
+   "ts": "2026-11-12T17:01:04+00:00",
+   "ingested": "2026-11-12T17:01:48.134484+00:00",
+   "headline": "US 30-yr fixed rate mortgage averages 7.11% in Nov 12 week vs 7.18% prior week - Freddie Mac",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849397,
+   "ts": "2026-11-12T17:00:15+00:00",
+   "ingested": "2026-11-12T17:01:48.134501+00:00",
+   "headline": "Democratic lawmakers to probe US approval of chip exports - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849395,
+   "ts": "2026-11-12T17:00:01+00:00",
+   "ingested": "2026-11-12T17:01:48.134514+00:00",
+   "headline": "EIA Crude Oil Inventories Actual 4.657M (Forecast -1.483M, Previous -0.865M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849394,
+   "ts": "2026-11-12T17:00:01+00:00",
+   "ingested": "2026-11-12T17:01:48.134525+00:00",
+   "headline": "EIA Gasoline Inventories Actual 1.799M (Forecast -0.35M, Previous -0.222M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849393,
+   "ts": "2026-11-12T17:00:01+00:00",
+   "ingested": "2026-11-12T17:01:48.134535+00:00",
+   "headline": "EIA Distillate Inventories Actual 4.071M (Forecast -2M, Previous -3.565M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849392,
    "ts": "2026-11-12T16:59:10+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-11T00:30:03+00:00",
    "ingested": "2026-11-11T00:31:52.969826+00:00",
    "headline": "Australia Q3 owner-occupied housing finance value declines 5.3% q/q, seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846232,
-   "ts": "2026-11-11T00:30:03+00:00",
-   "ingested": "2026-11-11T00:31:52.969868+00:00",
-   "headline": "Australia Q3 housing finance value falls 15.5% quarter-on-quarter, seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846231,
-   "ts": "2026-11-11T00:30:03+00:00",
-   "ingested": "2026-11-11T00:31:52.969879+00:00",
-   "headline": "Australia Q3 value of investment housing finance down 32.3% q/q, seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846230,
-   "ts": "2026-11-11T00:29:57+00:00",
-   "ingested": "2026-11-11T00:30:12.901650+00:00",
-   "headline": "Anthropic bankers set to lift IPO valuation to $1.5tn or higher - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846229,
-   "ts": "2026-11-11T00:18:25+00:00",
-   "ingested": "2026-11-11T00:19:52.890129+00:00",
-   "headline": "South Korea finance minister: will unveil fuel price cap policy on Nov. 13",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846228,
-   "ts": "2026-11-11T00:18:02+00:00",
-   "ingested": "2026-11-11T00:18:12.892721+00:00",
-   "headline": "China PBOC forecast to set yuan midpoint at 6.6855 per dollar: estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
