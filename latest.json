@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T04:53:47.258005+00:00",
+ "updated": "2026-11-12T04:58:47.286387+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848290,
+   "ts": "2026-11-12T04:57:43+00:00",
+   "ingested": "2026-11-12T04:58:47.286050+00:00",
+   "headline": "Taiwan stocks fall over 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848289,
    "ts": "2026-11-12T04:53:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T13:20:19+00:00",
    "ingested": "2026-11-10T13:21:05.591712+00:00",
    "headline": "US Sec. of Defense Hegseth: We can see Iran's nuclear sites, andwe can take action if needed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845311,
-   "ts": "2026-11-10T13:17:58+00:00",
-   "ingested": "2026-11-10T13:19:25.577380+00:00",
-   "headline": "US Sec. of Defense Hegseth: If Iran makes a wrong move, we're locked and loaded.",
    "channel": "rss",
    "source": "financialjuice"
   }
