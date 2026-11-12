@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-12T14:53:06.246026+00:00",
+ "updated": "2026-11-12T15:01:26.252379+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849183,
+   "ts": "2026-11-12T15:00:52+00:00",
+   "ingested": "2026-11-12T15:01:26.251871+00:00",
+   "headline": "Fed's Barr: Outcome depends in part on whether al leads to market concentration, a force for widening inequality, or more competition and more widely distributed gains.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849182,
+   "ts": "2026-11-12T15:00:44+00:00",
+   "ingested": "2026-11-12T15:01:26.251889+00:00",
+   "headline": "Fed's Barr: There are signs AI is a substitute for labor in some sectors, and if change happens fast, 'dislocations might be large'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849181,
+   "ts": "2026-11-12T15:00:42+00:00",
+   "ingested": "2026-11-12T15:01:26.251902+00:00",
+   "headline": "Fed's Barr: Little displacement of workers so far, with competition among al firms allowing broad access to the technology.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849180,
+   "ts": "2026-11-12T15:00:31+00:00",
+   "ingested": "2026-11-12T15:01:26.251914+00:00",
+   "headline": "Fed's Barr: Noting declining share of income going to labor. It's an open question if AI further boosts returns to capital.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849179,
+   "ts": "2026-11-12T15:00:27+00:00",
+   "ingested": "2026-11-12T15:01:26.251926+00:00",
+   "headline": "Fed's Barr: US should be prepared for the risk of 'serious short-term disruptions! In the job market due to AI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849172,
+   "ts": "2026-11-12T15:00:00+00:00",
+   "ingested": "2026-11-12T15:01:26.251937+00:00",
+   "headline": "US Existing Home Sales change Actual -5.5% (Forecast -3.5%, Previous 1.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849171,
+   "ts": "2026-11-12T15:00:00+00:00",
+   "ingested": "2026-11-12T15:01:26.251947+00:00",
+   "headline": "US Existing Home Sales Actual 3.75M (Forecast 3.85M, Previous 3.99M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849170,
    "ts": "2026-11-12T14:51:17+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-11-10T20:31:13+00:00",
    "ingested": "2026-11-10T20:32:18.554786+00:00",
    "headline": "Fed's Bowman: As shocks unwind, forecast core PCE to move closer to 2% next year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845926,
-   "ts": "2026-11-10T20:30:50+00:00",
-   "ingested": "2026-11-10T20:31:18.522519+00:00",
-   "headline": "Fed's Bowman: Core PCE likely rose 3.3% in October on energy prices, AI-related demand",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845925,
-   "ts": "2026-11-10T20:30:46+00:00",
-   "ingested": "2026-11-10T20:31:18.522534+00:00",
-   "headline": "Fed's Bowman: Bringing inflation down remains a priority.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845923,
-   "ts": "2026-11-10T20:30:33+00:00",
-   "ingested": "2026-11-10T20:31:18.522547+00:00",
-   "headline": "Fed's Bowman: Financial conditions have tightened, the Fed must weigh the costs of additional policy tightening.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845922,
-   "ts": "2026-11-10T20:30:31+00:00",
-   "ingested": "2026-11-10T20:31:18.522558+00:00",
-   "headline": "Fed's Bowman: Persistent inflation, firming labor conditions suggest still work to do",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845917,
-   "ts": "2026-11-10T20:21:43+00:00",
-   "ingested": "2026-11-10T20:23:18.528453+00:00",
-   "headline": "Wednesday FX Option Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845866,
-   "ts": "2026-11-10T20:00:00+00:00",
-   "ingested": "2026-11-10T20:00:48.480147+00:00",
-   "headline": "US regulator postpones Wall Street push to trade AI computing futures- FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845865,
-   "ts": "2026-11-10T19:59:41+00:00",
-   "ingested": "2026-11-10T20:00:48.480164+00:00",
-   "headline": "Fitch Ratings: The Democrat win is mixed for the US AI ecosystem, energy, healthcare & defense",
    "channel": "rss",
    "source": "financialjuice"
   }
