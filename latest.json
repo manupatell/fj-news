@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T16:11:49.624318+00:00",
+ "updated": "2026-11-12T16:15:08.133257+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849287,
+   "ts": "2026-11-12T16:14:16+00:00",
+   "ingested": "2026-11-12T16:15:08.132861+00:00",
+   "headline": "Nvidia Interim CEO wasn\u2019t someone who set the agenda on the company\u2019s major decisions - The Information. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849286,
    "ts": "2026-11-12T16:11:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T22:01:36+00:00",
    "ingested": "2026-11-10T22:02:58.582881+00:00",
    "headline": "Lithuanian national crisis management centre: NATO fighters on Baltic air defense mission scrambled over object flying from Belarus toward Baltics",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846046,
-   "ts": "2026-11-10T22:00:46+00:00",
-   "ingested": "2026-11-10T22:01:08.526093+00:00",
-   "headline": "Latvia army: people in Ludza region near Belarus border told to seek shelter over airspace threat",
    "channel": "rss",
    "source": "financialjuice"
   }
