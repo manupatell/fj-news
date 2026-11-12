@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T15:51:48.130779+00:00",
+ "updated": "2026-11-12T15:53:28.134079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849259,
+   "ts": "2026-11-12T15:52:56+00:00",
+   "ingested": "2026-11-12T15:53:28.133649+00:00",
+   "headline": "US Envoy Kushner described talks with Putin as substantive and detailed - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849258,
+   "ts": "2026-11-12T15:51:42+00:00",
+   "ingested": "2026-11-12T15:53:28.133665+00:00",
+   "headline": "US Envoy Witkoff: New round of talks was agreed following his meeting with Putin - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849257,
    "ts": "2026-11-12T15:49:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T21:18:43+00:00",
    "ingested": "2026-11-10T21:19:48.520597+00:00",
    "headline": "Fed's Bowman: The Fed does ongoing cybersecurity examinations of banks, and has seen a great deal of focus on identifying and patching vulnerabilities.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845985,
-   "ts": "2026-11-10T21:15:12+00:00",
-   "ingested": "2026-11-10T21:16:08.523341+00:00",
-   "headline": "Fed's Bowman: AI will make workers more productive, create new jobs, and eliminate less-necessary jobs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845984,
-   "ts": "2026-11-10T21:14:39+00:00",
-   "ingested": "2026-11-10T21:15:08.502924+00:00",
-   "headline": "Fed's Bowman: I don't think AI will rob the US economy of jobs.",
    "channel": "rss",
    "source": "financialjuice"
   }
