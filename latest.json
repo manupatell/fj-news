@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:29:46.239931+00:00",
+ "updated": "2026-11-12T14:31:26.245253+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849115,
+   "ts": "2026-11-12T14:30:06+00:00",
+   "ingested": "2026-11-12T14:31:26.244507+00:00",
+   "headline": "US envoys have left Kremlin after meeting with Putin - RIA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849113,
    "ts": "2026-11-12T14:28:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:31:17+00:00",
    "ingested": "2026-11-10T19:32:08.521708+00:00",
    "headline": "NYMEX gasoline Dec. futures settle at $2.6088 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845836,
-   "ts": "2026-11-10T19:31:10+00:00",
-   "ingested": "2026-11-10T19:32:08.521721+00:00",
-   "headline": "NYMEX WTI crude Dec. futures settle at $86.04 a barrel, down 81 cents, 0.93%",
    "channel": "rss",
    "source": "financialjuice"
   }
