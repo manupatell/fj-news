@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T01:38:27.234349+00:00",
+ "updated": "2026-11-12T01:40:07.249490+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848057,
+   "ts": "2026-11-12T01:38:48+00:00",
+   "ingested": "2026-11-12T01:40:07.249234+00:00",
+   "headline": "BOJ's Asada: personally thinks recent consumption data aren't necessarily robust",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848056,
    "ts": "2026-11-12T01:37:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T13:08:49+00:00",
    "ingested": "2026-11-10T13:09:25.586680+00:00",
    "headline": "BoE's Lombardelli: I think there may be less slack in the UK economy than the central BoE view, perhaps 0-1% rather than 1%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845284,
-   "ts": "2026-11-10T13:08:05+00:00",
-   "ingested": "2026-11-10T13:09:25.586696+00:00",
-   "headline": "US Sec. of Defense Hegseth Press Conference - WATCH LIVE",
    "channel": "rss",
    "source": "financialjuice"
   }
