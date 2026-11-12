@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T13:31:06.217706+00:00",
+ "updated": "2026-11-12T13:36:06.231711+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849005,
+   "ts": "2026-11-12T13:35:17+00:00",
+   "ingested": "2026-11-12T13:36:06.231247+00:00",
+   "headline": "USTR Greer on NVIDIA: It's a structurally important company.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848984,
    "ts": "2026-11-12T13:30:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T17:00:04+00:00",
    "ingested": "2026-11-10T17:13:18.537715+00:00",
    "headline": "WASDE Corn End Stocks Actual 1758M (Forecast 1.87M, Previous 1.849M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845643,
-   "ts": "2026-11-10T17:00:03+00:00",
-   "ingested": "2026-11-10T17:13:18.537726+00:00",
-   "headline": "WASDE Soybean End Stocks Actual 300M (Forecast 330M, Previous 315M)",
    "channel": "rss",
    "source": "financialjuice"
   }
