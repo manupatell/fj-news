@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-12T06:00:49.042791+00:00",
+ "updated": "2026-11-12T06:02:29.040075+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848403,
+   "ts": "2026-11-12T06:01:58+00:00",
+   "ingested": "2026-11-12T06:02:29.039529+00:00",
+   "headline": "Russian military official killed in car explosion: RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848392,
+   "ts": "2026-11-12T06:01:20+00:00",
+   "ingested": "2026-11-12T06:02:29.039547+00:00",
+   "headline": "BOJ's Asada: if rates rise, must be cautious about speed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848391,
+   "ts": "2026-11-12T06:01:09+00:00",
+   "ingested": "2026-11-12T06:02:29.039558+00:00",
+   "headline": "BoJ's Asada: may need to increase rates gradually at some point in future",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848390,
+   "ts": "2026-11-12T06:00:58+00:00",
+   "ingested": "2026-11-12T06:02:29.039568+00:00",
+   "headline": "BOJ's Asada: I am not opposed to increasing rates entirely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848389,
+   "ts": "2026-11-12T06:00:46+00:00",
+   "ingested": "2026-11-12T06:02:29.039577+00:00",
+   "headline": "BOJ's Asada: Chance neutral rate somewhat exceeds BOJ policy rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848383,
    "ts": "2026-11-12T06:00:18+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-10T14:05:00+00:00",
    "ingested": "2026-11-10T14:05:25.600701+00:00",
    "headline": "Adobe & Google deepen AI partnership. $ADBE $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845401,
-   "ts": "2026-11-10T14:04:02+00:00",
-   "ingested": "2026-11-10T14:05:25.600721+00:00",
-   "headline": "Bets on a 50-basis point Fed rate hike in December begin to build after hotter-than-expected CPI, odds last at around 10% - CME Fedwatch.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845400,
-   "ts": "2026-11-10T14:03:29+00:00",
-   "ingested": "2026-11-10T14:03:45.599024+00:00",
-   "headline": "US Sentiment: CPI Hammers Markets, 50 BPS Hike Expectation Grows - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845383,
-   "ts": "2026-11-10T14:01:12+00:00",
-   "ingested": "2026-11-10T14:02:05.607575+00:00",
-   "headline": "ECB: Forex reserves remained unchanged at \u20ac349.7 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845382,
-   "ts": "2026-11-10T14:00:55+00:00",
-   "ingested": "2026-11-10T14:02:05.607591+00:00",
-   "headline": "ECB settled \u20ac208.6 bln corporate bond purchases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845381,
-   "ts": "2026-11-10T14:00:42+00:00",
-   "ingested": "2026-11-10T14:01:05.629697+00:00",
-   "headline": "ECB settled \u20ac1,625.2 bln public-sector bond purchases.",
    "channel": "rss",
    "source": "financialjuice"
   }
