@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-12T00:25:47.244432+00:00",
+ "updated": "2026-11-12T00:35:47.235591+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9847991,
+   "ts": "2026-11-12T00:34:17+00:00",
+   "ingested": "2026-11-12T00:35:47.235327+00:00",
+   "headline": "South Korea presidential office: Likelihood of US-North Korea interaction around Apec seems low",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847990,
+   "ts": "2026-11-12T00:34:17+00:00",
+   "ingested": "2026-11-12T00:35:47.235340+00:00",
+   "headline": "South Korea's Lee to participate in Apec summit in Shenzhen on November 18-19: Korean presidential office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9847989,
+   "ts": "2026-11-12T00:34:17+00:00",
+   "ingested": "2026-11-12T00:35:47.235349+00:00",
+   "headline": "South Korea presidential office: anticipates progress on Ukraine issues after productive talks in Paris",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847961,
    "ts": "2026-11-12T00:15:26+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-10T12:34:47+00:00",
    "ingested": "2026-11-10T12:36:25.557611+00:00",
    "headline": "BoE's Lombardelli: Balance of inflation risks to the upside.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845219,
-   "ts": "2026-11-10T12:34:33+00:00",
-   "ingested": "2026-11-10T12:34:45.560726+00:00",
-   "headline": "BoE's Lombardelli: The longer energy costs stay high, the greater pressure there will be on businesses to restore margins.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845218,
-   "ts": "2026-11-10T12:33:20+00:00",
-   "ingested": "2026-11-10T12:34:45.560741+00:00",
-   "headline": "BoE's Lombardelli: Greater prospect of second-round effects.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845217,
-   "ts": "2026-11-10T12:32:43+00:00",
-   "ingested": "2026-11-10T12:33:05.561898+00:00",
-   "headline": "BoE's Lombardelli: Energy shock has become more persistent.",
    "channel": "rss",
    "source": "financialjuice"
   }
