@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-12T15:38:28.129260+00:00",
+ "updated": "2026-11-12T15:41:48.151892+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849239,
+   "ts": "2026-11-12T15:41:33+00:00",
+   "ingested": "2026-11-12T15:41:48.151492+00:00",
+   "headline": "Fed's Barr: Not currently seeing a big labor market impact from AI, though it may be part of low hiring for younger workers and some jobs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849238,
+   "ts": "2026-11-12T15:40:53+00:00",
+   "ingested": "2026-11-12T15:41:48.151510+00:00",
+   "headline": "Fed's Barr: There is a lot of pressure on input prices in AI, which is spilling into things like phones, computers, and gaming consoles.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849237,
+   "ts": "2026-11-12T15:40:17+00:00",
+   "ingested": "2026-11-12T15:41:48.151524+00:00",
+   "headline": "Fed's Barr: At this point AI impact is mostly on prices, while giving a boost to investment and GDP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849236,
    "ts": "2026-11-12T15:37:36+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-10T21:05:49+00:00",
    "ingested": "2026-11-10T21:06:08.497189+00:00",
    "headline": "$CRWV CoreWeave Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845978,
-   "ts": "2026-11-10T21:02:55+00:00",
-   "ingested": "2026-11-10T21:03:08.541667+00:00",
-   "headline": "Fed's Bowman: I would need to see AI and Middle East risks abate before I could be confident inflation will come down next year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845977,
-   "ts": "2026-11-10T21:01:38+00:00",
-   "ingested": "2026-11-10T21:02:58.498301+00:00",
-   "headline": "Fed's Bowman: Inflation expectations are an important data point, but they are not necessarily controlling how I think about things.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845962,
-   "ts": "2026-11-10T21:00:53+00:00",
-   "ingested": "2026-11-10T21:01:18.554138+00:00",
-   "headline": "Fed's Bowman: Longer-term inflation expectations are very well anchored.",
    "channel": "rss",
    "source": "financialjuice"
   }
