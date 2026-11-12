@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T09:07:29.083036+00:00",
+ "updated": "2026-11-12T09:10:49.081474+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848636,
+   "ts": "2026-11-12T09:09:35+00:00",
+   "ingested": "2026-11-12T09:10:49.081012+00:00",
+   "headline": "This helps Russia kill more Ukrainians, carry out more precise strikes on Ukraine: Zelenskiy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848635,
+   "ts": "2026-11-12T09:09:27+00:00",
+   "ingested": "2026-11-12T09:10:49.081029+00:00",
+   "headline": "Ukrainian interceptors can't reach enough speed to intercept targets in time: Zelenskiy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848560,
    "ts": "2026-11-12T08:15:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T15:50:24+00:00",
    "ingested": "2026-11-10T17:13:18.538096+00:00",
    "headline": "Fed's Logan: It is clear that Fed needs at least two more quarter-percentage-point rate increases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845532,
-   "ts": "2026-11-10T15:43:43+00:00",
-   "ingested": "2026-11-10T17:13:18.538104+00:00",
-   "headline": "UKMTO: Tanker struck by unknown projectile.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845531,
-   "ts": "2026-11-10T15:42:38+00:00",
-   "ingested": "2026-11-10T17:13:18.538116+00:00",
-   "headline": "UKMTO receives a report of an incident near Oman\u2019s Lima on November 10th.",
    "channel": "rss",
    "source": "financialjuice"
   }
