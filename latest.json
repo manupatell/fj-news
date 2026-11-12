@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T15:03:08.114660+00:00",
+ "updated": "2026-11-12T15:04:48.121432+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849204,
+   "ts": "2026-11-12T15:03:25+00:00",
+   "ingested": "2026-11-12T15:04:48.120988+00:00",
+   "headline": "Alice Huang\u2019s Companies promised DeepSeek Nvidia chips - The Information $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849203,
+   "ts": "2026-11-12T15:03:01+00:00",
+   "ingested": "2026-11-12T15:04:48.121004+00:00",
+   "headline": "Fed's Barr Speaks - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849189,
    "ts": "2026-11-12T15:01:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T20:31:37+00:00",
    "ingested": "2026-11-10T20:32:18.554756+00:00",
    "headline": "Fed's Bowman: CPI data suggests inflation pressures may persist",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845943,
-   "ts": "2026-11-10T20:31:35+00:00",
-   "ingested": "2026-11-10T20:32:18.554766+00:00",
-   "headline": "Bowman: Focused on financial stability risks if AI returns fall short",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845942,
-   "ts": "2026-11-10T20:31:24+00:00",
-   "ingested": "2026-11-10T20:32:18.554776+00:00",
-   "headline": "Fed's Bowman: Economic growth gained momentum this year",
    "channel": "rss",
    "source": "financialjuice"
   }
