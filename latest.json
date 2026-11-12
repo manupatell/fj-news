@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-12T13:43:06.228678+00:00",
+ "updated": "2026-11-12T13:44:46.219298+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849022,
+   "ts": "2026-11-12T13:44:30+00:00",
+   "ingested": "2026-11-12T13:44:46.218800+00:00",
+   "headline": "Fed's Hammack: Real price pressures coming from AI build-out",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849021,
+   "ts": "2026-11-12T13:44:27+00:00",
+   "ingested": "2026-11-12T13:44:46.218815+00:00",
+   "headline": "USTR Greer: We'll take action on that if needed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849020,
+   "ts": "2026-11-12T13:44:20+00:00",
+   "ingested": "2026-11-12T13:44:46.218827+00:00",
+   "headline": "USTR Greer: There'll be a focus on tech exports in light of events",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849019,
+   "ts": "2026-11-12T13:44:12+00:00",
+   "ingested": "2026-11-12T13:44:46.218839+00:00",
+   "headline": "Fed's Hammack: We need to move to restrictive monetary policy to lower inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849018,
+   "ts": "2026-11-12T13:44:06+00:00",
+   "ingested": "2026-11-12T13:44:46.218849+00:00",
+   "headline": "Fed's Hammack: There are real demand pressures contributing to high inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849017,
+   "ts": "2026-11-12T13:43:34+00:00",
+   "ingested": "2026-11-12T13:44:46.218860+00:00",
+   "headline": "Fed's Hammack: Inflation is moving in the wrong direction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849016,
+   "ts": "2026-11-12T13:43:14+00:00",
+   "ingested": "2026-11-12T13:44:46.218869+00:00",
+   "headline": "Fed's Hammack: Fed has been missing on inflation mandate for years.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849015,
    "ts": "2026-11-12T13:42:52+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-11-10T18:00:22+00:00",
    "ingested": "2026-11-10T18:01:08.570262+00:00",
    "headline": "Treasury WI 10 Yr yield 5.010% before $42 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845699,
-   "ts": "2026-11-10T17:33:57+00:00",
-   "ingested": "2026-11-10T17:35:28.461344+00:00",
-   "headline": "Schumer calls for passing bill on AI chip exports.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845698,
-   "ts": "2026-11-10T17:32:12+00:00",
-   "ingested": "2026-11-10T17:32:38.458573+00:00",
-   "headline": "ECB's Lane: It would be a surprise if there are no second-round effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845697,
-   "ts": "2026-11-10T17:31:59+00:00",
-   "ingested": "2026-11-10T17:32:38.458590+00:00",
-   "headline": "ECB's Lane: Energy prices are already reversing; if that continues, headline inflation could fall while underlying inflation rises",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845696,
-   "ts": "2026-11-10T17:31:26+00:00",
-   "ingested": "2026-11-10T17:31:38.486081+00:00",
-   "headline": "ECB's Lane: Underlying inflation is a guide to 1-year ahead inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845695,
-   "ts": "2026-11-10T17:30:30+00:00",
-   "ingested": "2026-11-10T17:31:08.444683+00:00",
-   "headline": "ECB's Lane: It's informative that underlying inflation hasn't moved yet, it means it's the usual delayed response",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845691,
-   "ts": "2026-11-10T17:29:27+00:00",
-   "ingested": "2026-11-10T17:31:08.444700+00:00",
-   "headline": "IRGC Spokesman: US navigation aid equipment was completely destroyed in the south of the Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845690,
-   "ts": "2026-11-10T17:27:38+00:00",
-   "ingested": "2026-11-10T17:29:18.464170+00:00",
-   "headline": "ECB's Lane: Important that ECB has an instrument for multiple equilibriums on bond market",
    "channel": "rss",
    "source": "financialjuice"
   }
