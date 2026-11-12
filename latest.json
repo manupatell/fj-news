@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T17:58:48.201676+00:00",
+ "updated": "2026-11-12T18:01:58.175446+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849484,
+   "ts": "2026-11-12T18:00:21+00:00",
+   "ingested": "2026-11-12T18:01:58.175077+00:00",
+   "headline": "Treasury WI 30 Yr yield 5.437% before $25 billion auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849474,
    "ts": "2026-11-12T17:47:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T02:54:58+00:00",
    "ingested": "2026-11-11T02:56:02.700124+00:00",
    "headline": "Republican US Senator Kevin Cramer from Senate Banking Committee urges Nvidia CEO to resign: Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846324,
-   "ts": "2026-11-11T01:49:30+00:00",
-   "ingested": "2026-11-11T01:49:42.656948+00:00",
-   "headline": "Japan PM Takaichi: Expect BoJ to implement suitable monetary policy to sustainably reach 2% inflation goal",
    "channel": "rss",
    "source": "financialjuice"
   }
