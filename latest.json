@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T07:07:29.058861+00:00",
+ "updated": "2026-11-12T07:09:09.050924+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848491,
+   "ts": "2026-11-12T07:07:19+00:00",
+   "ingested": "2026-11-12T07:09:09.050484+00:00",
+   "headline": "China's Mao: The US should not use spy narrative as pretext for tech curbs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848482,
    "ts": "2026-11-12T07:02:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:18:10+00:00",
    "ingested": "2026-11-10T17:13:18.538163+00:00",
    "headline": "Crypto Fear & Greed Index: 32/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845483,
-   "ts": "2026-11-10T15:08:17+00:00",
-   "ingested": "2026-11-10T17:13:18.538177+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: War does not end with military action or sanctions; The solution is diplomacy and compliance with Iran's conditions.",
    "channel": "rss",
    "source": "financialjuice"
   }
