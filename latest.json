@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T20:49:37.702183+00:00",
+ "updated": "2026-11-12T20:54:47.682356+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849728,
+   "ts": "2026-11-12T20:53:38+00:00",
+   "ingested": "2026-11-12T20:54:47.681983+00:00",
+   "headline": "Nvidia will continue investigation into former CEO and alleged Chinese spy - The Information. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849708,
    "ts": "2026-11-12T20:43:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T11:07:25+00:00",
    "ingested": "2026-11-11T11:08:00.229538+00:00",
    "headline": "Chair of Germany's council of economic experts: recovery from oil price surge sparked by Iran war was quicker than expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847006,
-   "ts": "2026-11-11T11:07:19+00:00",
-   "ingested": "2026-11-11T11:08:00.229553+00:00",
-   "headline": "Russia: we will keep discussing fair security framework",
    "channel": "rss",
    "source": "financialjuice"
   }
