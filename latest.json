@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T18:29:48.159390+00:00",
+ "updated": "2026-11-12T18:31:28.174903+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849550,
+   "ts": "2026-11-12T18:30:32+00:00",
+   "ingested": "2026-11-12T18:31:28.174493+00:00",
+   "headline": "Fed's Schmid Materials and labor costs may worsen housing affordability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849547,
+   "ts": "2026-11-12T18:30:18+00:00",
+   "ingested": "2026-11-12T18:31:28.174510+00:00",
+   "headline": "Fed's Schmid does not comment on outlook or monetary policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849546,
    "ts": "2026-11-12T18:29:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T08:39:14+00:00",
    "ingested": "2026-11-11T08:39:24.652753+00:00",
    "headline": "Russia, US, Ukraine delegations resume discussions on second day of trilateral talks in Abu Dhabi - Ria.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846763,
-   "ts": "2026-11-11T08:20:36+00:00",
-   "ingested": "2026-11-11T08:21:04.729940+00:00",
-   "headline": "ECB's Nagel: German recovery stronger than forecast.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846762,
-   "ts": "2026-11-11T08:20:24+00:00",
-   "ingested": "2026-11-11T08:21:04.729955+00:00",
-   "headline": "ECB's Nagel: German growth likely to accelerate in Q4",
    "channel": "rss",
    "source": "financialjuice"
   }
