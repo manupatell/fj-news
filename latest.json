@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:31:26.245253+00:00",
+ "updated": "2026-11-12T14:33:06.249895+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849141,
+   "ts": "2026-11-12T14:31:53+00:00",
+   "ingested": "2026-11-12T14:33:06.249512+00:00",
+   "headline": "Nvidia tumbles 14% to fall below $4 trillion in market value. Set to erase $593 billion in market value $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849115,
    "ts": "2026-11-12T14:30:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:31:24+00:00",
    "ingested": "2026-11-10T19:32:08.521691+00:00",
    "headline": "NYMEX diesel Dec. futures settle at $4.1309 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845844,
-   "ts": "2026-11-10T19:31:17+00:00",
-   "ingested": "2026-11-10T19:32:08.521708+00:00",
-   "headline": "NYMEX gasoline Dec. futures settle at $2.6088 a gallon",
    "channel": "rss",
    "source": "financialjuice"
   }
