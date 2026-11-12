@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T01:31:47.232328+00:00",
+ "updated": "2026-11-12T01:33:27.232534+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848046,
+   "ts": "2026-11-12T01:31:48+00:00",
+   "ingested": "2026-11-12T01:33:27.232184+00:00",
+   "headline": "BOJ's Asada: underlying inflation fluctuates around levels consistent with central bank's price target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848034,
    "ts": "2026-11-12T01:31:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T12:54:40+00:00",
    "ingested": "2026-11-10T12:56:05.596294+00:00",
    "headline": "First house vote on Hegseth impeachment slated for 5:30pm ET.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845229,
-   "ts": "2026-11-10T12:45:38+00:00",
-   "ingested": "2026-11-10T12:47:05.604813+00:00",
-   "headline": "Risk to medium term US inflation view hasn't changed since midterm elections, said 29 of 37 economists - Poll.",
    "channel": "rss",
    "source": "financialjuice"
   }
