@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T18:41:28.167599+00:00",
+ "updated": "2026-11-12T18:43:08.163222+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849569,
+   "ts": "2026-11-12T18:41:40+00:00",
+   "ingested": "2026-11-12T18:43:08.162850+00:00",
+   "headline": "Nature of explosions not yet known, some sources said these sounds are caused by warning shots towards the offending ships - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849568,
    "ts": "2026-11-12T18:40:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T10:33:53+00:00",
    "ingested": "2026-11-11T10:34:40.216796+00:00",
    "headline": "German 30 Yr Bund Yield Actual 3.66% (Forecast -, Previous 3.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846938,
-   "ts": "2026-11-11T10:33:53+00:00",
-   "ingested": "2026-11-11T10:34:40.216817+00:00",
-   "headline": "German 30 Yr Bund Bid-to-cover Actual 1.297 (Forecast -, Previous 1.4)",
    "channel": "rss",
    "source": "financialjuice"
   }
