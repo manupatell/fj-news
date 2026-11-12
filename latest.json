@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T09:20:49.076806+00:00",
+ "updated": "2026-11-12T09:25:49.091223+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848660,
+   "ts": "2026-11-12T09:25:03+00:00",
+   "ingested": "2026-11-12T09:25:49.090790+00:00",
+   "headline": "Europe Sentiment: Sleeping With Chinese Spies Is Bad For Your Employment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848636,
    "ts": "2026-11-12T09:09:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:50:38+00:00",
    "ingested": "2026-11-10T17:13:18.538085+00:00",
    "headline": "Fed's Logan: More rapid rate hikes possibly needed this winter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845547,
-   "ts": "2026-11-10T15:50:24+00:00",
-   "ingested": "2026-11-10T17:13:18.538096+00:00",
-   "headline": "Fed's Logan: It is clear that Fed needs at least two more quarter-percentage-point rate increases.",
    "channel": "rss",
    "source": "financialjuice"
   }
