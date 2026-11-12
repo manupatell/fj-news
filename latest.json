@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:43:06.269339+00:00",
+ "updated": "2026-11-12T14:48:06.253031+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849168,
+   "ts": "2026-11-12T14:47:40+00:00",
+   "ingested": "2026-11-12T14:48:06.252640+00:00",
+   "headline": "House Committee and Huang\u2019s team negotiating time for him to come - PB. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849149,
    "ts": "2026-11-12T14:42:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:41:54+00:00",
    "ingested": "2026-11-10T19:42:58.478073+00:00",
    "headline": "Republicans seek closed-door Nvidia CEO briefing - ABC $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845857,
-   "ts": "2026-11-10T19:39:43+00:00",
-   "ingested": "2026-11-10T19:40:58.544227+00:00",
-   "headline": "House GOP considering issuing subpoena to Nvidia CEO - ABC",
    "channel": "rss",
    "source": "financialjuice"
   }
