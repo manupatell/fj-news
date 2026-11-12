@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T00:45:47.219922+00:00",
+ "updated": "2026-11-12T00:50:47.211617+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848000,
+   "ts": "2026-11-12T00:50:09+00:00",
+   "ingested": "2026-11-12T00:50:47.211288+00:00",
+   "headline": "White House not intervening in Nvidia board decision on CEO Huang: Washington Post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9847991,
    "ts": "2026-11-12T00:34:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T12:35:16+00:00",
    "ingested": "2026-11-10T12:36:25.557601+00:00",
    "headline": "BoE's Lombardelli: Balance of risks to inflation remains to the upside.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845220,
-   "ts": "2026-11-10T12:34:47+00:00",
-   "ingested": "2026-11-10T12:36:25.557611+00:00",
-   "headline": "BoE's Lombardelli: Balance of inflation risks to the upside.",
    "channel": "rss",
    "source": "financialjuice"
   }
