@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T04:48:47.286361+00:00",
+ "updated": "2026-11-12T04:53:47.258005+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848289,
+   "ts": "2026-11-12T04:53:01+00:00",
+   "ingested": "2026-11-12T04:53:47.257762+00:00",
+   "headline": "Russia strikes energy sites, military depot in and around Ukraine's Kyiv: Russian newswires quote defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848266,
    "ts": "2026-11-12T04:17:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T13:17:58+00:00",
    "ingested": "2026-11-10T13:19:25.577380+00:00",
    "headline": "US Sec. of Defense Hegseth: If Iran makes a wrong move, we're locked and loaded.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845309,
-   "ts": "2026-11-10T13:17:19+00:00",
-   "ingested": "2026-11-10T13:17:45.600362+00:00",
-   "headline": "BoE's Lombardelli: I wouldn't rule December or February in or out.",
    "channel": "rss",
    "source": "financialjuice"
   }
