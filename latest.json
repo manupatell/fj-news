@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T01:33:27.232534+00:00",
+ "updated": "2026-11-12T01:35:07.244337+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848051,
+   "ts": "2026-11-12T01:34:24+00:00",
+   "ingested": "2026-11-12T01:35:07.243979+00:00",
+   "headline": "BoJ's Asada: must be cautious of risk as rate hikes may harm economy, reduce core inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848050,
+   "ts": "2026-11-12T01:34:02+00:00",
+   "ingested": "2026-11-12T01:35:07.243996+00:00",
+   "headline": "BOJ\u2019s Asada: with policy rate in neutral range, further hike could have greater effect on economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848046,
    "ts": "2026-11-12T01:31:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T13:01:21+00:00",
    "ingested": "2026-11-10T13:02:45.570188+00:00",
    "headline": "IBM & Microsoft report a new AI agent platform. $IBM $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845248,
-   "ts": "2026-11-10T13:00:02+00:00",
-   "ingested": "2026-11-10T13:01:05.568982+00:00",
-   "headline": "Secured Overnight Financing Rate 3.88% Nov. 9 vs 3.89% Nov. 6",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845247,
-   "ts": "2026-11-10T12:54:40+00:00",
-   "ingested": "2026-11-10T12:56:05.596294+00:00",
-   "headline": "First house vote on Hegseth impeachment slated for 5:30pm ET.",
    "channel": "rss",
    "source": "financialjuice"
   }
