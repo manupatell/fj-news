@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T18:39:48.165912+00:00",
+ "updated": "2026-11-12T18:41:28.167599+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849568,
+   "ts": "2026-11-12T18:40:24+00:00",
+   "ingested": "2026-11-12T18:41:28.167203+00:00",
+   "headline": "Explosion heard in Iran's Sirik - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849567,
    "ts": "2026-11-12T18:39:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T10:33:53+00:00",
    "ingested": "2026-11-11T10:34:40.216817+00:00",
    "headline": "German 30 Yr Bund Bid-to-cover Actual 1.297 (Forecast -, Previous 1.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846921,
-   "ts": "2026-11-11T10:18:49+00:00",
-   "ingested": "2026-11-11T10:19:40.219631+00:00",
-   "headline": "Ukraine Naftogaz: Russia hit Dnipropetrovsk region facility",
    "channel": "rss",
    "source": "financialjuice"
   }
