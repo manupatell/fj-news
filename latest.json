@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T21:34:47.658941+00:00",
+ "updated": "2026-11-12T21:38:07.743652+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849784,
+   "ts": "2026-11-12T21:37:43+00:00",
+   "ingested": "2026-11-12T21:38:07.743312+00:00",
+   "headline": "The DoJ to seize $1.2b worth of cryptocurrency stolen from Binance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849783,
+   "ts": "2026-11-12T21:36:49+00:00",
+   "ingested": "2026-11-12T21:38:07.743329+00:00",
+   "headline": "The DoJ reports actions to disrupt North Korea\u2019s cryptocurrency theft.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849782,
    "ts": "2026-11-12T21:34:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T11:10:35+00:00",
    "ingested": "2026-11-11T11:11:20.238688+00:00",
    "headline": "Germany's Chancellor Merz: Germany must do everything to preserve AAA credit rating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847017,
-   "ts": "2026-11-11T11:10:04+00:00",
-   "ingested": "2026-11-11T11:11:20.238707+00:00",
-   "headline": "Russia: US envoys have constructive role",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847016,
-   "ts": "2026-11-11T11:09:24+00:00",
-   "ingested": "2026-11-11T11:09:40.224438+00:00",
-   "headline": "Medinsky: Unclear what Russia can discuss with EU amid lack of proposals",
    "channel": "rss",
    "source": "financialjuice"
   }
