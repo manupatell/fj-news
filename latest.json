@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T15:20:08.129976+00:00",
+ "updated": "2026-11-12T15:21:48.117361+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849224,
+   "ts": "2026-11-12T15:21:28+00:00",
+   "ingested": "2026-11-12T15:21:48.116954+00:00",
+   "headline": "China Panel Chair Meeks floats subpanel on Nvidia fallout - Politico. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849223,
    "ts": "2026-11-12T15:18:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T20:44:07+00:00",
    "ingested": "2026-11-10T20:44:18.538082+00:00",
    "headline": "Iran's Parliamentary Speaker Ghalibaf: China plays a \"prominent role\" in helping end the war",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845948,
-   "ts": "2026-11-10T20:31:53+00:00",
-   "ingested": "2026-11-10T20:32:18.554718+00:00",
-   "headline": "Fed's Bowman: Labor market has improved, not tight, not adding to inflation",
    "channel": "rss",
    "source": "financialjuice"
   }
