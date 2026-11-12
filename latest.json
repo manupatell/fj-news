@@ -1,7 +1,183 @@
 {
- "updated": "2026-11-12T10:55:49.108899+00:00",
+ "updated": "2026-11-12T13:05:56.276964+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848954,
+   "ts": "2026-11-12T13:03:25+00:00",
+   "ingested": "2026-11-12T13:05:56.276235+00:00",
+   "headline": "AMD to make equity investment in Psiquantum",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848933,
+   "ts": "2026-11-12T13:00:04+00:00",
+   "ingested": "2026-11-12T13:05:56.276256+00:00",
+   "headline": "Secured overnight financing rate 3.89% November 10th vs 3.88% November 9th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848932,
+   "ts": "2026-11-12T12:50:51+00:00",
+   "ingested": "2026-11-12T13:05:56.276270+00:00",
+   "headline": "Senator Cramer: Hopefully, Huang would be absolved of corruption $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848904,
+   "ts": "2026-11-12T12:34:59+00:00",
+   "ingested": "2026-11-12T13:05:56.276281+00:00",
+   "headline": "Putin warns foreign troops in Ukraine would be targeted - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848889,
+   "ts": "2026-11-12T12:23:38+00:00",
+   "ingested": "2026-11-12T13:05:56.276293+00:00",
+   "headline": "Russia struck Naftogaz facility with jet-powered drones overnight - Company",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848888,
+   "ts": "2026-11-12T12:23:19+00:00",
+   "ingested": "2026-11-12T13:05:56.276308+00:00",
+   "headline": "US Envoy Kushner: The US has begun discussions with European partners on the continent's security architecture - TASS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848869,
+   "ts": "2026-11-12T12:07:47+00:00",
+   "ingested": "2026-11-12T13:05:56.276320+00:00",
+   "headline": "Putin starts meeting with US envoys Witkoff and Kushner - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848868,
+   "ts": "2026-11-12T12:03:05+00:00",
+   "ingested": "2026-11-12T13:05:56.276329+00:00",
+   "headline": "Putin to hold security council meeting today - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848852,
+   "ts": "2026-11-12T11:59:59+00:00",
+   "ingested": "2026-11-12T13:05:56.276342+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy: Will have talks with US representatives later on Thursday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848851,
+   "ts": "2026-11-12T11:59:38+00:00",
+   "ingested": "2026-11-12T13:05:56.276355+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy: Europe needs to be at the table in talks with Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848850,
+   "ts": "2026-11-12T11:56:50+00:00",
+   "ingested": "2026-11-12T13:05:56.276369+00:00",
+   "headline": "NATO's Rutte: Europeans and the US have already come to an agreement in January on how security guarantees should be sketched out, and this is all done",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848849,
+   "ts": "2026-11-12T11:56:33+00:00",
+   "ingested": "2026-11-12T13:05:56.276379+00:00",
+   "headline": "NATO's Rutte: Is Russia now willing to play ball, we will assess this later",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848848,
+   "ts": "2026-11-12T11:53:26+00:00",
+   "ingested": "2026-11-12T13:05:56.276389+00:00",
+   "headline": "NATO's Rutte: Positive news out of Abu Dhabi talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848847,
+   "ts": "2026-11-12T11:53:16+00:00",
+   "ingested": "2026-11-12T13:05:56.276399+00:00",
+   "headline": "NATO's route: we need to make sure Ukraine is as strong as possible in this fight, negotiations with Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848828,
+   "ts": "2026-11-12T11:38:40+00:00",
+   "ingested": "2026-11-12T13:05:56.276410+00:00",
+   "headline": "Oman emergency committee discusses response to oil tanker running aground off Al Qibliyah Island - State TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848791,
+   "ts": "2026-11-12T11:16:02+00:00",
+   "ingested": "2026-11-12T13:05:56.276421+00:00",
+   "headline": "Poll: ECB deposit rate to peak at 2.75%, said 46 of 71 economists; 3.00% said 25 respondents",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848790,
+   "ts": "2026-11-12T11:15:47+00:00",
+   "ingested": "2026-11-12T13:05:56.276432+00:00",
+   "headline": "Poll: ECB to hike deposit rate to 2.75% in December, said all 71 economists (64 of 73 economists in October poll)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848787,
+   "ts": "2026-11-12T11:11:00+00:00",
+   "ingested": "2026-11-12T13:05:56.276442+00:00",
+   "headline": "Germany's Merz: Europeans need to be involved in Ukraine talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848786,
+   "ts": "2026-11-12T11:10:48+00:00",
+   "ingested": "2026-11-12T13:05:56.276451+00:00",
+   "headline": "EC Pres. von der Leyen: Very much welcome peace talks in Abu Dhabi",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848785,
+   "ts": "2026-11-12T11:10:35+00:00",
+   "ingested": "2026-11-12T13:05:56.276462+00:00",
+   "headline": "Germany\u2019s Chancellor Merz: See good chance to end EU budget talks before year-end",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848784,
+   "ts": "2026-11-12T11:04:23+00:00",
+   "ingested": "2026-11-12T13:05:56.276497+00:00",
+   "headline": "EU's Kallas: Would very much like to see Britain back in Europe",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848771,
+   "ts": "2026-11-12T10:56:16+00:00",
+   "ingested": "2026-11-12T13:05:56.276508+00:00",
+   "headline": "EU's Kallas: We don't see any goodwill from Russia's side",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848758,
    "ts": "2026-11-12T10:45:23+00:00",
@@ -3823,182 +3999,6 @@
    "ts": "2026-11-10T16:36:01+00:00",
    "ingested": "2026-11-10T17:13:18.537795+00:00",
    "headline": "Canada's PM Carney: I may meet Trump later this month at Asian summits",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845629,
-   "ts": "2026-11-10T16:35:40+00:00",
-   "ingested": "2026-11-10T17:13:18.537805+00:00",
-   "headline": "Canada's PM Carney: I spoke briefly to Trump over the weekend.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845607,
-   "ts": "2026-11-10T16:25:47+00:00",
-   "ingested": "2026-11-10T17:13:18.537817+00:00",
-   "headline": "Canada's PM Carney: I will meet China's Xi later this month, says this will be a chance to have frank conversations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845592,
-   "ts": "2026-11-10T16:15:56+00:00",
-   "ingested": "2026-11-10T17:13:18.537827+00:00",
-   "headline": "Iran's Major General Rezai: Hormuz will not be reopened until Iran's 7 conditions are met.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845589,
-   "ts": "2026-11-10T16:15:02+00:00",
-   "ingested": "2026-11-10T17:13:18.537838+00:00",
-   "headline": "Russian delegation in Abu Dhabi did not have any contact with Europeans, according to a source - RIA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845588,
-   "ts": "2026-11-10T16:13:31+00:00",
-   "ingested": "2026-11-10T17:13:18.537848+00:00",
-   "headline": "Goldman and Citi among banks in $270 mln stablecoin backing. $GS $C",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845587,
-   "ts": "2026-11-10T16:11:55+00:00",
-   "ingested": "2026-11-10T17:13:18.537861+00:00",
-   "headline": "Iran's Major General Rezai: asked the US to provide a clear and unambiguous response to our conditions, but they haven't yet provided such a response.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845586,
-   "ts": "2026-11-10T16:10:57+00:00",
-   "ingested": "2026-11-10T17:13:18.537871+00:00",
-   "headline": "Iran's Major General Rezai: The American response is deceptive - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845584,
-   "ts": "2026-11-10T16:02:24+00:00",
-   "ingested": "2026-11-10T17:13:18.537881+00:00",
-   "headline": "Google: Introducing 3 new domains: .eat, .fly, & .here. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845570,
-   "ts": "2026-11-10T16:00:59+00:00",
-   "ingested": "2026-11-10T17:13:18.537891+00:00",
-   "headline": "NY Fed: US Household Debt Rises $334 Billion to $19.1 Trillion in Q3",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845569,
-   "ts": "2026-11-10T16:00:49+00:00",
-   "ingested": "2026-11-10T17:13:18.537905+00:00",
-   "headline": "Google launches Gemini 4 Carbon globally; introductory price $2/1m input tokens. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845565,
-   "ts": "2026-11-10T15:56:59+00:00",
-   "ingested": "2026-11-10T17:13:18.537916+00:00",
-   "headline": "Press briefing by Russian delegation after talks in Abu Dhabi will take place on Wednesday - IFX cites source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845564,
-   "ts": "2026-11-10T15:56:44+00:00",
-   "ingested": "2026-11-10T17:13:18.537928+00:00",
-   "headline": "Deutsche Bank expects Fed to deliver an additional 25 BPS rate hike in January 2027 vs prior forecast of rate hikes in December and March",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845563,
-   "ts": "2026-11-10T15:55:30+00:00",
-   "ingested": "2026-11-10T17:13:18.537937+00:00",
-   "headline": "Traders fully price two quarter-point BoE hikes by March",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845561,
-   "ts": "2026-11-10T15:52:01+00:00",
-   "ingested": "2026-11-10T17:13:18.537948+00:00",
-   "headline": "Fed's Logan: Price pressures are also broader than tariffs, and the broad trend is likely to persist.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845560,
-   "ts": "2026-11-10T15:51:56+00:00",
-   "ingested": "2026-11-10T17:13:18.537958+00:00",
-   "headline": "Fed's Logan: Economic growth is strong, consumer spending solid, business spending robust.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845559,
-   "ts": "2026-11-10T15:51:48+00:00",
-   "ingested": "2026-11-10T17:13:18.537968+00:00",
-   "headline": "Fed's Logan: Inflation is trending meaningfully higher than the 2% goal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845558,
-   "ts": "2026-11-10T15:51:46+00:00",
-   "ingested": "2026-11-10T17:13:18.537977+00:00",
-   "headline": "Fed's Logan: Labor market is balanced and even tightening a bit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845557,
-   "ts": "2026-11-10T15:51:36+00:00",
-   "ingested": "2026-11-10T17:13:18.537988+00:00",
-   "headline": "Fed's Logan: Concerned that higher-than-expected consumer price index means personal consumption expenditures inflation could rise.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845556,
-   "ts": "2026-11-10T15:51:29+00:00",
-   "ingested": "2026-11-10T17:13:18.538000+00:00",
-   "headline": "Fed's Logan: Accommodative policy is adding to inflationary pressures; the real Fed funds rate is 78 basis points, data suggest.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845555,
-   "ts": "2026-11-10T15:51:25+00:00",
-   "ingested": "2026-11-10T17:13:18.538009+00:00",
-   "headline": "Fed's Logan: Wartime energy disruptions not the only source of price pressures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845554,
-   "ts": "2026-11-10T15:51:17+00:00",
-   "ingested": "2026-11-10T17:13:18.538020+00:00",
-   "headline": "Fed's Logan: Fed policy rate is at least 50 basis points below a modestly restrictive level.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845553,
-   "ts": "2026-11-10T15:51:08+00:00",
-   "ingested": "2026-11-10T17:13:18.538031+00:00",
-   "headline": "Fed's Logan: After two more rate hikes, it would make sense to pause and assess what further action may be appropriate.",
    "channel": "rss",
    "source": "financialjuice"
   }
