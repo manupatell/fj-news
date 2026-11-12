@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:49:46.236879+00:00",
+ "updated": "2026-11-12T14:53:06.246026+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849170,
+   "ts": "2026-11-12T14:51:17+00:00",
+   "ingested": "2026-11-12T14:53:06.245628+00:00",
+   "headline": "OpenAI raises $15 billion at $1.25 trillion valuation - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849169,
    "ts": "2026-11-12T14:49:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:59:41+00:00",
    "ingested": "2026-11-10T20:00:48.480164+00:00",
    "headline": "Fitch Ratings: The Democrat win is mixed for the US AI ecosystem, energy, healthcare & defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845859,
-   "ts": "2026-11-10T19:45:16+00:00",
-   "ingested": "2026-11-10T19:45:58.547257+00:00",
-   "headline": "Brent crude futures settle at $91.49/bbl, down $1.08, 1.17%.",
    "channel": "rss",
    "source": "financialjuice"
   }
