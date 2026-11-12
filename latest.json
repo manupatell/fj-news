@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T07:52:29.066571+00:00",
+ "updated": "2026-11-12T08:02:29.059569+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848554,
+   "ts": "2026-11-12T08:02:06+00:00",
+   "ingested": "2026-11-12T08:02:29.059169+00:00",
+   "headline": "Currency Strength Chart: Strongest: CHF, JPY, USD, GBP, CAD, EUR, NZD, AUD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848521,
    "ts": "2026-11-12T07:31:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:41:24+00:00",
    "ingested": "2026-11-10T17:13:18.538125+00:00",
    "headline": "WATCH LIVE: Fed's Logan Speaks 10:50 ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845529,
-   "ts": "2026-11-10T15:35:01+00:00",
-   "ingested": "2026-11-10T17:13:18.538135+00:00",
-   "headline": "Israel's Prime Minister Netanyahu: Israel to face pressure to retreat from security zones.",
    "channel": "rss",
    "source": "financialjuice"
   }
