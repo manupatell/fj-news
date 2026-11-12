@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-12T07:00:49.049587+00:00",
+ "updated": "2026-11-12T07:07:29.058861+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848482,
+   "ts": "2026-11-12T07:02:08+00:00",
+   "ingested": "2026-11-12T07:07:29.058330+00:00",
+   "headline": "Swedish CPI MoM Actual 0.0% (Forecast 0%, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848481,
+   "ts": "2026-11-12T07:02:08+00:00",
+   "ingested": "2026-11-12T07:07:29.058344+00:00",
+   "headline": "Swedish CPI YoY Actual 0.9% (Forecast 0.9%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848480,
+   "ts": "2026-11-12T07:02:08+00:00",
+   "ingested": "2026-11-12T07:07:29.058356+00:00",
+   "headline": "UK Goods Trade Balance Non-EU Actual -8.985B (Forecast -, Previous -5.287B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848479,
+   "ts": "2026-11-12T07:02:06+00:00",
+   "ingested": "2026-11-12T07:07:29.058367+00:00",
+   "headline": "UK Manufacturing Production YoY Actual 4.4% (Forecast 3.8%, Previous 3.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848477,
+   "ts": "2026-11-12T07:02:05+00:00",
+   "ingested": "2026-11-12T07:07:29.058377+00:00",
+   "headline": "UK GDP Estimate YoY Actual 2.1% (Forecast 1.9%, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848475,
+   "ts": "2026-11-12T07:02:05+00:00",
+   "ingested": "2026-11-12T07:07:29.058388+00:00",
+   "headline": "UK GDP Estimate 3M/3M Actual 0.7% (Forecast 0.6%, Previous 0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848478,
    "ts": "2026-11-12T07:00:05+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-10T15:08:17+00:00",
    "ingested": "2026-11-10T17:13:18.538177+00:00",
    "headline": "Iran\u2019s Foreign Minister Araghchi: War does not end with military action or sanctions; The solution is diplomacy and compliance with Iran's conditions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845472,
-   "ts": "2026-11-10T14:56:19+00:00",
-   "ingested": "2026-11-10T14:58:05.607214+00:00",
-   "headline": "US CPI Market Reactions, Deviations & Sentiment - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845470,
-   "ts": "2026-11-10T14:55:35+00:00",
-   "ingested": "2026-11-10T14:56:25.614982+00:00",
-   "headline": "Goldman Sachs expects Anthropic revenue to exceed $600 bln by 2030 - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845469,
-   "ts": "2026-11-10T14:55:08+00:00",
-   "ingested": "2026-11-10T14:56:25.614999+00:00",
-   "headline": "Anthropic IPO said to draw orders to cover available shares.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845468,
-   "ts": "2026-11-10T14:54:52+00:00",
-   "ingested": "2026-11-10T14:56:25.615010+00:00",
-   "headline": "ECB's Nagel: France must look at its fiscal challenges.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845467,
-   "ts": "2026-11-10T14:54:45+00:00",
-   "ingested": "2026-11-10T14:56:25.615022+00:00",
-   "headline": "ECB's Nagel: We'll do what's needed to return inflation to 2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845466,
-   "ts": "2026-11-10T14:54:39+00:00",
-   "ingested": "2026-11-10T14:56:25.615032+00:00",
-   "headline": "ECB's Nagel: I don't see a risk of fiscal dominance.",
    "channel": "rss",
    "source": "financialjuice"
   }
