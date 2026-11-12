@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-12T21:01:27.648408+00:00",
+ "updated": "2026-11-12T21:04:47.651528+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849750,
+   "ts": "2026-11-12T21:03:27+00:00",
+   "ingested": "2026-11-12T21:04:47.651177+00:00",
+   "headline": "NY Fed: The Federal Reserve did not intervene in FX markets during Q3; US Treasury purchased Japanese Yen in FX markets during the same period.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849731,
+   "ts": "2026-11-12T21:02:02+00:00",
+   "ingested": "2026-11-12T21:04:47.651191+00:00",
+   "headline": "S. Korean Import Price YoY Actual 13.5% (Forecast -, Previous 17.6% ,Revision 17.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849730,
+   "ts": "2026-11-12T21:02:01+00:00",
+   "ingested": "2026-11-12T21:04:47.651201+00:00",
+   "headline": "S. Korean Export Price YoY Actual 36.7% (Forecast -, Previous 40.9% ,Revision 41.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849729,
    "ts": "2026-11-12T21:00:01+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-11T11:08:30+00:00",
    "ingested": "2026-11-11T11:09:40.224517+00:00",
    "headline": "Russia: we don't see what can be discussed with Europe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847010,
-   "ts": "2026-11-11T11:07:50+00:00",
-   "ingested": "2026-11-11T11:09:40.224530+00:00",
-   "headline": "Medinsky: we will consider proposals if there are any",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847009,
-   "ts": "2026-11-11T11:07:43+00:00",
-   "ingested": "2026-11-11T11:08:00.229498+00:00",
-   "headline": "Medinsky: mutual understanding reached on some issues but not on others",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847008,
-   "ts": "2026-11-11T11:07:32+00:00",
-   "ingested": "2026-11-11T11:08:00.229518+00:00",
-   "headline": "Medinsky: no peace proposal received from the EU",
    "channel": "rss",
    "source": "financialjuice"
   }
