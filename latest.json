@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T18:03:48.178303+00:00",
+ "updated": "2026-11-12T18:05:28.178338+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849497,
+   "ts": "2026-11-12T18:03:56+00:00",
+   "ingested": "2026-11-12T18:05:28.177941+00:00",
+   "headline": "US 30-Year Bond Bid-to-Cover Actual 2.360 (Forecast -, Previous 2.540)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849510,
    "ts": "2026-11-12T18:02:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T03:03:32+00:00",
    "ingested": "2026-11-11T03:04:52.725766+00:00",
    "headline": "Russia's Ust-Luga port area ablaze: governor cites initial data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846448,
-   "ts": "2026-11-11T03:03:00+00:00",
-   "ingested": "2026-11-11T03:03:12.706534+00:00",
-   "headline": "Drones strike Ust-Luga Baltic Sea port in Russia's Leningrad region, governor cites initial data",
    "channel": "rss",
    "source": "financialjuice"
   }
