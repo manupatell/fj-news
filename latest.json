@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T07:27:29.049359+00:00",
+ "updated": "2026-11-12T07:32:29.056928+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848521,
+   "ts": "2026-11-12T07:31:49+00:00",
+   "ingested": "2026-11-12T07:32:29.056478+00:00",
+   "headline": "Japan government to spend 650 bln Yen to help ease winter outlays for households - Kyodo",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848508,
    "ts": "2026-11-12T07:27:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:35:01+00:00",
    "ingested": "2026-11-10T17:13:18.538135+00:00",
    "headline": "Israel's Prime Minister Netanyahu: Israel to face pressure to retreat from security zones.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845528,
-   "ts": "2026-11-10T15:33:41+00:00",
-   "ingested": "2026-11-10T17:13:18.538145+00:00",
-   "headline": "Israel's Prime Minister Netanyahu: Iran working to renew nuclear threat.",
    "channel": "rss",
    "source": "financialjuice"
   }
