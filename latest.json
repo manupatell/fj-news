@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-12T13:46:26.223301+00:00",
+ "updated": "2026-11-12T13:49:46.240645+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849037,
+   "ts": "2026-11-12T13:49:28+00:00",
+   "ingested": "2026-11-12T13:49:46.240192+00:00",
+   "headline": "NVIDIA: Board initiating search for permanent CEO role.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849036,
+   "ts": "2026-11-12T13:48:49+00:00",
+   "ingested": "2026-11-12T13:49:46.240206+00:00",
+   "headline": "Nvidia names Colette Kress interim CEO $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849035,
+   "ts": "2026-11-12T13:48:27+00:00",
+   "ingested": "2026-11-12T13:49:46.240217+00:00",
+   "headline": "NVIDIA reports CEO transition as Huang resigns.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849029,
    "ts": "2026-11-12T13:45:43+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-10T18:30:45+00:00",
    "ingested": "2026-11-10T18:32:18.510864+00:00",
    "headline": "BoC Meeting Minutes: Governing Council agreed it would need to carefully. assess how economic developments would affect the outlook.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845758,
-   "ts": "2026-11-10T18:30:33+00:00",
-   "ingested": "2026-11-10T18:32:18.510877+00:00",
-   "headline": "BoC Meeting Minutes: Ahead of Bank of Canada's oct 28 rate announcement, governing council members recognized that uncertainty over what to do with rates did not mean inaction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845754,
-   "ts": "2026-11-10T18:24:42+00:00",
-   "ingested": "2026-11-10T18:26:08.477850+00:00",
-   "headline": "WATCH LIVE: Fed's Schmid Speaks 1:30 PM ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845737,
-   "ts": "2026-11-10T18:06:48+00:00",
-   "ingested": "2026-11-10T18:07:08.498467+00:00",
-   "headline": "US 10-yr notes will carry 5% coupon, highest since 2006",
    "channel": "rss",
    "source": "financialjuice"
   }
