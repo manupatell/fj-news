@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T21:08:07.631963+00:00",
+ "updated": "2026-11-12T21:09:47.638287+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849754,
+   "ts": "2026-11-12T21:08:21+00:00",
+   "ingested": "2026-11-12T21:09:47.637932+00:00",
+   "headline": "$AMAT Applied Materials Q4 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849753,
    "ts": "2026-11-12T21:06:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T11:09:01+00:00",
    "ingested": "2026-11-11T11:09:40.224474+00:00",
    "headline": "Europe security was key focus at discussions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847013,
-   "ts": "2026-11-11T11:08:58+00:00",
-   "ingested": "2026-11-11T11:09:40.224488+00:00",
-   "headline": "Russia: agreed on major prisoner exchange with Ukraine",
    "channel": "rss",
    "source": "financialjuice"
   }
