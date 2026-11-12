@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T16:23:28.142535+00:00",
+ "updated": "2026-11-12T16:26:48.131038+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849315,
+   "ts": "2026-11-12T16:26:35+00:00",
+   "ingested": "2026-11-12T16:26:48.130654+00:00",
+   "headline": "DoJ probing tech companies Megaspeed and SuperMicro - Semafor. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849314,
+   "ts": "2026-11-12T16:25:35+00:00",
+   "ingested": "2026-11-12T16:26:48.130668+00:00",
+   "headline": "Nvidia faces DoJ antitrust probe - Semafor. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849313,
    "ts": "2026-11-12T16:22:06+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T23:21:51+00:00",
    "ingested": "2026-11-10T23:22:09.032434+00:00",
    "headline": "Nvidia CEO Jensen Huang holds regular morning meeting with executives after admitting extramarital affair - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846124,
-   "ts": "2026-11-10T23:09:37+00:00",
-   "ingested": "2026-11-10T23:10:09.022887+00:00",
-   "headline": "OpenAI told investors adjusted operating margin improved from -150% to -109% from second to third quarter: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846123,
-   "ts": "2026-11-10T23:06:31+00:00",
-   "ingested": "2026-11-10T23:07:19.040539+00:00",
-   "headline": "OpenAI tells investors adjusted operating margin rose from -150% to -109% from Q2 to Q3 - WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
