@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-12T13:29:26.212128+00:00",
+ "updated": "2026-11-12T13:31:06.217706+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848984,
+   "ts": "2026-11-12T13:30:03+00:00",
+   "ingested": "2026-11-12T13:31:06.217230+00:00",
+   "headline": "Canadian Building Permits MoM Actual -4.1% (Forecast -4.1%, Previous 8.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848983,
+   "ts": "2026-11-12T13:30:02+00:00",
+   "ingested": "2026-11-12T13:31:06.217247+00:00",
+   "headline": "US Initial Jobless Claims Actual 200k (Forecast 194k, Previous 189k, Revised 191K)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848982,
+   "ts": "2026-11-12T13:30:01+00:00",
+   "ingested": "2026-11-12T13:31:06.217259+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.697M (Forecast 1.71M, Previous 1.718M, Revised 1.717M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848958,
    "ts": "2026-11-12T13:08:44+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-10T17:00:03+00:00",
    "ingested": "2026-11-10T17:13:18.537726+00:00",
    "headline": "WASDE Soybean End Stocks Actual 300M (Forecast 330M, Previous 315M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845642,
-   "ts": "2026-11-10T17:00:03+00:00",
-   "ingested": "2026-11-10T17:13:18.537736+00:00",
-   "headline": "WASDE Wheat End Stocks Actual 743M (Forecast 740M, Previous 740M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845641,
-   "ts": "2026-11-10T16:50:25+00:00",
-   "ingested": "2026-11-10T17:13:18.537750+00:00",
-   "headline": "Microsoft\u2019s market value surpasses Nvidia for the first time since June 2025. $MSFT $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845639,
-   "ts": "2026-11-10T16:46:53+00:00",
-   "ingested": "2026-11-10T17:13:18.537760+00:00",
-   "headline": "Syria weighs sending troops to aid Saudi war with Houthis - NYT.",
    "channel": "rss",
    "source": "financialjuice"
   }
