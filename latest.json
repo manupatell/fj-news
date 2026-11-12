@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T18:02:08.179150+00:00",
+ "updated": "2026-11-12T18:03:48.178303+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849510,
+   "ts": "2026-11-12T18:02:40+00:00",
+   "ingested": "2026-11-12T18:03:48.177893+00:00",
+   "headline": "US 30 Yr Note Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849495,
    "ts": "2026-11-12T18:01:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T03:03:00+00:00",
    "ingested": "2026-11-11T03:03:12.706534+00:00",
    "headline": "Drones strike Ust-Luga Baltic Sea port in Russia's Leningrad region, governor cites initial data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846437,
-   "ts": "2026-11-11T03:00:03+00:00",
-   "ingested": "2026-11-11T03:01:12.713576+00:00",
-   "headline": "S. Korea Oct bank lending to households net 5 trillion won vs net 0.5 trillion won in Sept: central bank",
    "channel": "rss",
    "source": "financialjuice"
   }
