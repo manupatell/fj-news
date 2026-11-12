@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-12T13:36:06.231711+00:00",
+ "updated": "2026-11-12T13:37:06.263789+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849010,
+   "ts": "2026-11-12T13:36:42+00:00",
+   "ingested": "2026-11-12T13:37:06.263294+00:00",
+   "headline": "USTR Greer, on China and trade: I would like to see more progress",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849009,
+   "ts": "2026-11-12T13:36:40+00:00",
+   "ingested": "2026-11-12T13:37:06.263309+00:00",
+   "headline": "USTR Greer on China, trade: Not perfect compliance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849008,
+   "ts": "2026-11-12T13:36:30+00:00",
+   "ingested": "2026-11-12T13:37:06.263321+00:00",
+   "headline": "USTR Greer on China, trade: We are getting some rare earths that we need.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849007,
+   "ts": "2026-11-12T13:36:14+00:00",
+   "ingested": "2026-11-12T13:37:06.263332+00:00",
+   "headline": "USTR Greer: We want the crown jewels to remain in the US and ally hands",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849006,
+   "ts": "2026-11-12T13:36:13+00:00",
+   "ingested": "2026-11-12T13:37:06.263341+00:00",
+   "headline": "USTR Greer: China is partially complying.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849005,
    "ts": "2026-11-12T13:35:17+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-10T17:19:42+00:00",
    "ingested": "2026-11-10T17:20:08.491382+00:00",
    "headline": "UK's PM Burnham rejects dynamic alignment of UK with EU financial rules",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845667,
-   "ts": "2026-11-10T17:13:50+00:00",
-   "ingested": "2026-11-10T17:15:08.455949+00:00",
-   "headline": "US Official: Russian diesel is on the water and 'headed to market', which will ease fuel prices for Americans",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845666,
-   "ts": "2026-11-10T17:09:17+00:00",
-   "ingested": "2026-11-10T17:13:18.537671+00:00",
-   "headline": "Third oil tanker involved in illegal activity explodes in the Strait of Hormuz - IRIB News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845664,
-   "ts": "2026-11-10T17:02:51+00:00",
-   "ingested": "2026-11-10T17:13:18.537689+00:00",
-   "headline": "US STEO Report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845645,
-   "ts": "2026-11-10T17:00:04+00:00",
-   "ingested": "2026-11-10T17:13:18.537703+00:00",
-   "headline": "WASDE Cotton End Stocks Actual 3.7M (Forecast 3.6M, Previous 3.8M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845644,
-   "ts": "2026-11-10T17:00:04+00:00",
-   "ingested": "2026-11-10T17:13:18.537715+00:00",
-   "headline": "WASDE Corn End Stocks Actual 1758M (Forecast 1.87M, Previous 1.849M)",
    "channel": "rss",
    "source": "financialjuice"
   }
