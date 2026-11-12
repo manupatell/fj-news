@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T15:41:48.151892+00:00",
+ "updated": "2026-11-12T15:43:28.114318+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849241,
+   "ts": "2026-11-12T15:43:09+00:00",
+   "ingested": "2026-11-12T15:43:28.113926+00:00",
+   "headline": "Fed's Barr: If AI adoption happens rapidly, the labor adjustment may be more difficult",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849240,
+   "ts": "2026-11-12T15:42:46+00:00",
+   "ingested": "2026-11-12T15:43:28.113942+00:00",
+   "headline": "Nexperia Officals: Assessing investor interest in Nexperia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849239,
    "ts": "2026-11-12T15:41:33+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T21:07:39+00:00",
    "ingested": "2026-11-10T21:08:48.503501+00:00",
    "headline": "Fed's Bowman: Open lines of communication with the Treasury are critically important",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845980,
-   "ts": "2026-11-10T21:06:32+00:00",
-   "ingested": "2026-11-10T21:07:48.558488+00:00",
-   "headline": "Fed's Bowman: The Fed is trying to gather data on AI debt counterparties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845979,
-   "ts": "2026-11-10T21:05:49+00:00",
-   "ingested": "2026-11-10T21:06:08.497189+00:00",
-   "headline": "$CRWV CoreWeave Q3 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
