@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:19:46.250023+00:00",
+ "updated": "2026-11-12T14:28:06.244627+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849112,
+   "ts": "2026-11-12T14:26:16+00:00",
+   "ingested": "2026-11-12T14:28:06.244213+00:00",
+   "headline": "Nvidia Interim CEO: We will host a company meeting on November 18th at 9 AM PT - memo. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849111,
    "ts": "2026-11-12T14:18:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:30:59+00:00",
    "ingested": "2026-11-10T19:32:08.521735+00:00",
    "headline": "A fire breaks out on a platform in Iran's South Pars field, the situation is under control - Iran's Fars news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845827,
-   "ts": "2026-11-10T19:30:02+00:00",
-   "ingested": "2026-11-10T19:30:18.616317+00:00",
-   "headline": "Trump was reminded of Huang relationship en route to China - NYT $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
