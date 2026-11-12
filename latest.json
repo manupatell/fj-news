@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T08:12:29.089311+00:00",
+ "updated": "2026-11-12T08:17:29.099825+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848560,
+   "ts": "2026-11-12T08:15:58+00:00",
+   "ingested": "2026-11-12T08:17:29.099427+00:00",
+   "headline": "Russia's Ryabkov: It's incorrect to say trust was restored between parties following negotiations in Abu Dhabi - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848554,
    "ts": "2026-11-12T08:02:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:42:38+00:00",
    "ingested": "2026-11-10T17:13:18.538116+00:00",
    "headline": "UKMTO receives a report of an incident near Oman\u2019s Lima on November 10th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845530,
-   "ts": "2026-11-10T15:41:24+00:00",
-   "ingested": "2026-11-10T17:13:18.538125+00:00",
-   "headline": "WATCH LIVE: Fed's Logan Speaks 10:50 ET",
    "channel": "rss",
    "source": "financialjuice"
   }
