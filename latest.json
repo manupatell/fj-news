@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-12T06:57:29.046038+00:00",
+ "updated": "2026-11-12T07:00:49.049587+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848478,
+   "ts": "2026-11-12T07:00:05+00:00",
+   "ingested": "2026-11-12T07:00:49.049031+00:00",
+   "headline": "UK Goods Trade Balance Actual -22.291B (Forecast -19.2B, Previous -18.01B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848474,
+   "ts": "2026-11-12T07:00:05+00:00",
+   "ingested": "2026-11-12T07:00:49.049046+00:00",
+   "headline": "UK Manufacturing Production MoM Actual 0.7% (Forecast -0.5%, Previous 1.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848473,
+   "ts": "2026-11-12T07:00:05+00:00",
+   "ingested": "2026-11-12T07:00:49.049057+00:00",
+   "headline": "UK Industrial Production MoM Actual 0.3% (Forecast -0.4%, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848472,
+   "ts": "2026-11-12T07:00:04+00:00",
+   "ingested": "2026-11-12T07:00:49.049068+00:00",
+   "headline": "UK Industrial Production YoY Actual 3.1% (Forecast 2.8%, Previous 1.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848471,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T07:00:49.049079+00:00",
+   "headline": "UK GDP YoY Prelim Actual 1.9% (Forecast 1.9%, Previous 1.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848470,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T07:00:49.049089+00:00",
+   "headline": "UK Services MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848469,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T07:00:49.049098+00:00",
+   "headline": "UK GDP QoQ Prelim Actual 0.7% (Forecast 0.7%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848468,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T07:00:49.049108+00:00",
+   "headline": "UK Business Investment QoQ Prelim Actual 0.43% (Forecast 0.6%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848467,
+   "ts": "2026-11-12T07:00:01+00:00",
+   "ingested": "2026-11-12T07:00:49.049117+00:00",
+   "headline": "UK GDP Estimate MoM Actual 0.2% (Forecast 0%, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848466,
+   "ts": "2026-11-12T07:00:01+00:00",
+   "ingested": "2026-11-12T07:00:49.049127+00:00",
+   "headline": "UK Construction Output MoM Actual 0.8% (Forecast -0.1%, Previous -0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848465,
+   "ts": "2026-11-12T06:59:13+00:00",
+   "ingested": "2026-11-12T07:00:49.049141+00:00",
+   "headline": "Iran's state media, citing the IRGC Navy: Two oil tankers face explosions while moving in the 'unauthorized route' In the Strait of Hormuz on Wednesday night",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848464,
    "ts": "2026-11-12T06:56:44+00:00",
@@ -3911,94 +3999,6 @@
    "ts": "2026-11-10T14:54:39+00:00",
    "ingested": "2026-11-10T14:56:25.615032+00:00",
    "headline": "ECB's Nagel: I don't see a risk of fiscal dominance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845465,
-   "ts": "2026-11-10T14:54:35+00:00",
-   "ingested": "2026-11-10T14:56:25.615041+00:00",
-   "headline": "ECB's Nagel: Market expectations important but not driving factor.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845464,
-   "ts": "2026-11-10T14:54:26+00:00",
-   "ingested": "2026-11-10T14:54:45.630338+00:00",
-   "headline": "ECB's Nagel: drop in energy prices since US midterms is good news",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845463,
-   "ts": "2026-11-10T14:54:25+00:00",
-   "ingested": "2026-11-10T14:54:45.630354+00:00",
-   "headline": "ECB's Nagel: It is rather obvious that we have to increase in December.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845455,
-   "ts": "2026-11-10T14:44:33+00:00",
-   "ingested": "2026-11-10T14:44:45.626442+00:00",
-   "headline": "FMR cuts share stake in Amazon by 11.8% to 322.6 mln shares - SEC filing. $AMZN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845454,
-   "ts": "2026-11-10T14:42:57+00:00",
-   "ingested": "2026-11-10T14:44:45.626459+00:00",
-   "headline": "FMR cuts share stake in Nvidia by 9.1% to 932.8 mln shares - SEC filing. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845452,
-   "ts": "2026-11-10T14:37:41+00:00",
-   "ingested": "2026-11-10T14:38:05.622157+00:00",
-   "headline": "Anthropic hires first UK lobby firm in global AI policy push.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845451,
-   "ts": "2026-11-10T14:36:28+00:00",
-   "ingested": "2026-11-10T14:38:05.622174+00:00",
-   "headline": "House Panel calls on the Treasury to review financial institutions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845450,
-   "ts": "2026-11-10T14:34:54+00:00",
-   "ingested": "2026-11-10T14:36:25.625442+00:00",
-   "headline": "UK: Government security group is leading an investigation into a potential leak of budget measures which may have moved financial markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845427,
-   "ts": "2026-11-10T14:27:53+00:00",
-   "ingested": "2026-11-10T14:28:05.610342+00:00",
-   "headline": "Anthropic sees long-term adj. operating margin of 35%+.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845426,
-   "ts": "2026-11-10T14:24:08+00:00",
-   "ingested": "2026-11-10T14:24:45.615920+00:00",
-   "headline": "WH Sr. Adviser Hassett ends remarks on Fox Business",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845423,
-   "ts": "2026-11-10T14:20:03+00:00",
-   "ingested": "2026-11-10T14:21:25.638787+00:00",
-   "headline": "WH Sr. Adviser Hassett: Trickle down from energy prices is showing in the data - Fox Business",
    "channel": "rss",
    "source": "financialjuice"
   }
