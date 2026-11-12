@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T01:35:07.244337+00:00",
+ "updated": "2026-11-12T01:36:47.231888+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848053,
+   "ts": "2026-11-12T01:35:34+00:00",
+   "ingested": "2026-11-12T01:36:47.231581+00:00",
+   "headline": "BOJ's Asada: risk remains from past hikes, future increases could curb inflation if they slow growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848052,
+   "ts": "2026-11-12T01:35:05+00:00",
+   "ingested": "2026-11-12T01:36:47.231593+00:00",
+   "headline": "BOJ's Asada: mindful of risk overshoot in underlying inflation above target could hurt economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848051,
    "ts": "2026-11-12T01:34:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T13:02:32+00:00",
    "ingested": "2026-11-10T13:02:45.570160+00:00",
    "headline": "IBM and Microsoft launch Imagine enterprise AI agent platform; Microsoft to provide AI, cloud and security foundation, IBM Consulting brings 6,000+ pre-built AI agents $IBM $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845279,
-   "ts": "2026-11-10T13:02:08+00:00",
-   "ingested": "2026-11-10T13:02:45.570176+00:00",
-   "headline": "Oracle launches AI treasury analytics for financial firms $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845275,
-   "ts": "2026-11-10T13:01:21+00:00",
-   "ingested": "2026-11-10T13:02:45.570188+00:00",
-   "headline": "IBM & Microsoft report a new AI agent platform. $IBM $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
