@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:09:46.232387+00:00",
+ "updated": "2026-11-12T14:18:06.229943+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849107,
+   "ts": "2026-11-12T14:17:15+00:00",
+   "ingested": "2026-11-12T14:18:06.229545+00:00",
+   "headline": "Fed's Hammack: Financial conditions are supportive of growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849082,
    "ts": "2026-11-12T14:09:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:21:26+00:00",
    "ingested": "2026-11-10T19:21:38.505109+00:00",
    "headline": "US House Republicans elect Jim Jordan as party leader for the next Congress - Punchbowl News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845810,
-   "ts": "2026-11-10T19:09:13+00:00",
-   "ingested": "2026-11-10T19:10:58.486999+00:00",
-   "headline": "Nscale mulls delaying $35b listing after AI sell-off - Telegraph",
    "channel": "rss",
    "source": "financialjuice"
   }
