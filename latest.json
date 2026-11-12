@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T10:30:49.111542+00:00",
+ "updated": "2026-11-12T10:37:29.123110+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848755,
+   "ts": "2026-11-12T10:24:39+00:00",
+   "ingested": "2026-11-12T10:37:29.122664+00:00",
+   "headline": "UK Finance Minister Healey, when asked about deal with EU: Deal must deliver benefits that outweigh trade-offs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848735,
    "ts": "2026-11-12T10:19:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:50:58+00:00",
    "ingested": "2026-11-10T17:13:18.538052+00:00",
    "headline": "Fed's Logan: Important to promptly achieve balance in outlook, risks for inflation and employment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845550,
-   "ts": "2026-11-10T15:50:56+00:00",
-   "ingested": "2026-11-10T17:13:18.538063+00:00",
-   "headline": "Fed's Logan: Adjusting policy gradually can reduce the risk that economic activity deteriorates more sharply than necessary.",
    "channel": "rss",
    "source": "financialjuice"
   }
