@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T05:45:49.027910+00:00",
+ "updated": "2026-11-12T05:52:29.038407+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848377,
+   "ts": "2026-11-12T05:51:45+00:00",
+   "ingested": "2026-11-12T05:52:29.037914+00:00",
+   "headline": "BOJ's Asada: Japan's nominal neutral rate likely toward lower end of staff range",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848376,
+   "ts": "2026-11-12T05:51:27+00:00",
+   "ingested": "2026-11-12T05:52:29.037928+00:00",
+   "headline": "BOJ's Asada: no clear plan on terminal rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848361,
    "ts": "2026-11-12T05:45:08+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T13:47:14+00:00",
    "ingested": "2026-11-10T13:47:45.611582+00:00",
    "headline": "US Secretary of State Rubio on China: AI should be an issue we raise at the upcoming Trump-Xi summit.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845350,
-   "ts": "2026-11-10T13:40:04+00:00",
-   "ingested": "2026-11-10T13:41:05.586830+00:00",
-   "headline": "US Supercore CPI MoM: 0.4%, Previous 0.42%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845349,
-   "ts": "2026-11-10T13:36:11+00:00",
-   "ingested": "2026-11-10T13:37:45.579071+00:00",
-   "headline": "US Secretary of State Rubio on Iran: Economic pressure on Iran is going to get even worse.",
    "channel": "rss",
    "source": "financialjuice"
   }
