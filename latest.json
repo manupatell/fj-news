@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T05:54:09.098054+00:00",
+ "updated": "2026-11-12T05:55:49.041082+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848379,
+   "ts": "2026-11-12T05:55:17+00:00",
+   "ingested": "2026-11-12T05:55:49.040608+00:00",
+   "headline": "Boj's Asada: Boj does not directly govern fx so will not comment on ideal dollar/yen level",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848378,
    "ts": "2026-11-12T05:53:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T13:56:56+00:00",
    "ingested": "2026-11-10T14:00:25.692949+00:00",
    "headline": "US Redbook YoY Actual 10.1% (Forecast -, Previous 10.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845374,
-   "ts": "2026-11-10T13:49:12+00:00",
-   "ingested": "2026-11-10T13:49:25.585277+00:00",
-   "headline": "US Secretary of State Rubio: Trump wants the US and China to discuss nuclear weapons.",
    "channel": "rss",
    "source": "financialjuice"
   }
