@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:03:06.225895+00:00",
+ "updated": "2026-11-12T14:04:46.237982+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849078,
+   "ts": "2026-11-12T14:04:13+00:00",
+   "ingested": "2026-11-12T14:04:46.237558+00:00",
+   "headline": "Fed's Hammack: I am seeing secondary price pressures from energy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849069,
    "ts": "2026-11-12T14:02:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T18:50:15+00:00",
    "ingested": "2026-11-10T18:51:58.470090+00:00",
    "headline": "Fed's Schmid: Inflation is top of mind",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845802,
-   "ts": "2026-11-10T18:50:06+00:00",
-   "ingested": "2026-11-10T18:50:18.473816+00:00",
-   "headline": "Fed's Schmid: Demand is strong, and rates not a cause for hesitation",
    "channel": "rss",
    "source": "financialjuice"
   }
