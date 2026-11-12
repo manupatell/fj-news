@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T18:20:08.167726+00:00",
+ "updated": "2026-11-12T18:21:48.169454+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849539,
+   "ts": "2026-11-12T18:21:19+00:00",
+   "ingested": "2026-11-12T18:21:48.169065+00:00",
+   "headline": "Fed's Daly: There has been repricing in AI valuations, but it's not the unwinding of interest or enthusiasm.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849538,
    "ts": "2026-11-12T18:19:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T06:02:33+00:00",
    "ingested": "2026-11-11T06:02:44.650864+00:00",
    "headline": "China Oct vehicle sales fall 9.2% y/y vs 8.4% in Sept: industry association",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846614,
-   "ts": "2026-11-11T06:01:49+00:00",
-   "ingested": "2026-11-11T06:02:44.650886+00:00",
-   "headline": "China October new energy vehicle sales rise 13.1% y/y: state media",
    "channel": "rss",
    "source": "financialjuice"
   }
