@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T14:28:06.244627+00:00",
+ "updated": "2026-11-12T14:29:46.239931+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849113,
+   "ts": "2026-11-12T14:28:27+00:00",
+   "ingested": "2026-11-12T14:29:46.239572+00:00",
+   "headline": "ADNOC Logistics: Ship attacked in UAE territorial waters.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849112,
    "ts": "2026-11-12T14:26:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T19:31:10+00:00",
    "ingested": "2026-11-10T19:32:08.521721+00:00",
    "headline": "NYMEX WTI crude Dec. futures settle at $86.04 a barrel, down 81 cents, 0.93%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845835,
-   "ts": "2026-11-10T19:30:59+00:00",
-   "ingested": "2026-11-10T19:32:08.521735+00:00",
-   "headline": "A fire breaks out on a platform in Iran's South Pars field, the situation is under control - Iran's Fars news agency",
    "channel": "rss",
    "source": "financialjuice"
   }
