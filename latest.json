@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T10:37:29.123110+00:00",
+ "updated": "2026-11-12T10:45:49.119523+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848758,
+   "ts": "2026-11-12T10:45:23+00:00",
+   "ingested": "2026-11-12T10:45:49.119060+00:00",
+   "headline": "Albania's PM: Next NATO maybe in 2028, timing is not clear yet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848756,
+   "ts": "2026-11-12T10:45:12+00:00",
+   "ingested": "2026-11-12T10:45:49.119075+00:00",
+   "headline": "Albania's PM: Next NATO summit for sure not in 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848755,
    "ts": "2026-11-12T10:24:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T15:51:08+00:00",
    "ingested": "2026-11-10T17:13:18.538031+00:00",
    "headline": "Fed's Logan: After two more rate hikes, it would make sense to pause and assess what further action may be appropriate.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845552,
-   "ts": "2026-11-10T15:51:06+00:00",
-   "ingested": "2026-11-10T17:13:18.538042+00:00",
-   "headline": "Fed's Logan: Higher bond-market rates signal monetary policy has work to do, not an independent tailwind for activity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845551,
-   "ts": "2026-11-10T15:50:58+00:00",
-   "ingested": "2026-11-10T17:13:18.538052+00:00",
-   "headline": "Fed's Logan: Important to promptly achieve balance in outlook, risks for inflation and employment",
    "channel": "rss",
    "source": "financialjuice"
   }
