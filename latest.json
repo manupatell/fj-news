@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-12T23:56:27.677563+00:00",
+ "updated": "2026-11-12T23:58:07.689790+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849912,
+   "ts": "2026-11-12T23:57:53+00:00",
+   "ingested": "2026-11-12T23:58:07.689538+00:00",
+   "headline": "Fed's Williams: central bank has maintained consistent pace of gathering data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849911,
+   "ts": "2026-11-12T23:57:37+00:00",
+   "ingested": "2026-11-12T23:58:07.689550+00:00",
+   "headline": "Fed's Williams: inflation remains stubbornly persistent and elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849910,
+   "ts": "2026-11-12T23:56:23+00:00",
+   "ingested": "2026-11-12T23:58:07.689558+00:00",
+   "headline": "Fed's Williams: inflation remains too elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849909,
    "ts": "2026-11-12T23:56:16+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-11T12:00:21+00:00",
    "ingested": "2026-11-11T12:01:20.237379+00:00",
    "headline": "ECB\u2019s Makhlouf: Price pressures largely confined to energy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847076,
-   "ts": "2026-11-11T12:00:00+00:00",
-   "ingested": "2026-11-11T12:01:20.237394+00:00",
-   "headline": "US MBA Mortgage Applications Actual 6.2% (Forecast -, Previous -1.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847075,
-   "ts": "2026-11-11T11:49:36+00:00",
-   "ingested": "2026-11-11T11:51:20.275429+00:00",
-   "headline": "Kremlin: Putin open to contacts with Europe, including Merz - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847074,
-   "ts": "2026-11-11T11:47:53+00:00",
-   "ingested": "2026-11-11T11:49:40.247436+00:00",
-   "headline": "Nvidia PT cut to $200 from $500 at Baird; downgrade to neutral $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
