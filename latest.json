@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T13:05:56.276964+00:00",
+ "updated": "2026-11-12T13:07:46.221489+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848955,
+   "ts": "2026-11-12T13:06:43+00:00",
+   "ingested": "2026-11-12T13:07:46.221013+00:00",
+   "headline": "UKMTO gets report of incident 14NM off Ras Al Khaymah, UAE.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848954,
    "ts": "2026-11-12T13:03:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T16:42:26+00:00",
    "ingested": "2026-11-10T17:13:18.537785+00:00",
    "headline": "Canada PM Carney: There are still some difficult areas in trade talks with the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845630,
-   "ts": "2026-11-10T16:36:01+00:00",
-   "ingested": "2026-11-10T17:13:18.537795+00:00",
-   "headline": "Canada's PM Carney: I may meet Trump later this month at Asian summits",
    "channel": "rss",
    "source": "financialjuice"
   }
