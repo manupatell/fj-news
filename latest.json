@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T18:14:48.206748+00:00",
+ "updated": "2026-11-12T18:16:28.160272+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849516,
+   "ts": "2026-11-12T18:15:05+00:00",
+   "ingested": "2026-11-12T18:16:28.159867+00:00",
+   "headline": "White House discussing Lutnick's future as Commerce Secretary - people familiar.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849515,
+   "ts": "2026-11-12T18:14:39+00:00",
+   "ingested": "2026-11-12T18:16:28.159883+00:00",
+   "headline": "Fed's Daly: AI pipeline is deep, so continues even if it slows.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849514,
    "ts": "2026-11-12T18:13:28+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T05:07:05+00:00",
    "ingested": "2026-11-11T05:07:44.639886+00:00",
    "headline": "Chinese university linked to military acquired Nvidia H200 chips last month despite US blacklist, procurement records show",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846532,
-   "ts": "2026-11-11T04:53:21+00:00",
-   "ingested": "2026-11-11T04:54:24.625120+00:00",
-   "headline": "Drone debris kills two in Russia's Smolensk region: governor, Russian newswires",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846468,
-   "ts": "2026-11-11T03:39:53+00:00",
-   "ingested": "2026-11-11T03:41:42.676066+00:00",
-   "headline": "China finance ministry offers 2-month bills at 1.0506% yield: traders",
    "channel": "rss",
    "source": "financialjuice"
   }
