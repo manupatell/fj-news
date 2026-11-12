@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T15:14:58.155315+00:00",
+ "updated": "2026-11-12T15:18:28.124320+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849222,
+   "ts": "2026-11-12T15:17:57+00:00",
+   "ingested": "2026-11-12T15:18:28.123917+00:00",
+   "headline": "Jenson Huang won't serve in any capacity at Nvidia after being fired $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849221,
+   "ts": "2026-11-12T15:17:39+00:00",
+   "ingested": "2026-11-12T15:18:28.123932+00:00",
+   "headline": "Crypto Fear & Greed Index: 28/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849204,
    "ts": "2026-11-12T15:03:25+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T20:31:48+00:00",
    "ingested": "2026-11-10T20:32:18.554733+00:00",
    "headline": "Fed's Bowman: AI development increasingly backed by external funding",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845945,
-   "ts": "2026-11-10T20:31:39+00:00",
-   "ingested": "2026-11-10T20:32:18.554744+00:00",
-   "headline": "Fed's Bowman Speaks to the Council on Foreign Relations - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845944,
-   "ts": "2026-11-10T20:31:37+00:00",
-   "ingested": "2026-11-10T20:32:18.554756+00:00",
-   "headline": "Fed's Bowman: CPI data suggests inflation pressures may persist",
    "channel": "rss",
    "source": "financialjuice"
   }
