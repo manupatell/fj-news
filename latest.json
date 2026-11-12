@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T07:09:09.050924+00:00",
+ "updated": "2026-11-12T07:12:29.050125+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848492,
+   "ts": "2026-11-12T07:10:51+00:00",
+   "ingested": "2026-11-12T07:12:29.049669+00:00",
+   "headline": "China and the US are in close communication over tariff reduction - Mofcom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848491,
    "ts": "2026-11-12T07:07:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:19:44+00:00",
    "ingested": "2026-11-10T17:13:18.538154+00:00",
    "headline": "Fear & Greed Index: 34/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845507,
-   "ts": "2026-11-10T15:18:10+00:00",
-   "ingested": "2026-11-10T17:13:18.538163+00:00",
-   "headline": "Crypto Fear & Greed Index: 32/100 - Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
