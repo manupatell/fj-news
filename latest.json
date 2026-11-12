@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T15:46:48.175639+00:00",
+ "updated": "2026-11-12T15:51:48.130779+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849257,
+   "ts": "2026-11-12T15:49:58+00:00",
+   "ingested": "2026-11-12T15:51:48.130350+00:00",
+   "headline": "Fed's Barr: Agentic AI will be a big issue for banks trying to ensure the al tool is acting on customer instructions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849243,
    "ts": "2026-11-12T15:45:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T21:14:39+00:00",
    "ingested": "2026-11-10T21:15:08.502924+00:00",
    "headline": "Fed's Bowman: I don't think AI will rob the US economy of jobs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845982,
-   "ts": "2026-11-10T21:09:22+00:00",
-   "ingested": "2026-11-10T21:09:48.521058+00:00",
-   "headline": "OpenAI revenue jumps to $10b in 3Q - The Information.",
    "channel": "rss",
    "source": "financialjuice"
   }
