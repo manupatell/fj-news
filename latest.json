@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T07:22:29.044519+00:00",
+ "updated": "2026-11-12T07:27:29.049359+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848508,
+   "ts": "2026-11-12T07:27:17+00:00",
+   "ingested": "2026-11-12T07:27:29.048941+00:00",
+   "headline": "French European affairs minister Haddad: On Monday, the EU will approve more sanctions on Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848492,
    "ts": "2026-11-12T07:10:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T15:33:41+00:00",
    "ingested": "2026-11-10T17:13:18.538145+00:00",
    "headline": "Israel's Prime Minister Netanyahu: Iran working to renew nuclear threat.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845508,
-   "ts": "2026-11-10T15:19:44+00:00",
-   "ingested": "2026-11-10T17:13:18.538154+00:00",
-   "headline": "Fear & Greed Index: 34/100 - Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
