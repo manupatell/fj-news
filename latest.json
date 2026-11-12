@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T16:58:28.143422+00:00",
+ "updated": "2026-11-12T17:00:08.136311+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849392,
+   "ts": "2026-11-12T16:59:10+00:00",
+   "ingested": "2026-11-12T17:00:08.135968+00:00",
+   "headline": "The Fed updates the 2027 FOMC calendar, drops the October rate meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849391,
    "ts": "2026-11-12T16:57:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T00:18:02+00:00",
    "ingested": "2026-11-11T00:18:12.892721+00:00",
    "headline": "China PBOC forecast to set yuan midpoint at 6.6855 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846227,
-   "ts": "2026-11-11T00:17:26+00:00",
-   "ingested": "2026-11-11T00:17:52.969305+00:00",
-   "headline": "South Korea fin min: to prolong temporary fuel tax reductions by 2 months through end-Jan",
    "channel": "rss",
    "source": "financialjuice"
   }
