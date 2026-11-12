@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T05:37:29.032491+00:00",
+ "updated": "2026-11-12T05:42:29.028606+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848359,
+   "ts": "2026-11-12T05:40:44+00:00",
+   "ingested": "2026-11-12T05:42:29.028217+00:00",
+   "headline": "UAE's Ras Al Khaimah reopens several beaches after oil spill closures: Ras Al Khaimah media office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848358,
    "ts": "2026-11-12T05:35:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-10T13:33:56+00:00",
    "ingested": "2026-11-10T13:34:25.580672+00:00",
    "headline": "US Secretary of State Rubio: Talks in Abu Dhabi on Russia-Ukraine were very productive.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845346,
-   "ts": "2026-11-10T13:33:22+00:00",
-   "ingested": "2026-11-10T13:34:25.580689+00:00",
-   "headline": "Traders hold expectation for December rate hike intact at 100% after consumer inflation data.",
    "channel": "rss",
    "source": "financialjuice"
   }
