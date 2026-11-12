@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T06:07:29.055098+00:00",
+ "updated": "2026-11-12T06:09:09.034174+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848407,
+   "ts": "2026-11-12T06:08:28+00:00",
+   "ingested": "2026-11-12T06:09:09.033658+00:00",
+   "headline": "BoJ board member Asada: former BoJ chief Kuroda\u2019s stimulus approach was suitable at the time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848406,
+   "ts": "2026-11-12T06:07:44+00:00",
+   "ingested": "2026-11-12T06:09:09.033674+00:00",
+   "headline": "BOJ board member Asada: Japan now in inflation, not deflation, entering new phase",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848405,
    "ts": "2026-11-12T06:07:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T14:19:24+00:00",
    "ingested": "2026-11-10T14:19:45.644202+00:00",
    "headline": "WH Sr. Adviser Hassett: CPI report was disappointing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845415,
-   "ts": "2026-11-10T14:15:58+00:00",
-   "ingested": "2026-11-10T14:16:25.641429+00:00",
-   "headline": "Yemen's Houthis denies attacking East-West pipeline in the Medina region.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845405,
-   "ts": "2026-11-10T14:13:21+00:00",
-   "ingested": "2026-11-10T14:14:45.613076+00:00",
-   "headline": "Yemen's Houthis attacked an Aramco facility in Abqaiq - Statement.",
    "channel": "rss",
    "source": "financialjuice"
   }
