@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T23:58:07.689790+00:00",
+ "updated": "2026-11-12T23:59:47.670914+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849914,
+   "ts": "2026-11-12T23:58:44+00:00",
+   "ingested": "2026-11-12T23:59:47.670668+00:00",
+   "headline": "Fed's Williams: central bank still has work to do to reach right monetary policy stance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849913,
+   "ts": "2026-11-12T23:58:31+00:00",
+   "ingested": "2026-11-12T23:59:47.670682+00:00",
+   "headline": "Fed's Williams: central bank will have to act over time to bring inflation back to 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849912,
    "ts": "2026-11-12T23:57:53+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T12:00:34+00:00",
    "ingested": "2026-11-11T12:01:20.237340+00:00",
    "headline": "ECB's Makhlouf: Upside risks to inflation remain.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847082,
-   "ts": "2026-11-11T12:00:29+00:00",
-   "ingested": "2026-11-11T12:01:20.237363+00:00",
-   "headline": "ECB\u2019s Makhlouf: Financing conditions tighter after yields rose",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847078,
-   "ts": "2026-11-11T12:00:21+00:00",
-   "ingested": "2026-11-11T12:01:20.237379+00:00",
-   "headline": "ECB\u2019s Makhlouf: Price pressures largely confined to energy",
    "channel": "rss",
    "source": "financialjuice"
   }
