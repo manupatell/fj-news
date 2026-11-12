@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T06:02:29.040075+00:00",
+ "updated": "2026-11-12T06:07:29.055098+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848405,
+   "ts": "2026-11-12T06:07:13+00:00",
+   "ingested": "2026-11-12T06:07:29.054599+00:00",
+   "headline": "South Korea President Lee: South Korean capital market remains undervalued despite robust economic fundamentals",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848404,
+   "ts": "2026-11-12T06:06:27+00:00",
+   "ingested": "2026-11-12T06:07:29.054616+00:00",
+   "headline": "BOJ board member Asada: Japan has already reached about 2% inflation, so pushing prices higher is not very meaningful",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848403,
    "ts": "2026-11-12T06:01:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T14:13:21+00:00",
    "ingested": "2026-11-10T14:14:45.613076+00:00",
    "headline": "Yemen's Houthis attacked an Aramco facility in Abqaiq - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845404,
-   "ts": "2026-11-10T14:12:07+00:00",
-   "ingested": "2026-11-10T14:13:05.621649+00:00",
-   "headline": "Yemen's Houthis attacked oil pumping stations of Saudi Arabia's East-West pipeline - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845402,
-   "ts": "2026-11-10T14:05:00+00:00",
-   "ingested": "2026-11-10T14:05:25.600701+00:00",
-   "headline": "Adobe & Google deepen AI partnership. $ADBE $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
