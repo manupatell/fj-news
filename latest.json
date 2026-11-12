@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T22:06:27.659710+00:00",
+ "updated": "2026-11-12T22:09:47.710937+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849805,
+   "ts": "2026-11-12T22:08:41+00:00",
+   "ingested": "2026-11-12T22:09:47.710610+00:00",
+   "headline": "Drone debris sparks fire at industrial plant in Russia's Volgograd: Russian newswires quote governor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849804,
    "ts": "2026-11-12T22:06:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T11:29:33+00:00",
    "ingested": "2026-11-11T11:31:20.217094+00:00",
    "headline": "US Envoy Kushner: Europe should agree on its representative for talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847037,
-   "ts": "2026-11-11T11:29:26+00:00",
-   "ingested": "2026-11-11T11:29:40.231432+00:00",
-   "headline": "US Envoy Kushner: Had very good discussions with the EU and NATO.",
    "channel": "rss",
    "source": "financialjuice"
   }
