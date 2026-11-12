@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T15:58:28.129921+00:00",
+ "updated": "2026-11-12T16:00:08.137857+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849263,
+   "ts": "2026-11-12T15:59:46+00:00",
+   "ingested": "2026-11-12T16:00:08.137440+00:00",
+   "headline": "ECB's Vujcic: Direction of travel on rates remains unchanged",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849262,
+   "ts": "2026-11-12T15:58:26+00:00",
+   "ingested": "2026-11-12T16:00:08.137456+00:00",
+   "headline": "Foreign Affairs Committee Chair Mast: Huang has agreed to testify to lawmakers. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849261,
    "ts": "2026-11-12T15:57:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T21:48:41+00:00",
    "ingested": "2026-11-10T21:48:58.537163+00:00",
    "headline": "US API Crude Stock Change Actual -9.8M (Forecast -1M, Previous -5.267M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846003,
-   "ts": "2026-11-10T21:29:18+00:00",
-   "ingested": "2026-11-10T21:29:58.527938+00:00",
-   "headline": "Fed's Bowman: Need to think about what pace and what timeline to address it",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846002,
-   "ts": "2026-11-10T21:28:45+00:00",
-   "ingested": "2026-11-10T21:29:58.527954+00:00",
-   "headline": "Fed's Bowman: The fact that inflation is not on a downward trend should give us pause",
    "channel": "rss",
    "source": "financialjuice"
   }
