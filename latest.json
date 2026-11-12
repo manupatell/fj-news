@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T21:04:47.651528+00:00",
+ "updated": "2026-11-12T21:06:27.639532+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849752,
+   "ts": "2026-11-12T21:05:23+00:00",
+   "ingested": "2026-11-12T21:06:27.639191+00:00",
+   "headline": "Anthropic\u2019s IPO is about six times oversubscribed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849750,
    "ts": "2026-11-12T21:03:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T11:08:39+00:00",
    "ingested": "2026-11-11T11:09:40.224503+00:00",
    "headline": "Russia's top Ukraine negotiator Medinsky: Russia, Ukraine agree on prisoner of war swap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847011,
-   "ts": "2026-11-11T11:08:30+00:00",
-   "ingested": "2026-11-11T11:09:40.224517+00:00",
-   "headline": "Russia: we don't see what can be discussed with Europe",
    "channel": "rss",
    "source": "financialjuice"
   }
