@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T22:29:47.658076+00:00",
+ "updated": "2026-11-12T22:31:27.705877+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849824,
+   "ts": "2026-11-12T22:30:22+00:00",
+   "ingested": "2026-11-12T22:31:27.705532+00:00",
+   "headline": "Nscale Limited: expands cloud in H2 2026 with multiple multi-billion dollar deals involving AI native and Frontier Model Lab clients",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849805,
    "ts": "2026-11-12T22:08:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T11:29:45+00:00",
    "ingested": "2026-11-11T11:31:20.217050+00:00",
    "headline": "US Envoy Kushner: We need to have the Europeans at the table",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847038,
-   "ts": "2026-11-11T11:29:33+00:00",
-   "ingested": "2026-11-11T11:31:20.217094+00:00",
-   "headline": "US Envoy Kushner: Europe should agree on its representative for talks",
    "channel": "rss",
    "source": "financialjuice"
   }
