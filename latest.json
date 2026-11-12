@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-12T16:35:08.131531+00:00",
+ "updated": "2026-11-12T16:38:28.132418+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849354,
+   "ts": "2026-11-12T16:38:04+00:00",
+   "ingested": "2026-11-12T16:38:28.132023+00:00",
+   "headline": "White House expected in coming days to extend Jones Act waiver on shipping oil and commodities on foreign-flagged ships between US ports -- sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849353,
+   "ts": "2026-11-12T16:37:52+00:00",
+   "ingested": "2026-11-12T16:38:28.132038+00:00",
+   "headline": "Kremlin: Russia made clear NATO cannot expand any further",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849352,
+   "ts": "2026-11-12T16:37:36+00:00",
+   "ingested": "2026-11-12T16:38:28.132050+00:00",
+   "headline": "Kremlin: Putin and US envoys that Ukraine peace talks will continue.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849351,
+   "ts": "2026-11-12T16:37:10+00:00",
+   "ingested": "2026-11-12T16:38:28.132067+00:00",
+   "headline": "Goldman Sachs 2027 outlook: We forecast that nominal global AI investment will rise from $1.1 trln in 2026 to $1.8 trln in 2027, mostly driven by an increase of over $500 bln in hardware spending in the US",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849350,
    "ts": "2026-11-12T16:33:42+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-10T23:43:22+00:00",
    "ingested": "2026-11-10T23:43:42.971728+00:00",
    "headline": "Fed\u2019s Goolsbee on PBS NewsHour: \u2018We are going to have to address that\u2019",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846182,
-   "ts": "2026-11-10T23:43:17+00:00",
-   "ingested": "2026-11-10T23:43:42.971742+00:00",
-   "headline": "Fed's Goolsbee on PBS NewsHour: We face a genuine inflation challenge",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846181,
-   "ts": "2026-11-10T23:43:07+00:00",
-   "ingested": "2026-11-10T23:43:42.971753+00:00",
-   "headline": "Fed's Goolsbee on PBS NewsHour: biggest concern is that services inflation remains high",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846180,
-   "ts": "2026-11-10T23:42:25+00:00",
-   "ingested": "2026-11-10T23:42:42.928980+00:00",
-   "headline": "Fed's Goolsbee on PBS Newshour: CPI was borderline troubling on inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846179,
-   "ts": "2026-11-10T23:41:06+00:00",
-   "ingested": "2026-11-10T23:41:42.885214+00:00",
-   "headline": "Apple: some users could face issues with iCloud calendar, contacts, mail, iWork for iCloud and Game Center - status page",
    "channel": "rss",
    "source": "financialjuice"
   }
