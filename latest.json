@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T17:33:28.146303+00:00",
+ "updated": "2026-11-12T17:36:48.164235+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849449,
+   "ts": "2026-11-12T17:35:41+00:00",
+   "ingested": "2026-11-12T17:36:48.163884+00:00",
+   "headline": "Fitch Ratings: US consumer spending strengthens amid affordability strain; market downturn key risk",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849421,
    "ts": "2026-11-12T17:02:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T01:21:13+00:00",
    "ingested": "2026-11-11T01:23:02.666673+00:00",
    "headline": "China cbank injects 187 billion yuan via overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846290,
-   "ts": "2026-11-11T01:18:16+00:00",
-   "ingested": "2026-11-11T01:19:42.674512+00:00",
-   "headline": "China fixes yuan midpoint at weakest level since Oct. 22, PBOC shows",
    "channel": "rss",
    "source": "financialjuice"
   }
