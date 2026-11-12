@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-12T01:25:07.227453+00:00",
+ "updated": "2026-11-12T01:31:47.232328+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848034,
+   "ts": "2026-11-12T01:31:17+00:00",
+   "ingested": "2026-11-12T01:31:47.231956+00:00",
+   "headline": "BOJ\u2019s Asada: financial conditions stay accommodative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848033,
+   "ts": "2026-11-12T01:30:58+00:00",
+   "ingested": "2026-11-12T01:31:47.231971+00:00",
+   "headline": "BoJ board member Asada: must be mindful of expected effect of past rate increases on economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848031,
    "ts": "2026-11-12T01:24:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-10T12:45:38+00:00",
    "ingested": "2026-11-10T12:47:05.604813+00:00",
    "headline": "Risk to medium term US inflation view hasn't changed since midterm elections, said 29 of 37 economists - Poll.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845227,
-   "ts": "2026-11-10T12:45:23+00:00",
-   "ingested": "2026-11-10T12:47:05.604831+00:00",
-   "headline": "Fed Funds Rate will peak at 4.00%-4.25% in current hiking campaign, said 56 of 101 economists - Poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845224,
-   "ts": "2026-11-10T12:45:08+00:00",
-   "ingested": "2026-11-10T12:45:25.592778+00:00",
-   "headline": "Us Federal Reserve will hike Fed Funds Rate in December to 4.00%-4.25%, said all 101 economists - Poll.",
    "channel": "rss",
    "source": "financialjuice"
   }
