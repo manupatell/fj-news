@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T18:07:08.180142+00:00",
+ "updated": "2026-11-12T18:14:48.206748+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849514,
+   "ts": "2026-11-12T18:13:28+00:00",
+   "ingested": "2026-11-12T18:14:48.206321+00:00",
+   "headline": "Fed's Daly: Economy being driven by technology boom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849512,
    "ts": "2026-11-12T18:05:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T03:39:53+00:00",
    "ingested": "2026-11-11T03:41:42.676066+00:00",
    "headline": "China finance ministry offers 2-month bills at 1.0506% yield: traders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846451,
-   "ts": "2026-11-11T03:10:54+00:00",
-   "ingested": "2026-11-11T03:11:42.665855+00:00",
-   "headline": "UKMTO: status of crew, damage evaluation, and environmental impact remain unknown at time of report",
    "channel": "rss",
    "source": "financialjuice"
   }
