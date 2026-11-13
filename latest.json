@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T17:53:30.039330+00:00",
+ "updated": "2026-11-13T18:00:10.025063+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851353,
+   "ts": "2026-11-13T17:59:54+00:00",
+   "ingested": "2026-11-13T18:00:10.024755+00:00",
+   "headline": "Microsoft: It was technical issue not related to cyber, or AI agents. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851352,
+   "ts": "2026-11-13T17:59:31+00:00",
+   "ingested": "2026-11-13T18:00:10.024768+00:00",
+   "headline": "Microsoft: Seeing broad recovery and stability across services. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851351,
    "ts": "2026-11-13T17:52:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T13:03:25+00:00",
    "ingested": "2026-11-12T13:05:56.276235+00:00",
    "headline": "AMD to make equity investment in Psiquantum",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848933,
-   "ts": "2026-11-12T13:00:04+00:00",
-   "ingested": "2026-11-12T13:05:56.276256+00:00",
-   "headline": "Secured overnight financing rate 3.89% November 10th vs 3.88% November 9th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848932,
-   "ts": "2026-11-12T12:50:51+00:00",
-   "ingested": "2026-11-12T13:05:56.276270+00:00",
-   "headline": "Senator Cramer: Hopefully, Huang would be absolved of corruption $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
