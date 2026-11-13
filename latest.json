@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T19:57:30.032174+00:00",
+ "updated": "2026-11-13T20:02:30.082859+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851483,
+   "ts": "2026-11-13T20:01:33+00:00",
+   "ingested": "2026-11-13T20:02:30.082522+00:00",
+   "headline": "Local UK MP Timothy on RAF Lakenheath alarm: There is no threat to the public, and the incident is \"resolved\".",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851479,
    "ts": "2026-11-13T19:55:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:42:52+00:00",
    "ingested": "2026-11-12T13:43:06.228203+00:00",
    "headline": "Fed's Hammack: Fed is doing very well on job side of mandate.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849014,
-   "ts": "2026-11-12T13:39:50+00:00",
-   "ingested": "2026-11-12T13:41:26.224887+00:00",
-   "headline": "USTR Greer on tariffs: Going to keep options open as necessary.",
    "channel": "rss",
    "source": "financialjuice"
   }
