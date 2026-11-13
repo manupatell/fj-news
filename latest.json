@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T05:16:48.295967+00:00",
+ "updated": "2026-11-13T05:20:08.302858+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850321,
+   "ts": "2026-11-13T05:19:38+00:00",
+   "ingested": "2026-11-13T05:20:08.302417+00:00",
+   "headline": "Russia hits cargo ship in Black Sea: IFX cites Russian defense ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850315,
    "ts": "2026-11-13T05:06:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T15:33:46+00:00",
    "ingested": "2026-11-11T15:34:50.333950+00:00",
    "headline": "Internal Fed debate emerges over Williams exit date. Fed debate over 2027 vs 2028 departure - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847383,
-   "ts": "2026-11-11T15:18:20+00:00",
-   "ingested": "2026-11-11T15:19:50.305714+00:00",
-   "headline": "Crypto Fear and Greed Index: 29/100 = Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
