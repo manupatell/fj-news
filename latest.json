@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T05:41:48.305115+00:00",
+ "updated": "2026-11-13T05:46:48.306192+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850343,
+   "ts": "2026-11-13T05:45:33+00:00",
+   "ingested": "2026-11-13T05:46:48.305820+00:00",
+   "headline": "Dollar/yen briefly reaches 160, last at 159.96",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850323,
    "ts": "2026-11-13T05:21:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T16:02:32+00:00",
    "ingested": "2026-11-11T17:23:20.771133+00:00",
    "headline": "Meta\u2019s head of infrastructure, engineering to step down in 2027, to be succeeded by Brown. $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847420,
-   "ts": "2026-11-11T16:00:34+00:00",
-   "ingested": "2026-11-11T17:23:20.771144+00:00",
-   "headline": "David Cameron warns UK's PM Burnham not to seek to rejoin EU.",
    "channel": "rss",
    "source": "financialjuice"
   }
