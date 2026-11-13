@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:21:49.803804+00:00",
+ "updated": "2026-11-13T13:23:29.800008+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850930,
+   "ts": "2026-11-13T13:23:02+00:00",
+   "ingested": "2026-11-13T13:23:29.799488+00:00",
+   "headline": "US Treasury Secretary Bessent: I am optimistic US can get trade deals with Canada, Mexico.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850929,
    "ts": "2026-11-13T13:20:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T00:34:17+00:00",
    "ingested": "2026-11-12T00:35:47.235327+00:00",
    "headline": "South Korea presidential office: Likelihood of US-North Korea interaction around Apec seems low",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847990,
-   "ts": "2026-11-12T00:34:17+00:00",
-   "ingested": "2026-11-12T00:35:47.235340+00:00",
-   "headline": "South Korea's Lee to participate in Apec summit in Shenzhen on November 18-19: Korean presidential office",
    "channel": "rss",
    "source": "financialjuice"
   }
