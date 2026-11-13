@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-13T13:04:09.797432+00:00",
+ "updated": "2026-11-13T13:05:49.847022+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850892,
+   "ts": "2026-11-13T13:05:25+00:00",
+   "ingested": "2026-11-13T13:05:49.846456+00:00",
+   "headline": "US Treasury Secretary Bessent on export controls: Treasury has been pushing for it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850891,
+   "ts": "2026-11-13T13:05:24+00:00",
+   "ingested": "2026-11-13T13:05:49.846475+00:00",
+   "headline": "US Treasury Secretary Bessent: It was clear China shouldn't get any chips above H100s",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850890,
+   "ts": "2026-11-13T13:05:06+00:00",
+   "ingested": "2026-11-13T13:05:49.846490+00:00",
+   "headline": "US Treasury Secretary Bessent: Commerce department needs to be asked about blacklisting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850889,
    "ts": "2026-11-13T13:03:53+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-11T23:50:36+00:00",
    "ingested": "2026-11-11T23:50:47.204961+00:00",
    "headline": "Foreign Investment Japanese Bonds Actual 1371.1B (Forecast -, Previous 1,481.7B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847944,
-   "ts": "2026-11-11T23:50:04+00:00",
-   "ingested": "2026-11-11T23:50:47.204973+00:00",
-   "headline": "Japan October domestic corporate goods price index rises 0.7% month-on-month: BoJ (Poll: +0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847943,
-   "ts": "2026-11-11T23:50:04+00:00",
-   "ingested": "2026-11-11T23:50:47.204981+00:00",
-   "headline": "Japan Oct domestic corporate goods price index rises 7.1% yr/yr: BoJ (Poll +6.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847939,
-   "ts": "2026-11-11T23:50:01+00:00",
-   "ingested": "2026-11-11T23:50:47.204989+00:00",
-   "headline": "Japanese PPI YoY Actual 7.1% (Forecast 6.5%, Previous 6.8%)",
    "channel": "rss",
    "source": "financialjuice"
   }
