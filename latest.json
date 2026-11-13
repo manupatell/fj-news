@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T02:30:08.293084+00:00",
+ "updated": "2026-11-13T02:31:48.262876+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850147,
+   "ts": "2026-11-13T02:30:06+00:00",
+   "ingested": "2026-11-13T02:31:48.262430+00:00",
+   "headline": "Microsoft: applying infrastructure capacity upgrades where possible to support traffic in regions coming online",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850146,
    "ts": "2026-11-13T02:29:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T14:28:28+00:00",
    "ingested": "2026-11-11T14:29:50.269103+00:00",
    "headline": "Iran's Rezaei: Tehran will target us military bases in European countries if US aircraft take off from them to strike Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847284,
-   "ts": "2026-11-11T14:27:21+00:00",
-   "ingested": "2026-11-11T14:28:10.270653+00:00",
-   "headline": "Iran's Rezaei: Putin told me that he has emphasized to US that Iran is not a country that can be overthrown.",
    "channel": "rss",
    "source": "financialjuice"
   }
