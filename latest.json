@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T01:22:43.414132+00:00",
+ "updated": "2026-11-13T01:24:23.411710+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850019,
+   "ts": "2026-11-13T01:23:25+00:00",
+   "ingested": "2026-11-13T01:24:23.411380+00:00",
+   "headline": "Republican lawmakers renew demand for former Nvidia CEO Jensen Huang to update Congress on espionage allegations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850018,
+   "ts": "2026-11-13T01:23:12+00:00",
+   "ingested": "2026-11-13T01:24:23.411393+00:00",
+   "headline": "China central bank injects 300 billion yuan via 7-day reverse repos: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850017,
    "ts": "2026-11-13T01:21:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T14:06:13+00:00",
    "ingested": "2026-11-11T14:06:30.264489+00:00",
    "headline": "SuperMicro ships H15 servers with 6th gen AMD EPYC 9006 CPUs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847256,
-   "ts": "2026-11-11T14:06:06+00:00",
-   "ingested": "2026-11-11T14:06:30.264510+00:00",
-   "headline": "Supermicro launches Helios and Helion rack-scale AI platforms $SMCI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847235,
-   "ts": "2026-11-11T13:56:24+00:00",
-   "ingested": "2026-11-11T13:58:10.268571+00:00",
-   "headline": "Russia's top Ukrainian negotiator, Medinsky: Seems like we're closer to peace - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
