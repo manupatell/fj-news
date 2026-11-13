@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T23:37:21.945518+00:00",
+ "updated": "2026-11-13T23:42:21.935170+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851738,
+   "ts": "2026-11-13T23:41:43+00:00",
+   "ingested": "2026-11-13T23:42:21.934826+00:00",
+   "headline": "US official: situation with Nvidia should not affect Trump's trip to Asia next week",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851732,
    "ts": "2026-11-13T23:25:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:52:56+00:00",
    "ingested": "2026-11-12T15:53:28.133649+00:00",
    "headline": "US Envoy Kushner described talks with Putin as substantive and detailed - RIA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849258,
-   "ts": "2026-11-12T15:51:42+00:00",
-   "ingested": "2026-11-12T15:53:28.133665+00:00",
-   "headline": "US Envoy Witkoff: New round of talks was agreed following his meeting with Putin - RIA",
    "channel": "rss",
    "source": "financialjuice"
   }
