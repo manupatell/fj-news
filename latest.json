@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-13T19:22:10.035305+00:00",
+ "updated": "2026-11-13T19:32:50.037262+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851461,
+   "ts": "2026-11-13T19:31:50+00:00",
+   "ingested": "2026-11-13T19:32:50.036862+00:00",
+   "headline": "NYMEX Diesel December futures settle at $4.2585 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851450,
+   "ts": "2026-11-13T19:31:40+00:00",
+   "ingested": "2026-11-13T19:32:50.036875+00:00",
+   "headline": "NYMEX Gasoline December futures settle at $2.6214 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851449,
+   "ts": "2026-11-13T19:31:29+00:00",
+   "ingested": "2026-11-13T19:32:50.036884+00:00",
+   "headline": "NYMEX Natural Gas December futures settle at $3.2300/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851448,
+   "ts": "2026-11-13T19:30:59+00:00",
+   "ingested": "2026-11-13T19:32:50.036892+00:00",
+   "headline": "NYMEX WTI Crude December futures settle at $88.56 a barrel, down 18 cents, 0.2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851440,
    "ts": "2026-11-13T19:20:34+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-12T13:36:40+00:00",
    "ingested": "2026-11-12T13:37:06.263309+00:00",
    "headline": "USTR Greer on China, trade: Not perfect compliance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849008,
-   "ts": "2026-11-12T13:36:30+00:00",
-   "ingested": "2026-11-12T13:37:06.263321+00:00",
-   "headline": "USTR Greer on China, trade: We are getting some rare earths that we need.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849007,
-   "ts": "2026-11-12T13:36:14+00:00",
-   "ingested": "2026-11-12T13:37:06.263332+00:00",
-   "headline": "USTR Greer: We want the crown jewels to remain in the US and ally hands",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849006,
-   "ts": "2026-11-12T13:36:13+00:00",
-   "ingested": "2026-11-12T13:37:06.263341+00:00",
-   "headline": "USTR Greer: China is partially complying.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849005,
-   "ts": "2026-11-12T13:35:17+00:00",
-   "ingested": "2026-11-12T13:36:06.231247+00:00",
-   "headline": "USTR Greer on NVIDIA: It's a structurally important company.",
    "channel": "rss",
    "source": "financialjuice"
   }
