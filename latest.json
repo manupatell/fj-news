@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T23:45:41.933702+00:00",
+ "updated": "2026-11-13T23:52:21.936122+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851753,
+   "ts": "2026-11-13T23:51:52+00:00",
+   "ingested": "2026-11-13T23:52:21.935740+00:00",
+   "headline": "US official: no bilateral meeting between Trump, Putin planned",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851739,
    "ts": "2026-11-13T23:45:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:57:13+00:00",
    "ingested": "2026-11-12T15:58:28.129530+00:00",
    "headline": "ECB's Vujcic: May still see further price pressures with a lag",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849260,
-   "ts": "2026-11-12T15:56:01+00:00",
-   "ingested": "2026-11-12T15:56:48.138097+00:00",
-   "headline": "Fed's Barr: I worry we are deregulating during Risk-On environment.",
    "channel": "rss",
    "source": "financialjuice"
   }
