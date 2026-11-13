@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:02:29.794831+00:00",
+ "updated": "2026-11-13T13:04:09.797432+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850889,
+   "ts": "2026-11-13T13:03:53+00:00",
+   "ingested": "2026-11-13T13:04:09.796938+00:00",
+   "headline": "US Treasury Secretary Bessent: Any leak of advanced chips is very frustrating",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850870,
    "ts": "2026-11-13T13:01:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T23:50:01+00:00",
    "ingested": "2026-11-11T23:50:47.204989+00:00",
    "headline": "Japanese PPI YoY Actual 7.1% (Forecast 6.5%, Previous 6.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847926,
-   "ts": "2026-11-11T23:33:41+00:00",
-   "ingested": "2026-11-11T23:37:17.279452+00:00",
-   "headline": "US State Department: Rubio and China\u2019s Wang Yi agree on importance of leader-level talks to advance peace and denuclearization, including potential trilateral summit with Russia",
    "channel": "rss",
    "source": "financialjuice"
   }
