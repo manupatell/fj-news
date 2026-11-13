@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T12:55:49.794530+00:00",
+ "updated": "2026-11-13T12:57:29.794917+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850859,
+   "ts": "2026-11-13T12:56:27+00:00",
+   "ingested": "2026-11-13T12:57:29.794368+00:00",
+   "headline": "US CENTCOM: IRGC launched two one-way attack drones toward Bahrain, and both were shot down by u.s. forces. There were no injuries or damage - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850858,
    "ts": "2026-11-13T12:54:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T23:22:28+00:00",
    "ingested": "2026-11-11T23:37:17.279499+00:00",
    "headline": "Nvidia board meeting Wednesday to determine if CEO Jensen Huang will be removed: source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847907,
-   "ts": "2026-11-11T23:18:18+00:00",
-   "ingested": "2026-11-11T23:37:17.279507+00:00",
-   "headline": "Israeli strike on Nasser hospital building in southern Gaza kills at least four: Gaza civil defence spokesperson",
    "channel": "rss",
    "source": "financialjuice"
   }
