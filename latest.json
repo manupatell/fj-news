@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:30:09.998615+00:00",
+ "updated": "2026-11-13T17:31:50.002890+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851326,
+   "ts": "2026-11-13T17:30:42+00:00",
+   "ingested": "2026-11-13T17:31:50.002531+00:00",
+   "headline": "Fed's Daly: FOMC must be transparent, accountable and clear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851323,
    "ts": "2026-11-13T17:28:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T11:56:50+00:00",
    "ingested": "2026-11-12T13:05:56.276369+00:00",
    "headline": "NATO's Rutte: Europeans and the US have already come to an agreement in January on how security guarantees should be sketched out, and this is all done",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848849,
-   "ts": "2026-11-12T11:56:33+00:00",
-   "ingested": "2026-11-12T13:05:56.276379+00:00",
-   "headline": "NATO's Rutte: Is Russia now willing to play ball, we will assess this later",
    "channel": "rss",
    "source": "financialjuice"
   }
