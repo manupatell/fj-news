@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:08:29.803234+00:00",
+ "updated": "2026-11-13T13:10:09.804239+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850895,
+   "ts": "2026-11-13T13:09:02+00:00",
+   "ingested": "2026-11-13T13:10:09.803718+00:00",
+   "headline": "US Treasury Secretary Bessent: Nvidia is a fantastic company, can move on from founder $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850894,
    "ts": "2026-11-13T13:07:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T23:51:59+00:00",
    "ingested": "2026-11-11T23:55:47.191636+00:00",
    "headline": "Japanese PPI MoM Actual 0.7% (Forecast 0.3%, Previous -0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847940,
-   "ts": "2026-11-11T23:51:59+00:00",
-   "ingested": "2026-11-11T23:55:47.191645+00:00",
-   "headline": "Foreign Investment Japanese Stocks Actual -105.2B (Forecast -, Previous 1,129.3B)",
    "channel": "rss",
    "source": "financialjuice"
   }
