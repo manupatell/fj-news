@@ -23812,3 +23812,4 @@
 {"guid": 9851449, "ts": "2026-11-13T19:31:29+00:00", "ingested": "2026-11-13T19:32:50.036884+00:00", "headline": "NYMEX Natural Gas December futures settle at $3.2300/MMBtu.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9851450, "ts": "2026-11-13T19:31:40+00:00", "ingested": "2026-11-13T19:32:50.036875+00:00", "headline": "NYMEX Gasoline December futures settle at $2.6214 a gallon.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9851461, "ts": "2026-11-13T19:31:50+00:00", "ingested": "2026-11-13T19:32:50.036862+00:00", "headline": "NYMEX Diesel December futures settle at $4.2585 a gallon.", "channel": "rss", "source": "financialjuice"}
+{"guid": 9851463, "ts": "2026-11-13T19:42:00+00:00", "ingested": "2026-11-13T19:43:00.076912+00:00", "headline": "Brent Crude futures settle at $95.84/bbl, up 2 cents, 0.02%.", "channel": "rss", "source": "financialjuice"}

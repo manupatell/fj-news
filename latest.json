@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T19:32:50.037262+00:00",
+ "updated": "2026-11-13T19:43:00.077257+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851463,
+   "ts": "2026-11-13T19:42:00+00:00",
+   "ingested": "2026-11-13T19:43:00.076912+00:00",
+   "headline": "Brent Crude futures settle at $95.84/bbl, up 2 cents, 0.02%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851461,
    "ts": "2026-11-13T19:31:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:36:42+00:00",
    "ingested": "2026-11-12T13:37:06.263294+00:00",
    "headline": "USTR Greer, on China and trade: I would like to see more progress",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849009,
-   "ts": "2026-11-12T13:36:40+00:00",
-   "ingested": "2026-11-12T13:37:06.263309+00:00",
-   "headline": "USTR Greer on China, trade: Not perfect compliance.",
    "channel": "rss",
    "source": "financialjuice"
   }
