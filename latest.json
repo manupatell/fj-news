@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:13:29.799403+00:00",
+ "updated": "2026-11-13T13:15:09.808879+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850898,
+   "ts": "2026-11-13T13:14:33+00:00",
+   "ingested": "2026-11-13T13:15:09.808324+00:00",
+   "headline": "US Treasury Secretary Bessent: I won't hesitate to sanction Iranian banks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850896,
    "ts": "2026-11-13T13:12:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T00:00:12+00:00",
    "ingested": "2026-11-12T00:00:47.215849+00:00",
    "headline": "Nvidia's board working with external firm to find potential CEO replacements for Jensen Huang - reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847942,
-   "ts": "2026-11-11T23:52:00+00:00",
-   "ingested": "2026-11-11T23:55:47.191623+00:00",
-   "headline": "Japanese Foreign Bond Investment Actual -537.6B (Forecast -, Previous 1,312.0B)",
    "channel": "rss",
    "source": "financialjuice"
   }
