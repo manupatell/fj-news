@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T03:15:08.266346+00:00",
+ "updated": "2026-11-13T03:16:48.262079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850189,
+   "ts": "2026-11-13T03:15:33+00:00",
+   "ingested": "2026-11-13T03:16:48.261613+00:00",
+   "headline": "Microsoft: identifying alternative workflows to boost capacity amid ongoing traffic management imbalances",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850188,
+   "ts": "2026-11-13T03:15:15+00:00",
+   "ingested": "2026-11-13T03:16:48.261637+00:00",
+   "headline": "Microsoft on outage: monitored status of changes to improve serviceability, confirmed they aren't working as expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850187,
    "ts": "2026-11-13T03:14:26+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T14:50:34+00:00",
    "ingested": "2026-11-11T14:51:30.283586+00:00",
    "headline": "CoreWeave CEO Intrator: NVIDIA is not one person, and they will continue to be a great partner for us - CNBC. $CRWV $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847324,
-   "ts": "2026-11-11T14:47:23+00:00",
-   "ingested": "2026-11-11T14:48:10.279675+00:00",
-   "headline": "CoreWeave CEO Intrator: We don't see any impact on our ability to deliver data centers within the US - CNBC. $CRWV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847305,
-   "ts": "2026-11-11T14:34:39+00:00",
-   "ingested": "2026-11-11T14:34:50.274787+00:00",
-   "headline": "Russia's Ushakov: Europe format talks to weigh Abu Dhabi outcome - IFX.",
    "channel": "rss",
    "source": "financialjuice"
   }
