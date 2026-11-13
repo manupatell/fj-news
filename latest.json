@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T17:43:30.029224+00:00",
+ "updated": "2026-11-13T17:45:10.003085+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851331,
+   "ts": "2026-11-13T17:44:27+00:00",
+   "ingested": "2026-11-13T17:45:10.002737+00:00",
+   "headline": "EC Pres. von der Leyen: The next European budget to reflect it, AI ambitions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851330,
+   "ts": "2026-11-13T17:43:59+00:00",
+   "ingested": "2026-11-13T17:45:10.002755+00:00",
+   "headline": "EC Pres. von der Leyen: We need at least \u20ac500 bln investment in computing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851328,
    "ts": "2026-11-13T17:32:12+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T12:03:05+00:00",
    "ingested": "2026-11-12T13:05:56.276329+00:00",
    "headline": "Putin to hold security council meeting today - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848852,
-   "ts": "2026-11-12T11:59:59+00:00",
-   "ingested": "2026-11-12T13:05:56.276342+00:00",
-   "headline": "Ukraine\u2019s President Zelenskiy: Will have talks with US representatives later on Thursday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848851,
-   "ts": "2026-11-12T11:59:38+00:00",
-   "ingested": "2026-11-12T13:05:56.276355+00:00",
-   "headline": "Ukraine\u2019s President Zelenskiy: Europe needs to be at the table in talks with Russia",
    "channel": "rss",
    "source": "financialjuice"
   }
