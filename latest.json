@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-13T13:43:29.813864+00:00",
+ "updated": "2026-11-13T13:45:09.819094+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850977,
+   "ts": "2026-11-13T13:44:42+00:00",
+   "ingested": "2026-11-13T13:45:09.818546+00:00",
+   "headline": "Fed's Goolsbee: We cannot look through inflation if demand is overheating; data center buildout is pushing up prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850976,
+   "ts": "2026-11-13T13:44:37+00:00",
+   "ingested": "2026-11-13T13:45:09.818564+00:00",
+   "headline": "Fed's Goolsbee: AI build-out heating up the economy atop energy costs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850975,
+   "ts": "2026-11-13T13:43:55+00:00",
+   "ingested": "2026-11-13T13:45:09.818578+00:00",
+   "headline": "Fed's Goolsbee: The labor market is stable, maybe tightening a bit.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850974,
    "ts": "2026-11-13T13:43:04+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-12T01:40:01+00:00",
    "ingested": "2026-11-12T01:41:47.244679+00:00",
    "headline": "BOJ's Asada: Japan's economic growth poised to pick up moderately",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848057,
-   "ts": "2026-11-12T01:38:48+00:00",
-   "ingested": "2026-11-12T01:40:07.249234+00:00",
-   "headline": "BOJ's Asada: personally thinks recent consumption data aren't necessarily robust",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848056,
-   "ts": "2026-11-12T01:37:52+00:00",
-   "ingested": "2026-11-12T01:38:27.234079+00:00",
-   "headline": "Boj\u2019s Asada: even if Bank of Japan raises rates in future, must be cautious about pace of increases",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848055,
-   "ts": "2026-11-12T01:37:26+00:00",
-   "ingested": "2026-11-12T01:38:27.234092+00:00",
-   "headline": "BOJ's Asada: Current price increases aren\u2019t necessarily fueled by demand given weak growth, consumption",
    "channel": "rss",
    "source": "financialjuice"
   }
