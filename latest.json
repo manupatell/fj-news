@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T21:25:30.123122+00:00",
+ "updated": "2026-11-13T21:27:10.072850+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851600,
+   "ts": "2026-11-13T21:26:34+00:00",
+   "ingested": "2026-11-13T21:27:10.072515+00:00",
+   "headline": "US FAA: Users can expect airborne holding at any and all airports within the national airspace system due to equipment outages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851599,
    "ts": "2026-11-13T21:25:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T14:47:40+00:00",
    "ingested": "2026-11-12T14:48:06.252640+00:00",
    "headline": "House Committee and Huang\u2019s team negotiating time for him to come - PB. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849149,
-   "ts": "2026-11-12T14:42:38+00:00",
-   "ingested": "2026-11-12T14:43:06.268920+00:00",
-   "headline": "Iranian Army: 2 tankers hit naval mines while transiting Strait of Hormuz - State TV.",
    "channel": "rss",
    "source": "financialjuice"
   }
