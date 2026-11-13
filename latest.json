@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T11:39:09.832448+00:00",
+ "updated": "2026-11-13T11:44:09.779519+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850778,
+   "ts": "2026-11-13T11:43:50+00:00",
+   "ingested": "2026-11-13T11:44:09.779033+00:00",
+   "headline": "Anthropic: Issues with authenticating to Claude, fix deployed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850761,
    "ts": "2026-11-13T10:20:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T22:45:32+00:00",
    "ingested": "2026-11-11T22:46:30.828010+00:00",
    "headline": "UK govt: appoints special envoy for climate security with Dame Madeleine Alessandri taking the role",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847854,
-   "ts": "2026-11-11T22:29:19+00:00",
-   "ingested": "2026-11-11T22:29:50.815821+00:00",
-   "headline": "Nvidia board preparing to meet as soon as today to decide CEO\u2019s future: WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
