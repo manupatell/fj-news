@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-13T22:05:30.082725+00:00",
+ "updated": "2026-11-13T22:07:10.079813+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851657,
+   "ts": "2026-11-13T22:06:26+00:00",
+   "ingested": "2026-11-13T22:07:10.079438+00:00",
+   "headline": "DHS Secretary Mullin on nationwide groundstop: Trump has been briefed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851656,
+   "ts": "2026-11-13T22:06:14+00:00",
+   "ingested": "2026-11-13T22:07:10.079451+00:00",
+   "headline": "DHS Secretary Mullin on nationwide groundstop: flights accounted for",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851655,
+   "ts": "2026-11-13T22:05:41+00:00",
+   "ingested": "2026-11-13T22:07:10.079460+00:00",
+   "headline": "DHS Secretary Mullin on nationwide groundstop: communication maintained at certain levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851654,
    "ts": "2026-11-13T22:03:55+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-12T15:17:57+00:00",
    "ingested": "2026-11-12T15:18:28.123917+00:00",
    "headline": "Jenson Huang won't serve in any capacity at Nvidia after being fired $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849221,
-   "ts": "2026-11-12T15:17:39+00:00",
-   "ingested": "2026-11-12T15:18:28.123932+00:00",
-   "headline": "Crypto Fear & Greed Index: 28/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849204,
-   "ts": "2026-11-12T15:03:25+00:00",
-   "ingested": "2026-11-12T15:04:48.120988+00:00",
-   "headline": "Alice Huang\u2019s Companies promised DeepSeek Nvidia chips - The Information $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849203,
-   "ts": "2026-11-12T15:03:01+00:00",
-   "ingested": "2026-11-12T15:04:48.121004+00:00",
-   "headline": "Fed's Barr Speaks - WATCH LIVE",
    "channel": "rss",
    "source": "financialjuice"
   }
