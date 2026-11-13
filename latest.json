@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T21:45:30.117332+00:00",
+ "updated": "2026-11-13T21:50:30.078402+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851634,
+   "ts": "2026-11-13T21:49:19+00:00",
+   "ingested": "2026-11-13T21:50:30.078026+00:00",
+   "headline": "FAA ground stop does not appear to be a cyber attack - CNN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851618,
    "ts": "2026-11-13T21:34:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:00:00+00:00",
    "ingested": "2026-11-12T15:01:26.251947+00:00",
    "headline": "US Existing Home Sales Actual 3.75M (Forecast 3.85M, Previous 3.99M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849170,
-   "ts": "2026-11-12T14:51:17+00:00",
-   "ingested": "2026-11-12T14:53:06.245628+00:00",
-   "headline": "OpenAI raises $15 billion at $1.25 trillion valuation - CNBC",
    "channel": "rss",
    "source": "financialjuice"
   }
