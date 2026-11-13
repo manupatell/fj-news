@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T11:27:29.778833+00:00",
+ "updated": "2026-11-13T11:29:09.764803+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850761,
+   "ts": "2026-11-13T10:20:54+00:00",
+   "ingested": "2026-11-13T11:29:09.764296+00:00",
+   "headline": "Kremlin: Russian delegation's lineup will be the same at the next round of negotiations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850740,
    "ts": "2026-11-13T11:06:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T22:29:19+00:00",
    "ingested": "2026-11-11T22:29:50.815821+00:00",
    "headline": "Nvidia board preparing to meet as soon as today to decide CEO\u2019s future: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847853,
-   "ts": "2026-11-11T22:29:15+00:00",
-   "ingested": "2026-11-11T22:29:50.815838+00:00",
-   "headline": "Nvidia board preparing to meet as soon as today to decide CEO Jensen's future: WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
