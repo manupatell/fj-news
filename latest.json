@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T10:00:49.746913+00:00",
+ "updated": "2026-11-13T10:02:29.741155+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850657,
+   "ts": "2026-11-13T10:00:49+00:00",
+   "ingested": "2026-11-13T10:02:29.740554+00:00",
+   "headline": "Eurozone Trade Balance Actual -8.7B (Forecast -, Previous -7B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850652,
    "ts": "2026-11-13T10:00:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T22:26:51+00:00",
    "ingested": "2026-11-11T22:28:10.818190+00:00",
    "headline": "eBay launches camera-first listing experience in Australia, France, Germany, Italy, the U.K. and the U.S.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847831,
-   "ts": "2026-11-11T22:06:17+00:00",
-   "ingested": "2026-11-11T22:06:30.811989+00:00",
-   "headline": "Democrat Scott Colom defeats Republican incumbent Cindy Hyde-Smith in Mississippi senate race - CNN",
    "channel": "rss",
    "source": "financialjuice"
   }
