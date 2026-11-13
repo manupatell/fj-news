@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T20:04:10.160385+00:00",
+ "updated": "2026-11-13T20:05:50.089003+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851495,
+   "ts": "2026-11-13T20:05:10+00:00",
+   "ingested": "2026-11-13T20:05:50.088555+00:00",
+   "headline": "Microsoft: Still draining queued messages, rebalancing traffic $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851494,
+   "ts": "2026-11-13T20:04:42+00:00",
+   "ingested": "2026-11-13T20:05:50.088569+00:00",
+   "headline": "Microsoft: Do not have timing for full recovery yet $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851493,
    "ts": "2026-11-13T20:03:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T13:44:12+00:00",
    "ingested": "2026-11-12T13:44:46.218839+00:00",
    "headline": "Fed's Hammack: We need to move to restrictive monetary policy to lower inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849018,
-   "ts": "2026-11-12T13:44:06+00:00",
-   "ingested": "2026-11-12T13:44:46.218849+00:00",
-   "headline": "Fed's Hammack: There are real demand pressures contributing to high inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849017,
-   "ts": "2026-11-12T13:43:34+00:00",
-   "ingested": "2026-11-12T13:44:46.218860+00:00",
-   "headline": "Fed's Hammack: Inflation is moving in the wrong direction.",
    "channel": "rss",
    "source": "financialjuice"
   }
