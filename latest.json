@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T19:46:20.108536+00:00",
+ "updated": "2026-11-13T19:52:30.031693+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851476,
+   "ts": "2026-11-13T19:50:44+00:00",
+   "ingested": "2026-11-13T19:52:30.031356+00:00",
+   "headline": "Meta is testing a new prediction-market app with employees - WSJ. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851466,
    "ts": "2026-11-13T19:45:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:38:15+00:00",
    "ingested": "2026-11-12T13:39:46.216762+00:00",
    "headline": "USTR on Canada trade: We have spoken to Canada in the past few days - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849011,
-   "ts": "2026-11-12T13:37:46+00:00",
-   "ingested": "2026-11-12T13:38:06.266354+00:00",
-   "headline": "USTR Greer on Mexico: Trump is prepared to take action on tariffs.",
    "channel": "rss",
    "source": "financialjuice"
   }
