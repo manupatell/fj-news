@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T20:27:20.067593+00:00",
+ "updated": "2026-11-13T20:29:00.059719+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851507,
+   "ts": "2026-11-13T20:27:29+00:00",
+   "ingested": "2026-11-13T20:29:00.059407+00:00",
+   "headline": "US Air Force spokesperson: \"No personnel, aircraft, or infrastructure were affected\" - Sky News reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851506,
    "ts": "2026-11-13T20:26:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:44:27+00:00",
    "ingested": "2026-11-12T13:44:46.218815+00:00",
    "headline": "USTR Greer: We'll take action on that if needed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849020,
-   "ts": "2026-11-12T13:44:20+00:00",
-   "ingested": "2026-11-12T13:44:46.218827+00:00",
-   "headline": "USTR Greer: There'll be a focus on tech exports in light of events",
    "channel": "rss",
    "source": "financialjuice"
   }
