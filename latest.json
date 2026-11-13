@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T12:49:09.813297+00:00",
+ "updated": "2026-11-13T12:55:49.794530+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850858,
+   "ts": "2026-11-13T12:54:27+00:00",
+   "ingested": "2026-11-13T12:55:49.794027+00:00",
+   "headline": "MUFG: US Dollar Correlation with Brent Crude Oil Is Turning Stronger Once Again - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850857,
    "ts": "2026-11-13T12:48:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T23:18:18+00:00",
    "ingested": "2026-11-11T23:37:17.279507+00:00",
    "headline": "Israeli strike on Nasser hospital building in southern Gaza kills at least four: Gaza civil defence spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847895,
-   "ts": "2026-11-11T23:13:25+00:00",
-   "ingested": "2026-11-11T23:37:17.279514+00:00",
-   "headline": "Saudi-led coalition: drone destroyed over kingdom's eastern region",
    "channel": "rss",
    "source": "financialjuice"
   }
