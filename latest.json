@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T23:42:21.935170+00:00",
+ "updated": "2026-11-13T23:45:41.933702+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851739,
+   "ts": "2026-11-13T23:45:13+00:00",
+   "ingested": "2026-11-13T23:45:41.933340+00:00",
+   "headline": "US official: no plans to engage with North Korea",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851738,
    "ts": "2026-11-13T23:41:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:56:01+00:00",
    "ingested": "2026-11-12T15:56:48.138097+00:00",
    "headline": "Fed's Barr: I worry we are deregulating during Risk-On environment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849259,
-   "ts": "2026-11-12T15:52:56+00:00",
-   "ingested": "2026-11-12T15:53:28.133649+00:00",
-   "headline": "US Envoy Kushner described talks with Putin as substantive and detailed - RIA",
    "channel": "rss",
    "source": "financialjuice"
   }
