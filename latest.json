@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T19:52:30.031693+00:00",
+ "updated": "2026-11-13T19:55:50.038250+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851478,
+   "ts": "2026-11-13T19:54:50+00:00",
+   "ingested": "2026-11-13T19:55:50.037904+00:00",
+   "headline": "IRGC: An American C-130J military transport aircraft landed at Al-Adeed base in Qatar.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851476,
    "ts": "2026-11-13T19:50:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:38:29+00:00",
    "ingested": "2026-11-12T13:39:46.216744+00:00",
    "headline": "USTR Greer on Canada trade: Don't want to give a timeline.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849012,
-   "ts": "2026-11-12T13:38:15+00:00",
-   "ingested": "2026-11-12T13:39:46.216762+00:00",
-   "headline": "USTR on Canada trade: We have spoken to Canada in the past few days - CNBC",
    "channel": "rss",
    "source": "financialjuice"
   }
