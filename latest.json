@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T12:44:09.840857+00:00",
+ "updated": "2026-11-13T12:49:09.813297+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850857,
+   "ts": "2026-11-13T12:48:57+00:00",
+   "ingested": "2026-11-13T12:49:09.812800+00:00",
+   "headline": "Citi Market Review - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850806,
    "ts": "2026-11-13T12:03:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T23:13:25+00:00",
    "ingested": "2026-11-11T23:37:17.279514+00:00",
    "headline": "Saudi-led coalition: drone destroyed over kingdom's eastern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847894,
-   "ts": "2026-11-11T23:12:39+00:00",
-   "ingested": "2026-11-11T23:37:17.279525+00:00",
-   "headline": "US stock futures decline after WSJ reports Nvidia ready to replace CEO; Nvidia shares drop in after-hours trading",
    "channel": "rss",
    "source": "financialjuice"
   }
