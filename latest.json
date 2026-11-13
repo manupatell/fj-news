@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T20:26:30.218344+00:00",
+ "updated": "2026-11-13T20:27:20.067593+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851506,
+   "ts": "2026-11-13T20:26:45+00:00",
+   "ingested": "2026-11-13T20:27:20.067268+00:00",
+   "headline": "US military said its personnel at RAF Lakenheath in the UK responded to \"suspected unauthorised drone activity\" on Friday evening - Sky News reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851495,
    "ts": "2026-11-13T20:05:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:44:20+00:00",
    "ingested": "2026-11-12T13:44:46.218827+00:00",
    "headline": "USTR Greer: There'll be a focus on tech exports in light of events",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849019,
-   "ts": "2026-11-12T13:44:12+00:00",
-   "ingested": "2026-11-12T13:44:46.218839+00:00",
-   "headline": "Fed's Hammack: We need to move to restrictive monetary policy to lower inflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
