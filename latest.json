@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T17:48:30.005045+00:00",
+ "updated": "2026-11-13T17:50:10.002890+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851349,
+   "ts": "2026-11-13T17:49:28+00:00",
+   "ingested": "2026-11-13T17:50:10.002528+00:00",
+   "headline": "USTR, alongside Treasury, held first official US-China Board of Trade meeting - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851348,
+   "ts": "2026-11-13T17:48:20+00:00",
+   "ingested": "2026-11-13T17:50:10.002543+00:00",
+   "headline": "White House Official: Trump to extend shipping waiver for oil and fertilizer for 90 days",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851346,
    "ts": "2026-11-13T17:46:51+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T12:34:59+00:00",
    "ingested": "2026-11-12T13:05:56.276281+00:00",
    "headline": "Putin warns foreign troops in Ukraine would be targeted - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848889,
-   "ts": "2026-11-12T12:23:38+00:00",
-   "ingested": "2026-11-12T13:05:56.276293+00:00",
-   "headline": "Russia struck Naftogaz facility with jet-powered drones overnight - Company",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848888,
-   "ts": "2026-11-12T12:23:19+00:00",
-   "ingested": "2026-11-12T13:05:56.276308+00:00",
-   "headline": "US Envoy Kushner: The US has begun discussions with European partners on the continent's security architecture - TASS",
    "channel": "rss",
    "source": "financialjuice"
   }
