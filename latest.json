@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-13T20:54:00.095828+00:00",
+ "updated": "2026-11-13T20:59:00.103314+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851544,
+   "ts": "2026-11-13T20:58:19+00:00",
+   "ingested": "2026-11-13T20:59:00.102939+00:00",
+   "headline": "FAA: Inbound international flights will be managed on a case-by-case basis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851543,
+   "ts": "2026-11-13T20:58:02+00:00",
+   "ingested": "2026-11-13T20:59:00.102952+00:00",
+   "headline": "FAA: All departing traffic should remain ground stopped until further notice",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851542,
+   "ts": "2026-11-13T20:57:43+00:00",
+   "ingested": "2026-11-13T20:59:00.102961+00:00",
+   "headline": "FAA: National ground stop due to extraordinary circumstances and for reasons of safety",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851541,
+   "ts": "2026-11-13T20:57:32+00:00",
+   "ingested": "2026-11-13T20:59:00.102967+00:00",
+   "headline": "FAA issues national ground stop - FAA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851540,
    "ts": "2026-11-13T20:53:20+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-12T13:48:49+00:00",
    "ingested": "2026-11-12T13:49:46.240206+00:00",
    "headline": "Nvidia names Colette Kress interim CEO $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849035,
-   "ts": "2026-11-12T13:48:27+00:00",
-   "ingested": "2026-11-12T13:49:46.240217+00:00",
-   "headline": "NVIDIA reports CEO transition as Huang resigns.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849029,
-   "ts": "2026-11-12T13:45:43+00:00",
-   "ingested": "2026-11-12T13:46:26.222846+00:00",
-   "headline": "US Sentiment: Nvidia Scandal Not All Bad For Tech Rivals - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849025,
-   "ts": "2026-11-12T13:45:21+00:00",
-   "ingested": "2026-11-12T13:46:26.222861+00:00",
-   "headline": "USTR Greer on tech export controls: If problems exist, we'll probe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849024,
-   "ts": "2026-11-12T13:44:40+00:00",
-   "ingested": "2026-11-12T13:46:26.222873+00:00",
-   "headline": "Fed's Hammack: Need to move to a restrictive policy stance",
    "channel": "rss",
    "source": "financialjuice"
   }
