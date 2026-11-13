@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T04:40:08.343830+00:00",
+ "updated": "2026-11-13T04:41:48.283491+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850265,
+   "ts": "2026-11-13T04:41:25+00:00",
+   "ingested": "2026-11-13T04:41:48.283088+00:00",
+   "headline": "Japan PM Takaichi: Won't discuss forex",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850264,
    "ts": "2026-11-13T04:38:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T15:05:28+00:00",
    "ingested": "2026-11-11T15:06:30.293827+00:00",
    "headline": "Russia's Medinsky: Russia sees no possibility of any territorial exchanges with Ukraine - TASS.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847354,
-   "ts": "2026-11-11T15:04:40+00:00",
-   "ingested": "2026-11-11T15:06:30.293850+00:00",
-   "headline": "UK Finance Minister Healey: Ending the war in the Middle East will be the single biggest economic benefit to Britain.",
    "channel": "rss",
    "source": "financialjuice"
   }
