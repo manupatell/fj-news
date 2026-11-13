@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:53:29.825855+00:00",
+ "updated": "2026-11-13T14:00:09.835961+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850995,
+   "ts": "2026-11-13T13:59:41+00:00",
+   "ingested": "2026-11-13T14:00:09.835463+00:00",
+   "headline": "Effective Fed Funds Rate 3.88% November 12 vs 3.88% November 10",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850994,
    "ts": "2026-11-13T13:53:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T02:56:25+00:00",
    "ingested": "2026-11-12T02:56:47.276730+00:00",
    "headline": "Asean to build storage facilities in Indonesia and Thailand by 2027 led by Japan: Nikkei",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848194,
-   "ts": "2026-11-12T02:55:32+00:00",
-   "ingested": "2026-11-12T02:56:47.276741+00:00",
-   "headline": "Asean to start combined stockpile of petroleum products: Nikkei",
    "channel": "rss",
    "source": "financialjuice"
   }
