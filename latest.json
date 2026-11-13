@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T23:20:41.930420+00:00",
+ "updated": "2026-11-13T23:24:01.929219+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851730,
+   "ts": "2026-11-13T23:23:35+00:00",
+   "ingested": "2026-11-13T23:24:01.928878+00:00",
+   "headline": "Eurocontrol: all flights departing member states to US airports halted on FAA request due to technical problems - website",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851701,
    "ts": "2026-11-13T22:49:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:45:29+00:00",
    "ingested": "2026-11-12T15:46:48.175223+00:00",
    "headline": "Fed's Barr: Banks are \"very focused\" on AI risk controls and use standards",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849241,
-   "ts": "2026-11-12T15:43:09+00:00",
-   "ingested": "2026-11-12T15:43:28.113926+00:00",
-   "headline": "Fed's Barr: If AI adoption happens rapidly, the labor adjustment may be more difficult",
    "channel": "rss",
    "source": "financialjuice"
   }
