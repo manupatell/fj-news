@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T01:17:43.414233+00:00",
+ "updated": "2026-11-13T01:22:43.414132+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850017,
+   "ts": "2026-11-13T01:21:10+00:00",
+   "ingested": "2026-11-13T01:22:43.413784+00:00",
+   "headline": "China central bank injects 364 billion yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850006,
    "ts": "2026-11-13T01:17:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T13:56:24+00:00",
    "ingested": "2026-11-11T13:58:10.268571+00:00",
    "headline": "Russia's top Ukrainian negotiator, Medinsky: Seems like we're closer to peace - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847234,
-   "ts": "2026-11-11T13:56:06+00:00",
-   "ingested": "2026-11-11T13:56:30.274462+00:00",
-   "headline": "Germany's Council of Economic Experts' Felbermayr: There will be more, not less, trade uncertainty after US midterms.",
    "channel": "rss",
    "source": "financialjuice"
   }
