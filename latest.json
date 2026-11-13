@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:50:10.002890+00:00",
+ "updated": "2026-11-13T17:53:30.039330+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851351,
+   "ts": "2026-11-13T17:52:29+00:00",
+   "ingested": "2026-11-13T17:53:30.038973+00:00",
+   "headline": "USTR: Trump Admin looking forward to engagement with China.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851349,
    "ts": "2026-11-13T17:49:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T12:50:51+00:00",
    "ingested": "2026-11-12T13:05:56.276270+00:00",
    "headline": "Senator Cramer: Hopefully, Huang would be absolved of corruption $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848904,
-   "ts": "2026-11-12T12:34:59+00:00",
-   "ingested": "2026-11-12T13:05:56.276281+00:00",
-   "headline": "Putin warns foreign troops in Ukraine would be targeted - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
