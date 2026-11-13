@@ -1,22 +1,12 @@
 {
- "updated_et": "2026-11-13 06:34 ET",
+ "updated_et": "2026-11-13 18:55 ET",
  "horizon_days": 45,
  "note": "Scheduled releases that move ES/CL/GC. All times ET. minutes_until is relative to updated_et - recompute it from the current time, do not trust it as live.",
  "events": [
   {
-   "name": "Producer Price Index",
-   "when_et": "2026-11-13 08:30 ET",
-   "minutes_until": 115,
-   "moves": [
-    "ES",
-    "GC"
-   ],
-   "source": "BLS"
-  },
-  {
    "name": "API Crude Inventories",
    "when_et": "2026-11-17 16:30 ET",
-   "minutes_until": 6355,
+   "minutes_until": 5614,
    "moves": [
     "CL"
    ],
@@ -26,7 +16,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-18 10:30 ET",
-   "minutes_until": 7435,
+   "minutes_until": 6694,
    "moves": [
     "CL"
    ],
@@ -35,7 +25,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-24 16:30 ET",
-   "minutes_until": 16435,
+   "minutes_until": 15694,
    "moves": [
     "CL"
    ],
@@ -45,7 +35,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-11-25 08:30 ET",
-   "minutes_until": 17395,
+   "minutes_until": 16654,
    "moves": [
     "ES",
     "GC"
@@ -55,7 +45,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-11-25 08:30 ET",
-   "minutes_until": 17395,
+   "minutes_until": 16654,
    "moves": [
     "ES",
     "GC"
@@ -65,7 +55,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-25 10:30 ET",
-   "minutes_until": 17515,
+   "minutes_until": 16774,
    "moves": [
     "CL"
    ],
@@ -74,7 +64,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-01 16:30 ET",
-   "minutes_until": 26515,
+   "minutes_until": 25774,
    "moves": [
     "CL"
    ],
@@ -84,7 +74,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-02 10:30 ET",
-   "minutes_until": 27595,
+   "minutes_until": 26854,
    "moves": [
     "CL"
    ],
@@ -93,7 +83,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-12-04 08:30 ET",
-   "minutes_until": 30355,
+   "minutes_until": 29614,
    "moves": [
     "ES",
     "GC"
@@ -103,7 +93,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-08 16:30 ET",
-   "minutes_until": 36595,
+   "minutes_until": 35854,
    "moves": [
     "CL"
    ],
@@ -113,7 +103,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-09 10:30 ET",
-   "minutes_until": 37675,
+   "minutes_until": 36934,
    "moves": [
     "CL"
    ],
@@ -122,7 +112,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-12-10 08:30 ET",
-   "minutes_until": 38995,
+   "minutes_until": 38254,
    "moves": [
     "ES",
     "GC"
@@ -132,7 +122,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-12-15 08:30 ET",
-   "minutes_until": 46195,
+   "minutes_until": 45454,
    "moves": [
     "ES",
     "GC"
@@ -142,7 +132,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-15 16:30 ET",
-   "minutes_until": 46675,
+   "minutes_until": 45934,
    "moves": [
     "CL"
    ],
@@ -152,7 +142,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-16 10:30 ET",
-   "minutes_until": 47755,
+   "minutes_until": 47014,
    "moves": [
     "CL"
    ],
@@ -161,7 +151,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-22 16:30 ET",
-   "minutes_until": 56755,
+   "minutes_until": 56014,
    "moves": [
     "CL"
    ],
@@ -171,7 +161,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-12-23 08:30 ET",
-   "minutes_until": 57715,
+   "minutes_until": 56974,
    "moves": [
     "ES",
     "GC"
@@ -181,7 +171,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-12-23 08:30 ET",
-   "minutes_until": 57715,
+   "minutes_until": 56974,
    "moves": [
     "ES",
     "GC"
@@ -191,7 +181,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-23 10:30 ET",
-   "minutes_until": 57835,
+   "minutes_until": 57094,
    "moves": [
     "CL"
    ],
