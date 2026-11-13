@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T17:16:50.019667+00:00",
+ "updated": "2026-11-13T17:18:30.016653+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851298,
+   "ts": "2026-11-13T17:17:59+00:00",
+   "ingested": "2026-11-13T17:18:30.016310+00:00",
+   "headline": "Anthropic's CEO Amodei: We're very paranoid about AI risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851297,
+   "ts": "2026-11-13T17:17:34+00:00",
+   "ingested": "2026-11-13T17:18:30.016324+00:00",
+   "headline": "Fed's Daly: Other tech is being used to do more with fewer workers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851296,
    "ts": "2026-11-13T17:16:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T10:45:12+00:00",
    "ingested": "2026-11-12T10:45:49.119075+00:00",
    "headline": "Albania's PM: Next NATO summit for sure not in 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848755,
-   "ts": "2026-11-12T10:24:39+00:00",
-   "ingested": "2026-11-12T10:37:29.122664+00:00",
-   "headline": "UK Finance Minister Healey, when asked about deal with EU: Deal must deliver benefits that outweigh trade-offs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848735,
-   "ts": "2026-11-12T10:19:56+00:00",
-   "ingested": "2026-11-12T10:20:49.113482+00:00",
-   "headline": "Senator Cotton: US Commerce Secretary Lutnick should ban China's CXMT from the US - CNBC",
    "channel": "rss",
    "source": "financialjuice"
   }
