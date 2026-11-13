@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T21:32:10.064519+00:00",
+ "updated": "2026-11-13T21:35:30.064771+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851618,
+   "ts": "2026-11-13T21:34:31+00:00",
+   "ingested": "2026-11-13T21:35:30.064515+00:00",
+   "headline": "Nearly 7,000 US flights delayed, cancelled due to nationwide groundstop - FlightAware.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851606,
    "ts": "2026-11-13T21:30:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T14:51:17+00:00",
    "ingested": "2026-11-12T14:53:06.245628+00:00",
    "headline": "OpenAI raises $15 billion at $1.25 trillion valuation - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849169,
-   "ts": "2026-11-12T14:49:10+00:00",
-   "ingested": "2026-11-12T14:49:46.236505+00:00",
-   "headline": "House Committee negotiating for Huang to come in next week - PunchBowl. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
