@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T14:01:49.817376+00:00",
+ "updated": "2026-11-13T14:03:29.815042+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851011,
+   "ts": "2026-11-13T14:01:48+00:00",
+   "ingested": "2026-11-13T14:03:29.814527+00:00",
+   "headline": "China's premier Li, to Thai PM: Willing to expand cooperation in finance, new energy, semiconductors, and artificial intelligence",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850998,
    "ts": "2026-11-13T14:00:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T03:00:05+00:00",
    "ingested": "2026-11-12T03:01:47.268699+00:00",
    "headline": "S.Korea: Oct foreign net investment in local stocks $-19.31 bln vs $-14.16 bln in Sept - c.bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848196,
-   "ts": "2026-11-12T03:00:05+00:00",
-   "ingested": "2026-11-12T03:01:47.268715+00:00",
-   "headline": "S. Korea: Oct foreign net investment in local bonds $5.61 billion vs -$5.81 billion in Sept - Central Bank",
    "channel": "rss",
    "source": "financialjuice"
   }
