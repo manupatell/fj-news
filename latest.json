@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T00:24:47.741993+00:00",
+ "updated": "2026-11-13T00:28:07.721073+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849956,
+   "ts": "2026-11-13T00:27:24+00:00",
+   "ingested": "2026-11-13T00:28:07.720782+00:00",
+   "headline": "Jared Kushner on russia-ukraine talks: Both sides agree to widen next round of negotiations to include European partners",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849955,
+   "ts": "2026-11-13T00:26:30+00:00",
+   "ingested": "2026-11-13T00:28:07.720794+00:00",
+   "headline": "Jared Kushner: working toward largest prisoner swap of war",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849954,
    "ts": "2026-11-13T00:24:09+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T13:00:57+00:00",
    "ingested": "2026-11-11T13:01:20.244316+00:00",
    "headline": "Saudi Arabia tells OPEC it pumped 10.6m b/d in October",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847162,
-   "ts": "2026-11-11T13:00:50+00:00",
-   "ingested": "2026-11-11T13:01:20.244341+00:00",
-   "headline": "Saudi Arabia tells OPEC it produced 10.563 million bpd of crude in October, up from 8.372 mbpd in September.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847161,
-   "ts": "2026-11-11T13:00:39+00:00",
-   "ingested": "2026-11-11T13:01:20.244363+00:00",
-   "headline": "OEPC: OPEC+ crude output (including former member UAE) averaged 41.23 million bpd in October, up 2.04 million bpd from September",
    "channel": "rss",
    "source": "financialjuice"
   }
