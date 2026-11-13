@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T02:51:48.314625+00:00",
+ "updated": "2026-11-13T03:01:48.248685+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850173,
+   "ts": "2026-11-13T03:00:04+00:00",
+   "ingested": "2026-11-13T03:01:48.248215+00:00",
+   "headline": "S.Korea Sept l-money supply measure rises 7.0% y/y vs 7.2% in Aug: c.bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850147,
    "ts": "2026-11-13T02:30:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T14:32:22+00:00",
    "ingested": "2026-11-11T14:33:10.334391+00:00",
    "headline": "Russia's Ushakov: Talks in Abu Dhabi were substantial and very useful \u2014 Ria",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847285,
-   "ts": "2026-11-11T14:28:28+00:00",
-   "ingested": "2026-11-11T14:29:50.269103+00:00",
-   "headline": "Iran's Rezaei: Tehran will target us military bases in European countries if US aircraft take off from them to strike Iran.",
    "channel": "rss",
    "source": "financialjuice"
   }
