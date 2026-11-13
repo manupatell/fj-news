@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T09:42:29.723988+00:00",
+ "updated": "2026-11-13T09:50:49.734614+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850648,
+   "ts": "2026-11-13T09:49:26+00:00",
+   "ingested": "2026-11-13T09:50:49.734095+00:00",
+   "headline": "Deutsche bank: UK Inflation - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850626,
    "ts": "2026-11-13T09:30:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T21:56:46+00:00",
    "ingested": "2026-11-11T21:58:10.807091+00:00",
    "headline": "Nvidia's CEO Huang said to have had a relationship with an Nvidia executive - NYT $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847802,
-   "ts": "2026-11-11T21:47:00+00:00",
-   "ingested": "2026-11-11T21:51:30.805626+00:00",
-   "headline": "New Zealand External Migration & Visitors Actual 9.8% (Forecast -, Previous 8.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
