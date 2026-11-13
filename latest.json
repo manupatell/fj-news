@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T10:57:29.752292+00:00",
+ "updated": "2026-11-13T11:07:29.761810+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850740,
+   "ts": "2026-11-13T11:06:55+00:00",
+   "ingested": "2026-11-13T11:07:29.761284+00:00",
+   "headline": "Microsoft: Made additional progress toward service recovery $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850654,
    "ts": "2026-11-13T10:02:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T22:29:15+00:00",
    "ingested": "2026-11-11T22:29:50.815838+00:00",
    "headline": "Nvidia board preparing to meet as soon as today to decide CEO Jensen's future: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847852,
-   "ts": "2026-11-11T22:29:14+00:00",
-   "ingested": "2026-11-11T22:29:50.815849+00:00",
-   "headline": "Nvidia prepares to replace CEO Jensen Huang - WSJ. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
