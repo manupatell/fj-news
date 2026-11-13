@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T09:22:29.734229+00:00",
+ "updated": "2026-11-13T09:32:29.736018+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850626,
+   "ts": "2026-11-13T09:30:43+00:00",
+   "ingested": "2026-11-13T09:32:29.735469+00:00",
+   "headline": "Europe Sentiment: NVIDIA Still At The Center Of Attention - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850621,
    "ts": "2026-11-13T09:22:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T21:47:00+00:00",
    "ingested": "2026-11-11T21:51:30.805626+00:00",
    "headline": "New Zealand External Migration & Visitors Actual 9.8% (Forecast -, Previous 8.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847801,
-   "ts": "2026-11-11T21:45:00+00:00",
-   "ingested": "2026-11-11T21:46:30.811616+00:00",
-   "headline": "New Zealand Visitor Arrivals Actual 2290 (Forecast -, Previous 1,530)",
    "channel": "rss",
    "source": "financialjuice"
   }
