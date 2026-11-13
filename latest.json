@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T03:16:48.262079+00:00",
+ "updated": "2026-11-13T03:25:08.259848+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850192,
+   "ts": "2026-11-13T03:23:21+00:00",
+   "ingested": "2026-11-13T03:25:08.259368+00:00",
+   "headline": "S. Korea Sept M2 money supply rises 5.5% y/y vs 5.6% in Aug: C.Bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850191,
+   "ts": "2026-11-13T03:23:21+00:00",
+   "ingested": "2026-11-13T03:25:08.259389+00:00",
+   "headline": "Kraken investigating issue with data not updating for Kraken Pro US futures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850189,
    "ts": "2026-11-13T03:15:33+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T14:58:36+00:00",
    "ingested": "2026-11-11T14:59:50.367704+00:00",
    "headline": "UK's Chancellor Healey: We don't want US-style free-for-all in data centers.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847326,
-   "ts": "2026-11-11T14:53:06+00:00",
-   "ingested": "2026-11-11T14:54:50.304334+00:00",
-   "headline": "CoreWeave CEO Intrator: Our build plans are not being delayed or in any way transformed - CNBC. $CRWV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847325,
-   "ts": "2026-11-11T14:50:34+00:00",
-   "ingested": "2026-11-11T14:51:30.283586+00:00",
-   "headline": "CoreWeave CEO Intrator: NVIDIA is not one person, and they will continue to be a great partner for us - CNBC. $CRWV $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
