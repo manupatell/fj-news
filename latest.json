@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:26:50.009092+00:00",
+ "updated": "2026-11-13T17:28:29.998206+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851322,
+   "ts": "2026-11-13T17:26:59+00:00",
+   "ingested": "2026-11-13T17:28:29.997800+00:00",
+   "headline": "Fed's Daly: I'm looking at how the gap between consumer sentiment and behavior gets closed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851321,
    "ts": "2026-11-13T17:25:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T11:53:26+00:00",
    "ingested": "2026-11-12T13:05:56.276389+00:00",
    "headline": "NATO's Rutte: Positive news out of Abu Dhabi talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848847,
-   "ts": "2026-11-12T11:53:16+00:00",
-   "ingested": "2026-11-12T13:05:56.276399+00:00",
-   "headline": "NATO's route: we need to make sure Ukraine is as strong as possible in this fight, negotiations with Russia",
    "channel": "rss",
    "source": "financialjuice"
   }
