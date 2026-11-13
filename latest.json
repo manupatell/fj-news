@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T23:24:01.929219+00:00",
+ "updated": "2026-11-13T23:25:41.926622+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851731,
+   "ts": "2026-11-13T23:25:25+00:00",
+   "ingested": "2026-11-13T23:25:41.926298+00:00",
+   "headline": "Some US airlines may halt operations for rest of Friday if services don\u2019t resume soon: airline officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851730,
    "ts": "2026-11-13T23:23:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:49:58+00:00",
    "ingested": "2026-11-12T15:51:48.130350+00:00",
    "headline": "Fed's Barr: Agentic AI will be a big issue for banks trying to ensure the al tool is acting on customer instructions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849243,
-   "ts": "2026-11-12T15:45:29+00:00",
-   "ingested": "2026-11-12T15:46:48.175223+00:00",
-   "headline": "Fed's Barr: Banks are \"very focused\" on AI risk controls and use standards",
    "channel": "rss",
    "source": "financialjuice"
   }
