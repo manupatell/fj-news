@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T21:13:50.066012+00:00",
+ "updated": "2026-11-13T21:17:10.055809+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851588,
+   "ts": "2026-11-13T21:16:44+00:00",
+   "ingested": "2026-11-13T21:17:10.055517+00:00",
+   "headline": "Soros Fund Management LLC raises its share stake in Micron Technology by 58.9% to 35,618 shares - SEC filing, and raises its share stake in Intel to 2.8 million shares $INTC $MSCI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851586,
+   "ts": "2026-11-13T21:16:07+00:00",
+   "ingested": "2026-11-13T21:17:10.055531+00:00",
+   "headline": "FAA: Nationwide departure ground stop due to several impacts to ATC frequencies and/or radar capabilities - The Air Current",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851579,
    "ts": "2026-11-13T21:13:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T14:18:36+00:00",
    "ingested": "2026-11-12T14:19:46.249632+00:00",
    "headline": "US House Speaker Johnson: I think there's a developing consensus in Congress on export controls.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849107,
-   "ts": "2026-11-12T14:17:15+00:00",
-   "ingested": "2026-11-12T14:18:06.229545+00:00",
-   "headline": "Fed's Hammack: Financial conditions are supportive of growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849082,
-   "ts": "2026-11-12T14:09:11+00:00",
-   "ingested": "2026-11-12T14:09:46.231998+00:00",
-   "headline": "Fed's Hammack: Very interested to see what task forces weigh in with.",
    "channel": "rss",
    "source": "financialjuice"
   }
