@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T22:03:50.062224+00:00",
+ "updated": "2026-11-13T22:05:30.082725+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851654,
+   "ts": "2026-11-13T22:03:55+00:00",
+   "ingested": "2026-11-13T22:05:30.082338+00:00",
+   "headline": "US FAA: temporary telecom outage leads to precautionary halt of all flights",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851653,
+   "ts": "2026-11-13T22:03:45+00:00",
+   "ingested": "2026-11-13T22:05:30.082351+00:00",
+   "headline": "UK Ministry of Defence: working closely to establish facts, updates to follow",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851652,
    "ts": "2026-11-13T22:03:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T15:03:01+00:00",
    "ingested": "2026-11-12T15:04:48.121004+00:00",
    "headline": "Fed's Barr Speaks - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849189,
-   "ts": "2026-11-12T15:01:57+00:00",
-   "ingested": "2026-11-12T15:03:08.114248+00:00",
-   "headline": "Alice Huang\u2019s companies invested in DeepSeek - The Information. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849183,
-   "ts": "2026-11-12T15:00:52+00:00",
-   "ingested": "2026-11-12T15:01:26.251871+00:00",
-   "headline": "Fed's Barr: Outcome depends in part on whether al leads to market concentration, a force for widening inequality, or more competition and more widely distributed gains.",
    "channel": "rss",
    "source": "financialjuice"
   }
