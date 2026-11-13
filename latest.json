@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T23:59:47.670914+00:00",
+ "updated": "2026-11-13T00:03:07.747292+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849931,
+   "ts": "2026-11-13T00:02:22+00:00",
+   "ingested": "2026-11-13T00:03:07.747048+00:00",
+   "headline": "Senate banking chairman calls Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849914,
    "ts": "2026-11-12T23:58:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T12:01:14+00:00",
    "ingested": "2026-11-11T12:03:00.236171+00:00",
    "headline": "IBM quantum nighthawk R3 to execute 10,000 operations on 520 qubits $IBM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847083,
-   "ts": "2026-11-11T12:00:34+00:00",
-   "ingested": "2026-11-11T12:01:20.237340+00:00",
-   "headline": "ECB's Makhlouf: Upside risks to inflation remain.",
    "channel": "rss",
    "source": "financialjuice"
   }
