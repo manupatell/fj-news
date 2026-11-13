@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T01:52:43.410295+00:00",
+ "updated": "2026-11-13T02:01:03.482686+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850057,
+   "ts": "2026-11-13T02:00:23+00:00",
+   "ingested": "2026-11-13T02:01:03.482351+00:00",
+   "headline": "Microsoft on outage: positive outcomes from efforts to restart affected infrastructure and restore server availability separately",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850028,
    "ts": "2026-11-13T01:41:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T14:20:51+00:00",
    "ingested": "2026-11-11T14:21:30.271955+00:00",
    "headline": "House China Panel Chair Moolenaar: Given Nvidia CEO until end of business today. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847278,
-   "ts": "2026-11-11T14:18:50+00:00",
-   "ingested": "2026-11-11T14:19:50.268557+00:00",
-   "headline": "Iran's Security Chief Rezaei to Lebanon's al Mayadeen: We are working on nuclear-powered ships and submarines, so we need our enriched materials.",
    "channel": "rss",
    "source": "financialjuice"
   }
