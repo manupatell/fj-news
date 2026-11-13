@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T22:37:10.107578+00:00",
+ "updated": "2026-11-13T22:45:41.941826+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851688,
+   "ts": "2026-11-13T22:44:21+00:00",
+   "ingested": "2026-11-13T22:45:41.941403+00:00",
+   "headline": "US FAA outages include air traffic control radar and radio frequencies: CNN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851687,
+   "ts": "2026-11-13T22:44:18+00:00",
+   "ingested": "2026-11-13T22:45:41.941420+00:00",
+   "headline": "Saudi civil defense issues warning about possible threat in Najran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851661,
    "ts": "2026-11-13T22:09:09+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T15:40:53+00:00",
    "ingested": "2026-11-12T15:41:48.151510+00:00",
    "headline": "Fed's Barr: There is a lot of pressure on input prices in AI, which is spilling into things like phones, computers, and gaming consoles.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849237,
-   "ts": "2026-11-12T15:40:17+00:00",
-   "ingested": "2026-11-12T15:41:48.151524+00:00",
-   "headline": "Fed's Barr: At this point AI impact is mostly on prices, while giving a boost to investment and GDP",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849236,
-   "ts": "2026-11-12T15:37:36+00:00",
-   "ingested": "2026-11-12T15:38:28.128885+00:00",
-   "headline": "Fed's Barr: Fed focused on AI liabilities and potential shocks",
    "channel": "rss",
    "source": "financialjuice"
   }
