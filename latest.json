@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-13T04:56:48.283659+00:00",
+ "updated": "2026-11-13T05:06:48.338841+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850315,
+   "ts": "2026-11-13T05:06:27+00:00",
+   "ingested": "2026-11-13T05:06:48.338367+00:00",
+   "headline": "German budget committee backs 2027 budget, paving way for parliamentary approval - document",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850314,
+   "ts": "2026-11-13T05:06:26+00:00",
+   "ingested": "2026-11-13T05:06:48.338389+00:00",
+   "headline": "Germany's 2027 core budget includes 123 billion euros in debt - document",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850313,
+   "ts": "2026-11-13T05:06:26+00:00",
+   "ingested": "2026-11-13T05:06:48.338409+00:00",
+   "headline": "Germany 2027 budget includes total spending of 561 billion euros, investment 62 billion euros: document",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850272,
    "ts": "2026-11-13T04:46:01+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-11T15:18:20+00:00",
    "ingested": "2026-11-11T15:19:50.305714+00:00",
    "headline": "Crypto Fear and Greed Index: 29/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847382,
-   "ts": "2026-11-11T15:17:37+00:00",
-   "ingested": "2026-11-11T15:18:10.288825+00:00",
-   "headline": "Fear and Greed Index: 37/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847361,
-   "ts": "2026-11-11T15:13:17+00:00",
-   "ingested": "2026-11-11T15:14:50.285416+00:00",
-   "headline": "Bessent confronts Lutnick over China inaction - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847360,
-   "ts": "2026-11-11T15:10:06+00:00",
-   "ingested": "2026-11-11T15:11:30.290390+00:00",
-   "headline": "UK's Chancellor Healey on headroom: Use when you need it, rebuild when you can.",
    "channel": "rss",
    "source": "financialjuice"
   }
