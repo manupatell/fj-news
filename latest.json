@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T23:55:41.936265+00:00",
+ "updated": "2026-11-13T23:57:21.942648+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851755,
+   "ts": "2026-11-13T23:57:03+00:00",
+   "ingested": "2026-11-13T23:57:21.942300+00:00",
+   "headline": "Microsoft: no sign FAA nationwide ground stop involves Microsoft services",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851754,
    "ts": "2026-11-13T23:54:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:59:46+00:00",
    "ingested": "2026-11-12T16:00:08.137440+00:00",
    "headline": "ECB's Vujcic: Direction of travel on rates remains unchanged",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849262,
-   "ts": "2026-11-12T15:58:26+00:00",
-   "ingested": "2026-11-12T16:00:08.137456+00:00",
-   "headline": "Foreign Affairs Committee Chair Mast: Huang has agreed to testify to lawmakers. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
