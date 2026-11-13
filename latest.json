@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T22:49:01.926146+00:00",
+ "updated": "2026-11-13T22:50:41.924851+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851701,
+   "ts": "2026-11-13T22:49:45+00:00",
+   "ingested": "2026-11-13T22:50:41.924486+00:00",
+   "headline": "US FAA: As enroute facilities recover, flights will be permitted to depart through coordination with air traffic control system command center",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851700,
+   "ts": "2026-11-13T22:49:23+00:00",
+   "ingested": "2026-11-13T22:50:41.924500+00:00",
+   "headline": "US FAA: FAA command center ground halt remains in effect",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851699,
    "ts": "2026-11-13T22:48:44+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T15:43:09+00:00",
    "ingested": "2026-11-12T15:43:28.113926+00:00",
    "headline": "Fed's Barr: If AI adoption happens rapidly, the labor adjustment may be more difficult",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849240,
-   "ts": "2026-11-12T15:42:46+00:00",
-   "ingested": "2026-11-12T15:43:28.113942+00:00",
-   "headline": "Nexperia Officals: Assessing investor interest in Nexperia.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849239,
-   "ts": "2026-11-12T15:41:33+00:00",
-   "ingested": "2026-11-12T15:41:48.151492+00:00",
-   "headline": "Fed's Barr: Not currently seeing a big labor market impact from AI, though it may be part of low hiring for younger workers and some jobs.",
    "channel": "rss",
    "source": "financialjuice"
   }
