@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T04:28:28.279514+00:00",
+ "updated": "2026-11-13T04:38:28.283525+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850262,
+   "ts": "2026-11-13T04:38:04+00:00",
+   "ingested": "2026-11-13T04:38:28.283107+00:00",
+   "headline": "Microsoft on outage: noting partial recovery in regions with applied adjustments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850261,
+   "ts": "2026-11-13T04:37:26+00:00",
+   "ingested": "2026-11-13T04:38:28.283127+00:00",
+   "headline": "Microsoft on outage: noticing partial restoration across regions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850213,
    "ts": "2026-11-13T03:38:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T15:03:46+00:00",
    "ingested": "2026-11-11T15:04:50.283393+00:00",
    "headline": "China's Foreign Minister Wang Yi: Willing to strengthen communication, cooperation with US - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847349,
-   "ts": "2026-11-11T15:03:05+00:00",
-   "ingested": "2026-11-11T15:04:50.283411+00:00",
-   "headline": "China's Foreign Minister Wang Yi holds positive and constructive talks with US Secretary of State Rubio - Xinhua.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847328,
-   "ts": "2026-11-11T14:59:41+00:00",
-   "ingested": "2026-11-11T15:01:30.281254+00:00",
-   "headline": "UK's Chancellor Healey: We're ready to say no to data centers that bring no benefits.",
    "channel": "rss",
    "source": "financialjuice"
   }
