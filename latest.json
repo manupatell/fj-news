@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T12:57:29.794917+00:00",
+ "updated": "2026-11-13T12:59:09.795345+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850860,
+   "ts": "2026-11-13T12:58:18+00:00",
+   "ingested": "2026-11-13T12:59:09.794854+00:00",
+   "headline": "UBS FX Forecasts - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850859,
    "ts": "2026-11-13T12:56:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T23:29:29+00:00",
    "ingested": "2026-11-11T23:37:17.279490+00:00",
    "headline": "Saudi civil defence: debris fell after destruction of two ballistic missiles aimed at Mecca",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847908,
-   "ts": "2026-11-11T23:22:28+00:00",
-   "ingested": "2026-11-11T23:37:17.279499+00:00",
-   "headline": "Nvidia board meeting Wednesday to determine if CEO Jensen Huang will be removed: source",
    "channel": "rss",
    "source": "financialjuice"
   }
