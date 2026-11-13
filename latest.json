@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:25:10.003026+00:00",
+ "updated": "2026-11-13T17:26:50.009092+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851321,
+   "ts": "2026-11-13T17:25:19+00:00",
+   "ingested": "2026-11-13T17:26:50.008747+00:00",
+   "headline": "Fed's Daly: Consumer spending surprisingly resilient.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851320,
    "ts": "2026-11-13T17:24:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T11:53:16+00:00",
    "ingested": "2026-11-12T13:05:56.276399+00:00",
    "headline": "NATO's route: we need to make sure Ukraine is as strong as possible in this fight, negotiations with Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848828,
-   "ts": "2026-11-12T11:38:40+00:00",
-   "ingested": "2026-11-12T13:05:56.276410+00:00",
-   "headline": "Oman emergency committee discusses response to oil tanker running aground off Al Qibliyah Island - State TV",
    "channel": "rss",
    "source": "financialjuice"
   }
