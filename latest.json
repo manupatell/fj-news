@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T00:09:47.675846+00:00",
+ "updated": "2026-11-13T00:11:27.689603+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849937,
+   "ts": "2026-11-13T00:10:02+00:00",
+   "ingested": "2026-11-13T00:11:27.689180+00:00",
+   "headline": "Fed's Williams: attempting to reduce overall price levels may cause poor economic conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849936,
    "ts": "2026-11-13T00:09:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T12:49:16+00:00",
    "ingested": "2026-11-11T12:49:40.240163+00:00",
    "headline": "Kremlin: Putin to meet Witkoff and Kushner Nov. 12th - Kommersant",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847132,
-   "ts": "2026-11-11T12:32:59+00:00",
-   "ingested": "2026-11-11T12:34:40.320645+00:00",
-   "headline": "German Finance Minister: German AAA rating not in danger",
    "channel": "rss",
    "source": "financialjuice"
   }
