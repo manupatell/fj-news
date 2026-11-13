@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-13T07:56:48.358903+00:00",
+ "updated": "2026-11-13T08:01:48.357730+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850485,
+   "ts": "2026-11-13T08:01:23+00:00",
+   "ingested": "2026-11-13T08:01:48.357184+00:00",
+   "headline": "Currency Strength Chart: Strongest: EUR, JPY, USD, CAD, CHF, GBP, NZD, AUD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850481,
+   "ts": "2026-11-13T08:00:01+00:00",
+   "ingested": "2026-11-13T08:01:48.357205+00:00",
+   "headline": "Spanish HICP Final MoM Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850480,
+   "ts": "2026-11-13T08:00:01+00:00",
+   "ingested": "2026-11-13T08:01:48.357223+00:00",
+   "headline": "Spanish CPI MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850479,
+   "ts": "2026-11-13T08:00:01+00:00",
+   "ingested": "2026-11-13T08:01:48.357238+00:00",
+   "headline": "Spanish HICP Final YoY Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850478,
+   "ts": "2026-11-13T08:00:01+00:00",
+   "ingested": "2026-11-13T08:01:48.357252+00:00",
+   "headline": "Spanish CPI YoY Final Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850469,
    "ts": "2026-11-13T07:45:00+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-11T18:35:35+00:00",
    "ingested": "2026-11-11T18:37:10.748083+00:00",
    "headline": "Yemen's Houthis: Attacked pumping station in Yanbu region with drone",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847604,
-   "ts": "2026-11-11T18:29:50+00:00",
-   "ingested": "2026-11-11T18:30:30.745623+00:00",
-   "headline": "BoE's Green: It is appropriate to proactively tighten our monetary policy stance to lean against the risk of wage growth getting stuck at higher levels - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847602,
-   "ts": "2026-11-11T18:24:11+00:00",
-   "ingested": "2026-11-11T18:25:30.742798+00:00",
-   "headline": "A growing number of Republicans on Capitol Hill want to draft Marco Rubio for a 2028 presidential bid - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847598,
-   "ts": "2026-11-11T18:17:07+00:00",
-   "ingested": "2026-11-11T18:18:20.780931+00:00",
-   "headline": "Google launches Gemini Decisions API with Decision 1 Model priced at $0.10 per 1 mln input tokens. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847583,
-   "ts": "2026-11-11T18:07:36+00:00",
-   "ingested": "2026-11-11T18:08:20.754062+00:00",
-   "headline": "CENTCOM: US forces continue operations to keep Strait of Hormuz open, enforce naval blockade against Iran and prevent IRGC weapons, sanctioned materials and revenue flows via land routes, Caspian Sea.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847582,
-   "ts": "2026-11-11T18:04:27+00:00",
-   "ingested": "2026-11-11T18:05:00.753685+00:00",
-   "headline": "Iran attacks shipping navigation systems on Oman's Didamar island, sources",
    "channel": "rss",
    "source": "financialjuice"
   }
