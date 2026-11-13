@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:46:50.029060+00:00",
+ "updated": "2026-11-13T17:48:30.005045+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851346,
+   "ts": "2026-11-13T17:46:51+00:00",
+   "ingested": "2026-11-13T17:48:30.004709+00:00",
+   "headline": "Fed's Daly: Just starting to hear that the consumer may be running out of gas.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851335,
    "ts": "2026-11-13T17:46:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T12:23:19+00:00",
    "ingested": "2026-11-12T13:05:56.276308+00:00",
    "headline": "US Envoy Kushner: The US has begun discussions with European partners on the continent's security architecture - TASS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848869,
-   "ts": "2026-11-12T12:07:47+00:00",
-   "ingested": "2026-11-12T13:05:56.276320+00:00",
-   "headline": "Putin starts meeting with US envoys Witkoff and Kushner - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
