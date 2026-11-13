@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-13T17:18:30.016653+00:00",
+ "updated": "2026-11-13T17:20:10.093792+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851301,
+   "ts": "2026-11-13T17:19:39+00:00",
+   "ingested": "2026-11-13T17:20:10.093451+00:00",
+   "headline": "Fed's Daly: Bias is that rates need to go up.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851300,
+   "ts": "2026-11-13T17:19:29+00:00",
+   "ingested": "2026-11-13T17:20:10.093464+00:00",
+   "headline": "Fed's Daly: Overlapping shocks changed underlying rate of inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851299,
+   "ts": "2026-11-13T17:18:59+00:00",
+   "ingested": "2026-11-13T17:20:10.093473+00:00",
+   "headline": "Anthropic's Amodei: Compute is deepest business dilemma",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851298,
    "ts": "2026-11-13T17:17:59+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-12T11:04:23+00:00",
    "ingested": "2026-11-12T13:05:56.276497+00:00",
    "headline": "EU's Kallas: Would very much like to see Britain back in Europe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848771,
-   "ts": "2026-11-12T10:56:16+00:00",
-   "ingested": "2026-11-12T13:05:56.276508+00:00",
-   "headline": "EU's Kallas: We don't see any goodwill from Russia's side",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848758,
-   "ts": "2026-11-12T10:45:23+00:00",
-   "ingested": "2026-11-12T10:45:49.119060+00:00",
-   "headline": "Albania's PM: Next NATO maybe in 2028, timing is not clear yet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848756,
-   "ts": "2026-11-12T10:45:12+00:00",
-   "ingested": "2026-11-12T10:45:49.119075+00:00",
-   "headline": "Albania's PM: Next NATO summit for sure not in 2027",
    "channel": "rss",
    "source": "financialjuice"
   }
