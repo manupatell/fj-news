@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:21:50.002976+00:00",
+ "updated": "2026-11-13T17:23:30.000289+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851308,
+   "ts": "2026-11-13T17:23:00+00:00",
+   "ingested": "2026-11-13T17:23:29.999910+00:00",
+   "headline": "Fed's Daly: A myriad of things are pushing up inflation, which makes it concerning.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851304,
    "ts": "2026-11-13T17:21:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T11:15:47+00:00",
    "ingested": "2026-11-12T13:05:56.276432+00:00",
    "headline": "Poll: ECB to hike deposit rate to 2.75% in December, said all 71 economists (64 of 73 economists in October poll)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848787,
-   "ts": "2026-11-12T11:11:00+00:00",
-   "ingested": "2026-11-12T13:05:56.276442+00:00",
-   "headline": "Germany's Merz: Europeans need to be involved in Ukraine talks",
    "channel": "rss",
    "source": "financialjuice"
   }
