@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T13:05:49.847022+00:00",
+ "updated": "2026-11-13T13:08:29.803234+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850894,
+   "ts": "2026-11-13T13:07:50+00:00",
+   "ingested": "2026-11-13T13:08:29.802681+00:00",
+   "headline": "US Treasury Secretary Bessent questions Nvidia's ability to control where chips go $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850893,
+   "ts": "2026-11-13T13:07:32+00:00",
+   "ingested": "2026-11-13T13:08:29.802700+00:00",
+   "headline": "US Treasury Secretary Bessent: Did Nvidia know its clients, and did it aim to stop leaks? $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850892,
    "ts": "2026-11-13T13:05:25+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T23:51:59+00:00",
    "ingested": "2026-11-11T23:55:47.191645+00:00",
    "headline": "Foreign Investment Japanese Stocks Actual -105.2B (Forecast -, Previous 1,129.3B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847946,
-   "ts": "2026-11-11T23:50:36+00:00",
-   "ingested": "2026-11-11T23:50:47.204949+00:00",
-   "headline": "Japanese Foreign Stock Investment Actual -643.9B (Forecast -, Previous 1,077.7B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847945,
-   "ts": "2026-11-11T23:50:36+00:00",
-   "ingested": "2026-11-11T23:50:47.204961+00:00",
-   "headline": "Foreign Investment Japanese Bonds Actual 1371.1B (Forecast -, Previous 1,481.7B)",
    "channel": "rss",
    "source": "financialjuice"
   }
