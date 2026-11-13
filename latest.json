@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T05:46:48.306192+00:00",
+ "updated": "2026-11-13T05:56:48.305000+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850354,
+   "ts": "2026-11-13T05:56:28+00:00",
+   "ingested": "2026-11-13T05:56:48.304605+00:00",
+   "headline": "Microsoft on outage: no signs of malicious activity causing incident",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850343,
    "ts": "2026-11-13T05:45:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T16:10:28+00:00",
    "ingested": "2026-11-11T17:23:20.771121+00:00",
    "headline": "Russian Foreign Ministry: Russia's ambassador to US Darchiev dies - TASS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847439,
-   "ts": "2026-11-11T16:02:32+00:00",
-   "ingested": "2026-11-11T17:23:20.771133+00:00",
-   "headline": "Meta\u2019s head of infrastructure, engineering to step down in 2027, to be succeeded by Brown. $META",
    "channel": "rss",
    "source": "financialjuice"
   }
