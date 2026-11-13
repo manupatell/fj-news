@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:20:09.806390+00:00",
+ "updated": "2026-11-13T13:21:49.803804+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850929,
+   "ts": "2026-11-13T13:20:15+00:00",
+   "ingested": "2026-11-13T13:21:49.803282+00:00",
+   "headline": "US Treasury Secretary Bessent: With gasoline down, we are likely to get a benign number next week, adds markets are resilient.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850928,
    "ts": "2026-11-13T13:19:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T00:34:17+00:00",
    "ingested": "2026-11-12T00:35:47.235340+00:00",
    "headline": "South Korea's Lee to participate in Apec summit in Shenzhen on November 18-19: Korean presidential office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847989,
-   "ts": "2026-11-12T00:34:17+00:00",
-   "ingested": "2026-11-12T00:35:47.235349+00:00",
-   "headline": "South Korea presidential office: anticipates progress on Ukraine issues after productive talks in Paris",
    "channel": "rss",
    "source": "financialjuice"
   }
