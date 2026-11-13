@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T01:34:23.395654+00:00",
+ "updated": "2026-11-13T01:42:43.413015+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850028,
+   "ts": "2026-11-13T01:41:40+00:00",
+   "ingested": "2026-11-13T01:42:43.412788+00:00",
+   "headline": "China finance ministry auctions 1-month deposits at 1.30% yield: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850019,
    "ts": "2026-11-13T01:23:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T14:18:50+00:00",
    "ingested": "2026-11-11T14:19:50.268557+00:00",
    "headline": "Iran's Security Chief Rezaei to Lebanon's al Mayadeen: We are working on nuclear-powered ships and submarines, so we need our enriched materials.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847257,
-   "ts": "2026-11-11T14:06:13+00:00",
-   "ingested": "2026-11-11T14:06:30.264489+00:00",
-   "headline": "SuperMicro ships H15 servers with 6th gen AMD EPYC 9006 CPUs.",
    "channel": "rss",
    "source": "financialjuice"
   }
