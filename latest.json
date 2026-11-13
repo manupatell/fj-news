@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T20:02:30.082859+00:00",
+ "updated": "2026-11-13T20:04:10.160385+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851493,
+   "ts": "2026-11-13T20:03:31+00:00",
+   "ingested": "2026-11-13T20:04:10.160037+00:00",
+   "headline": "The Fed prolongs pause on reserve management purchases to mid-December",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851492,
+   "ts": "2026-11-13T20:03:09+00:00",
+   "ingested": "2026-11-13T20:04:10.160049+00:00",
+   "headline": "The Fed to buy $14 billion of bills for MBS reinvestment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851483,
    "ts": "2026-11-13T20:01:33+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T13:43:34+00:00",
    "ingested": "2026-11-12T13:44:46.218860+00:00",
    "headline": "Fed's Hammack: Inflation is moving in the wrong direction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849016,
-   "ts": "2026-11-12T13:43:14+00:00",
-   "ingested": "2026-11-12T13:44:46.218869+00:00",
-   "headline": "Fed's Hammack: Fed has been missing on inflation mandate for years.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849015,
-   "ts": "2026-11-12T13:42:52+00:00",
-   "ingested": "2026-11-12T13:43:06.228203+00:00",
-   "headline": "Fed's Hammack: Fed is doing very well on job side of mandate.",
    "channel": "rss",
    "source": "financialjuice"
   }
