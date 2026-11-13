@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T13:18:29.802799+00:00",
+ "updated": "2026-11-13T13:20:09.806390+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850928,
+   "ts": "2026-11-13T13:19:54+00:00",
+   "ingested": "2026-11-13T13:20:09.805862+00:00",
+   "headline": "US Treasury Secretary Bessent: We will keep squeezing Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850927,
+   "ts": "2026-11-13T13:19:38+00:00",
+   "ingested": "2026-11-13T13:20:09.805879+00:00",
+   "headline": "US Treasury Secretary Bessent: Fed is supposed to look into future.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850925,
    "ts": "2026-11-13T13:17:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T00:34:17+00:00",
    "ingested": "2026-11-12T00:35:47.235349+00:00",
    "headline": "South Korea presidential office: anticipates progress on Ukraine issues after productive talks in Paris",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847961,
-   "ts": "2026-11-12T00:15:26+00:00",
-   "ingested": "2026-11-12T00:15:47.195931+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6797 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847959,
-   "ts": "2026-11-12T00:14:20+00:00",
-   "ingested": "2026-11-12T00:15:47.195942+00:00",
-   "headline": "Japan top currency diplomat Mimura: recent moves are too rapid",
    "channel": "rss",
    "source": "financialjuice"
   }
