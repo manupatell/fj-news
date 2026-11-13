@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T06:00:08.318609+00:00",
+ "updated": "2026-11-13T06:08:28.307852+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850365,
+   "ts": "2026-11-13T06:06:55+00:00",
+   "ingested": "2026-11-13T06:08:28.307429+00:00",
+   "headline": "Dollar/yen rises to 160.09, highest level since early September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850355,
    "ts": "2026-11-13T05:59:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T16:20:46+00:00",
    "ingested": "2026-11-11T17:23:20.771101+00:00",
    "headline": "WATCH LIVE: Trump Speaks 11:30 AM ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847441,
-   "ts": "2026-11-11T16:13:10+00:00",
-   "ingested": "2026-11-11T17:23:20.771112+00:00",
-   "headline": "Google is letting staff test a 'fast' new Gemini AI model named Hydrogen - Business Insider. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
