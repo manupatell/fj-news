@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T03:11:48.288263+00:00",
+ "updated": "2026-11-13T03:15:08.266346+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850187,
+   "ts": "2026-11-13T03:14:26+00:00",
+   "ingested": "2026-11-13T03:15:08.265829+00:00",
+   "headline": "Microsoft on outage: we've monitored status of applied changes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850186,
+   "ts": "2026-11-13T03:14:25+00:00",
+   "ingested": "2026-11-13T03:15:08.265850+00:00",
+   "headline": "To improve serviceability, confirmed service levels aren't meeting expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850185,
    "ts": "2026-11-13T03:11:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T14:34:39+00:00",
    "ingested": "2026-11-11T14:34:50.274787+00:00",
    "headline": "Russia's Ushakov: Europe format talks to weigh Abu Dhabi outcome - IFX.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847304,
-   "ts": "2026-11-11T14:34:34+00:00",
-   "ingested": "2026-11-11T14:34:50.274807+00:00",
-   "headline": "UK's Chancellor Healey aims to beat growth forecasts next year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847303,
-   "ts": "2026-11-11T14:34:19+00:00",
-   "ingested": "2026-11-11T14:34:50.274823+00:00",
-   "headline": "Kremlin: Putin-trUmp meeting at APEC being prepared - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
