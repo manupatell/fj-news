@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T17:13:30.024871+00:00",
+ "updated": "2026-11-13T17:15:10.000281+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851291,
+   "ts": "2026-11-13T17:13:21+00:00",
+   "ingested": "2026-11-13T17:15:09.999975+00:00",
+   "headline": "Fed's Daly: A good economy with one problem, inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851290,
    "ts": "2026-11-13T17:12:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T09:09:35+00:00",
    "ingested": "2026-11-12T09:10:49.081012+00:00",
    "headline": "This helps Russia kill more Ukrainians, carry out more precise strikes on Ukraine: Zelenskiy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848635,
-   "ts": "2026-11-12T09:09:27+00:00",
-   "ingested": "2026-11-12T09:10:49.081029+00:00",
-   "headline": "Ukrainian interceptors can't reach enough speed to intercept targets in time: Zelenskiy",
    "channel": "rss",
    "source": "financialjuice"
   }
