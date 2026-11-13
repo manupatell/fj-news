@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T13:35:09.809480+00:00",
+ "updated": "2026-11-13T13:36:49.818266+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850968,
+   "ts": "2026-11-13T13:35:09+00:00",
+   "ingested": "2026-11-13T13:36:49.817766+00:00",
+   "headline": "Traders price in less Fed tightening after PPI report.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850938,
    "ts": "2026-11-13T13:32:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T01:31:48+00:00",
    "ingested": "2026-11-12T01:33:27.232184+00:00",
    "headline": "BOJ's Asada: underlying inflation fluctuates around levels consistent with central bank's price target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848034,
-   "ts": "2026-11-12T01:31:17+00:00",
-   "ingested": "2026-11-12T01:31:47.231956+00:00",
-   "headline": "BOJ\u2019s Asada: financial conditions stay accommodative",
    "channel": "rss",
    "source": "financialjuice"
   }
