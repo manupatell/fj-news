@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T06:58:28.317299+00:00",
+ "updated": "2026-11-13T07:01:48.326163+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850407,
+   "ts": "2026-11-13T07:00:04+00:00",
+   "ingested": "2026-11-13T07:01:48.325747+00:00",
+   "headline": "German Wholesale Price Index YoY Actual 8.8% (Forecast -, Previous 8.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850406,
+   "ts": "2026-11-13T07:00:04+00:00",
+   "ingested": "2026-11-13T07:01:48.325769+00:00",
+   "headline": "German Wholesale Price Index MoM Actual 0.4% (Forecast -, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850381,
    "ts": "2026-11-13T06:28:15+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T16:24:06+00:00",
    "ingested": "2026-11-11T17:23:20.771063+00:00",
    "headline": "Iran's Parliament Speaker Ghalibaf: The ball is now in the Americans\u2019 court, and they must make a decision and announce it -  Al Jazeera",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847453,
-   "ts": "2026-11-11T16:23:58+00:00",
-   "ingested": "2026-11-11T17:23:20.771076+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: To reopen the Strait of Hormuz and resume talks, US has to fully implement Iran's 7 conditions - Al Jazeera",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847452,
-   "ts": "2026-11-11T16:22:53+00:00",
-   "ingested": "2026-11-11T17:23:20.771091+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: US has not yet given any official and specific response to the message and plan presented by Iran - Al Jazeera",
    "channel": "rss",
    "source": "financialjuice"
   }
