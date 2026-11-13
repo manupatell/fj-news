@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T22:45:41.941826+00:00",
+ "updated": "2026-11-13T22:49:01.926146+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851699,
+   "ts": "2026-11-13T22:48:44+00:00",
+   "ingested": "2026-11-13T22:49:01.925825+00:00",
+   "headline": "Saudi civil defense: danger has passed in Najran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851688,
    "ts": "2026-11-13T22:44:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T15:41:33+00:00",
    "ingested": "2026-11-12T15:41:48.151492+00:00",
    "headline": "Fed's Barr: Not currently seeing a big labor market impact from AI, though it may be part of low hiring for younger workers and some jobs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849238,
-   "ts": "2026-11-12T15:40:53+00:00",
-   "ingested": "2026-11-12T15:41:48.151510+00:00",
-   "headline": "Fed's Barr: There is a lot of pressure on input prices in AI, which is spilling into things like phones, computers, and gaming consoles.",
    "channel": "rss",
    "source": "financialjuice"
   }
