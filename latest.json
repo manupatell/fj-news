@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T20:42:20.065076+00:00",
+ "updated": "2026-11-13T20:49:00.062134+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851538,
+   "ts": "2026-11-13T20:47:28+00:00",
+   "ingested": "2026-11-13T20:49:00.061801+00:00",
+   "headline": "Iran's IRGC navy: Two oil tankers exploded and caught fire after striking naval mines while attempting to transit the Strait of Hormuz - State Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851522,
    "ts": "2026-11-13T20:32:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:44:37+00:00",
    "ingested": "2026-11-12T13:46:26.222883+00:00",
    "headline": "Fed's Hammack: Worries economy could form inflationary mindset.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849022,
-   "ts": "2026-11-12T13:44:30+00:00",
-   "ingested": "2026-11-12T13:44:46.218800+00:00",
-   "headline": "Fed's Hammack: Real price pressures coming from AI build-out",
    "channel": "rss",
    "source": "financialjuice"
   }
