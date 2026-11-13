@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T00:03:07.747292+00:00",
+ "updated": "2026-11-13T00:08:07.691899+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849933,
+   "ts": "2026-11-13T00:07:32+00:00",
+   "ingested": "2026-11-13T00:08:07.691639+00:00",
+   "headline": "Service may become unresponsive again after receiving traffic",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849932,
+   "ts": "2026-11-13T00:07:31+00:00",
+   "ingested": "2026-11-13T00:08:07.691651+00:00",
+   "headline": "Microsoft on outage: servers returned",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849931,
    "ts": "2026-11-13T00:02:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T12:05:57+00:00",
    "ingested": "2026-11-11T12:06:20.238205+00:00",
    "headline": "Anthropic discloses over $10b in new deals - Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847077,
-   "ts": "2026-11-11T12:01:59+00:00",
-   "ingested": "2026-11-11T12:06:20.238221+00:00",
-   "headline": "US MBA 30-Yr Mortgage Rate Actual 7.21% (Forecast -, Previous 7.30%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847085,
-   "ts": "2026-11-11T12:01:14+00:00",
-   "ingested": "2026-11-11T12:03:00.236171+00:00",
-   "headline": "IBM quantum nighthawk R3 to execute 10,000 operations on 520 qubits $IBM",
    "channel": "rss",
    "source": "financialjuice"
   }
