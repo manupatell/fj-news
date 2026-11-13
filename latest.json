@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T07:21:48.404884+00:00",
+ "updated": "2026-11-13T07:31:48.342611+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850454,
+   "ts": "2026-11-13T07:30:01+00:00",
+   "ingested": "2026-11-13T07:31:48.342124+00:00",
+   "headline": "Swiss PPI MoM Actual 0.9% (Forecast -, Previous 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850453,
+   "ts": "2026-11-13T07:30:00+00:00",
+   "ingested": "2026-11-13T07:31:48.342145+00:00",
+   "headline": "Swiss PPI YoY Actual 0.9% (Forecast -, Previous -0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850407,
    "ts": "2026-11-13T07:00:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T16:40:45+00:00",
    "ingested": "2026-11-11T17:23:20.771027+00:00",
    "headline": "Iran's Parliament Speaker Ghalibaf: We are ready to help Saudi Arabia and Ansar Allah resolve their differences if they ask us to - Al Jazeera",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847458,
-   "ts": "2026-11-11T16:31:03+00:00",
-   "ingested": "2026-11-11T17:23:20.771046+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: Americans traveled to Russia and asked Putin to talk to Iran in order to conduct direct talks between Iran and US - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847454,
-   "ts": "2026-11-11T16:24:06+00:00",
-   "ingested": "2026-11-11T17:23:20.771063+00:00",
-   "headline": "Iran's Parliament Speaker Ghalibaf: The ball is now in the Americans\u2019 court, and they must make a decision and announce it -  Al Jazeera",
    "channel": "rss",
    "source": "financialjuice"
   }
