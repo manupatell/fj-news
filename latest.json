@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T20:59:00.103314+00:00",
+ "updated": "2026-11-13T21:00:40.059438+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851545,
+   "ts": "2026-11-13T20:59:56+00:00",
+   "ingested": "2026-11-13T21:00:40.059121+00:00",
+   "headline": "The US government is $694.1b away from the $41.1t borrowing limit as of November 12th - US Treasury",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851544,
    "ts": "2026-11-13T20:58:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T13:49:28+00:00",
    "ingested": "2026-11-12T13:49:46.240192+00:00",
    "headline": "NVIDIA: Board initiating search for permanent CEO role.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849036,
-   "ts": "2026-11-12T13:48:49+00:00",
-   "ingested": "2026-11-12T13:49:46.240206+00:00",
-   "headline": "Nvidia names Colette Kress interim CEO $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
