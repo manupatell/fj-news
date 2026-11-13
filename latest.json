@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T10:02:29.741155+00:00",
+ "updated": "2026-11-13T10:07:29.770121+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850654,
+   "ts": "2026-11-13T10:02:08+00:00",
+   "ingested": "2026-11-13T10:07:29.769535+00:00",
+   "headline": "Eurozone Trade Balance NSA Actual -10.3B (Forecast -, Previous -16.1B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850651,
+   "ts": "2026-11-13T10:02:05+00:00",
+   "ingested": "2026-11-13T10:07:29.769553+00:00",
+   "headline": "Eurozone GDP QoQ Flash Estimate Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850657,
    "ts": "2026-11-13T10:00:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T22:29:14+00:00",
    "ingested": "2026-11-11T22:29:50.815849+00:00",
    "headline": "Nvidia prepares to replace CEO Jensen Huang - WSJ. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847851,
-   "ts": "2026-11-11T22:28:42+00:00",
-   "ingested": "2026-11-11T22:29:50.815859+00:00",
-   "headline": "Nvidia prepares to replace CEO Jensen Huang: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847850,
-   "ts": "2026-11-11T22:26:51+00:00",
-   "ingested": "2026-11-11T22:28:10.818190+00:00",
-   "headline": "eBay launches camera-first listing experience in Australia, France, Germany, Italy, the U.K. and the U.S.",
    "channel": "rss",
    "source": "financialjuice"
   }
