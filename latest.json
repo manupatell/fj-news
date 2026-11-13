@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T00:28:07.721073+00:00",
+ "updated": "2026-11-13T00:36:27.691940+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849966,
+   "ts": "2026-11-13T00:35:50+00:00",
+   "ingested": "2026-11-13T00:36:27.691688+00:00",
+   "headline": "Fed's Williams: US has economic tools to manage debt levels, political will needed for solution",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849965,
+   "ts": "2026-11-13T00:35:39+00:00",
+   "ingested": "2026-11-13T00:36:27.691701+00:00",
+   "headline": "Japan finmin katayama: to advance utility subsidies for winter, using reserve funds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849956,
    "ts": "2026-11-13T00:27:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-11T13:07:18+00:00",
    "ingested": "2026-11-11T13:08:00.265202+00:00",
    "headline": "Deutsche Bank's View on US CPI - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847179,
-   "ts": "2026-11-11T13:01:52+00:00",
-   "ingested": "2026-11-11T13:03:00.264603+00:00",
-   "headline": "Citi's Summary of JPY Weakness - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847163,
-   "ts": "2026-11-11T13:00:57+00:00",
-   "ingested": "2026-11-11T13:01:20.244316+00:00",
-   "headline": "Saudi Arabia tells OPEC it pumped 10.6m b/d in October",
    "channel": "rss",
    "source": "financialjuice"
   }
