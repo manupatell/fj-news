@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-13T02:06:03.427735+00:00",
+ "updated": "2026-11-13T02:09:23.601836+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850128,
+   "ts": "2026-11-13T02:08:21+00:00",
+   "ingested": "2026-11-13T02:09:23.601492+00:00",
+   "headline": "Democratic US Senator Chris Van Hollen: running for senate majority leader",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850127,
    "ts": "2026-11-13T02:05:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-11T14:23:36+00:00",
    "ingested": "2026-11-11T14:24:50.275392+00:00",
    "headline": "House China Panel Chair John Moolenaar: There is growing congress consensus on export control need.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847281,
-   "ts": "2026-11-11T14:23:06+00:00",
-   "ingested": "2026-11-11T14:24:50.275414+00:00",
-   "headline": "Russia: Its defence ministry will pick up the phone and speak to British Defence Minister Wes Streeting after he spoke of need to renew military-to-military ties.",
    "channel": "rss",
    "source": "financialjuice"
   }
