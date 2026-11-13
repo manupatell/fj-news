@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-13T03:01:48.248685+00:00",
+ "updated": "2026-11-13T03:11:48.288263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9850185,
+   "ts": "2026-11-13T03:11:24+00:00",
+   "ingested": "2026-11-13T03:11:48.287613+00:00",
+   "headline": "South Korea government: may suspend or cancel Google map export permit over serious breaches",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850184,
+   "ts": "2026-11-13T03:10:42+00:00",
+   "ingested": "2026-11-13T03:11:48.287636+00:00",
+   "headline": "South Korea government: confirms Google deleted coordinates for South Korean territory from Google Maps, Earth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9850183,
+   "ts": "2026-11-13T03:10:03+00:00",
+   "ingested": "2026-11-13T03:11:48.287654+00:00",
+   "headline": "South Korea government: Google to remove street view in and around all military and security sites",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9850173,
    "ts": "2026-11-13T03:00:04+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-11T14:34:19+00:00",
    "ingested": "2026-11-11T14:34:50.274823+00:00",
    "headline": "Kremlin: Putin-trUmp meeting at APEC being prepared - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847302,
-   "ts": "2026-11-11T14:33:53+00:00",
-   "ingested": "2026-11-11T14:34:50.274837+00:00",
-   "headline": "UK's Chancellor Healey: UK economy showing real resilience.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847301,
-   "ts": "2026-11-11T14:33:17+00:00",
-   "ingested": "2026-11-11T14:34:50.274851+00:00",
-   "headline": "Russia's Ushakov: Putin to meet Witkoff, Kushner Thursday morning - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9847300,
-   "ts": "2026-11-11T14:32:22+00:00",
-   "ingested": "2026-11-11T14:33:10.334391+00:00",
-   "headline": "Russia's Ushakov: Talks in Abu Dhabi were substantial and very useful \u2014 Ria",
    "channel": "rss",
    "source": "financialjuice"
   }
