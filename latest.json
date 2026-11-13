@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-13T22:02:10.093822+00:00",
+ "updated": "2026-11-13T22:03:50.062224+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851652,
+   "ts": "2026-11-13T22:03:31+00:00",
+   "ingested": "2026-11-13T22:03:50.061845+00:00",
+   "headline": "US FAA: every flight accounted for, international flights handled case by case",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851651,
+   "ts": "2026-11-13T22:03:29+00:00",
+   "ingested": "2026-11-13T22:03:50.061858+00:00",
+   "headline": "DHS Secretary Mullin on nationwide groundstop: not excluding any options at this stage",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851650,
+   "ts": "2026-11-13T22:03:29+00:00",
+   "ingested": "2026-11-13T22:03:50.061867+00:00",
+   "headline": "UK Ministry of Defence: USAF security forces acted on reports and situation resolved",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851649,
+   "ts": "2026-11-13T22:03:13+00:00",
+   "ingested": "2026-11-13T22:03:50.061877+00:00",
+   "headline": "UK Ministry of Defence: coordinating with relevant parties on reports of unauthorized drone activity at RAF Lakenheath this evening",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851638,
    "ts": "2026-11-13T22:01:42+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-12T15:00:52+00:00",
    "ingested": "2026-11-12T15:01:26.251871+00:00",
    "headline": "Fed's Barr: Outcome depends in part on whether al leads to market concentration, a force for widening inequality, or more competition and more widely distributed gains.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849182,
-   "ts": "2026-11-12T15:00:44+00:00",
-   "ingested": "2026-11-12T15:01:26.251889+00:00",
-   "headline": "Fed's Barr: There are signs AI is a substitute for labor in some sectors, and if change happens fast, 'dislocations might be large'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849181,
-   "ts": "2026-11-12T15:00:42+00:00",
-   "ingested": "2026-11-12T15:01:26.251902+00:00",
-   "headline": "Fed's Barr: Little displacement of workers so far, with competition among al firms allowing broad access to the technology.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849180,
-   "ts": "2026-11-12T15:00:31+00:00",
-   "ingested": "2026-11-12T15:01:26.251914+00:00",
-   "headline": "Fed's Barr: Noting declining share of income going to labor. It's an open question if AI further boosts returns to capital.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849179,
-   "ts": "2026-11-12T15:00:27+00:00",
-   "ingested": "2026-11-12T15:01:26.251926+00:00",
-   "headline": "Fed's Barr: US should be prepared for the risk of 'serious short-term disruptions! In the job market due to AI",
    "channel": "rss",
    "source": "financialjuice"
   }
