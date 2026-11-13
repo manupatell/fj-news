@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T17:23:30.000289+00:00",
+ "updated": "2026-11-13T17:25:10.003026+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851320,
+   "ts": "2026-11-13T17:24:28+00:00",
+   "ingested": "2026-11-13T17:25:10.002669+00:00",
+   "headline": "Anthropic's Amodei: Coding market for AI is starting to mature.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851319,
+   "ts": "2026-11-13T17:24:16+00:00",
+   "ingested": "2026-11-13T17:25:10.002682+00:00",
+   "headline": "Fed's Daly: More producers saying they want to pass on costs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851308,
    "ts": "2026-11-13T17:23:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T11:38:40+00:00",
    "ingested": "2026-11-12T13:05:56.276410+00:00",
    "headline": "Oman emergency committee discusses response to oil tanker running aground off Al Qibliyah Island - State TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848791,
-   "ts": "2026-11-12T11:16:02+00:00",
-   "ingested": "2026-11-12T13:05:56.276421+00:00",
-   "headline": "Poll: ECB deposit rate to peak at 2.75%, said 46 of 71 economists; 3.00% said 25 respondents",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9848790,
-   "ts": "2026-11-12T11:15:47+00:00",
-   "ingested": "2026-11-12T13:05:56.276432+00:00",
-   "headline": "Poll: ECB to hike deposit rate to 2.75% in December, said all 71 economists (64 of 73 economists in October poll)",
    "channel": "rss",
    "source": "financialjuice"
   }
