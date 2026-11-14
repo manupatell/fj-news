@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T00:00:41.962556+00:00",
+ "updated": "2026-11-14T00:05:41.944534+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851779,
+   "ts": "2026-11-14T00:04:14+00:00",
+   "ingested": "2026-11-14T00:05:41.944209+00:00",
+   "headline": "Nav Canada: traffic control measures at major airports lifted after 6 p.m. ET, systems functioning normally",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851767,
    "ts": "2026-11-14T00:00:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:19:56+00:00",
    "ingested": "2026-11-12T16:20:08.145814+00:00",
    "headline": "Nvidia interim CEO Kress gathering executive team today at HQ - CNBC $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849310,
-   "ts": "2026-11-12T16:19:44+00:00",
-   "ingested": "2026-11-12T16:20:08.145830+00:00",
-   "headline": "Nvidia Interim CEO to gather executive team today at Headquarters - CNBC $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
