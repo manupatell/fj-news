@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T01:31:58.319499+00:00",
+ "updated": "2026-11-14T01:32:18.270171+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851840,
+   "ts": "2026-11-14T01:31:58+00:00",
+   "ingested": "2026-11-14T01:32:18.269854+00:00",
+   "headline": "US DHS Secretary Mullin: still navigating process",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851832,
    "ts": "2026-11-14T01:31:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:38:04+00:00",
    "ingested": "2026-11-12T16:38:28.132023+00:00",
    "headline": "White House expected in coming days to extend Jones Act waiver on shipping oil and commodities on foreign-flagged ships between US ports -- sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849353,
-   "ts": "2026-11-12T16:37:52+00:00",
-   "ingested": "2026-11-12T16:38:28.132038+00:00",
-   "headline": "Kremlin: Russia made clear NATO cannot expand any further",
    "channel": "rss",
    "source": "financialjuice"
   }
