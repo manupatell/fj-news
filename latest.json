@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T01:44:58.249252+00:00",
+ "updated": "2026-11-14T01:47:48.405833+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851863,
+   "ts": "2026-11-14T01:46:56+00:00",
+   "ingested": "2026-11-14T01:47:48.405482+00:00",
+   "headline": "US transportation secretary Duffy: network issue caused legacy system to fail",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851851,
    "ts": "2026-11-14T01:44:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:57:31+00:00",
    "ingested": "2026-11-12T16:58:28.143020+00:00",
    "headline": "Yemen's Houthis: We attacked pumping station in Saudi Arabia's east-west pipeline.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849389,
-   "ts": "2026-11-12T16:56:56+00:00",
-   "ingested": "2026-11-12T16:58:28.143031+00:00",
-   "headline": "Claude: Launching Claude for manufacturing.",
    "channel": "rss",
    "source": "financialjuice"
   }
