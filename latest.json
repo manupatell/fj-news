@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T01:43:18.266003+00:00",
+ "updated": "2026-11-14T01:44:58.249252+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851851,
+   "ts": "2026-11-14T01:44:20+00:00",
+   "ingested": "2026-11-14T01:44:58.248926+00:00",
+   "headline": "US DHS Secretary Mullin: no evidence incident involved cyberattack or artificial intelligence",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851850,
    "ts": "2026-11-14T01:42:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:56:56+00:00",
    "ingested": "2026-11-12T16:58:28.143031+00:00",
    "headline": "Claude: Launching Claude for manufacturing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849388,
-   "ts": "2026-11-12T16:55:36+00:00",
-   "ingested": "2026-11-12T16:56:48.133936+00:00",
-   "headline": "US probing if Alice Huang helped smuggle Super Micro products. $NVDA $SMCI",
    "channel": "rss",
    "source": "financialjuice"
   }
