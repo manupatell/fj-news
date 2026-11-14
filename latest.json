@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T01:29:58.310845+00:00",
+ "updated": "2026-11-14T01:31:58.319499+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851832,
+   "ts": "2026-11-14T01:31:45+00:00",
+   "ingested": "2026-11-14T01:31:58.319150+00:00",
+   "headline": "US DHS Secretary Mullin: no cyberattack reported",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851830,
+   "ts": "2026-11-14T01:31:35+00:00",
+   "ingested": "2026-11-14T01:31:58.319163+00:00",
+   "headline": "US DHS secretary Mullin: no link between this event and Microsoft",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851827,
    "ts": "2026-11-14T01:18:16+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T16:37:52+00:00",
    "ingested": "2026-11-12T16:38:28.132038+00:00",
    "headline": "Kremlin: Russia made clear NATO cannot expand any further",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849352,
-   "ts": "2026-11-12T16:37:36+00:00",
-   "ingested": "2026-11-12T16:38:28.132050+00:00",
-   "headline": "Kremlin: Putin and US envoys that Ukraine peace talks will continue.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849351,
-   "ts": "2026-11-12T16:37:10+00:00",
-   "ingested": "2026-11-12T16:38:28.132067+00:00",
-   "headline": "Goldman Sachs 2027 outlook: We forecast that nominal global AI investment will rise from $1.1 trln in 2026 to $1.8 trln in 2027, mostly driven by an increase of over $500 bln in hardware spending in the US",
    "channel": "rss",
    "source": "financialjuice"
   }
