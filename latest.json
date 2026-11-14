@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T20:16:03.021837+00:00",
+ "updated": "2026-11-14T20:19:23.031353+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852380,
+   "ts": "2026-11-14T20:18:55+00:00",
+   "ingested": "2026-11-14T20:19:23.030972+00:00",
+   "headline": "Kushner: focus now is on enabling direct talks between Moscow and European partners",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852379,
+   "ts": "2026-11-14T20:18:28+00:00",
+   "ingested": "2026-11-14T20:19:23.030989+00:00",
+   "headline": "US envoy Jared Kushner: Witkoff and | in close contact with Russia, Ukraine and European allies on next steps",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852314,
    "ts": "2026-11-14T16:31:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T19:00:55+00:00",
    "ingested": "2026-11-12T20:49:37.701692+00:00",
    "headline": "US October net customs receipts $19.22 bln vs $31.35 bln in October 2025.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849596,
-   "ts": "2026-11-12T19:00:43+00:00",
-   "ingested": "2026-11-12T20:49:37.701703+00:00",
-   "headline": "US Oct budget outlays $773 bln vs $689 bln in Oct 2025. Receipts $369 bln vs $404 bln in Oct 2025.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849594,
-   "ts": "2026-11-12T18:58:15+00:00",
-   "ingested": "2026-11-12T20:49:37.701711+00:00",
-   "headline": "US Federal Budget Balance Actual -404.064B (Forecast -317.5B, Previous -27.00B)",
    "channel": "rss",
    "source": "financialjuice"
   }
