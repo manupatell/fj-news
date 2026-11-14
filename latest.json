@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T00:37:42.053915+00:00",
+ "updated": "2026-11-14T00:39:21.957907+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851804,
+   "ts": "2026-11-14T00:38:49+00:00",
+   "ingested": "2026-11-14T00:39:21.957558+00:00",
+   "headline": "Fed's Jefferson: I have not seen political factors influence discussions at FOMC meetings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851803,
    "ts": "2026-11-14T00:36:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:31:48+00:00",
    "ingested": "2026-11-12T16:33:28.133598+00:00",
    "headline": "US 4-Week Bill High Yield Actual 3.955% (Forecast -, Previous 3.890%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849330,
-   "ts": "2026-11-12T16:31:47+00:00",
-   "ingested": "2026-11-12T16:33:28.133610+00:00",
-   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.94 (Forecast -, Previous 2.460)",
    "channel": "rss",
    "source": "financialjuice"
   }
