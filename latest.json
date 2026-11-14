@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T08:51:08.929353+00:00",
+ "updated": "2026-11-14T09:01:08.927584+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852141,
+   "ts": "2026-11-14T09:00:23+00:00",
+   "ingested": "2026-11-14T09:01:08.927279+00:00",
+   "headline": "Zelenskiy: Ukraine and Denmark discuss supplying 800,000 rounds for F-16 to cover six months' demand",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852140,
+   "ts": "2026-11-14T09:00:23+00:00",
+   "ingested": "2026-11-14T09:01:08.927292+00:00",
+   "headline": "Zelenskiy: Ukraine requires more funding for purl program to purchase weapons",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852128,
    "ts": "2026-11-14T08:30:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T18:05:25+00:00",
    "ingested": "2026-11-12T18:07:08.179753+00:00",
    "headline": "Google brings Gemini 4 Hydrogen to search globally. Adds visual, table-based AI responses $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849497,
-   "ts": "2026-11-12T18:03:56+00:00",
-   "ingested": "2026-11-12T18:05:28.177941+00:00",
-   "headline": "US 30-Year Bond Bid-to-Cover Actual 2.360 (Forecast -, Previous 2.540)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849510,
-   "ts": "2026-11-12T18:02:40+00:00",
-   "ingested": "2026-11-12T18:03:48.177893+00:00",
-   "headline": "US 30 Yr Note Auction",
    "channel": "rss",
    "source": "financialjuice"
   }
