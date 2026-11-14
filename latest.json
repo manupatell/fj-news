@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T01:36:38.240872+00:00",
+ "updated": "2026-11-14T01:37:18.287782+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851845,
+   "ts": "2026-11-14T01:37:00+00:00",
+   "ingested": "2026-11-14T01:37:18.287485+00:00",
+   "headline": "US transportation secretary Duffy: switches, routers truly overwhelmed with data, leading to failure",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851844,
    "ts": "2026-11-14T01:35:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:41:42+00:00",
    "ingested": "2026-11-12T16:43:28.137790+00:00",
    "headline": "Kremlin: Russia ready to start security talks immediately - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849358,
-   "ts": "2026-11-12T16:41:35+00:00",
-   "ingested": "2026-11-12T16:41:48.136407+00:00",
-   "headline": "Fed's Goolsbee: Plenty of room for the Fed to discuss policy options",
    "channel": "rss",
    "source": "financialjuice"
   }
