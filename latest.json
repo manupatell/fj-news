@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T15:00:01.469422+00:00",
+ "updated": "2026-11-14T15:10:11.494630+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852285,
+   "ts": "2026-11-14T15:09:00+00:00",
+   "ingested": "2026-11-14T15:10:11.494166+00:00",
+   "headline": "Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852270,
    "ts": "2026-11-14T14:38:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:38:58+00:00",
    "ingested": "2026-11-12T18:39:48.165458+00:00",
    "headline": "Fed's Daly: Markets are assisting.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849563,
-   "ts": "2026-11-12T18:38:21+00:00",
-   "ingested": "2026-11-12T18:39:48.165497+00:00",
-   "headline": "Fed's Daly: Tighter financial conditions give us more time to make decisions.",
    "channel": "rss",
    "source": "financialjuice"
   }
