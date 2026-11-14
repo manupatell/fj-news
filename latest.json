@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T00:32:21.978729+00:00",
+ "updated": "2026-11-14T00:37:42.053915+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851803,
+   "ts": "2026-11-14T00:36:26+00:00",
+   "ingested": "2026-11-14T00:37:42.053545+00:00",
+   "headline": "Fed vice chair Jefferson: debt or deficit concerns never influenced policy discussions at Fed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851790,
    "ts": "2026-11-14T00:31:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:31:47+00:00",
    "ingested": "2026-11-12T16:33:28.133610+00:00",
    "headline": "US 4-Week Bill Bid-to-Cover Actual 2.94 (Forecast -, Previous 2.460)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849327,
-   "ts": "2026-11-12T16:31:13+00:00",
-   "ingested": "2026-11-12T16:31:48.130894+00:00",
-   "headline": "Goldman Sachs 2027 outlook: Goldman Sachs expects global GDP to reach 2.8% in 2027.",
    "channel": "rss",
    "source": "financialjuice"
   }
