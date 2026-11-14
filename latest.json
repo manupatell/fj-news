@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T00:39:21.957907+00:00",
+ "updated": "2026-11-14T00:46:41.942615+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851810,
+   "ts": "2026-11-14T00:45:58+00:00",
+   "ingested": "2026-11-14T00:46:41.942290+00:00",
+   "headline": "Fed's Jefferson: FOMC to hear from Fed task forces within months or earlier",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851804,
    "ts": "2026-11-14T00:38:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:32:05+00:00",
    "ingested": "2026-11-12T16:33:28.133586+00:00",
    "headline": "Nvidia faces multiple Justice Dept. Probes - Semafor. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849331,
-   "ts": "2026-11-12T16:31:48+00:00",
-   "ingested": "2026-11-12T16:33:28.133598+00:00",
-   "headline": "US 4-Week Bill High Yield Actual 3.955% (Forecast -, Previous 3.890%)",
    "channel": "rss",
    "source": "financialjuice"
   }
