@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T05:02:48.866132+00:00",
+ "updated": "2026-11-14T05:06:08.876014+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852045,
+   "ts": "2026-11-14T05:04:32+00:00",
+   "ingested": "2026-11-14T05:06:08.875660+00:00",
+   "headline": "BoE\u2019s Pill signals further hikes likely needed in 2027 beyond December 17 increase - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852044,
    "ts": "2026-11-14T05:02:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T17:01:04+00:00",
    "ingested": "2026-11-12T17:01:48.134484+00:00",
    "headline": "US 30-yr fixed rate mortgage averages 7.11% in Nov 12 week vs 7.18% prior week - Freddie Mac",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849397,
-   "ts": "2026-11-12T17:00:15+00:00",
-   "ingested": "2026-11-12T17:01:48.134501+00:00",
-   "headline": "Democratic lawmakers to probe US approval of chip exports - CNBC",
    "channel": "rss",
    "source": "financialjuice"
   }
