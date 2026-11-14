@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T15:38:41.474062+00:00",
+ "updated": "2026-11-14T15:59:22.956319+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852294,
+   "ts": "2026-11-14T15:58:00+00:00",
+   "ingested": "2026-11-14T15:59:22.955960+00:00",
+   "headline": "Russia strikes cargo ship in Ukraine\u2019s Chornomorsk port: RIA cites Russian defense ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852285,
    "ts": "2026-11-14T15:09:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:39:14+00:00",
    "ingested": "2026-11-12T18:39:48.165447+00:00",
    "headline": "Fed's Daly: Exactly how much Fed tightening and when is a decision we don't need to make now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849565,
-   "ts": "2026-11-12T18:38:58+00:00",
-   "ingested": "2026-11-12T18:39:48.165458+00:00",
-   "headline": "Fed's Daly: Markets are assisting.",
    "channel": "rss",
    "source": "financialjuice"
   }
