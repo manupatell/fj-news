@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T21:36:03.050732+00:00",
+ "updated": "2026-11-14T21:48:03.872729+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852411,
+   "ts": "2026-11-14T21:46:40+00:00",
+   "ingested": "2026-11-14T21:48:03.872339+00:00",
+   "headline": "Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz - state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852389,
    "ts": "2026-11-14T20:56:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:05:25+00:00",
    "ingested": "2026-11-12T20:49:37.701663+00:00",
    "headline": "IRNA: The attack on Sirik was 'military' in nature.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849612,
-   "ts": "2026-11-12T19:04:07+00:00",
-   "ingested": "2026-11-12T20:49:37.701674+00:00",
-   "headline": "IRNA: Iran's Sirik in Hormozgan hit by \u2018enemy\u2019 fire.",
    "channel": "rss",
    "source": "financialjuice"
   }
