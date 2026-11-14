@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T03:53:08.265935+00:00",
+ "updated": "2026-11-14T03:59:48.267694+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851998,
+   "ts": "2026-11-14T03:59:32+00:00",
+   "ingested": "2026-11-14T03:59:48.267414+00:00",
+   "headline": "Microsoft on outage: services across previously impacted environments have been restored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851904,
    "ts": "2026-11-14T02:00:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T17:00:01+00:00",
    "ingested": "2026-11-12T17:01:48.134514+00:00",
    "headline": "EIA Crude Oil Inventories Actual 4.657M (Forecast -1.483M, Previous -0.865M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849394,
-   "ts": "2026-11-12T17:00:01+00:00",
-   "ingested": "2026-11-12T17:01:48.134525+00:00",
-   "headline": "EIA Gasoline Inventories Actual 1.799M (Forecast -0.35M, Previous -0.222M)",
    "channel": "rss",
    "source": "financialjuice"
   }
