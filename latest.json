@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T13:43:09.493012+00:00",
+ "updated": "2026-11-14T13:51:29.497057+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852245,
+   "ts": "2026-11-14T13:51:02+00:00",
+   "ingested": "2026-11-14T13:51:29.496571+00:00",
+   "headline": "US transportation sec. Duffy: flight operations gradually returning to normal this morning",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852240,
    "ts": "2026-11-14T13:41:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:28:33+00:00",
    "ingested": "2026-11-12T18:29:48.159021+00:00",
    "headline": "Fed's Daly: Stable labor market, positive growth and productivity growth, and high inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849543,
-   "ts": "2026-11-12T18:25:33+00:00",
-   "ingested": "2026-11-12T18:26:28.167596+00:00",
-   "headline": "Fed's Daly: it's too early to say when AI productivity impact will arrive.",
    "channel": "rss",
    "source": "financialjuice"
   }
