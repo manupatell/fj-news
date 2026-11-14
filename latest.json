@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-14T14:23:09.499018+00:00",
+ "updated": "2026-11-14T14:31:29.501900+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852266,
+   "ts": "2026-11-14T14:30:05+00:00",
+   "ingested": "2026-11-14T14:31:29.501296+00:00",
+   "headline": "Fed's Collins: potential financial conditions to curb economy more than anticipated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852265,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501315+00:00",
+   "headline": "Fed's Collins: a strong case to keep rates steady at October FOMC meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852264,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501329+00:00",
+   "headline": "Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852263,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501346+00:00",
+   "headline": "Fed's Collins: job market in \u2018uncommon steadiness\u2019; may strengthen further",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852262,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501358+00:00",
+   "headline": "Fed's Collins: essential for Fed to reduce inflation to 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852261,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501371+00:00",
+   "headline": "Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852260,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501384+00:00",
+   "headline": "Fed\u2019s Collins: inflation expectations remain anchored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852259,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501396+00:00",
+   "headline": "Fed's Collins: longer-term inflation expectations likely to remain anchored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852258,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T14:31:29.501408+00:00",
+   "headline": "Fed\u2019s Collins: Best approach to high living costs is restoring inflation stability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852247,
    "ts": "2026-11-14T13:51:55+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-11-12T18:37:38+00:00",
    "ingested": "2026-11-12T18:38:08.212174+00:00",
    "headline": "Fed's Daly: But markets don't do the work of the Fed. Keeping prices stable is the job of the Fed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849560,
-   "ts": "2026-11-12T18:36:59+00:00",
-   "ingested": "2026-11-12T18:38:08.212186+00:00",
-   "headline": "Fed's Daly: I increasingly hear firms say going to pass on higher costs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849559,
-   "ts": "2026-11-12T18:36:17+00:00",
-   "ingested": "2026-11-12T18:36:28.166168+00:00",
-   "headline": "Fed's Daly: Inflation pressure is up, not down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849558,
-   "ts": "2026-11-12T18:35:34+00:00",
-   "ingested": "2026-11-12T18:36:28.166184+00:00",
-   "headline": "Fed's Daly: I'm comfortable with Sept. hike, further tightening needed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849557,
-   "ts": "2026-11-12T18:34:56+00:00",
-   "ingested": "2026-11-12T18:36:28.166197+00:00",
-   "headline": "Fed's Daly: Inflation is bleeding into services. Once services inflation rises it's sticky.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849556,
-   "ts": "2026-11-12T18:34:42+00:00",
-   "ingested": "2026-11-12T18:36:28.166207+00:00",
-   "headline": "Fed's Daly: Bias is that further tightening will be needed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849555,
-   "ts": "2026-11-12T18:34:34+00:00",
-   "ingested": "2026-11-12T18:34:49.043183+00:00",
-   "headline": "Fed's Daly: Inflation shocks can compound, we can't be complacent.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849550,
-   "ts": "2026-11-12T18:30:32+00:00",
-   "ingested": "2026-11-12T18:31:28.174493+00:00",
-   "headline": "Fed's Schmid Materials and labor costs may worsen housing affordability.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849547,
-   "ts": "2026-11-12T18:30:18+00:00",
-   "ingested": "2026-11-12T18:31:28.174510+00:00",
-   "headline": "Fed's Schmid does not comment on outlook or monetary policy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849546,
-   "ts": "2026-11-12T18:29:03+00:00",
-   "ingested": "2026-11-12T18:29:48.158994+00:00",
-   "headline": "Fed's Daly: Just because we have to fight inflation problem now doesn't mean we should ignore potential that productivity growth could be disinflationary.",
    "channel": "rss",
    "source": "financialjuice"
   }
