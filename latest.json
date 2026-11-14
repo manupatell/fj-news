@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T06:04:28.866161+00:00",
+ "updated": "2026-11-14T06:06:08.867934+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852068,
+   "ts": "2026-11-14T06:04:18+00:00",
+   "ingested": "2026-11-14T06:06:08.867584+00:00",
+   "headline": "BoE\u2019s Pill says market expectations implying rates near 5% in 2027 are \u2018not outrageous\u2019 - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852052,
    "ts": "2026-11-14T05:12:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:00:21+00:00",
    "ingested": "2026-11-12T18:01:58.175077+00:00",
    "headline": "Treasury WI 30 Yr yield 5.437% before $25 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849474,
-   "ts": "2026-11-12T17:47:15+00:00",
-   "ingested": "2026-11-12T17:48:28.193667+00:00",
-   "headline": "China in talks for $15 bln funds for insurance hub - WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
