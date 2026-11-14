@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T09:57:48.948803+00:00",
+ "updated": "2026-11-14T09:59:39.489022+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852167,
+   "ts": "2026-11-14T09:58:27+00:00",
+   "ingested": "2026-11-14T09:59:39.488274+00:00",
+   "headline": "IAEA: electrical grid instability from military action caused power cuts at some nuclear units in Ukraine this week",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852152,
    "ts": "2026-11-14T09:06:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:19:26+00:00",
    "ingested": "2026-11-12T18:20:08.167281+00:00",
    "headline": "Fed's Daly: We have an inflation problem, but AI is not doing most of the driving.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849536,
-   "ts": "2026-11-12T18:19:06+00:00",
-   "ingested": "2026-11-12T18:20:08.167291+00:00",
-   "headline": "Fed's Daly: AI having limited impact on labor market.",
    "channel": "rss",
    "source": "financialjuice"
   }
