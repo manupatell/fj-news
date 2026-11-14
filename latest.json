@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-14T09:01:08.927584+00:00",
+ "updated": "2026-11-14T09:04:28.924104+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852151,
+   "ts": "2026-11-14T09:03:36+00:00",
+   "ingested": "2026-11-14T09:04:28.923699+00:00",
+   "headline": "Russian defence ministry: its forces seize settlement of Tersianka in Ukraine's Zaporizhzhia region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852150,
+   "ts": "2026-11-14T09:03:28+00:00",
+   "ingested": "2026-11-14T09:04:28.923711+00:00",
+   "headline": "Zelenskiy says he believes NATO ties for Ukraine are back on agenda",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852149,
+   "ts": "2026-11-14T09:03:28+00:00",
+   "ingested": "2026-11-14T09:04:28.923720+00:00",
+   "headline": "Zelenskiy: US negotiators asked if Ukraine was prepared to cede Donbas for NATO accession",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852148,
+   "ts": "2026-11-14T09:03:26+00:00",
+   "ingested": "2026-11-14T09:04:28.923728+00:00",
+   "headline": "Zelenskiy: US envoys said Putin agreed to include Europe at next negotiation round",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852147,
+   "ts": "2026-11-14T09:03:25+00:00",
+   "ingested": "2026-11-14T09:04:28.923737+00:00",
+   "headline": "Zelenskiy: Russia unwilling to agree to energy ceasefire, lacked mandate to discuss in Abu Dhabi",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852146,
+   "ts": "2026-11-14T09:03:25+00:00",
+   "ingested": "2026-11-14T09:04:28.923745+00:00",
+   "headline": "Zelenskiy: asked European allies to decide by end of November who will represent Europe in peace talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852141,
    "ts": "2026-11-14T09:00:23+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-12T18:17:17+00:00",
    "ingested": "2026-11-12T18:18:08.180585+00:00",
    "headline": "Fed's Daly: AI is contributing directly only a modest amount to inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849519,
-   "ts": "2026-11-12T18:16:33+00:00",
-   "ingested": "2026-11-12T18:18:08.180601+00:00",
-   "headline": "Fed's Daly: No doubt of AI-fueled price pressures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849516,
-   "ts": "2026-11-12T18:15:05+00:00",
-   "ingested": "2026-11-12T18:16:28.159867+00:00",
-   "headline": "White House discussing Lutnick's future as Commerce Secretary - people familiar.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849515,
-   "ts": "2026-11-12T18:14:39+00:00",
-   "ingested": "2026-11-12T18:16:28.159883+00:00",
-   "headline": "Fed's Daly: AI pipeline is deep, so continues even if it slows.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849514,
-   "ts": "2026-11-12T18:13:28+00:00",
-   "ingested": "2026-11-12T18:14:48.206321+00:00",
-   "headline": "Fed's Daly: Economy being driven by technology boom",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849512,
-   "ts": "2026-11-12T18:05:54+00:00",
-   "ingested": "2026-11-12T18:07:08.179735+00:00",
-   "headline": "Google: Gemini 4 Hydrogen biggest model upgrade to search yet. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849511,
-   "ts": "2026-11-12T18:05:25+00:00",
-   "ingested": "2026-11-12T18:07:08.179753+00:00",
-   "headline": "Google brings Gemini 4 Hydrogen to search globally. Adds visual, table-based AI responses $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
