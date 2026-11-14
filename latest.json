@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-14T00:15:41.951877+00:00",
+ "updated": "2026-11-14T00:20:41.989821+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851784,
+   "ts": "2026-11-14T00:20:24+00:00",
+   "ingested": "2026-11-14T00:20:41.989452+00:00",
+   "headline": "Inflation stays significantly above 2% target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851783,
+   "ts": "2026-11-14T00:20:24+00:00",
+   "ingested": "2026-11-14T00:20:41.989463+00:00",
+   "headline": "Inflation readings indicate persistent price pressures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851782,
+   "ts": "2026-11-14T00:20:24+00:00",
+   "ingested": "2026-11-14T00:20:41.989471+00:00",
+   "headline": "Trump tells Fox News flight problem unlikely caused by cyberattack or al",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851780,
    "ts": "2026-11-14T00:14:48+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-12T16:26:35+00:00",
    "ingested": "2026-11-12T16:26:48.130654+00:00",
    "headline": "DoJ probing tech companies Megaspeed and SuperMicro - Semafor. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849314,
-   "ts": "2026-11-12T16:25:35+00:00",
-   "ingested": "2026-11-12T16:26:48.130668+00:00",
-   "headline": "Nvidia faces DoJ antitrust probe - Semafor. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849313,
-   "ts": "2026-11-12T16:22:06+00:00",
-   "ingested": "2026-11-12T16:23:28.142137+00:00",
-   "headline": "House Democratic Leader Jeffries: Minimum wage must be raised. (Did not cite dollar figure democrats will seek)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849312,
-   "ts": "2026-11-12T16:21:24+00:00",
-   "ingested": "2026-11-12T16:21:48.127404+00:00",
-   "headline": "Fed's Goolsbee: Fed should be mindful of signs that the overall economy is overheating",
    "channel": "rss",
    "source": "financialjuice"
   }
