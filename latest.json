@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T22:18:03.880857+00:00",
+ "updated": "2026-11-14T22:24:43.870627+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852424,
+   "ts": "2026-11-14T22:23:05+00:00",
+   "ingested": "2026-11-14T22:24:43.870232+00:00",
+   "headline": "Israeli military: struck senior commander in Hamas military wing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852411,
    "ts": "2026-11-14T21:46:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:08:23+00:00",
    "ingested": "2026-11-12T20:49:37.701655+00:00",
    "headline": "Super Micro: Has been voluntarily providing information, engaging with all requests from Singapore authorities to date; has been responsive to inquiries and fully cooperated with US and Taiwanese officials - Semafor Reporter. $SMCI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849613,
-   "ts": "2026-11-12T19:05:25+00:00",
-   "ingested": "2026-11-12T20:49:37.701663+00:00",
-   "headline": "IRNA: The attack on Sirik was 'military' in nature.",
    "channel": "rss",
    "source": "financialjuice"
   }
