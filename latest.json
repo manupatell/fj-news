@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T05:06:08.876014+00:00",
+ "updated": "2026-11-14T05:07:48.894486+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852047,
+   "ts": "2026-11-14T05:06:43+00:00",
+   "ingested": "2026-11-14T05:07:48.894150+00:00",
+   "headline": "BoE's Pill: will take necessary steps to bring inflation back to 2% over time - FT interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852046,
+   "ts": "2026-11-14T05:06:14+00:00",
+   "ingested": "2026-11-14T05:07:48.894165+00:00",
+   "headline": "BoE\u2019s Pill: my view is we will see proof that prompts additional rate hikes - FT interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852045,
    "ts": "2026-11-14T05:04:32+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T17:02:17+00:00",
    "ingested": "2026-11-12T17:03:28.134091+00:00",
    "headline": "Democrats seek Commerce Dept. communications with Huang - CNBC. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849396,
-   "ts": "2026-11-12T17:02:08+00:00",
-   "ingested": "2026-11-12T17:03:28.134104+00:00",
-   "headline": "EIA Crude Cushing Inventories  Actual 0.106M (Forecast -, Previous 0.280M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849399,
-   "ts": "2026-11-12T17:01:04+00:00",
-   "ingested": "2026-11-12T17:01:48.134484+00:00",
-   "headline": "US 30-yr fixed rate mortgage averages 7.11% in Nov 12 week vs 7.18% prior week - Freddie Mac",
    "channel": "rss",
    "source": "financialjuice"
   }
