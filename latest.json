@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T00:22:21.961946+00:00",
+ "updated": "2026-11-14T00:29:01.944590+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851788,
+   "ts": "2026-11-14T00:27:56+00:00",
+   "ingested": "2026-11-14T00:29:01.944266+00:00",
+   "headline": "OpenAI: issues impacting Microsoft 365 connector resolved",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851787,
+   "ts": "2026-11-14T00:27:55+00:00",
+   "ingested": "2026-11-14T00:29:01.944280+00:00",
+   "headline": "Chicago's O'Hare Airport closing runway 22R to park aircraft: Air Current",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851786,
    "ts": "2026-11-14T00:21:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T16:30:47+00:00",
    "ingested": "2026-11-12T16:31:48.130927+00:00",
    "headline": "IMF: Changes in AI investment would affect US inflation rate, too early to say whether recent developments will impact inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849323,
-   "ts": "2026-11-12T16:30:38+00:00",
-   "ingested": "2026-11-12T16:31:48.130939+00:00",
-   "headline": "IMF: US Federal Reserve will need to maintain a restrictive monetary policy stance to support disinflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849318,
-   "ts": "2026-11-12T16:30:21+00:00",
-   "ingested": "2026-11-12T16:31:48.130951+00:00",
-   "headline": "IMF: Fed will need to maintain a restrictive monetary policy stance to support disinflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
