@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T01:47:48.405833+00:00",
+ "updated": "2026-11-14T01:49:28.235686+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851864,
+   "ts": "2026-11-14T01:48:35+00:00",
+   "ingested": "2026-11-14T01:49:28.235361+00:00",
+   "headline": "US transportation secretary Duffy: Expect it will take some time to return to full capacity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851863,
    "ts": "2026-11-14T01:46:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:57:50+00:00",
    "ingested": "2026-11-12T16:58:28.143004+00:00",
    "headline": "Yemen's Houthis: We attacked oil facility in Saudi Arabia's Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849390,
-   "ts": "2026-11-12T16:57:31+00:00",
-   "ingested": "2026-11-12T16:58:28.143020+00:00",
-   "headline": "Yemen's Houthis: We attacked pumping station in Saudi Arabia's east-west pipeline.",
    "channel": "rss",
    "source": "financialjuice"
   }
