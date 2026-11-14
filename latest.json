@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T16:26:02.969403+00:00",
+ "updated": "2026-11-14T16:32:42.963066+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852314,
+   "ts": "2026-11-14T16:31:24+00:00",
+   "ingested": "2026-11-14T16:32:42.962677+00:00",
+   "headline": "Duffy on aviation shutdown: root cause of impact on our system was not a foreign actor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852311,
    "ts": "2026-11-14T16:24:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:58:15+00:00",
    "ingested": "2026-11-12T20:49:37.701711+00:00",
    "headline": "US Federal Budget Balance Actual -404.064B (Forecast -317.5B, Previous -27.00B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849593,
-   "ts": "2026-11-12T18:57:24+00:00",
-   "ingested": "2026-11-12T20:49:37.701719+00:00",
-   "headline": "New Nvidia CEO plans company meeting next Wednesday - WSJ. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
