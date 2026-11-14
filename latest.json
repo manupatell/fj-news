@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T20:19:23.031353+00:00",
+ "updated": "2026-11-14T20:22:43.070912+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852381,
+   "ts": "2026-11-14T20:21:40+00:00",
+   "ingested": "2026-11-14T20:22:43.070497+00:00",
+   "headline": "Kushner: both sides recognize practical compromises needed to end war",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852380,
    "ts": "2026-11-14T20:18:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:02:34+00:00",
    "ingested": "2026-11-12T20:49:37.701684+00:00",
    "headline": "IRNA: Attack on southern Iran's Sirik.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849597,
-   "ts": "2026-11-12T19:00:55+00:00",
-   "ingested": "2026-11-12T20:49:37.701692+00:00",
-   "headline": "US October net customs receipts $19.22 bln vs $31.35 bln in October 2025.",
    "channel": "rss",
    "source": "financialjuice"
   }
