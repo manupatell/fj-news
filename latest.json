@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T08:22:48.918237+00:00",
+ "updated": "2026-11-14T08:31:08.925688+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852128,
+   "ts": "2026-11-14T08:30:48+00:00",
+   "ingested": "2026-11-14T08:31:08.925373+00:00",
+   "headline": "UK Civil Aviation Authority: US flights resume after FAA lifts ground stop, but follow-on disruption expected as airlines rebook passengers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852078,
    "ts": "2026-11-14T06:37:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:02:40+00:00",
    "ingested": "2026-11-12T18:03:48.177893+00:00",
    "headline": "US 30 Yr Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849495,
-   "ts": "2026-11-12T18:01:55+00:00",
-   "ingested": "2026-11-12T18:02:08.178774+00:00",
-   "headline": "US 30-Year Bond High Yield Actual 5.441% (Forecast -, Previous 5.618%)",
    "channel": "rss",
    "source": "financialjuice"
   }
