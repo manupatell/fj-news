@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T05:09:28.866949+00:00",
+ "updated": "2026-11-14T05:11:08.865961+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852049,
+   "ts": "2026-11-14T05:10:39+00:00",
+   "ingested": "2026-11-14T05:11:08.865583+00:00",
+   "headline": "Microsoft on outage: consumer product services partially restored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852048,
    "ts": "2026-11-14T05:08:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T17:35:41+00:00",
    "ingested": "2026-11-12T17:36:48.163884+00:00",
    "headline": "Fitch Ratings: US consumer spending strengthens amid affordability strain; market downturn key risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849421,
-   "ts": "2026-11-12T17:02:49+00:00",
-   "ingested": "2026-11-12T17:03:28.134074+00:00",
-   "headline": "Democrats: We'll probe Nvidia chip export approvals - CNBC $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
