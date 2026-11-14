@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T01:16:28.275382+00:00",
+ "updated": "2026-11-14T01:19:48.240875+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851827,
+   "ts": "2026-11-14T01:18:16+00:00",
+   "ingested": "2026-11-14T01:19:48.240594+00:00",
+   "headline": "U.S. nationwide ground stop lifted as of 8:15 pm ET: Air Current",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851825,
    "ts": "2026-11-14T01:16:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T16:37:10+00:00",
    "ingested": "2026-11-12T16:38:28.132067+00:00",
    "headline": "Goldman Sachs 2027 outlook: We forecast that nominal global AI investment will rise from $1.1 trln in 2026 to $1.8 trln in 2027, mostly driven by an increase of over $500 bln in hardware spending in the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849350,
-   "ts": "2026-11-12T16:33:42+00:00",
-   "ingested": "2026-11-12T16:35:08.131123+00:00",
-   "headline": "IMF: Monitoring stock volatility and other developments in AI sector.",
    "channel": "rss",
    "source": "financialjuice"
   }
