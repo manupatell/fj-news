@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T23:46:23.895872+00:00",
+ "updated": "2026-11-14T23:48:03.904773+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852450,
+   "ts": "2026-11-14T23:47:31+00:00",
+   "ingested": "2026-11-14T23:48:03.904403+00:00",
+   "headline": "Saudi-led coalition: drone intercepted and destroyed in Saudi Arabia's eastern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852424,
    "ts": "2026-11-14T22:23:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:09:25+00:00",
    "ingested": "2026-11-12T20:49:37.701644+00:00",
    "headline": "Fed's Schmid: The Fed has to get inflation down to the mandated 2% goal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849614,
-   "ts": "2026-11-12T19:08:23+00:00",
-   "ingested": "2026-11-12T20:49:37.701655+00:00",
-   "headline": "Super Micro: Has been voluntarily providing information, engaging with all requests from Singapore authorities to date; has been responsive to inquiries and fully cooperated with US and Taiwanese officials - Semafor Reporter. $SMCI",
    "channel": "rss",
    "source": "financialjuice"
   }
