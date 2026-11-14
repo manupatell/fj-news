@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T04:59:28.857569+00:00",
+ "updated": "2026-11-14T05:02:48.866132+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852044,
+   "ts": "2026-11-14T05:02:20+00:00",
+   "ingested": "2026-11-14T05:02:48.865751+00:00",
+   "headline": "BoE chief economist: more rate hikes required to tackle inflation - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851998,
    "ts": "2026-11-14T03:59:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T17:00:15+00:00",
    "ingested": "2026-11-12T17:01:48.134501+00:00",
    "headline": "Democratic lawmakers to probe US approval of chip exports - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849395,
-   "ts": "2026-11-12T17:00:01+00:00",
-   "ingested": "2026-11-12T17:01:48.134514+00:00",
-   "headline": "EIA Crude Oil Inventories Actual 4.657M (Forecast -1.483M, Previous -0.865M)",
    "channel": "rss",
    "source": "financialjuice"
   }
