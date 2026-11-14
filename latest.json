@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T06:36:08.879787+00:00",
+ "updated": "2026-11-14T06:39:28.934474+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852078,
+   "ts": "2026-11-14T06:37:45+00:00",
+   "ingested": "2026-11-14T06:39:28.934141+00:00",
+   "headline": "Microsoft on outage: completed work to resolve root issue, restored service to affected customers and regions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852068,
    "ts": "2026-11-14T06:04:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:01:55+00:00",
    "ingested": "2026-11-12T18:02:08.178774+00:00",
    "headline": "US 30-Year Bond High Yield Actual 5.441% (Forecast -, Previous 5.618%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849484,
-   "ts": "2026-11-12T18:00:21+00:00",
-   "ingested": "2026-11-12T18:01:58.175077+00:00",
-   "headline": "Treasury WI 30 Yr yield 5.437% before $25 billion auction",
    "channel": "rss",
    "source": "financialjuice"
   }
