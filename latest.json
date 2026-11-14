@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T10:56:29.435261+00:00",
+ "updated": "2026-11-14T11:08:09.433183+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852189,
+   "ts": "2026-11-14T11:06:51+00:00",
+   "ingested": "2026-11-14T11:08:09.432683+00:00",
+   "headline": "Kraken: probing problem with Osmosis funding gateway, deposits and withdrawals might be postponed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852173,
    "ts": "2026-11-14T10:14:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:21:19+00:00",
    "ingested": "2026-11-12T18:21:48.169065+00:00",
    "headline": "Fed's Daly: There has been repricing in AI valuations, but it's not the unwinding of interest or enthusiasm.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849538,
-   "ts": "2026-11-12T18:19:49+00:00",
-   "ingested": "2026-11-12T18:20:08.167263+00:00",
-   "headline": "Fed's Daly: There is risk AI could contribute more to inflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
