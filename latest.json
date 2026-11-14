@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T00:20:41.989821+00:00",
+ "updated": "2026-11-14T00:22:21.961946+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9851786,
+   "ts": "2026-11-14T00:21:31+00:00",
+   "ingested": "2026-11-14T00:22:21.961587+00:00",
+   "headline": "Internal messages show Jensen Huang told Nvidia lawyer, others dealings with customers mirrored standard practice",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9851785,
+   "ts": "2026-11-14T00:21:30+00:00",
+   "ingested": "2026-11-14T00:22:21.961600+00:00",
+   "headline": "Ex-Nvidia CEO Huang misled company leaders, including general counsel, about nature of Alice Huang affair: sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9851784,
    "ts": "2026-11-14T00:20:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T16:30:21+00:00",
    "ingested": "2026-11-12T16:31:48.130951+00:00",
    "headline": "IMF: Fed will need to maintain a restrictive monetary policy stance to support disinflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849316,
-   "ts": "2026-11-12T16:27:01+00:00",
-   "ingested": "2026-11-12T16:28:28.129213+00:00",
-   "headline": "No indication DoJ seeks to charge Huang criminally - Semafor. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849315,
-   "ts": "2026-11-12T16:26:35+00:00",
-   "ingested": "2026-11-12T16:26:48.130654+00:00",
-   "headline": "DoJ probing tech companies Megaspeed and SuperMicro - Semafor. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
