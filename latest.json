@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T16:14:22.986809+00:00",
+ "updated": "2026-11-14T16:16:02.966992+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852305,
+   "ts": "2026-11-14T16:15:05+00:00",
+   "ingested": "2026-11-14T16:16:02.966582+00:00",
+   "headline": "US FAA administrator: anticipates between 4,000 and 5,000 scheduled flights likely to be canceled today",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852304,
    "ts": "2026-11-14T16:13:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T18:48:50+00:00",
    "ingested": "2026-11-12T20:49:37.701736+00:00",
    "headline": "Fed's Daly: AI, uncertainty and rising input costs are all dampening hiring.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849590,
-   "ts": "2026-11-12T18:48:14+00:00",
-   "ingested": "2026-11-12T20:49:37.701744+00:00",
-   "headline": "Fed's Daly: We are in a perfect storm for hiring.",
    "channel": "rss",
    "source": "financialjuice"
   }
