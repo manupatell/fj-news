@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-14T14:31:29.501900+00:00",
+ "updated": "2026-11-14T14:40:01.497101+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852270,
+   "ts": "2026-11-14T14:38:57+00:00",
+   "ingested": "2026-11-14T14:40:01.496590+00:00",
+   "headline": "Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852269,
+   "ts": "2026-11-14T14:38:24+00:00",
+   "ingested": "2026-11-14T14:40:01.496609+00:00",
+   "headline": "Elon Musk: Jensen managed Nvidia supply chain expertly, but many agreements were handshakes, not written contracts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852266,
    "ts": "2026-11-14T14:30:05+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T18:38:21+00:00",
    "ingested": "2026-11-12T18:39:48.165497+00:00",
    "headline": "Fed's Daly: Tighter financial conditions give us more time to make decisions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849562,
-   "ts": "2026-11-12T18:37:50+00:00",
-   "ingested": "2026-11-12T18:38:08.212155+00:00",
-   "headline": "Fed's Daly: Financial markets are in alignment with where Fed needs to be.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849561,
-   "ts": "2026-11-12T18:37:38+00:00",
-   "ingested": "2026-11-12T18:38:08.212174+00:00",
-   "headline": "Fed's Daly: But markets don't do the work of the Fed. Keeping prices stable is the job of the Fed.",
    "channel": "rss",
    "source": "financialjuice"
   }
