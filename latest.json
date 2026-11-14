@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-14T16:04:22.954530+00:00",
+ "updated": "2026-11-14T16:14:22.986809+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852304,
+   "ts": "2026-11-14T16:13:39+00:00",
+   "ingested": "2026-11-14T16:14:22.986353+00:00",
+   "headline": "US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852303,
+   "ts": "2026-11-14T16:13:28+00:00",
+   "ingested": "2026-11-14T16:14:22.986369+00:00",
+   "headline": "US FAA administrator: delays and cancellations today will enable full recovery on Sunday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852302,
+   "ts": "2026-11-14T16:13:06+00:00",
+   "ingested": "2026-11-14T16:14:22.986382+00:00",
+   "headline": "US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852301,
+   "ts": "2026-11-14T16:12:36+00:00",
+   "ingested": "2026-11-14T16:14:22.986392+00:00",
+   "headline": "US FAA administrator: system stays stable on Saturday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852300,
    "ts": "2026-11-14T16:03:09+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-12T18:48:14+00:00",
    "ingested": "2026-11-12T20:49:37.701744+00:00",
    "headline": "Fed's Daly: We are in a perfect storm for hiring.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849578,
-   "ts": "2026-11-12T18:46:06+00:00",
-   "ingested": "2026-11-12T20:49:37.701752+00:00",
-   "headline": "Fed's Schmid: Fed still hasn't beat the inflation enemy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849577,
-   "ts": "2026-11-12T18:45:49+00:00",
-   "ingested": "2026-11-12T20:49:37.701760+00:00",
-   "headline": "Nasdaq trading services is investigating issues with its email system",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849570,
-   "ts": "2026-11-12T18:43:14+00:00",
-   "ingested": "2026-11-12T18:44:48.163088+00:00",
-   "headline": "Fed's Daly: You can slow the economy and still have good growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849569,
-   "ts": "2026-11-12T18:41:40+00:00",
-   "ingested": "2026-11-12T18:43:08.162850+00:00",
-   "headline": "Nature of explosions not yet known, some sources said these sounds are caused by warning shots towards the offending ships - Fars News",
    "channel": "rss",
    "source": "financialjuice"
   }
