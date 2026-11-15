@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T19:23:04.450145+00:00",
+ "updated": "2026-11-15T19:24:44.457061+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852864,
+   "ts": "2026-11-15T19:23:08+00:00",
+   "ingested": "2026-11-15T19:24:44.456695+00:00",
+   "headline": "Signatories urge Israel to end delays and permit immediate, swift humanitarian access across Gaza",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852863,
    "ts": "2026-11-15T19:22:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T21:36:49+00:00",
    "ingested": "2026-11-12T21:38:07.743329+00:00",
    "headline": "The DoJ reports actions to disrupt North Korea\u2019s cryptocurrency theft.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849782,
-   "ts": "2026-11-12T21:34:11+00:00",
-   "ingested": "2026-11-12T21:34:47.658584+00:00",
-   "headline": "Texas Port CEO: Supertanker squeeze crimps US oil exports",
    "channel": "rss",
    "source": "financialjuice"
   }
