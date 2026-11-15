@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15T08:48:18.251716+00:00",
- "updated_et": "2026-11-15 03:48 ET",
+ "updated_utc": "2026-11-15T15:54:17.803811+00:00",
+ "updated_et": "2026-11-15 10:54 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
@@ -10,12 +10,12 @@
     "price": 7583.0,
     "time_utc": "2026-11-13T21:59:59+00:00",
     "time_et": "2026-11-13 16:59 ET",
-    "bar_age_min": 2088.4
+    "bar_age_min": 2514.3
    },
    "live_proxy": {
     "etf": "SPY",
     "ratio": 10.055341,
-    "etf_bar_age_min": 2148.4,
+    "etf_bar_age_min": 2574.4,
     "etf_last": 754.37,
     "etf_last_et": "2026-11-13 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?interval=1m&range=1d",
@@ -26,12 +26,12 @@
     "alternates": [
      {
       "etf": "IVV",
-      "bar_age_min": 2148.4,
+      "bar_age_min": 2574.4,
       "fit_err_median": 0.22
      },
      {
       "etf": "VOO",
-      "bar_age_min": 2148.4,
+      "bar_age_min": 2574.4,
       "fit_err_median": 0.21
      }
     ]
@@ -561,19 +561,19 @@
    },
    "next_events": [
     {
-     "name": "Personal Income and Outlays",
-     "when_et": "2026-11-25 08:30 ET",
-     "minutes_until": 14681
-    },
-    {
      "name": "Gross Domestic Product",
      "when_et": "2026-11-25 08:30 ET",
-     "minutes_until": 14681
+     "minutes_until": 14255
+    },
+    {
+     "name": "Personal Income and Outlays",
+     "when_et": "2026-11-25 08:30 ET",
+     "minutes_until": 14255
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-12-04 08:30 ET",
-     "minutes_until": 27641
+     "minutes_until": 27215
     }
    ]
   },
@@ -584,12 +584,12 @@
     "price": 88.56,
     "time_utc": "2026-11-13T22:00:00+00:00",
     "time_et": "2026-11-13 17:00 ET",
-    "bar_age_min": 2088.5
+    "bar_age_min": 2514.5
    },
    "live_proxy": {
     "etf": "USO",
     "ratio": 0.610683,
-    "etf_bar_age_min": 2148.5,
+    "etf_bar_age_min": 2574.5,
     "etf_last": 145.58,
     "etf_last_et": "2026-11-13 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/USO?interval=1m&range=1d",
@@ -600,7 +600,7 @@
     "alternates": [
      {
       "etf": "DBO",
-      "bar_age_min": 2148.5,
+      "bar_age_min": 2574.5,
       "fit_err_median": 0.02
      }
     ],
@@ -1135,18 +1135,18 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-11-17 16:30 ET",
-     "minutes_until": 3641,
+     "minutes_until": 3215,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-11-18 10:30 ET",
-     "minutes_until": 4721
+     "minutes_until": 4295
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-11-24 16:30 ET",
-     "minutes_until": 13721,
+     "minutes_until": 13295,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -1158,12 +1158,12 @@
     "price": 3886.3,
     "time_utc": "2026-11-13T21:59:59+00:00",
     "time_et": "2026-11-13 16:59 ET",
-    "bar_age_min": 2088.6
+    "bar_age_min": 2514.6
    },
    "live_proxy": {
     "etf": "IAU",
     "ratio": 53.266568,
-    "etf_bar_age_min": 2148.7,
+    "etf_bar_age_min": 2574.6,
     "etf_last": 72.88,
     "etf_last_et": "2026-11-13 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/IAU?interval=1m&range=1d",
@@ -1174,12 +1174,12 @@
     "alternates": [
      {
       "etf": "GLD",
-      "bar_age_min": 2148.6,
+      "bar_age_min": 2574.6,
       "fit_err_median": 0.1
      },
      {
       "etf": "GLDM",
-      "bar_age_min": 2148.7,
+      "bar_age_min": 2574.6,
       "fit_err_median": 0.2
      }
     ]
@@ -1709,19 +1709,19 @@
    },
    "next_events": [
     {
-     "name": "Personal Income and Outlays",
-     "when_et": "2026-11-25 08:30 ET",
-     "minutes_until": 14681
-    },
-    {
      "name": "Gross Domestic Product",
      "when_et": "2026-11-25 08:30 ET",
-     "minutes_until": 14681
+     "minutes_until": 14255
+    },
+    {
+     "name": "Personal Income and Outlays",
+     "when_et": "2026-11-25 08:30 ET",
+     "minutes_until": 14255
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-12-04 08:30 ET",
-     "minutes_until": 27641
+     "minutes_until": 27215
     }
    ]
   }
