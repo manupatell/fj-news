@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T12:00:26.148341+00:00",
+ "updated": "2026-11-15T12:07:06.143856+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852676,
+   "ts": "2026-11-15T12:06:11+00:00",
+   "ingested": "2026-11-15T12:07:06.143442+00:00",
+   "headline": "Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852651,
    "ts": "2026-11-15T11:19:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:45:12+00:00",
    "ingested": "2026-11-12T20:49:37.701569+00:00",
    "headline": "Brent Crude futures settle at $95.82/bbl, up $3.06, 3.3%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849646,
-   "ts": "2026-11-12T19:32:16+00:00",
-   "ingested": "2026-11-12T20:49:37.701576+00:00",
-   "headline": "NYMEX Diesel December futures settle at $4.2865 a gallon.",
    "channel": "rss",
    "source": "financialjuice"
   }
