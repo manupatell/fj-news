@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T11:12:06.133152+00:00",
+ "updated": "2026-11-15T11:20:26.142225+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852651,
+   "ts": "2026-11-15T11:19:04+00:00",
+   "ingested": "2026-11-15T11:20:26.141903+00:00",
+   "headline": "Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852642,
    "ts": "2026-11-15T10:51:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:32:16+00:00",
    "ingested": "2026-11-12T20:49:37.701576+00:00",
    "headline": "NYMEX Diesel December futures settle at $4.2865 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849644,
-   "ts": "2026-11-12T19:32:01+00:00",
-   "ingested": "2026-11-12T20:49:37.701583+00:00",
-   "headline": "NYMEX Gasoline December futures settle at $2.6708 a gallon.",
    "channel": "rss",
    "source": "financialjuice"
   }
