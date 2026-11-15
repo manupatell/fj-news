@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-15T22:31:46.152656+00:00",
+ "updated": "2026-11-15T22:35:06.197142+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852931,
+   "ts": "2026-11-15T22:33:39+00:00",
+   "ingested": "2026-11-15T22:35:06.196476+00:00",
+   "headline": "Schmid: it is not the Fed's job to influence the price of any single good or service",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852930,
+   "ts": "2026-11-15T22:33:39+00:00",
+   "ingested": "2026-11-15T22:35:06.196506+00:00",
+   "headline": "Beijing Sinotau International Pharmaceutical Technology: highest bid price in global offering HK$68 per H share",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852897,
    "ts": "2026-11-15T21:09:30+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-12T23:56:16+00:00",
    "ingested": "2026-11-12T23:56:27.677318+00:00",
    "headline": "Fed's Williams: US economy strengthening but not overheating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849908,
-   "ts": "2026-11-12T23:55:57+00:00",
-   "ingested": "2026-11-12T23:56:27.677329+00:00",
-   "headline": "Fed's Williams: economy resilient and growth robust",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849877,
-   "ts": "2026-11-12T23:05:30+00:00",
-   "ingested": "2026-11-12T23:06:27.672279+00:00",
-   "headline": "Microsoft on outage: we have simplified process to restore remaining affected servers to service",
    "channel": "rss",
    "source": "financialjuice"
   }
