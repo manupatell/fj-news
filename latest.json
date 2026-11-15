@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T10:33:46.131841+00:00",
+ "updated": "2026-11-15T10:38:46.134302+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852637,
+   "ts": "2026-11-15T10:38:02+00:00",
+   "ingested": "2026-11-15T10:38:46.133983+00:00",
+   "headline": "Many Russian drone attacks on substations enabled by Starshield speed limits, Zelenskiy says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852636,
    "ts": "2026-11-15T10:23:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:31:45+00:00",
    "ingested": "2026-11-12T20:49:37.701593+00:00",
    "headline": "NYMEX Natural Gas December futures settle at $3.3400/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849633,
-   "ts": "2026-11-12T19:31:15+00:00",
-   "ingested": "2026-11-12T20:49:37.701604+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $88.74 a barrel, up $2.21, 2.55%.",
    "channel": "rss",
    "source": "financialjuice"
   }
