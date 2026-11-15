@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T00:18:03.901445+00:00",
+ "updated": "2026-11-15T00:28:03.902682+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852458,
+   "ts": "2026-11-15T00:26:48+00:00",
+   "ingested": "2026-11-15T00:28:03.902316+00:00",
+   "headline": "U.S. diesel drops under $6 a gallon for first time since September: GasBuddy analyst Patrick De Haan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852450,
    "ts": "2026-11-14T23:47:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:10:09+00:00",
    "ingested": "2026-11-12T20:49:37.701636+00:00",
    "headline": "Democratic Senator Reed:  Congress needs an assessment of whether Nvidia is \"too big to fail\" and how it could impact the banking system - statement. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849615,
-   "ts": "2026-11-12T19:09:25+00:00",
-   "ingested": "2026-11-12T20:49:37.701644+00:00",
-   "headline": "Fed's Schmid: The Fed has to get inflation down to the mandated 2% goal.",
    "channel": "rss",
    "source": "financialjuice"
   }
