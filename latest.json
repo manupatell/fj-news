@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T20:14:44.474651+00:00",
+ "updated": "2026-11-15T20:16:24.467714+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852877,
+   "ts": "2026-11-15T20:15:22+00:00",
+   "ingested": "2026-11-15T20:16:24.467398+00:00",
+   "headline": "Vulcan rocket from United Launch Alliance fails soon after liftoff, dooming 40 Amazon LEO internet satellites",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852864,
    "ts": "2026-11-15T19:23:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T21:37:43+00:00",
    "ingested": "2026-11-12T21:38:07.743312+00:00",
    "headline": "The DoJ to seize $1.2b worth of cryptocurrency stolen from Binance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849783,
-   "ts": "2026-11-12T21:36:49+00:00",
-   "ingested": "2026-11-12T21:38:07.743329+00:00",
-   "headline": "The DoJ reports actions to disrupt North Korea\u2019s cryptocurrency theft.",
    "channel": "rss",
    "source": "financialjuice"
   }
