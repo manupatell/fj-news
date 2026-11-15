@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T17:31:24.418725+00:00",
+ "updated": "2026-11-15T17:41:24.421938+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852818,
+   "ts": "2026-11-15T17:40:50+00:00",
+   "ingested": "2026-11-15T17:41:24.421589+00:00",
+   "headline": "Howard Lutnick expected to fly on Air Force One with president to China: Semafor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852791,
    "ts": "2026-11-15T16:30:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T20:28:42+00:00",
    "ingested": "2026-11-12T20:49:37.701490+00:00",
    "headline": "Trump: The US has fought with Iran at a rapid pace for the last 3 weeks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849687,
-   "ts": "2026-11-12T20:28:29+00:00",
-   "ingested": "2026-11-12T20:49:37.701499+00:00",
-   "headline": "Trump: Possibly, I would use military force in Iran if needed",
    "channel": "rss",
    "source": "financialjuice"
   }
