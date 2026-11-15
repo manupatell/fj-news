@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-15T10:20:26.143095+00:00",
+ "updated": "2026-11-15T10:23:46.128644+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852636,
+   "ts": "2026-11-15T10:23:25+00:00",
+   "ingested": "2026-11-15T10:23:46.128272+00:00",
+   "headline": "Bahrain: several Iranian aerial assaults intercepted on Sunday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852635,
+   "ts": "2026-11-15T10:23:15+00:00",
+   "ingested": "2026-11-15T10:23:46.128298+00:00",
+   "headline": "Iran\u2019s IRGC: six drones struck US air defense radar at Bahrain\u2019s al-Rifaa helicopter base - Press TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852634,
+   "ts": "2026-11-15T10:22:17+00:00",
+   "ingested": "2026-11-15T10:23:46.128318+00:00",
+   "headline": "Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852458,
    "ts": "2026-11-15T00:26:48+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-12T19:31:15+00:00",
    "ingested": "2026-11-12T20:49:37.701604+00:00",
    "headline": "NYMEX WTI Crude December futures settle at $88.74 a barrel, up $2.21, 2.55%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849625,
-   "ts": "2026-11-12T19:25:06+00:00",
-   "ingested": "2026-11-12T20:49:37.701614+00:00",
-   "headline": "Former NVIDIA CEO Huang had an intimate relationship with\na second employee - Sources. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849624,
-   "ts": "2026-11-12T19:23:51+00:00",
-   "ingested": "2026-11-12T20:49:37.701626+00:00",
-   "headline": "Super Micro denies Megaspeed has ever been a customer - Semafor. $SMCI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849616,
-   "ts": "2026-11-12T19:10:09+00:00",
-   "ingested": "2026-11-12T20:49:37.701636+00:00",
-   "headline": "Democratic Senator Reed:  Congress needs an assessment of whether Nvidia is \"too big to fail\" and how it could impact the banking system - statement. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
