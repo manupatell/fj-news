@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-15T23:43:26.185824+00:00",
+ "updated": "2026-11-15T23:51:46.171965+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852962,
+   "ts": "2026-11-15T23:50:04+00:00",
+   "ingested": "2026-11-15T23:51:46.171271+00:00",
+   "headline": "Japan Q3 GDP deflator rises 2.4% year on year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852961,
+   "ts": "2026-11-15T23:50:03+00:00",
+   "ingested": "2026-11-15T23:51:46.171294+00:00",
+   "headline": "Japan July-September annualized GDP shrinks 0.1% vs forecast +0.3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852960,
+   "ts": "2026-11-15T23:50:03+00:00",
+   "ingested": "2026-11-15T23:51:46.171314+00:00",
+   "headline": "Japan july-september external demand contribution to GDP: -0.6 percentage point vs poll -0.4 percentage point",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852959,
+   "ts": "2026-11-15T23:50:03+00:00",
+   "ingested": "2026-11-15T23:51:46.171330+00:00",
+   "headline": "Japan July-September capex rises 1.6% quarter-on-quarter, beating poll of 1.5%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852958,
+   "ts": "2026-11-15T23:50:03+00:00",
+   "ingested": "2026-11-15T23:51:46.171346+00:00",
+   "headline": "Japan July-September private consumption falls 0.3% quarter on quarter, poll had forecast 0.2% decline",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852957,
+   "ts": "2026-11-15T23:50:03+00:00",
+   "ingested": "2026-11-15T23:51:46.171362+00:00",
+   "headline": "Japan July-September real GDP contracts 0.0% quarter over quarter (poll +0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852956,
+   "ts": "2026-11-15T23:50:03+00:00",
+   "ingested": "2026-11-15T23:51:46.171377+00:00",
+   "headline": "Japan july-september domestic demand adds 0.6 percentage point to GDP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852938,
    "ts": "2026-11-15T23:22:59+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-11-13T00:07:32+00:00",
    "ingested": "2026-11-13T00:08:07.691639+00:00",
    "headline": "Service may become unresponsive again after receiving traffic",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849932,
-   "ts": "2026-11-13T00:07:31+00:00",
-   "ingested": "2026-11-13T00:08:07.691651+00:00",
-   "headline": "Microsoft on outage: servers returned",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849931,
-   "ts": "2026-11-13T00:02:22+00:00",
-   "ingested": "2026-11-13T00:03:07.747048+00:00",
-   "headline": "Senate banking chairman calls Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849914,
-   "ts": "2026-11-12T23:58:44+00:00",
-   "ingested": "2026-11-12T23:59:47.670668+00:00",
-   "headline": "Fed's Williams: central bank still has work to do to reach right monetary policy stance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849913,
-   "ts": "2026-11-12T23:58:31+00:00",
-   "ingested": "2026-11-12T23:59:47.670682+00:00",
-   "headline": "Fed's Williams: central bank will have to act over time to bring inflation back to 2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849912,
-   "ts": "2026-11-12T23:57:53+00:00",
-   "ingested": "2026-11-12T23:58:07.689538+00:00",
-   "headline": "Fed's Williams: central bank has maintained consistent pace of gathering data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849911,
-   "ts": "2026-11-12T23:57:37+00:00",
-   "ingested": "2026-11-12T23:58:07.689550+00:00",
-   "headline": "Fed's Williams: inflation remains stubbornly persistent and elevated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849910,
-   "ts": "2026-11-12T23:56:23+00:00",
-   "ingested": "2026-11-12T23:58:07.689558+00:00",
-   "headline": "Fed's Williams: inflation remains too elevated",
    "channel": "rss",
    "source": "financialjuice"
   }
