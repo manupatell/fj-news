@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-15T10:48:46.118719+00:00",
+ "updated": "2026-11-15T10:52:06.145263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852642,
+   "ts": "2026-11-15T10:51:08+00:00",
+   "ingested": "2026-11-15T10:52:06.144705+00:00",
+   "headline": "Ukraine: missile hits petrochemical plant and oil refinery in Russia\u2019s Tatarstan, defense facility in Bryansk",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852637,
    "ts": "2026-11-15T10:38:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-12T19:32:01+00:00",
    "ingested": "2026-11-12T20:49:37.701583+00:00",
    "headline": "NYMEX Gasoline December futures settle at $2.6708 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849634,
-   "ts": "2026-11-12T19:31:45+00:00",
-   "ingested": "2026-11-12T20:49:37.701593+00:00",
-   "headline": "NYMEX Natural Gas December futures settle at $3.3400/MMBtu.",
    "channel": "rss",
    "source": "financialjuice"
   }
