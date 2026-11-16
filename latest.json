@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-16T08:31:22.718471+00:00",
+ "updated": "2026-11-16T08:33:02.747334+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853508,
+   "ts": "2026-11-16T08:32:22+00:00",
+   "ingested": "2026-11-16T08:33:02.746650+00:00",
+   "headline": "ECB's Vujcic: Weaker confidence and rising borrowing costs should partially contain excess inflation by weighing on growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853507,
+   "ts": "2026-11-16T08:32:13+00:00",
+   "ingested": "2026-11-16T08:33:02.746669+00:00",
+   "headline": "ECB's Vujcic: AI and sovereign debt 'stand out very prominently\u2019 as stability risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853506,
+   "ts": "2026-11-16T08:32:00+00:00",
+   "ingested": "2026-11-16T08:33:02.746679+00:00",
+   "headline": "ECB's Vujcic: Recent energy price developments may push inflation higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853505,
+   "ts": "2026-11-16T08:31:48+00:00",
+   "ingested": "2026-11-16T08:33:02.746688+00:00",
+   "headline": "ECB's Vujcic: Wages not showing material response to inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853504,
+   "ts": "2026-11-16T08:31:38+00:00",
+   "ingested": "2026-11-16T08:33:02.746697+00:00",
+   "headline": "ECB's Vujcic: Financial stability risks are  \"elevated\"",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853503,
+   "ts": "2026-11-16T08:31:23+00:00",
+   "ingested": "2026-11-16T08:33:02.746705+00:00",
+   "headline": "ECB's Vujcic: Valuations, funding, cyberattacks are among AI risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853502,
    "ts": "2026-11-16T08:31:10+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-13T09:30:43+00:00",
    "ingested": "2026-11-13T09:32:29.735469+00:00",
    "headline": "Europe Sentiment: NVIDIA Still At The Center Of Attention - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850621,
-   "ts": "2026-11-13T09:22:16+00:00",
-   "ingested": "2026-11-13T09:22:29.733619+00:00",
-   "headline": "Microsoft on outage: extending email timeout window to 48 hours to protect delayed messages during service recovery",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850620,
-   "ts": "2026-11-13T09:21:44+00:00",
-   "ingested": "2026-11-13T09:22:29.733637+00:00",
-   "headline": "Microsoft on outage: assessing extra mitigation measures to enhance recovery speed and consistency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850619,
-   "ts": "2026-11-13T09:21:22+00:00",
-   "ingested": "2026-11-13T09:22:29.733653+00:00",
-   "headline": "Microsoft on outage: service capacity still below normal, health remains unstable as traffic is gradually restored",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850618,
-   "ts": "2026-11-13T09:21:06+00:00",
-   "ingested": "2026-11-13T09:22:29.733665+00:00",
-   "headline": "Microsoft on outage: observing initial signs of stabilization",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850617,
-   "ts": "2026-11-13T09:19:22+00:00",
-   "ingested": "2026-11-13T09:20:49.719971+00:00",
-   "headline": "China outstanding total social financing 469.16 trillion yuan at end-October, not 28.61 trillion yuan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850616,
-   "ts": "2026-11-13T09:17:52+00:00",
-   "ingested": "2026-11-13T09:19:09.727192+00:00",
-   "headline": "Estonian PM: European Council President Costa and EU foreign chief Kallas to represent EU at peace talks",
    "channel": "rss",
    "source": "financialjuice"
   }
