@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T13:51:27.241306+00:00",
+ "updated": "2026-11-16T13:54:47.223216+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853918,
+   "ts": "2026-11-16T13:53:35+00:00",
+   "ingested": "2026-11-16T13:54:47.222901+00:00",
+   "headline": "Iran's Foreign Minister Araghchi met with Asim Munir, Commander of Pakistan\u2019s army, at the country\u2019s armed forces headquarters - Al Jazeera, citing a Pakistani source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853917,
    "ts": "2026-11-16T13:49:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T13:43:55+00:00",
    "ingested": "2026-11-13T13:45:09.818578+00:00",
    "headline": "Fed's Goolsbee: The labor market is stable, maybe tightening a bit.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850974,
-   "ts": "2026-11-13T13:43:04+00:00",
-   "ingested": "2026-11-13T13:43:29.813256+00:00",
-   "headline": "Fed's Goolsbee: Inflation will determine the path of rates",
    "channel": "rss",
    "source": "financialjuice"
   }
