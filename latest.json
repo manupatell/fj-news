@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-16T14:57:47.236146+00:00",
+ "updated": "2026-11-16T15:01:07.225689+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854021,
+   "ts": "2026-11-16T15:00:56+00:00",
+   "ingested": "2026-11-16T15:01:07.225261+00:00",
+   "headline": "Kremlin Aide, contradicting US Negotiators: Russia did not agree to include Europeans in Ukraine peace talks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854020,
+   "ts": "2026-11-16T15:00:42+00:00",
+   "ingested": "2026-11-16T15:01:07.225274+00:00",
+   "headline": "Kremlin Aide: Agreement was reached on the next round of 3-way Ukraine peace talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854019,
+   "ts": "2026-11-16T15:00:41+00:00",
+   "ingested": "2026-11-16T15:01:07.225286+00:00",
+   "headline": "Kremlin Aide: Moscow assumes they will take place in Abu Dhabi again, says date has not yet been agreed on.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854017,
+   "ts": "2026-11-16T15:00:28+00:00",
+   "ingested": "2026-11-16T15:01:07.225294+00:00",
+   "headline": "Kremlin Aide: Russia needs a signal from the Europeans on what they want.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854015,
+   "ts": "2026-11-16T15:00:08+00:00",
+   "ingested": "2026-11-16T15:01:07.225305+00:00",
+   "headline": "Cargo ship that capsized and sank off Bulgaria's coast on Monday was hit by at least one sea drone -Maritime Security Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854010,
    "ts": "2026-11-16T14:46:15+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-13T15:40:11+00:00",
    "ingested": "2026-11-13T16:58:30.064919+00:00",
    "headline": "Fed's Collins: Careful adjustment of policy is appropriate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851147,
-   "ts": "2026-11-13T15:39:53+00:00",
-   "ingested": "2026-11-13T16:58:30.064926+00:00",
-   "headline": "Fed's Collins: I'm not seeing inflation expectations becoming unmoored.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851146,
-   "ts": "2026-11-13T15:38:58+00:00",
-   "ingested": "2026-11-13T16:58:30.064934+00:00",
-   "headline": "Fed's Collins: Will have to decide meeting-by-meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851145,
-   "ts": "2026-11-13T15:38:48+00:00",
-   "ingested": "2026-11-13T16:58:30.064941+00:00",
-   "headline": "Fed's Collins: It's possible Fed may have to raise more than expected.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851144,
-   "ts": "2026-11-13T15:38:38+00:00",
-   "ingested": "2026-11-13T16:58:30.064948+00:00",
-   "headline": "Fed's Collins: The direction of policy clear, but pace and destination unclear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851143,
-   "ts": "2026-11-13T15:38:35+00:00",
-   "ingested": "2026-11-13T16:58:30.064956+00:00",
-   "headline": "Fed's Collins: I don't want to say how high or fast rates should move.",
    "channel": "rss",
    "source": "financialjuice"
   }
