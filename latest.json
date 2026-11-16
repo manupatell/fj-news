@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T18:35:27.297034+00:00",
+ "updated": "2026-11-16T18:43:47.337288+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854331,
+   "ts": "2026-11-16T18:42:33+00:00",
+   "ingested": "2026-11-16T18:43:47.336924+00:00",
+   "headline": "California sues OpenAI over AI models' cyberattacks on Hugging Face, other companies - Attorney General.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854329,
    "ts": "2026-11-16T18:35:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T17:24:28+00:00",
    "ingested": "2026-11-13T17:25:10.002669+00:00",
    "headline": "Anthropic's Amodei: Coding market for AI is starting to mature.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851319,
-   "ts": "2026-11-13T17:24:16+00:00",
-   "ingested": "2026-11-13T17:25:10.002682+00:00",
-   "headline": "Fed's Daly: More producers saying they want to pass on costs.",
    "channel": "rss",
    "source": "financialjuice"
   }
