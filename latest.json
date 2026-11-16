@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T06:31:30.243911+00:00",
+ "updated": "2026-11-16T06:36:30.173756+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853365,
+   "ts": "2026-11-16T06:35:54+00:00",
+   "ingested": "2026-11-16T06:36:30.173333+00:00",
+   "headline": "Iran's army: oil tanker ignites after striking naval mine in eastern Strait of Hormuz - state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853364,
    "ts": "2026-11-16T06:31:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T08:16:35+00:00",
    "ingested": "2026-11-13T08:47:19.773351+00:00",
    "headline": "IAEA report: IAEA chief Grossi notes Iran's continued refusal to engage the IAEA in seeking to address unresolved safeguards issues.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850508,
-   "ts": "2026-11-13T08:16:27+00:00",
-   "ingested": "2026-11-13T08:47:19.773377+00:00",
-   "headline": "IAEA report: It is critical for the IAEA to conduct verification activities in Iran without further delay, Grossi calls on Iran to engage constructively",
    "channel": "rss",
    "source": "financialjuice"
   }
