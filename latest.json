@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T12:37:42.791403+00:00",
+ "updated": "2026-11-16T12:44:22.791104+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853794,
+   "ts": "2026-11-16T12:42:47+00:00",
+   "ingested": "2026-11-16T12:44:22.790588+00:00",
+   "headline": "Knot expected to drop out of ECB race this week - Volkskrant",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853771,
    "ts": "2026-11-16T12:17:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T13:05:24+00:00",
    "ingested": "2026-11-13T13:05:49.846475+00:00",
    "headline": "US Treasury Secretary Bessent: It was clear China shouldn't get any chips above H100s",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850890,
-   "ts": "2026-11-13T13:05:06+00:00",
-   "ingested": "2026-11-13T13:05:49.846490+00:00",
-   "headline": "US Treasury Secretary Bessent: Commerce department needs to be asked about blacklisting",
    "channel": "rss",
    "source": "financialjuice"
   }
