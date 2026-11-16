@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-16T09:53:02.750437+00:00",
+ "updated": "2026-11-16T10:01:22.742348+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853593,
+   "ts": "2026-11-16T10:00:03+00:00",
+   "ingested": "2026-11-16T10:01:22.741865+00:00",
+   "headline": "Eurozone Industrial Production YoY Actual -1.5% (Forecast -0.2%, Previous -1.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853592,
+   "ts": "2026-11-16T10:00:02+00:00",
+   "ingested": "2026-11-16T10:01:22.741879+00:00",
+   "headline": "Eurozone Industrial Production MoM Actual 0.2% (Forecast 0.3%, Previous -0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853591,
    "ts": "2026-11-16T09:52:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-13T12:03:17+00:00",
    "ingested": "2026-11-13T12:04:09.775500+00:00",
    "headline": "Microsoft: Seeing encouraging recovery progress in Europe $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850778,
-   "ts": "2026-11-13T11:43:50+00:00",
-   "ingested": "2026-11-13T11:44:09.779033+00:00",
-   "headline": "Anthropic: Issues with authenticating to Claude, fix deployed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850761,
-   "ts": "2026-11-13T10:20:54+00:00",
-   "ingested": "2026-11-13T11:29:09.764296+00:00",
-   "headline": "Kremlin: Russian delegation's lineup will be the same at the next round of negotiations.",
    "channel": "rss",
    "source": "financialjuice"
   }
