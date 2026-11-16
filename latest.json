@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T00:03:26.209689+00:00",
+ "updated": "2026-11-16T00:13:26.197948+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852980,
+   "ts": "2026-11-16T00:12:17+00:00",
+   "ingested": "2026-11-16T00:13:26.197368+00:00",
+   "headline": "Alert on South Korean presidential talks sent ahead of 11 a.m. (0200 GMT) embargo, story to follow after",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852966,
    "ts": "2026-11-15T23:59:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T00:24:09+00:00",
    "ingested": "2026-11-13T00:24:47.741743+00:00",
    "headline": "China PBOC seen setting yuan midpoint at 6.6756 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849953,
-   "ts": "2026-11-13T00:22:40+00:00",
-   "ingested": "2026-11-13T00:23:07.693327+00:00",
-   "headline": "Japan industry minister Akazawa: Nvidia crucial for Japan's AI chip sector, will keep monitoring situation",
    "channel": "rss",
    "source": "financialjuice"
   }
