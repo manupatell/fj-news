@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T17:31:27.291737+00:00",
+ "updated": "2026-11-16T17:33:07.324264+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854223,
+   "ts": "2026-11-16T17:31:34+00:00",
+   "ingested": "2026-11-16T17:33:07.323990+00:00",
+   "headline": "Fitch Ratings: Canada's outlook for 2027 is supported by improving growth and narrowing deficits, though trade tensions and tighter monetary policy weigh.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854221,
    "ts": "2026-11-16T17:31:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T17:18:59+00:00",
    "ingested": "2026-11-13T17:20:10.093473+00:00",
    "headline": "Anthropic's Amodei: Compute is deepest business dilemma",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851298,
-   "ts": "2026-11-13T17:17:59+00:00",
-   "ingested": "2026-11-13T17:18:30.016310+00:00",
-   "headline": "Anthropic's CEO Amodei: We're very paranoid about AI risks",
    "channel": "rss",
    "source": "financialjuice"
   }
