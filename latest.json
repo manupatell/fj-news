@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T11:41:02.778212+00:00",
+ "updated": "2026-11-16T11:44:22.775571+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853715,
+   "ts": "2026-11-16T11:43:51+00:00",
+   "ingested": "2026-11-16T11:44:22.775082+00:00",
+   "headline": "RBA & RBNZ Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853692,
    "ts": "2026-11-16T11:29:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T12:58:18+00:00",
    "ingested": "2026-11-13T12:59:09.794854+00:00",
    "headline": "UBS FX Forecasts - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850859,
-   "ts": "2026-11-13T12:56:27+00:00",
-   "ingested": "2026-11-13T12:57:29.794368+00:00",
-   "headline": "US CENTCOM: IRGC launched two one-way attack drones toward Bahrain, and both were shot down by u.s. forces. There were no injuries or damage - Statement",
    "channel": "rss",
    "source": "financialjuice"
   }
