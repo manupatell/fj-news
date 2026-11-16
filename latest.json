@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T13:39:37.316232+00:00",
+ "updated": "2026-11-16T13:48:07.226105+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853915,
+   "ts": "2026-11-16T13:46:40+00:00",
+   "ingested": "2026-11-16T13:48:07.225828+00:00",
+   "headline": "US Transport Secretary Duffy: Working with Lumen, AT&T, and Verizon on architecture $T $VZ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853899,
    "ts": "2026-11-16T13:37:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T13:42:22+00:00",
    "ingested": "2026-11-13T13:43:29.813293+00:00",
    "headline": "Fed's Goolsbee: We need to be careful about assessing labor market impact on inflation, because wages are a lagging indicator of price pressures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850971,
-   "ts": "2026-11-13T13:42:03+00:00",
-   "ingested": "2026-11-13T13:43:29.813306+00:00",
-   "headline": "Fed's Goolsbee: I don't take comfort from lack of wage inflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
