@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T04:10:40.142887+00:00",
+ "updated": "2026-11-16T04:12:20.129176+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853228,
+   "ts": "2026-11-16T04:12:05+00:00",
+   "ingested": "2026-11-16T04:12:20.128764+00:00",
+   "headline": "BoJ\u2019s Takata: Bank is still in process of increasing policy rate to normalize policy, respond to global monetary and fiscal shifts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853227,
    "ts": "2026-11-16T04:09:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T07:30:01+00:00",
    "ingested": "2026-11-13T07:31:48.342124+00:00",
    "headline": "Swiss PPI MoM Actual 0.9% (Forecast -, Previous 0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850453,
-   "ts": "2026-11-13T07:30:00+00:00",
-   "ingested": "2026-11-13T07:31:48.342145+00:00",
-   "headline": "Swiss PPI YoY Actual 0.9% (Forecast -, Previous -0.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
