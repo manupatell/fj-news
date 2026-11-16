@@ -1,7 +1,151 @@
 {
- "updated": "2026-11-16T13:19:42.812404+00:00",
+ "updated": "2026-11-16T13:39:37.316232+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853899,
+   "ts": "2026-11-16T13:37:34+00:00",
+   "ingested": "2026-11-16T13:39:37.315718+00:00",
+   "headline": "US Commerce Secretary Lutnick and US Treasury Secretary Bessent are traveling on Air Force One with Trump to Asia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853898,
+   "ts": "2026-11-16T13:36:13+00:00",
+   "ingested": "2026-11-16T13:39:37.315738+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: We have complete trust in Pakistan - Iran's Sepah news",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853880,
+   "ts": "2026-11-16T13:32:13+00:00",
+   "ingested": "2026-11-16T13:39:37.315748+00:00",
+   "headline": "BoC Core CPI MoM Actual 0.4% (Forecast -, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853879,
+   "ts": "2026-11-16T13:32:13+00:00",
+   "ingested": "2026-11-16T13:39:37.315756+00:00",
+   "headline": "Canadian CPI Common Actual 2.5% (Forecast -, Previous 2.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853878,
+   "ts": "2026-11-16T13:32:12+00:00",
+   "ingested": "2026-11-16T13:39:37.315764+00:00",
+   "headline": "BoC Core CPI YoY Actual 2.0% (Forecast -, Previous 2.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853877,
+   "ts": "2026-11-16T13:32:12+00:00",
+   "ingested": "2026-11-16T13:39:37.315771+00:00",
+   "headline": "Canadian Core CPI MoM Actual 0.1% (Forecast -, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853884,
+   "ts": "2026-11-16T13:31:12+00:00",
+   "ingested": "2026-11-16T13:39:37.315779+00:00",
+   "headline": "Citigroup: Risk Sentiment Remains Soft as Markets Await Fed and Geopolitical Catalysts - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853876,
+   "ts": "2026-11-16T13:30:02+00:00",
+   "ingested": "2026-11-16T13:39:37.315787+00:00",
+   "headline": "Canadian CPI YoY Actual 3.1% (Forecast 3.2%, Previous 3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853875,
+   "ts": "2026-11-16T13:30:02+00:00",
+   "ingested": "2026-11-16T13:39:37.315794+00:00",
+   "headline": "Canadian CPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853874,
+   "ts": "2026-11-16T13:30:02+00:00",
+   "ingested": "2026-11-16T13:39:37.315801+00:00",
+   "headline": "Canadian CPI Trim Actual 1.8% (Forecast 1.9%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853873,
+   "ts": "2026-11-16T13:30:02+00:00",
+   "ingested": "2026-11-16T13:39:37.315808+00:00",
+   "headline": "Canadian CPI Median Actual 2% (Forecast 2%, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853872,
+   "ts": "2026-11-16T13:30:00+00:00",
+   "ingested": "2026-11-16T13:39:37.315815+00:00",
+   "headline": "NY Fed Manufacturing Actual 7.8 (Forecast 18, Previous 25.50)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853871,
+   "ts": "2026-11-16T13:28:37+00:00",
+   "ingested": "2026-11-16T13:39:37.315826+00:00",
+   "headline": "Cr\u00e9dit Agricole: USD Rally Supported by Rates and Risk Aversion, but Upside May Be Limited - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853870,
+   "ts": "2026-11-16T13:26:16+00:00",
+   "ingested": "2026-11-16T13:39:37.315835+00:00",
+   "headline": "US BIS: Rule designed to protect against circumvention through remote computing arrangements involving data centers in third countries - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853869,
+   "ts": "2026-11-16T13:25:40+00:00",
+   "ingested": "2026-11-16T13:39:37.315844+00:00",
+   "headline": "US Sentiment: AI Selloff Resumes ahead of Nvidia Earnings & Anthropic IPO - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853867,
+   "ts": "2026-11-16T13:23:05+00:00",
+   "ingested": "2026-11-16T13:39:37.315852+00:00",
+   "headline": "BofA CEO Moynihan concludes remarks on Bloomberg TV. $BAC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853866,
+   "ts": "2026-11-16T13:20:03+00:00",
+   "ingested": "2026-11-16T13:39:37.315859+00:00",
+   "headline": "The US publishes a list of higher-than-normal risk countries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853865,
+   "ts": "2026-11-16T13:19:44+00:00",
+   "ingested": "2026-11-16T13:39:37.315866+00:00",
+   "headline": "US license needed to re-export advanced AI chips to Brazil and Singapore",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853859,
    "ts": "2026-11-16T13:15:37+00:00",
@@ -3855,150 +3999,6 @@
    "ts": "2026-11-13T13:42:03+00:00",
    "ingested": "2026-11-13T13:43:29.813306+00:00",
    "headline": "Fed's Goolsbee: I don't take comfort from lack of wage inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850970,
-   "ts": "2026-11-13T13:40:35+00:00",
-   "ingested": "2026-11-13T13:41:49.812714+00:00",
-   "headline": "Fed's Goolsbee: Inflation has spread into categories where prices are not being driven by energy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850969,
-   "ts": "2026-11-13T13:40:02+00:00",
-   "ingested": "2026-11-13T13:41:49.812756+00:00",
-   "headline": "Fed's Goolsbee: Inflation is broad-based and going the wrong way.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850968,
-   "ts": "2026-11-13T13:35:09+00:00",
-   "ingested": "2026-11-13T13:36:49.817766+00:00",
-   "headline": "Traders price in less Fed tightening after PPI report.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850938,
-   "ts": "2026-11-13T13:32:08+00:00",
-   "ingested": "2026-11-13T13:35:09.808978+00:00",
-   "headline": "US Core PPI YoY Actual 5.0% (Forecast 5%, Previous 5.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850937,
-   "ts": "2026-11-13T13:30:06+00:00",
-   "ingested": "2026-11-13T13:31:49.800349+00:00",
-   "headline": "US Core PPI MoM Actual 0.3% (Forecast 0.3%, Previous 0.7%, Revised 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850935,
-   "ts": "2026-11-13T13:30:05+00:00",
-   "ingested": "2026-11-13T13:31:49.800365+00:00",
-   "headline": "US PPI YoY Actual 6.5% (Forecast 6.6%, Previous 6.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850934,
-   "ts": "2026-11-13T13:30:04+00:00",
-   "ingested": "2026-11-13T13:31:49.800378+00:00",
-   "headline": "US PPI MoM Actual 0.3% (Forecast 0.4%, Previous 1.3%, Revised 1.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850933,
-   "ts": "2026-11-13T13:30:03+00:00",
-   "ingested": "2026-11-13T13:31:49.800392+00:00",
-   "headline": "Canadian Wholesale Sales MoM Actual 0.7% (Forecast 0.5%, Previous -1.6%, Revised -1.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850932,
-   "ts": "2026-11-13T13:30:03+00:00",
-   "ingested": "2026-11-13T13:31:49.800404+00:00",
-   "headline": "Canadian Manufacturing Sales MoM Actual 0% (Forecast 0.1%, Previous 1.5%, Revised 1.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850930,
-   "ts": "2026-11-13T13:23:02+00:00",
-   "ingested": "2026-11-13T13:23:29.799488+00:00",
-   "headline": "US Treasury Secretary Bessent: I am optimistic US can get trade deals with Canada, Mexico.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850929,
-   "ts": "2026-11-13T13:20:15+00:00",
-   "ingested": "2026-11-13T13:21:49.803282+00:00",
-   "headline": "US Treasury Secretary Bessent: With gasoline down, we are likely to get a benign number next week, adds markets are resilient.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850928,
-   "ts": "2026-11-13T13:19:54+00:00",
-   "ingested": "2026-11-13T13:20:09.805862+00:00",
-   "headline": "US Treasury Secretary Bessent: We will keep squeezing Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850927,
-   "ts": "2026-11-13T13:19:38+00:00",
-   "ingested": "2026-11-13T13:20:09.805879+00:00",
-   "headline": "US Treasury Secretary Bessent: Fed is supposed to look into future.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850925,
-   "ts": "2026-11-13T13:17:43+00:00",
-   "ingested": "2026-11-13T13:18:29.802244+00:00",
-   "headline": "US Treasury Secretary Bessent: Iran created an energy shock but we will get to other side of it.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850924,
-   "ts": "2026-11-13T13:17:30+00:00",
-   "ingested": "2026-11-13T13:18:29.802261+00:00",
-   "headline": "Lutnick to testify December 10 about NVIDIA at senate committee - Fox",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850923,
-   "ts": "2026-11-13T13:17:20+00:00",
-   "ingested": "2026-11-13T13:18:29.802274+00:00",
-   "headline": "US Treasury Secretary Bessent: Core inflation remains under control",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850907,
-   "ts": "2026-11-13T13:15:39+00:00",
-   "ingested": "2026-11-13T13:16:49.861625+00:00",
-   "headline": "Poll: UK GDP to grow 1.5% in 2026, 1.2% in 2027 (vs 1.3%, 1.2% in October poll)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850906,
-   "ts": "2026-11-13T13:15:31+00:00",
-   "ingested": "2026-11-13T13:16:49.861644+00:00",
-   "headline": "Poll: BoE to lift bank rate to 4.25% in Q1, said 57 of 65 economists",
    "channel": "rss",
    "source": "financialjuice"
   }
