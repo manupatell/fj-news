@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T06:16:30.162965+00:00",
+ "updated": "2026-11-16T06:21:30.176677+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853358,
+   "ts": "2026-11-16T06:21:04+00:00",
+   "ingested": "2026-11-16T06:21:30.176212+00:00",
+   "headline": "Ukraine hits Crimea bridge, traffic halted: ifx",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853330,
    "ts": "2026-11-16T05:55:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T08:16:01+00:00",
    "ingested": "2026-11-13T08:47:19.773448+00:00",
    "headline": "IAEA report: The IAEA has neither received information from Iran on the status of its nuclear facilities and material nor had access to them, except for the Bushehr power plant",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850503,
-   "ts": "2026-11-13T08:15:33+00:00",
-   "ingested": "2026-11-13T08:47:19.773465+00:00",
-   "headline": "IAEA report: The IAEA's lack of information about enriched uranium and access to facilities since the June 2025 attacks is a matter of serious proliferation concern and needs to be rectified with the utmost urgency",
    "channel": "rss",
    "source": "financialjuice"
   }
