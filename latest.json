@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T13:54:47.223216+00:00",
+ "updated": "2026-11-16T13:56:27.218164+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853919,
+   "ts": "2026-11-16T13:54:47+00:00",
+   "ingested": "2026-11-16T13:56:27.217871+00:00",
+   "headline": "Tesla to invest an additional 3 billion euros in Germany's Gr\u00fcnheide plant - FAZ $TSLA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853918,
    "ts": "2026-11-16T13:53:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T13:44:37+00:00",
    "ingested": "2026-11-13T13:45:09.818564+00:00",
    "headline": "Fed's Goolsbee: AI build-out heating up the economy atop energy costs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850975,
-   "ts": "2026-11-13T13:43:55+00:00",
-   "ingested": "2026-11-13T13:45:09.818578+00:00",
-   "headline": "Fed's Goolsbee: The labor market is stable, maybe tightening a bit.",
    "channel": "rss",
    "source": "financialjuice"
   }
