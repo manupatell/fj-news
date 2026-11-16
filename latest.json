@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-16T03:52:20.123735+00:00",
+ "updated": "2026-11-16T04:02:20.137127+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853206,
+   "ts": "2026-11-16T04:01:25+00:00",
+   "ingested": "2026-11-16T04:02:20.136463+00:00",
+   "headline": "Pony.ai and Toyota introduce fully driverless commercial services with Gen-7 BZ4X robotaxi",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853205,
+   "ts": "2026-11-16T04:01:25+00:00",
+   "ingested": "2026-11-16T04:02:20.136565+00:00",
+   "headline": "Bank of Japan board member Takata: Price hikes now more likely to trigger second-round effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853170,
    "ts": "2026-11-16T02:59:30+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-13T04:38:19+00:00",
    "ingested": "2026-11-13T04:40:08.343413+00:00",
    "headline": "BoJ deputy governor Himino: no plans for additional review of bank's ETF sales at this time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850262,
-   "ts": "2026-11-13T04:38:04+00:00",
-   "ingested": "2026-11-13T04:38:28.283107+00:00",
-   "headline": "Microsoft on outage: noting partial recovery in regions with applied adjustments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850261,
-   "ts": "2026-11-13T04:37:26+00:00",
-   "ingested": "2026-11-13T04:38:28.283127+00:00",
-   "headline": "Microsoft on outage: noticing partial restoration across regions",
    "channel": "rss",
    "source": "financialjuice"
   }
