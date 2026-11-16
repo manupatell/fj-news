@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T05:54:50.182721+00:00",
+ "updated": "2026-11-16T05:56:30.163101+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853330,
+   "ts": "2026-11-16T05:55:45+00:00",
+   "ingested": "2026-11-16T05:56:30.162679+00:00",
+   "headline": "Russian defence ministry: Russian forces strike cargo vessel in Black Sea",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853329,
    "ts": "2026-11-16T05:54:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T08:15:33+00:00",
    "ingested": "2026-11-13T08:47:19.773465+00:00",
    "headline": "IAEA report: The IAEA's lack of information about enriched uranium and access to facilities since the June 2025 attacks is a matter of serious proliferation concern and needs to be rectified with the utmost urgency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850482,
-   "ts": "2026-11-13T08:02:05+00:00",
-   "ingested": "2026-11-13T08:06:48.345247+00:00",
-   "headline": "Spanish Core CPI YoY Actual 3.1% (Forecast -, Previous 3.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
