@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T07:11:30.177572+00:00",
+ "updated": "2026-11-16T07:14:50.219932+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853405,
+   "ts": "2026-11-16T07:14:03+00:00",
+   "ingested": "2026-11-16T07:14:50.219531+00:00",
+   "headline": "UKMTO gets report of vessel struck by projectile in Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853382,
    "ts": "2026-11-16T07:00:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T09:01:29+00:00",
    "ingested": "2026-11-13T09:02:29.715182+00:00",
    "headline": "IEA: Member countries plan to release a further 71 million barrels of emergency crude and products stocks through end-February 2027, with diesel the focus at about 15 million barrels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850563,
-   "ts": "2026-11-13T09:00:54+00:00",
-   "ingested": "2026-11-13T09:02:29.715197+00:00",
-   "headline": "IEA: World oil market showing signs of rebalancing, with supply surpassing demand for the first time since start of Iran war - monthly report",
    "channel": "rss",
    "source": "financialjuice"
   }
