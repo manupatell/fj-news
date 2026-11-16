@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-16T04:09:00.134064+00:00",
+ "updated": "2026-11-16T04:10:40.142887+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853227,
+   "ts": "2026-11-16T04:09:44+00:00",
+   "ingested": "2026-11-16T04:10:40.142385+00:00",
+   "headline": "BoJ's Takata: despite early-November stock market volatility tied to global AI shares, I believe AI investment will stay robust overall",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853226,
+   "ts": "2026-11-16T04:09:28+00:00",
+   "ingested": "2026-11-16T04:10:40.142406+00:00",
+   "headline": "BoJ's Takata: timing of cumulative impact of policy rate hikes still some way off",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853225,
+   "ts": "2026-11-16T04:09:14+00:00",
+   "ingested": "2026-11-16T04:10:40.142425+00:00",
+   "headline": "BoJ's Takata: I believe central bank is at new phase requiring agile responses on raising or cutting policy interest rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853224,
+   "ts": "2026-11-16T04:09:01+00:00",
+   "ingested": "2026-11-16T04:10:40.142443+00:00",
+   "headline": "BoJ's Takata: once higher rates harm corporate behavior, central bank can view it as neutral rate reached and consider possible cut",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853223,
    "ts": "2026-11-16T04:08:24+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-13T07:30:00+00:00",
    "ingested": "2026-11-13T07:31:48.342145+00:00",
    "headline": "Swiss PPI YoY Actual 0.9% (Forecast -, Previous -0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850407,
-   "ts": "2026-11-13T07:00:04+00:00",
-   "ingested": "2026-11-13T07:01:48.325747+00:00",
-   "headline": "German Wholesale Price Index YoY Actual 8.8% (Forecast -, Previous 8.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850406,
-   "ts": "2026-11-13T07:00:04+00:00",
-   "ingested": "2026-11-13T07:01:48.325769+00:00",
-   "headline": "German Wholesale Price Index MoM Actual 0.4% (Forecast -, Previous 1.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850381,
-   "ts": "2026-11-13T06:28:15+00:00",
-   "ingested": "2026-11-13T06:28:28.375107+00:00",
-   "headline": "Iran's Revolutionary Guards navy: tanker carrying liquefied gas struck naval mine, experienced explosion in Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850365,
-   "ts": "2026-11-13T06:06:55+00:00",
-   "ingested": "2026-11-13T06:08:28.307429+00:00",
-   "headline": "Dollar/yen rises to 160.09, highest level since early September",
    "channel": "rss",
    "source": "financialjuice"
   }
