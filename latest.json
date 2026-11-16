@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T17:12:37.282768+00:00",
+ "updated": "2026-11-16T17:21:27.351213+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854206,
+   "ts": "2026-11-16T17:20:08+00:00",
+   "ingested": "2026-11-16T17:21:27.350890+00:00",
+   "headline": "OPENAI CEO Altman: The AI revolution without ex-NVIDIA CEO Huang is \u2018hard to imagine\u2019 - Semafor Event. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854193,
    "ts": "2026-11-16T17:02:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T17:13:21+00:00",
    "ingested": "2026-11-13T17:15:09.999975+00:00",
    "headline": "Fed's Daly: A good economy with one problem, inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851290,
-   "ts": "2026-11-13T17:12:54+00:00",
-   "ingested": "2026-11-13T17:13:30.024561+00:00",
-   "headline": "Fed's Daly: Key problem we have is inflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
