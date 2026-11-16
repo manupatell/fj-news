@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-16T09:51:22.764834+00:00",
+ "updated": "2026-11-16T09:53:02.750437+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853591,
+   "ts": "2026-11-16T09:52:10+00:00",
+   "ingested": "2026-11-16T09:53:02.749901+00:00",
+   "headline": "Russian overnight strikes on Ukrainian energy infrastructure caused power outages in six regions - Deputy energy minister",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853590,
+   "ts": "2026-11-16T09:51:54+00:00",
+   "ingested": "2026-11-16T09:53:02.749917+00:00",
+   "headline": "French Minister Barrot: St. Petersburg oil terminal also getting put on EU sanctions list",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853589,
+   "ts": "2026-11-16T09:51:35+00:00",
+   "ingested": "2026-11-16T09:53:02.749928+00:00",
+   "headline": "French Foreign Minister: France and UK to host December conference on tackling Russian shadow fleet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853588,
+   "ts": "2026-11-16T09:51:19+00:00",
+   "ingested": "2026-11-16T09:53:02.749939+00:00",
+   "headline": "French Foreign Minister: CEO of Russian company Wildberries being put on EU sanctions list",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853587,
    "ts": "2026-11-16T09:51:03+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-13T10:20:54+00:00",
    "ingested": "2026-11-13T11:29:09.764296+00:00",
    "headline": "Kremlin: Russian delegation's lineup will be the same at the next round of negotiations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850740,
-   "ts": "2026-11-13T11:06:55+00:00",
-   "ingested": "2026-11-13T11:07:29.761284+00:00",
-   "headline": "Microsoft: Made additional progress toward service recovery $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850654,
-   "ts": "2026-11-13T10:02:08+00:00",
-   "ingested": "2026-11-13T10:07:29.769535+00:00",
-   "headline": "Eurozone Trade Balance NSA Actual -10.3B (Forecast -, Previous -16.1B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850651,
-   "ts": "2026-11-13T10:02:05+00:00",
-   "ingested": "2026-11-13T10:07:29.769553+00:00",
-   "headline": "Eurozone GDP QoQ Flash Estimate Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850657,
-   "ts": "2026-11-13T10:00:49+00:00",
-   "ingested": "2026-11-13T10:02:29.740554+00:00",
-   "headline": "Eurozone Trade Balance Actual -8.7B (Forecast -, Previous -7B)",
    "channel": "rss",
    "source": "financialjuice"
   }
