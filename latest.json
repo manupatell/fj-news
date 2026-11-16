@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T14:42:47.251696+00:00",
+ "updated": "2026-11-16T14:44:27.235465+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854004,
+   "ts": "2026-11-16T14:43:11+00:00",
+   "ingested": "2026-11-16T14:44:27.235091+00:00",
+   "headline": "Trump was asked if he would ask China to stop buying oil from Iran: \"I will ask him what I want to ask him. You don't have to know - Israel's Channel 12 News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854003,
    "ts": "2026-11-16T14:42:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T15:37:25+00:00",
    "ingested": "2026-11-13T16:58:30.064978+00:00",
    "headline": "Anthropic IPO is said to exclude China and Hong Kong based investors.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851139,
-   "ts": "2026-11-13T15:37:13+00:00",
-   "ingested": "2026-11-13T16:58:30.064986+00:00",
-   "headline": "Fed's Collins: Recent inflation data less promising than I had hoped",
    "channel": "rss",
    "source": "financialjuice"
   }
