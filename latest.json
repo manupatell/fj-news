@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T01:03:42.199018+00:00",
+ "updated": "2026-11-16T01:12:02.175390+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853011,
+   "ts": "2026-11-16T01:10:56+00:00",
+   "ingested": "2026-11-16T01:12:02.174743+00:00",
+   "headline": "China plans $2 billion three-year dollar bond: bookrunner message",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853010,
    "ts": "2026-11-16T01:01:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T00:36:44+00:00",
    "ingested": "2026-11-13T00:38:07.709254+00:00",
    "headline": "Japan finmin Katayama: observing one-sided, swift forex shifts recently",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849966,
-   "ts": "2026-11-13T00:35:50+00:00",
-   "ingested": "2026-11-13T00:36:27.691688+00:00",
-   "headline": "Fed's Williams: US has economic tools to manage debt levels, political will needed for solution",
    "channel": "rss",
    "source": "financialjuice"
   }
