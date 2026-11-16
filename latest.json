@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-16T15:01:17.281571+00:00",
+ "updated": "2026-11-16T15:02:57.223512+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854037,
+   "ts": "2026-11-16T15:01:20+00:00",
+   "ingested": "2026-11-16T15:02:57.223150+00:00",
+   "headline": "Bank of Canada Governor Tiff Macklem to step down in June 2027 at the end of his seven-year term - BOC statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854024,
+   "ts": "2026-11-16T15:01:11+00:00",
+   "ingested": "2026-11-16T15:02:57.223163+00:00",
+   "headline": "Kremlin Aide: For now, current talks only include Russia, Ukraine, and the US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854022,
    "ts": "2026-11-16T15:01:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-13T15:43:21+00:00",
    "ingested": "2026-11-13T16:58:30.064897+00:00",
    "headline": "Microsoft: We confirm no indication outage from malicious activity - Post on X. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851150,
-   "ts": "2026-11-13T15:42:46+00:00",
-   "ingested": "2026-11-13T16:58:30.064905+00:00",
-   "headline": "Fed's Collins: Energy is an inflation driver, but I see it as broader",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851149,
-   "ts": "2026-11-13T15:42:02+00:00",
-   "ingested": "2026-11-13T16:58:30.064912+00:00",
-   "headline": "Microsoft: We\u2019re seeing encouraging recovery progress $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
