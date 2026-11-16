@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-16T19:15:07.318804+00:00",
+ "updated": "2026-11-16T19:16:47.310090+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854370,
+   "ts": "2026-11-16T19:15:45+00:00",
+   "ingested": "2026-11-16T19:16:47.309757+00:00",
+   "headline": "Fed's Hammack: Job market has been largely in balance, but is not dynamic.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854368,
+   "ts": "2026-11-16T19:15:33+00:00",
+   "ingested": "2026-11-16T19:16:47.309770+00:00",
+   "headline": "Fed's Hammack: We've seen a labor market that's broadly in balance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854362,
    "ts": "2026-11-16T19:14:19+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-13T18:01:40+00:00",
    "ingested": "2026-11-13T18:02:50.038956+00:00",
    "headline": "US Baker Hughes Oil Rig Count Actual 463 (Forecast -, Previous 463)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851367,
-   "ts": "2026-11-13T18:00:59+00:00",
-   "ingested": "2026-11-13T18:02:50.038968+00:00",
-   "headline": "US Baker Hughes Total Rig Count Actual 601 (Forecast -, Previous 604)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851353,
-   "ts": "2026-11-13T17:59:54+00:00",
-   "ingested": "2026-11-13T18:00:10.024755+00:00",
-   "headline": "Microsoft: It was technical issue not related to cyber, or AI agents. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
