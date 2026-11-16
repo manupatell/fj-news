@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T02:55:40.132099+00:00",
+ "updated": "2026-11-16T03:00:40.110665+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853170,
+   "ts": "2026-11-16T02:59:30+00:00",
+   "ingested": "2026-11-16T03:00:40.110183+00:00",
+   "headline": "Taiwan stocks fall over 4%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853063,
    "ts": "2026-11-16T02:02:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T04:37:26+00:00",
    "ingested": "2026-11-13T04:38:28.283127+00:00",
    "headline": "Microsoft on outage: noticing partial restoration across regions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850213,
-   "ts": "2026-11-13T03:38:04+00:00",
-   "ingested": "2026-11-13T03:38:28.262394+00:00",
-   "headline": "China finance ministry offers 3-year bonds at 1.22% yield: traders",
    "channel": "rss",
    "source": "financialjuice"
   }
