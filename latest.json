@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T14:07:17.233532+00:00",
+ "updated": "2026-11-16T14:10:47.244050+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853955,
+   "ts": "2026-11-16T14:09:47+00:00",
+   "ingested": "2026-11-16T14:10:47.243732+00:00",
+   "headline": "NY Fed's Nordstrom: Foreign exchange markets resilient in uncertain global economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853954,
    "ts": "2026-11-16T14:06:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T14:18:59+00:00",
    "ingested": "2026-11-13T14:20:09.821035+00:00",
    "headline": "US Sentiment: Microsoft Outlook Issues Persist, PPI Doesn't Alter Rate Expectations Much - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851019,
-   "ts": "2026-11-13T14:09:49+00:00",
-   "ingested": "2026-11-13T14:10:09.822637+00:00",
-   "headline": "Fed's Collins: Higher productivity has helped limit some inflationary pressures.",
    "channel": "rss",
    "source": "financialjuice"
   }
