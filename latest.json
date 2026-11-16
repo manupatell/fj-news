@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T14:01:27.231246+00:00",
+ "updated": "2026-11-16T14:01:37.216736+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853949,
+   "ts": "2026-11-16T14:01:21+00:00",
+   "ingested": "2026-11-16T14:01:37.216410+00:00",
+   "headline": "Kremlin on Putin-Trump-Xi meeting: Talks will take into account contributions of different countries to victory in World War II and the founding of the United Nations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853946,
    "ts": "2026-11-16T14:01:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T14:00:48+00:00",
    "ingested": "2026-11-13T14:01:49.816891+00:00",
    "headline": "Apple Homeview available today.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850995,
-   "ts": "2026-11-13T13:59:41+00:00",
-   "ingested": "2026-11-13T14:00:09.835463+00:00",
-   "headline": "Effective Fed Funds Rate 3.88% November 12 vs 3.88% November 10",
    "channel": "rss",
    "source": "financialjuice"
   }
