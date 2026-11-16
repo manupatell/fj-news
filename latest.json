@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-16T16:24:37.263842+00:00",
+ "updated": "2026-11-16T16:32:07.309080+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854153,
+   "ts": "2026-11-16T16:31:53+00:00",
+   "ingested": "2026-11-16T16:32:07.308719+00:00",
+   "headline": "US 6-Month Bill High Yield Actual 4.31% (Forecast -, Previous 4.145%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854152,
+   "ts": "2026-11-16T16:31:52+00:00",
+   "ingested": "2026-11-16T16:32:07.308732+00:00",
+   "headline": "US 6-Month Bill Bid-to-Cover Actual 2.83 (Forecast -, Previous 2.920)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854151,
+   "ts": "2026-11-16T16:31:52+00:00",
+   "ingested": "2026-11-16T16:32:07.308741+00:00",
+   "headline": "US 3-Month Bill Bid-to-Cover Actual 2.76 (Forecast -, Previous 2.670)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854150,
+   "ts": "2026-11-16T16:31:52+00:00",
+   "ingested": "2026-11-16T16:32:07.308748+00:00",
+   "headline": "US 3-Month Bill High Yield Actual 4.155% (Forecast -, Previous 4.060%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854114,
    "ts": "2026-11-16T16:12:57+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-13T16:22:33+00:00",
    "ingested": "2026-11-13T16:58:30.064809+00:00",
    "headline": "ECB's Nagel: Early stages of pricing chain point to upward pressures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851215,
-   "ts": "2026-11-13T16:21:22+00:00",
-   "ingested": "2026-11-13T16:58:30.064820+00:00",
-   "headline": "ECB's Nagel: It's highly probable ECB will have to act again.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851185,
-   "ts": "2026-11-13T15:51:02+00:00",
-   "ingested": "2026-11-13T16:58:30.064827+00:00",
-   "headline": "Fed's Collins concludes remarks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851184,
-   "ts": "2026-11-13T15:50:42+00:00",
-   "ingested": "2026-11-13T16:58:30.064835+00:00",
-   "headline": "Fed's Collins: I'm seeing evidence financial markets stable and functioning well.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851182,
-   "ts": "2026-11-13T15:49:57+00:00",
-   "ingested": "2026-11-13T16:58:30.064842+00:00",
-   "headline": "Fed's Collins: Hear more AI complementing labor than substituting",
    "channel": "rss",
    "source": "financialjuice"
   }
