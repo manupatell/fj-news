@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T14:30:47.215342+00:00",
+ "updated": "2026-11-16T14:32:27.214770+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853980,
+   "ts": "2026-11-16T14:31:01+00:00",
+   "ingested": "2026-11-16T14:32:27.214471+00:00",
+   "headline": "Crypto bank rejected by the Supreme Court over Fed payment access",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853973,
    "ts": "2026-11-16T14:30:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T14:40:56+00:00",
    "ingested": "2026-11-13T16:58:30.065077+00:00",
    "headline": "Fed's Logan: Treasury market currently functioning very well, trading proceeding smoothly even amid substantial rate volatility.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851065,
-   "ts": "2026-11-13T14:40:55+00:00",
-   "ingested": "2026-11-13T16:58:30.065086+00:00",
-   "headline": "Fed's Logan: Central clearing of Fed repo operations would allow funding from the Fed to flow more efficiently to the broader market",
    "channel": "rss",
    "source": "financialjuice"
   }
