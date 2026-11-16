@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-16T07:14:50.219932+00:00",
+ "updated": "2026-11-16T07:18:10.198078+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853416,
+   "ts": "2026-11-16T07:17:53+00:00",
+   "ingested": "2026-11-16T07:18:10.197630+00:00",
+   "headline": "EU's Kallas: European leaders decided on the format for Russia talks, now need to discuss substance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853415,
+   "ts": "2026-11-16T07:17:41+00:00",
+   "ingested": "2026-11-16T07:18:10.197660+00:00",
+   "headline": "EU's Kallas: Hope to elevate our relationship with Syria to the same level as that with Mediterranean partners",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853405,
    "ts": "2026-11-16T07:14:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-13T09:02:16+00:00",
    "ingested": "2026-11-13T09:02:29.715141+00:00",
    "headline": "IEA: Hormuz oil flows rose 440k b/d m/m to 11.8m in October",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850591,
-   "ts": "2026-11-13T09:02:07+00:00",
-   "ingested": "2026-11-13T09:02:29.715164+00:00",
-   "headline": "IEA: Global oil market to return to 1.7 million bpd surplus in Q4 2026 vs previous deficit forecast, with more substantial build in 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850566,
-   "ts": "2026-11-13T09:01:29+00:00",
-   "ingested": "2026-11-13T09:02:29.715182+00:00",
-   "headline": "IEA: Member countries plan to release a further 71 million barrels of emergency crude and products stocks through end-February 2027, with diesel the focus at about 15 million barrels",
    "channel": "rss",
    "source": "financialjuice"
   }
