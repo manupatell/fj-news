@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T01:22:02.199224+00:00",
+ "updated": "2026-11-16T01:23:42.219360+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853026,
+   "ts": "2026-11-16T01:22:21+00:00",
+   "ingested": "2026-11-16T01:23:42.218742+00:00",
+   "headline": "Canada PM Carney: will focus on food and energy security, financial services, and China's evolving role in global system during China visit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853025,
    "ts": "2026-11-16T01:21:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T00:40:20+00:00",
    "ingested": "2026-11-13T00:41:27.701226+00:00",
    "headline": "Japan finmin Katayama: US, Japan align on forex policy at summit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849968,
-   "ts": "2026-11-13T00:37:08+00:00",
-   "ingested": "2026-11-13T00:38:07.709242+00:00",
-   "headline": "Japan finmin katayama: will engage with US treasury, respond suitably",
    "channel": "rss",
    "source": "financialjuice"
   }
