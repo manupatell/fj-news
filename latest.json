@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-16T01:58:42.234282+00:00",
+ "updated": "2026-11-16T02:00:40.153295+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853075,
+   "ts": "2026-11-16T02:00:04+00:00",
+   "ingested": "2026-11-16T02:00:40.152692+00:00",
+   "headline": "China October retail sales rise 0.4% y/y, below poll of 0.8%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853074,
+   "ts": "2026-11-16T02:00:04+00:00",
+   "ingested": "2026-11-16T02:00:40.152719+00:00",
+   "headline": "China Jan-Oct property sales by floor space down 13.7% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853073,
+   "ts": "2026-11-16T02:00:04+00:00",
+   "ingested": "2026-11-16T02:00:40.152739+00:00",
+   "headline": "China jan-oct fixed-asset investment declines 8.1% y/y (poll 7.0% drop)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853072,
+   "ts": "2026-11-16T02:00:04+00:00",
+   "ingested": "2026-11-16T02:00:40.152757+00:00",
+   "headline": "China October industrial production rises 4.8% year on year, below poll of 5.3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853071,
+   "ts": "2026-11-16T02:00:04+00:00",
+   "ingested": "2026-11-16T02:00:40.152773+00:00",
+   "headline": "China oct survey-based urban unemployment rate in 31 key cities at 5.1%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853070,
+   "ts": "2026-11-16T02:00:04+00:00",
+   "ingested": "2026-11-16T02:00:40.152793+00:00",
+   "headline": "China Jan-Oct private sector fixed-asset investment declines 11.4% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853069,
+   "ts": "2026-11-16T02:00:03+00:00",
+   "ingested": "2026-11-16T02:00:40.152808+00:00",
+   "headline": "China October nationwide survey-based unemployment rate at 5.1%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853068,
+   "ts": "2026-11-16T02:00:03+00:00",
+   "ingested": "2026-11-16T02:00:40.152821+00:00",
+   "headline": "China jan-oct infrastructure investment falls 5.1% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853067,
+   "ts": "2026-11-16T02:00:03+00:00",
+   "ingested": "2026-11-16T02:00:40.152836+00:00",
+   "headline": "China property investment down 21.6% year-on-year from January to October",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853066,
+   "ts": "2026-11-16T02:00:03+00:00",
+   "ingested": "2026-11-16T02:00:40.152849+00:00",
+   "headline": "China jan-oct new construction starts down 24.4% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853065,
+   "ts": "2026-11-16T02:00:03+00:00",
+   "ingested": "2026-11-16T02:00:40.152863+00:00",
+   "headline": "China jan-oct fundraising by Chinese real estate developers drops 21.9% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853060,
    "ts": "2026-11-16T01:56:14+00:00",
@@ -3911,94 +3999,6 @@
    "ts": "2026-11-13T03:15:15+00:00",
    "ingested": "2026-11-13T03:16:48.261637+00:00",
    "headline": "Microsoft on outage: monitored status of changes to improve serviceability, confirmed they aren't working as expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850187,
-   "ts": "2026-11-13T03:14:26+00:00",
-   "ingested": "2026-11-13T03:15:08.265829+00:00",
-   "headline": "Microsoft on outage: we've monitored status of applied changes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850186,
-   "ts": "2026-11-13T03:14:25+00:00",
-   "ingested": "2026-11-13T03:15:08.265850+00:00",
-   "headline": "To improve serviceability, confirmed service levels aren't meeting expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850185,
-   "ts": "2026-11-13T03:11:24+00:00",
-   "ingested": "2026-11-13T03:11:48.287613+00:00",
-   "headline": "South Korea government: may suspend or cancel Google map export permit over serious breaches",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850184,
-   "ts": "2026-11-13T03:10:42+00:00",
-   "ingested": "2026-11-13T03:11:48.287636+00:00",
-   "headline": "South Korea government: confirms Google deleted coordinates for South Korean territory from Google Maps, Earth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850183,
-   "ts": "2026-11-13T03:10:03+00:00",
-   "ingested": "2026-11-13T03:11:48.287654+00:00",
-   "headline": "South Korea government: Google to remove street view in and around all military and security sites",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850173,
-   "ts": "2026-11-13T03:00:04+00:00",
-   "ingested": "2026-11-13T03:01:48.248215+00:00",
-   "headline": "S.Korea Sept l-money supply measure rises 7.0% y/y vs 7.2% in Aug: c.bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850147,
-   "ts": "2026-11-13T02:30:06+00:00",
-   "ingested": "2026-11-13T02:31:48.262430+00:00",
-   "headline": "Microsoft: applying infrastructure capacity upgrades where possible to support traffic in regions coming online",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850146,
-   "ts": "2026-11-13T02:29:48+00:00",
-   "ingested": "2026-11-13T02:30:08.292683+00:00",
-   "headline": "US President Donald Trump's AI task force met Thursday: discussed earlier AI-driven cyberattacks - administration spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850129,
-   "ts": "2026-11-13T02:12:29+00:00",
-   "ingested": "2026-11-13T02:12:43.415150+00:00",
-   "headline": "Iran's IRGC: targeted US early-warning radar in Bahrain after telecom tower attack in Iran's Sii",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850128,
-   "ts": "2026-11-13T02:08:21+00:00",
-   "ingested": "2026-11-13T02:09:23.601492+00:00",
-   "headline": "Democratic US Senator Chris Van Hollen: running for senate majority leader",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850127,
-   "ts": "2026-11-13T02:05:16+00:00",
-   "ingested": "2026-11-13T02:06:03.427455+00:00",
-   "headline": "Schumer: I have support to remain as Democratic leader",
    "channel": "rss",
    "source": "financialjuice"
   }
