@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T16:01:27.247946+00:00",
+ "updated": "2026-11-16T16:01:57.335165+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854106,
+   "ts": "2026-11-16T16:01:19+00:00",
+   "ingested": "2026-11-16T16:01:57.334867+00:00",
+   "headline": "Nvidia launches Vera CPU rack-scale platform for HPC $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854104,
    "ts": "2026-11-16T16:01:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T15:48:57+00:00",
    "ingested": "2026-11-13T16:58:30.064867+00:00",
    "headline": "The US wants Japan to nearly triple its budget for hosting American troops - Nikkei",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851166,
-   "ts": "2026-11-13T15:46:44+00:00",
-   "ingested": "2026-11-13T16:58:30.064874+00:00",
-   "headline": "Fed's Collins: Construction productivity has declined.",
    "channel": "rss",
    "source": "financialjuice"
   }
