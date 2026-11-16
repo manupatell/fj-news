@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-16T17:00:47.263534+00:00",
+ "updated": "2026-11-16T17:02:27.264799+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854193,
+   "ts": "2026-11-16T17:02:12+00:00",
+   "ingested": "2026-11-16T17:02:27.264466+00:00",
+   "headline": "Google introducing new AI tools - Ask AdMob & AdMob Agent tools. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854182,
+   "ts": "2026-11-16T17:01:14+00:00",
+   "ingested": "2026-11-16T17:02:27.264480+00:00",
+   "headline": "Fed's Chair Warsh: The risks of super intelligence cannot be overlooked, could be highly disruptive and economically costly.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854181,
+   "ts": "2026-11-16T17:01:03+00:00",
+   "ingested": "2026-11-16T17:02:27.264491+00:00",
+   "headline": "Fed's Chair Warsh: Outcomes could range from broadly shared gains to high unemployment or a slowdown driven by falling equity valuations if the technology disappoints",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854178,
+   "ts": "2026-11-16T17:00:44+00:00",
+   "ingested": "2026-11-16T17:02:27.264502+00:00",
+   "headline": "Fed's Chair Warsh: 'super intelligence\" will have a significant economic impact and implications for the Fed, with questions about magnitude, scope, and timing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854177,
+   "ts": "2026-11-16T17:00:41+00:00",
+   "ingested": "2026-11-16T17:02:27.264512+00:00",
+   "headline": "Fed's Chair Warsh: Humans 'should not be underestimated' and 'must be the deciders' in how new technology is used.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854175,
    "ts": "2026-11-16T17:00:27+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-13T17:12:54+00:00",
    "ingested": "2026-11-13T17:13:30.024561+00:00",
    "headline": "Fed's Daly: Key problem we have is inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851259,
-   "ts": "2026-11-13T16:54:30+00:00",
-   "ingested": "2026-11-13T16:58:30.064712+00:00",
-   "headline": "Arm boss Rene Haas approached in Nvidia CEO search - FT $NVDA $ARM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851242,
-   "ts": "2026-11-13T16:42:57+00:00",
-   "ingested": "2026-11-13T16:58:30.064731+00:00",
-   "headline": "Microsoft on outage: Addressed the underlying issue and continue to restore service to remaining customers and regions. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851241,
-   "ts": "2026-11-13T16:42:37+00:00",
-   "ingested": "2026-11-13T16:58:30.064743+00:00",
-   "headline": "Microsoft on outage: Incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851235,
-   "ts": "2026-11-13T16:40:41+00:00",
-   "ingested": "2026-11-13T16:58:30.064754+00:00",
-   "headline": "Super Micro Spokesperson: Voluntarily provided information and engaged with all requests from Singapore authorities to date $SMCI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851234,
-   "ts": "2026-11-13T16:40:26+00:00",
-   "ingested": "2026-11-13T16:58:30.064763+00:00",
-   "headline": "Super Micro Computer Spokesperson: Megaspeed is not, and has never been, a Supermicro customer. $SMCI",
    "channel": "rss",
    "source": "financialjuice"
   }
