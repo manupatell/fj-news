@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T04:58:10.157579+00:00",
+ "updated": "2026-11-16T05:03:10.154070+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853278,
+   "ts": "2026-11-16T05:01:52+00:00",
+   "ingested": "2026-11-16T05:03:10.153682+00:00",
+   "headline": "Brussels to suggest \u20ac45bn Ukraine loan secured by EU budget - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853251,
    "ts": "2026-11-16T04:34:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T08:00:01+00:00",
    "ingested": "2026-11-13T08:01:48.357252+00:00",
    "headline": "Spanish CPI YoY Final Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850469,
-   "ts": "2026-11-13T07:45:00+00:00",
-   "ingested": "2026-11-13T07:46:48.355177+00:00",
-   "headline": "French HICP YoY Final Actual 3.7% (Forecast 3.8%, Previous 3.8%)",
    "channel": "rss",
    "source": "financialjuice"
   }
