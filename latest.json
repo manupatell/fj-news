@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-16T06:21:30.176677+00:00",
+ "updated": "2026-11-16T06:31:30.243911+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853364,
+   "ts": "2026-11-16T06:31:13+00:00",
+   "ingested": "2026-11-16T06:31:30.243424+00:00",
+   "headline": "India's October WPI inflation at 12.29% y/y, government says (Poll: 12.10%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853363,
+   "ts": "2026-11-16T06:31:13+00:00",
+   "ingested": "2026-11-16T06:31:30.243446+00:00",
+   "headline": "India's fuel price index in WPI jumps 32.84% y/y in Oct: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853362,
+   "ts": "2026-11-16T06:31:13+00:00",
+   "ingested": "2026-11-16T06:31:30.243465+00:00",
+   "headline": "India\u2019s wholesale food price index at 8.58% y/y in October: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853361,
+   "ts": "2026-11-16T06:31:13+00:00",
+   "ingested": "2026-11-16T06:31:30.243507+00:00",
+   "headline": "India's October manufacturing inflation at 9.54% y/y: government",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853358,
    "ts": "2026-11-16T06:21:04+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-13T08:16:27+00:00",
    "ingested": "2026-11-13T08:47:19.773377+00:00",
    "headline": "IAEA report: It is critical for the IAEA to conduct verification activities in Iran without further delay, Grossi calls on Iran to engage constructively",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850507,
-   "ts": "2026-11-13T08:16:25+00:00",
-   "ingested": "2026-11-13T08:47:19.773394+00:00",
-   "headline": "IAEA Report: The IAEA does not know Isfahan enrichment plant's exact location or whether it contains nuclear material.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850506,
-   "ts": "2026-11-13T08:16:16+00:00",
-   "ingested": "2026-11-13T08:47:19.773412+00:00",
-   "headline": "IAEA report: The IAEA is increasingly concerned that Iran has not let it examine design information or inspect the Isfahan uranium enrichment plan declared in June 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850505,
-   "ts": "2026-11-13T08:16:14+00:00",
-   "ingested": "2026-11-13T08:47:19.773431+00:00",
-   "headline": "IAEA Report: Not able to conclude that there has been no diversion of nuclear material from peaceful nuclear activities in Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850504,
-   "ts": "2026-11-13T08:16:01+00:00",
-   "ingested": "2026-11-13T08:47:19.773448+00:00",
-   "headline": "IAEA report: The IAEA has neither received information from Iran on the status of its nuclear facilities and material nor had access to them, except for the Bushehr power plant",
    "channel": "rss",
    "source": "financialjuice"
   }
