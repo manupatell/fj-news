@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T01:37:02.248673+00:00",
+ "updated": "2026-11-16T01:40:22.224552+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853044,
+   "ts": "2026-11-16T01:40:04+00:00",
+   "ingested": "2026-11-16T01:40:22.223938+00:00",
+   "headline": "S.Korea central bank sells 91-day monetary stabilization bonds at 3.230% yield",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853043,
    "ts": "2026-11-16T01:33:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T01:23:25+00:00",
    "ingested": "2026-11-13T01:24:23.411380+00:00",
    "headline": "Republican lawmakers renew demand for former Nvidia CEO Jensen Huang to update Congress on espionage allegations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850018,
-   "ts": "2026-11-13T01:23:12+00:00",
-   "ingested": "2026-11-13T01:24:23.411393+00:00",
-   "headline": "China central bank injects 300 billion yuan via 7-day reverse repos: statement",
    "channel": "rss",
    "source": "financialjuice"
   }
