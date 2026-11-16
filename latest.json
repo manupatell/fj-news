@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T17:50:47.278346+00:00",
+ "updated": "2026-11-16T17:55:47.290729+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854275,
+   "ts": "2026-11-16T17:54:20+00:00",
+   "ingested": "2026-11-16T17:55:47.290454+00:00",
+   "headline": "Mehr News: An American MQ-1 drone was shot down by the Iranian Army's air defense system in the vicinity of the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854274,
    "ts": "2026-11-16T17:50:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T17:21:13+00:00",
    "ingested": "2026-11-13T17:21:50.002630+00:00",
    "headline": "Fed's Daly: Hard to say policy is restrictive enough.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851303,
-   "ts": "2026-11-13T17:20:53+00:00",
-   "ingested": "2026-11-13T17:21:50.002643+00:00",
-   "headline": "Fed's Daly: In all likelihood we will need to raise rates.",
    "channel": "rss",
    "source": "financialjuice"
   }
