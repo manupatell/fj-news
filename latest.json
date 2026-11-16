@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-16T17:29:47.281555+00:00",
+ "updated": "2026-11-16T17:31:27.291737+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854221,
+   "ts": "2026-11-16T17:31:13+00:00",
+   "ingested": "2026-11-16T17:31:27.291393+00:00",
+   "headline": "Fitch Ratings: North American sovereigns face a deteriorating outlook as divided USA governance heightens fiscal risks and debt-ceiling brinkmanship.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854220,
+   "ts": "2026-11-16T17:30:32+00:00",
+   "ingested": "2026-11-16T17:31:27.291405+00:00",
+   "headline": "Fitch Ratings: North American sovereign outlook deteriorating on US fiscal risks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854216,
    "ts": "2026-11-16T17:28:38+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-13T17:17:59+00:00",
    "ingested": "2026-11-13T17:18:30.016310+00:00",
    "headline": "Anthropic's CEO Amodei: We're very paranoid about AI risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851297,
-   "ts": "2026-11-13T17:17:34+00:00",
-   "ingested": "2026-11-13T17:18:30.016324+00:00",
-   "headline": "Fed's Daly: Other tech is being used to do more with fewer workers.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851296,
-   "ts": "2026-11-13T17:16:39+00:00",
-   "ingested": "2026-11-13T17:16:50.019314+00:00",
-   "headline": "Anthropic's CEO Amodei doesn't want AI agents to run wild.",
    "channel": "rss",
    "source": "financialjuice"
   }
