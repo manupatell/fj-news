@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T01:12:02.175390+00:00",
+ "updated": "2026-11-16T01:22:02.199224+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853025,
+   "ts": "2026-11-16T01:21:13+00:00",
+   "ingested": "2026-11-16T01:22:02.198603+00:00",
+   "headline": "China cbank injects 460 billion yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853011,
    "ts": "2026-11-16T01:10:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T00:37:08+00:00",
    "ingested": "2026-11-13T00:38:07.709242+00:00",
    "headline": "Japan finmin katayama: will engage with US treasury, respond suitably",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849967,
-   "ts": "2026-11-13T00:36:44+00:00",
-   "ingested": "2026-11-13T00:38:07.709254+00:00",
-   "headline": "Japan finmin Katayama: observing one-sided, swift forex shifts recently",
    "channel": "rss",
    "source": "financialjuice"
   }
