@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T17:36:27.275689+00:00",
+ "updated": "2026-11-16T17:40:17.317462+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854240,
+   "ts": "2026-11-16T17:39:33+00:00",
+   "ingested": "2026-11-16T17:40:17.317091+00:00",
+   "headline": "NVIDIA board not considering bringing Huang back as CEO - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854239,
    "ts": "2026-11-16T17:35:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T17:20:43+00:00",
    "ingested": "2026-11-13T17:21:50.002652+00:00",
    "headline": "Fed's Daly: Markets understand Fed's reaction function.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851301,
-   "ts": "2026-11-13T17:19:39+00:00",
-   "ingested": "2026-11-13T17:20:10.093451+00:00",
-   "headline": "Fed's Daly: Bias is that rates need to go up.",
    "channel": "rss",
    "source": "financialjuice"
   }
