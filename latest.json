@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-16T13:56:27.218164+00:00",
+ "updated": "2026-11-16T14:01:27.231246+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853946,
+   "ts": "2026-11-16T14:01:15+00:00",
+   "ingested": "2026-11-16T14:01:27.230830+00:00",
+   "headline": "Kremlin on Putin-Trump-Xi meeting: intensive consultations are under way on the text of the joint statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853933,
+   "ts": "2026-11-16T14:01:04+00:00",
+   "ingested": "2026-11-16T14:01:27.230844+00:00",
+   "headline": "Kremlin on Putin-Trump-Xi Trilateral meeting: Meeting to take place on November 19th at Xi's official residence.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853930,
+   "ts": "2026-11-16T14:00:57+00:00",
+   "ingested": "2026-11-16T14:01:27.230855+00:00",
+   "headline": "Kremlin on Putin-Trump meeting: Work is underway to arrange November 19th talks, Putin and Trump certain to meet, format and venue still being finalised",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853928,
+   "ts": "2026-11-16T14:00:45+00:00",
+   "ingested": "2026-11-16T14:01:27.230864+00:00",
+   "headline": "Kremlin on Putin-Xi meeting: Putin to brief Xi on contacts with the United States, including talks held in Abu Dhabi.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853927,
+   "ts": "2026-11-16T14:00:32+00:00",
+   "ingested": "2026-11-16T14:01:27.230874+00:00",
+   "headline": "Kremlin on Putin-Xi meeting: Putin and Xi to meet on November 18th, talks to focus on prospects for bilateral economic cooperation, as well as Ukraine and the Korean peninsula.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853926,
+   "ts": "2026-11-16T14:00:31+00:00",
+   "ingested": "2026-11-16T14:01:27.230884+00:00",
+   "headline": "Kremlin on Putin's visit to the APEC forum: more than 30 russian companies, including Gazprom, Novatek, Rosneft, Lukoil, Sberbank, Yandex, and Wildberries, will be represented at the event",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853922,
+   "ts": "2026-11-16T13:59:47+00:00",
+   "ingested": "2026-11-16T14:01:27.230892+00:00",
+   "headline": "Effective Fed funds rate 3.88% November 13th vs 3.88% November 12th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853921,
+   "ts": "2026-11-16T13:59:41+00:00",
+   "ingested": "2026-11-16T14:01:27.230906+00:00",
+   "headline": "Pakistan's Deputy Prime Minister: Response from the US is awaited, haven\u2019t given up on our efforts  - Asia One News Reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853919,
    "ts": "2026-11-16T13:54:47+00:00",
@@ -3935,70 +3999,6 @@
    "ts": "2026-11-13T13:59:41+00:00",
    "ingested": "2026-11-13T14:00:09.835463+00:00",
    "headline": "Effective Fed Funds Rate 3.88% November 12 vs 3.88% November 10",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850994,
-   "ts": "2026-11-13T13:53:05+00:00",
-   "ingested": "2026-11-13T13:53:29.825327+00:00",
-   "headline": "Fed's Goolsbee: Right now the Fed is not on track to hit 2%, and the central bank needs to deal with that; it needs to ensure demand does not overheat",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850993,
-   "ts": "2026-11-13T13:50:48+00:00",
-   "ingested": "2026-11-13T13:51:49.812712+00:00",
-   "headline": "Fed's Goolsbee: Even if the price of oil drops rapidly, refining capacity remains \"problematic\" and will keep diesel and jet fuel prices elevated.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850991,
-   "ts": "2026-11-13T13:47:39+00:00",
-   "ingested": "2026-11-13T13:48:29.808053+00:00",
-   "headline": "Fed's Goolsbee: The Fed must continue to reestablish its credibility.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850990,
-   "ts": "2026-11-13T13:47:30+00:00",
-   "ingested": "2026-11-13T13:48:29.808073+00:00",
-   "headline": "Fed's Goolsbee: Services inflation and rising health care costs don't feel like they will change quickly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850987,
-   "ts": "2026-11-13T13:45:51+00:00",
-   "ingested": "2026-11-13T13:46:49.810054+00:00",
-   "headline": "Fed's Goolsbee: Inflation is rising and proving far more persistent than expected when it was just a matter of supply shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850978,
-   "ts": "2026-11-13T13:45:14+00:00",
-   "ingested": "2026-11-13T13:46:49.810071+00:00",
-   "headline": "Fed's Goolsbee: I agree Fed \"has work to do\" on inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850977,
-   "ts": "2026-11-13T13:44:42+00:00",
-   "ingested": "2026-11-13T13:45:09.818546+00:00",
-   "headline": "Fed's Goolsbee: We cannot look through inflation if demand is overheating; data center buildout is pushing up prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850976,
-   "ts": "2026-11-13T13:44:37+00:00",
-   "ingested": "2026-11-13T13:45:09.818564+00:00",
-   "headline": "Fed's Goolsbee: AI build-out heating up the economy atop energy costs",
    "channel": "rss",
    "source": "financialjuice"
   }
