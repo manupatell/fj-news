@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T16:03:57.301212+00:00",
+ "updated": "2026-11-16T16:04:07.255505+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854112,
+   "ts": "2026-11-16T16:03:53+00:00",
+   "ingested": "2026-11-16T16:04:07.255202+00:00",
+   "headline": "Claude for Microsoft 365 usage is less than one-tenth of Copilot and the gap is widening - The Information. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854109,
    "ts": "2026-11-16T16:03:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T15:49:52+00:00",
    "ingested": "2026-11-13T16:58:30.064852+00:00",
    "headline": "US asked Japan to provide more than 3 trln yen over 5 years in talks on new host-nation support budget covering US forces in Japan - Nikkei.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851180,
-   "ts": "2026-11-13T15:49:32+00:00",
-   "ingested": "2026-11-13T16:58:30.064860+00:00",
-   "headline": "Fed's Collins: Seeing signs that AI is helping firms meet rising demand.",
    "channel": "rss",
    "source": "financialjuice"
   }
