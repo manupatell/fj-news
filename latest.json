@@ -1,7 +1,639 @@
 {
- "updated": "2026-11-16T19:18:27.318101+00:00",
+ "updated": "2026-11-16T23:02:03.206707+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854657,
+   "ts": "2026-11-16T22:54:34+00:00",
+   "ingested": "2026-11-16T23:02:03.204986+00:00",
+   "headline": "RBA Governor Bullock: risk of oil prices remaining high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854656,
+   "ts": "2026-11-16T22:53:45+00:00",
+   "ingested": "2026-11-16T23:02:03.205010+00:00",
+   "headline": "RBA Governor Bullock: inflation risks remain tilted to the upside",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854642,
+   "ts": "2026-11-16T22:46:34+00:00",
+   "ingested": "2026-11-16T23:02:03.205029+00:00",
+   "headline": "Department of Commerce designates si export packages: unveils next phase of American si exports program",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854638,
+   "ts": "2026-11-16T22:42:18+00:00",
+   "ingested": "2026-11-16T23:02:03.205048+00:00",
+   "headline": "State Department: Rubio, in call with Bahrain counterpart, denounces Iran's assaults on Bahrain, reaffirms dedication to Bahrain's security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854637,
+   "ts": "2026-11-16T22:36:43+00:00",
+   "ingested": "2026-11-16T23:02:03.205066+00:00",
+   "headline": "Ukraine strikes Crimea bridge: Russia-installed governor of Crimea says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854612,
+   "ts": "2026-11-16T22:28:07+00:00",
+   "ingested": "2026-11-16T23:02:03.205084+00:00",
+   "headline": "Former CFPB Director Chopra: Self-regulation without enforcement makes it hard to verify compliance on tech firms' self-regulation idea",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854610,
+   "ts": "2026-11-16T22:20:39+00:00",
+   "ingested": "2026-11-16T23:02:03.205100+00:00",
+   "headline": "Trump approval steady near career low at 32% as backing for Iran war stays weak: Ipsos poll finds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854609,
+   "ts": "2026-11-16T22:20:39+00:00",
+   "ingested": "2026-11-16T23:02:03.205115+00:00",
+   "headline": "More Democrats view party Senate leader Chuck Schumer unfavorably than favorably: Ipsos poll finds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854608,
+   "ts": "2026-11-16T22:19:42+00:00",
+   "ingested": "2026-11-16T23:02:03.205130+00:00",
+   "headline": "IMF on Ukraine: With financing assurances, review to be submitted for board approval enabling $1.6 billion access",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854607,
+   "ts": "2026-11-16T22:17:50+00:00",
+   "ingested": "2026-11-16T23:02:03.205144+00:00",
+   "headline": "IMF: performance in Ukraine under the program has improved since first review",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854606,
+   "ts": "2026-11-16T22:17:25+00:00",
+   "ingested": "2026-11-16T23:02:03.205158+00:00",
+   "headline": "IMF: staff estimate Ukraine financing gap of $32-34 billion in 2027 and $17 billion in 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854595,
+   "ts": "2026-11-16T22:16:56+00:00",
+   "ingested": "2026-11-16T23:02:03.205174+00:00",
+   "headline": "Former CFPB Director Chopra: Coordinating with States on rules and regulations to avoid reliance on Federal regulators",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854593,
+   "ts": "2026-11-16T22:16:40+00:00",
+   "ingested": "2026-11-16T23:02:03.205196+00:00",
+   "headline": "IMF: staff and Ukrainian officials make significant progress on policy talks for second and third review of extended fund facility arrangement, with virtual discussions ongoing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854592,
+   "ts": "2026-11-16T22:16:05+00:00",
+   "ingested": "2026-11-16T23:02:03.205210+00:00",
+   "headline": "Former CFPB director Chopra: no AL exemption from state licensing rules, accountability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854589,
+   "ts": "2026-11-16T22:14:09+00:00",
+   "ingested": "2026-11-16T23:02:03.205224+00:00",
+   "headline": "Former CFPB director Chopra: reviewing how AI firms are collecting personal data and possibly exploiting it",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854588,
+   "ts": "2026-11-16T22:13:59+00:00",
+   "ingested": "2026-11-16T23:02:03.205238+00:00",
+   "headline": "Former CFPB Director Chopra: Will take different steps including suing companies over rule violations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854587,
+   "ts": "2026-11-16T22:11:57+00:00",
+   "ingested": "2026-11-16T23:02:03.205252+00:00",
+   "headline": "Former CFPB Director Chopra: Need greater accountability from AI firms when agents act rogue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854586,
+   "ts": "2026-11-16T22:11:50+00:00",
+   "ingested": "2026-11-16T23:02:03.205267+00:00",
+   "headline": "Former CFPB Director Chopra: Investigating How AI Firms Forge Intimate User Bonds and Potential Breaches of Licensed Medical Practice Laws",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854585,
+   "ts": "2026-11-16T22:08:14+00:00",
+   "ingested": "2026-11-16T23:02:03.205281+00:00",
+   "headline": "California consumer watchdog Rohit Chopra: unsure if Federal Reserve considering AI related risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854584,
+   "ts": "2026-11-16T22:07:09+00:00",
+   "ingested": "2026-11-16T23:02:03.205296+00:00",
+   "headline": "California Consumer Watchdog Rohit Chopra: Major concern is strong connection between AI trade and real economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854564,
+   "ts": "2026-11-16T21:48:36+00:00",
+   "ingested": "2026-11-16T23:02:03.205311+00:00",
+   "headline": "Nvidia cuts share stake in Synopsys by 9.7% to 4.4 mln shares - SEC filing. $NVDA $SNPS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854561,
+   "ts": "2026-11-16T21:46:14+00:00",
+   "ingested": "2026-11-16T23:02:03.205326+00:00",
+   "headline": "Nvidia cuts share stake in Intel by 25.0% to 161.1 mln shares - SEC filing. $NVDA $INTC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854547,
+   "ts": "2026-11-16T21:45:00+00:00",
+   "ingested": "2026-11-16T23:02:03.205339+00:00",
+   "headline": "New Zealand Food Price Index Actual -0.4% (Forecast -, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854546,
+   "ts": "2026-11-16T21:38:22+00:00",
+   "ingested": "2026-11-16T23:02:03.205354+00:00",
+   "headline": "Sirens sound after drone flies over Khor Mor gas field in Iraqi Kurdistan - Security Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854545,
+   "ts": "2026-11-16T21:35:17+00:00",
+   "ingested": "2026-11-16T23:02:03.205370+00:00",
+   "headline": "UKMTO: Third party reported attack involving tanker transiting Strait of Hormuz, disabling the vessel and resulting in an engine room fire",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854544,
+   "ts": "2026-11-16T21:34:44+00:00",
+   "ingested": "2026-11-16T23:02:03.205383+00:00",
+   "headline": "UKMTO: Received report of incident 7nm north of Oman's Khasab.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854530,
+   "ts": "2026-11-16T21:31:51+00:00",
+   "ingested": "2026-11-16T23:02:03.205396+00:00",
+   "headline": "USD CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854529,
+   "ts": "2026-11-16T21:31:49+00:00",
+   "ingested": "2026-11-16T23:02:03.205408+00:00",
+   "headline": "EUR CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854528,
+   "ts": "2026-11-16T21:31:47+00:00",
+   "ingested": "2026-11-16T23:02:03.205420+00:00",
+   "headline": "AUD CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854526,
+   "ts": "2026-11-16T21:31:45+00:00",
+   "ingested": "2026-11-16T23:02:03.205433+00:00",
+   "headline": "JPY CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854525,
+   "ts": "2026-11-16T21:31:43+00:00",
+   "ingested": "2026-11-16T23:02:03.205445+00:00",
+   "headline": "GBP CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854524,
+   "ts": "2026-11-16T21:31:41+00:00",
+   "ingested": "2026-11-16T23:02:03.205457+00:00",
+   "headline": "CHF CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854523,
+   "ts": "2026-11-16T21:31:40+00:00",
+   "ingested": "2026-11-16T23:02:03.205469+00:00",
+   "headline": "NZD CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854522,
+   "ts": "2026-11-16T21:31:38+00:00",
+   "ingested": "2026-11-16T23:02:03.205481+00:00",
+   "headline": "CAD CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854521,
+   "ts": "2026-11-16T21:31:36+00:00",
+   "ingested": "2026-11-16T23:02:03.205493+00:00",
+   "headline": "ZN CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854520,
+   "ts": "2026-11-16T21:31:34+00:00",
+   "ingested": "2026-11-16T23:02:03.205505+00:00",
+   "headline": "ZT CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854519,
+   "ts": "2026-11-16T21:31:32+00:00",
+   "ingested": "2026-11-16T23:02:03.205519+00:00",
+   "headline": "VIX CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854518,
+   "ts": "2026-11-16T21:31:31+00:00",
+   "ingested": "2026-11-16T23:02:03.205532+00:00",
+   "headline": "NQ CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854517,
+   "ts": "2026-11-16T21:31:29+00:00",
+   "ingested": "2026-11-16T23:02:03.205545+00:00",
+   "headline": "ES CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854516,
+   "ts": "2026-11-16T21:31:27+00:00",
+   "ingested": "2026-11-16T23:02:03.205558+00:00",
+   "headline": "WTI CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854515,
+   "ts": "2026-11-16T21:31:25+00:00",
+   "ingested": "2026-11-16T23:02:03.205571+00:00",
+   "headline": "Copper CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854514,
+   "ts": "2026-11-16T21:31:23+00:00",
+   "ingested": "2026-11-16T23:02:03.205584+00:00",
+   "headline": "Gold CFTC Positions Week of November 10th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854511,
+   "ts": "2026-11-16T21:28:08+00:00",
+   "ingested": "2026-11-16T23:02:03.205599+00:00",
+   "headline": "Chase: This is not a systemic issue. Working to resolve this by end of the day today $JPM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854510,
+   "ts": "2026-11-16T21:27:42+00:00",
+   "ingested": "2026-11-16T23:02:03.205615+00:00",
+   "headline": "Chase: There is no evidence today's issues are cyber-related. Taking longer than usual to service some customers $JPM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854509,
+   "ts": "2026-11-16T21:24:16+00:00",
+   "ingested": "2026-11-16T23:02:03.205630+00:00",
+   "headline": "UK's PM Burnham: UK's EU options to inform decisions in next Parliament.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854490,
+   "ts": "2026-11-16T21:07:47+00:00",
+   "ingested": "2026-11-16T23:02:03.205646+00:00",
+   "headline": "Google launching new service in Japan that automatically detects system vulnerabilities called \"Scan for Japan\" - Nikkei. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854489,
+   "ts": "2026-11-16T21:05:27+00:00",
+   "ingested": "2026-11-16T23:02:03.205660+00:00",
+   "headline": "UK's PM Burnham: Britain left Europe on bad terms, with bad feelings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854488,
+   "ts": "2026-11-16T21:04:57+00:00",
+   "ingested": "2026-11-16T23:02:03.205674+00:00",
+   "headline": "Google to give Japan early access to frontier AI for cybersecurity - Nikkei. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854460,
+   "ts": "2026-11-16T20:30:58+00:00",
+   "ingested": "2026-11-16T23:02:03.205690+00:00",
+   "headline": "CFTC Positions in the Week of November 10th 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854457,
+   "ts": "2026-11-16T20:26:15+00:00",
+   "ingested": "2026-11-16T23:02:03.205704+00:00",
+   "headline": "Deputy Isfahan Governor denies report of air defences activated - SNN News Agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854456,
+   "ts": "2026-11-16T20:25:53+00:00",
+   "ingested": "2026-11-16T23:02:03.205720+00:00",
+   "headline": "Iran Navy: Tanker on fire after hitting mine in Strait of Hormuz, fourth affected vessel in 24 hours - Iranian State TV.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854455,
+   "ts": "2026-11-16T20:22:18+00:00",
+   "ingested": "2026-11-16T23:02:03.205731+00:00",
+   "headline": "Tuesday FX Options Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854440,
+   "ts": "2026-11-16T20:16:43+00:00",
+   "ingested": "2026-11-16T23:02:03.205745+00:00",
+   "headline": "Iran claims fourth tanker hits mine in Hormuz in 24 hours - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854437,
+   "ts": "2026-11-16T20:03:28+00:00",
+   "ingested": "2026-11-16T23:02:03.205762+00:00",
+   "headline": "RBNZ FSR: Global financial stability risks have continued to increase, raising the chance of a significant shock affecting New Zealand",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854436,
+   "ts": "2026-11-16T20:03:15+00:00",
+   "ingested": "2026-11-16T23:02:03.205775+00:00",
+   "headline": "RBNZ FSR: Deposit takers well placed to manage financial risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854434,
+   "ts": "2026-11-16T20:02:47+00:00",
+   "ingested": "2026-11-16T23:02:03.205807+00:00",
+   "headline": "Reserve Bank of NZ FSR: Domestic financial stress has generally eased from its peak last year but remains uneven.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854433,
+   "ts": "2026-11-16T20:02:37+00:00",
+   "ingested": "2026-11-16T23:02:03.205824+00:00",
+   "headline": "RBNZ FSR: Sectors reliant on discretionary spending face challenges.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854430,
+   "ts": "2026-11-16T20:02:19+00:00",
+   "ingested": "2026-11-16T23:02:03.205842+00:00",
+   "headline": "RBNZ FSR: Higher government bond yields and still-stretched valuations, particularly among AI-related firms, leave markets vulnerable to a correction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854427,
+   "ts": "2026-11-16T20:01:44+00:00",
+   "ingested": "2026-11-16T23:02:03.205856+00:00",
+   "headline": "RBNZ Financial Stability Report: Financial system remains resilient as global risks increase.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854426,
+   "ts": "2026-11-16T20:01:16+00:00",
+   "ingested": "2026-11-16T23:02:03.205868+00:00",
+   "headline": "RBNZ: Financial system remains resilient",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854412,
+   "ts": "2026-11-16T19:44:29+00:00",
+   "ingested": "2026-11-16T23:02:03.205884+00:00",
+   "headline": "Putin could meet North Korean leader Kim Jong Un if he also comes to china for APEC summit, IFX quotes kremlin spokesman Peskov as saying",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854411,
+   "ts": "2026-11-16T19:41:43+00:00",
+   "ingested": "2026-11-16T23:02:03.205898+00:00",
+   "headline": "Brent Crude futures settle at $92.44/bbl, down $3.40, 3.55%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854410,
+   "ts": "2026-11-16T19:35:22+00:00",
+   "ingested": "2026-11-16T23:02:03.205913+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi entered Oman - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854398,
+   "ts": "2026-11-16T19:31:43+00:00",
+   "ingested": "2026-11-16T23:02:03.205926+00:00",
+   "headline": "NYMEX Nat Gas Dec. futures settle at $3.1220/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854397,
+   "ts": "2026-11-16T19:31:09+00:00",
+   "ingested": "2026-11-16T23:02:03.205939+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.5379 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854396,
+   "ts": "2026-11-16T19:31:01+00:00",
+   "ingested": "2026-11-16T23:02:03.205952+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.0818 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854395,
+   "ts": "2026-11-16T19:30:50+00:00",
+   "ingested": "2026-11-16T23:02:03.205966+00:00",
+   "headline": "NYMEX WTI crude Dec. futures settle at $85.72 a barrel, down $2.84, 3.21%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854394,
+   "ts": "2026-11-16T19:27:31+00:00",
+   "ingested": "2026-11-16T23:02:03.205981+00:00",
+   "headline": "Fed's Hammack: I do like idea of successive rate increases to help bring inflation down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854393,
+   "ts": "2026-11-16T19:26:53+00:00",
+   "ingested": "2026-11-16T23:02:03.205995+00:00",
+   "headline": "Vance: Won't let Iran become even a 2 Year commitment - Fox News clip",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854392,
+   "ts": "2026-11-16T19:23:56+00:00",
+   "ingested": "2026-11-16T23:02:03.206008+00:00",
+   "headline": "Fed's Hammack: 2% inflation is still a reasonable goal for the Fed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854391,
+   "ts": "2026-11-16T19:23:47+00:00",
+   "ingested": "2026-11-16T23:02:03.206023+00:00",
+   "headline": "Fed's Hammack: The economy can deal with more restriction. It's unclear how far Fed has to go.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854390,
+   "ts": "2026-11-16T19:23:26+00:00",
+   "ingested": "2026-11-16T23:02:03.206036+00:00",
+   "headline": "Fed's Hammack: Would like to see us get to restrictive policy stance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854389,
+   "ts": "2026-11-16T19:23:14+00:00",
+   "ingested": "2026-11-16T23:02:03.206050+00:00",
+   "headline": "Fed's Hammack: Strong growth and Fed expectations driving rise in rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854388,
+   "ts": "2026-11-16T19:22:59+00:00",
+   "ingested": "2026-11-16T23:02:03.206063+00:00",
+   "headline": "Fed's Hammack: Financial conditions are still not restraining the economy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854387,
+   "ts": "2026-11-16T19:22:33+00:00",
+   "ingested": "2026-11-16T23:02:03.206076+00:00",
+   "headline": "Fed's Hammack: Higher market borrowing costs are needed to restrain economy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854386,
+   "ts": "2026-11-16T19:21:55+00:00",
+   "ingested": "2026-11-16T23:02:03.206090+00:00",
+   "headline": "Fed's Hammack: I don't think AI issuance is competing with governments.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854385,
+   "ts": "2026-11-16T19:20:45+00:00",
+   "ingested": "2026-11-16T23:02:03.206102+00:00",
+   "headline": "Fed's Hammack: Definitely seeing inflation pressures from AI today.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854384,
+   "ts": "2026-11-16T19:19:25+00:00",
+   "ingested": "2026-11-16T23:02:03.206116+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi departs Islamabad for Muscat - Tasnim",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854383,
+   "ts": "2026-11-16T19:18:38+00:00",
+   "ingested": "2026-11-16T23:02:03.206130+00:00",
+   "headline": "Fed's Hammack: With AI, range of impact is very wide.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854382,
    "ts": "2026-11-16T19:17:52+00:00",
@@ -3367,638 +3999,6 @@
    "ts": "2026-11-13T23:25:48+00:00",
    "ingested": "2026-11-13T23:27:21.998494+00:00",
    "headline": "US National Weather Service: radarweather.gov fully operational with no radar outage",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851731,
-   "ts": "2026-11-13T23:25:25+00:00",
-   "ingested": "2026-11-13T23:25:41.926298+00:00",
-   "headline": "Some US airlines may halt operations for rest of Friday if services don\u2019t resume soon: airline officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851730,
-   "ts": "2026-11-13T23:23:35+00:00",
-   "ingested": "2026-11-13T23:24:01.928878+00:00",
-   "headline": "Eurocontrol: all flights departing member states to US airports halted on FAA request due to technical problems - website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851701,
-   "ts": "2026-11-13T22:49:45+00:00",
-   "ingested": "2026-11-13T22:50:41.924486+00:00",
-   "headline": "US FAA: As enroute facilities recover, flights will be permitted to depart through coordination with air traffic control system command center",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851700,
-   "ts": "2026-11-13T22:49:23+00:00",
-   "ingested": "2026-11-13T22:50:41.924500+00:00",
-   "headline": "US FAA: FAA command center ground halt remains in effect",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851699,
-   "ts": "2026-11-13T22:48:44+00:00",
-   "ingested": "2026-11-13T22:49:01.925825+00:00",
-   "headline": "Saudi civil defense: danger has passed in Najran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851688,
-   "ts": "2026-11-13T22:44:21+00:00",
-   "ingested": "2026-11-13T22:45:41.941403+00:00",
-   "headline": "US FAA outages include air traffic control radar and radio frequencies: CNN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851687,
-   "ts": "2026-11-13T22:44:18+00:00",
-   "ingested": "2026-11-13T22:45:41.941420+00:00",
-   "headline": "Saudi civil defense issues warning about possible threat in Najran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851661,
-   "ts": "2026-11-13T22:09:09+00:00",
-   "ingested": "2026-11-13T22:10:30.099447+00:00",
-   "headline": "FBI: communication issue disrupting air traffic control not result of cyberattack or crime",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851660,
-   "ts": "2026-11-13T22:08:00+00:00",
-   "ingested": "2026-11-13T22:08:50.173500+00:00",
-   "headline": "FBI to investigate if software update triggered widespread FAA outage",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851659,
-   "ts": "2026-11-13T22:07:53+00:00",
-   "ingested": "2026-11-13T22:08:50.173513+00:00",
-   "headline": "DHS Secretary Mullin on nationwide groundstop: reviewing all options including new air traffic control system",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851658,
-   "ts": "2026-11-13T22:07:05+00:00",
-   "ingested": "2026-11-13T22:08:50.173523+00:00",
-   "headline": "DHS Secretary Mullin on nationwide groundstop: no cause for public alarm",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851657,
-   "ts": "2026-11-13T22:06:26+00:00",
-   "ingested": "2026-11-13T22:07:10.079438+00:00",
-   "headline": "DHS Secretary Mullin on nationwide groundstop: Trump has been briefed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851656,
-   "ts": "2026-11-13T22:06:14+00:00",
-   "ingested": "2026-11-13T22:07:10.079451+00:00",
-   "headline": "DHS Secretary Mullin on nationwide groundstop: flights accounted for",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851655,
-   "ts": "2026-11-13T22:05:41+00:00",
-   "ingested": "2026-11-13T22:07:10.079460+00:00",
-   "headline": "DHS Secretary Mullin on nationwide groundstop: communication maintained at certain levels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851654,
-   "ts": "2026-11-13T22:03:55+00:00",
-   "ingested": "2026-11-13T22:05:30.082338+00:00",
-   "headline": "US FAA: temporary telecom outage leads to precautionary halt of all flights",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851653,
-   "ts": "2026-11-13T22:03:45+00:00",
-   "ingested": "2026-11-13T22:05:30.082351+00:00",
-   "headline": "UK Ministry of Defence: working closely to establish facts, updates to follow",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851652,
-   "ts": "2026-11-13T22:03:31+00:00",
-   "ingested": "2026-11-13T22:03:50.061845+00:00",
-   "headline": "US FAA: every flight accounted for, international flights handled case by case",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851651,
-   "ts": "2026-11-13T22:03:29+00:00",
-   "ingested": "2026-11-13T22:03:50.061858+00:00",
-   "headline": "DHS Secretary Mullin on nationwide groundstop: not excluding any options at this stage",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851650,
-   "ts": "2026-11-13T22:03:29+00:00",
-   "ingested": "2026-11-13T22:03:50.061867+00:00",
-   "headline": "UK Ministry of Defence: USAF security forces acted on reports and situation resolved",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851649,
-   "ts": "2026-11-13T22:03:13+00:00",
-   "ingested": "2026-11-13T22:03:50.061877+00:00",
-   "headline": "UK Ministry of Defence: coordinating with relevant parties on reports of unauthorized drone activity at RAF Lakenheath this evening",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851638,
-   "ts": "2026-11-13T22:01:42+00:00",
-   "ingested": "2026-11-13T22:02:10.093521+00:00",
-   "headline": "US National Weather Service: technicians actively working to fix issues promptly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851636,
-   "ts": "2026-11-13T22:01:21+00:00",
-   "ingested": "2026-11-13T22:02:10.093533+00:00",
-   "headline": "US National Weather Service: NWS experiencing nationwide internet and communication disruptions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851634,
-   "ts": "2026-11-13T21:49:19+00:00",
-   "ingested": "2026-11-13T21:50:30.078026+00:00",
-   "headline": "FAA ground stop does not appear to be a cyber attack - CNN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851618,
-   "ts": "2026-11-13T21:34:31+00:00",
-   "ingested": "2026-11-13T21:35:30.064515+00:00",
-   "headline": "Nearly 7,000 US flights delayed, cancelled due to nationwide groundstop - FlightAware.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851606,
-   "ts": "2026-11-13T21:30:44+00:00",
-   "ingested": "2026-11-13T21:32:10.064177+00:00",
-   "headline": "Week Ahead: After a Rocky Week, Focus Turns to Nvidia Earnings - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851600,
-   "ts": "2026-11-13T21:26:34+00:00",
-   "ingested": "2026-11-13T21:27:10.072515+00:00",
-   "headline": "US FAA: Users can expect airborne holding at any and all airports within the national airspace system due to equipment outages",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851599,
-   "ts": "2026-11-13T21:25:05+00:00",
-   "ingested": "2026-11-13T21:25:30.122830+00:00",
-   "headline": "FAA communications issue started in NE and then spread nationwide - CNN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851597,
-   "ts": "2026-11-13T21:23:13+00:00",
-   "ingested": "2026-11-13T21:23:50.076064+00:00",
-   "headline": "Nvidia was not discussed during the AI task force meeting - Semafor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851596,
-   "ts": "2026-11-13T21:21:51+00:00",
-   "ingested": "2026-11-13T21:22:10.087453+00:00",
-   "headline": "Trump\u2019s AI task force discusses cyber risks - Semafor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851594,
-   "ts": "2026-11-13T21:18:05+00:00",
-   "ingested": "2026-11-13T21:18:50.095924+00:00",
-   "headline": "US Transportation Secretary Duffy: FAA nationwide ground stop for all US Airports due to a communication issue impacting all air route traffic control centers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851593,
-   "ts": "2026-11-13T21:17:38+00:00",
-   "ingested": "2026-11-13T21:18:50.095938+00:00",
-   "headline": "US Transport Secretary Duffy: We'll provide updates on the FAA ground stop as we have them",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851590,
-   "ts": "2026-11-13T21:17:08+00:00",
-   "ingested": "2026-11-13T21:18:50.095948+00:00",
-   "headline": "FAA: Departures to Chicago O'Hare grounded due to equipment outage.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851588,
-   "ts": "2026-11-13T21:16:44+00:00",
-   "ingested": "2026-11-13T21:17:10.055517+00:00",
-   "headline": "Soros Fund Management LLC raises its share stake in Micron Technology by 58.9% to 35,618 shares - SEC filing, and raises its share stake in Intel to 2.8 million shares $INTC $MSCI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851586,
-   "ts": "2026-11-13T21:16:07+00:00",
-   "ingested": "2026-11-13T21:17:10.055531+00:00",
-   "headline": "FAA: Nationwide departure ground stop due to several impacts to ATC frequencies and/or radar capabilities - The Air Current",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851579,
-   "ts": "2026-11-13T21:13:22+00:00",
-   "ingested": "2026-11-13T21:13:50.065705+00:00",
-   "headline": "Soros Fund Management LLC cuts share stake in Microsoft Corp. by 35.7% to 122,166 shares - SEC filing $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851578,
-   "ts": "2026-11-13T21:12:43+00:00",
-   "ingested": "2026-11-13T21:13:50.065718+00:00",
-   "headline": "Soros Fund Management LLC cuts its stake in Amazon  by 10.8% to 1.1 million shares $AMZN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851577,
-   "ts": "2026-11-13T21:12:28+00:00",
-   "ingested": "2026-11-13T21:12:50.079900+00:00",
-   "headline": "Trump will meet with Putin and Xi next Thursday in Shenzhen - NYP",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851576,
-   "ts": "2026-11-13T21:12:12+00:00",
-   "ingested": "2026-11-13T21:12:50.079915+00:00",
-   "headline": "Soros Fund Management LLC cuts share stake in NVIDIA Corp. by 19.3% to 858,822 shares - SEC filing $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851575,
-   "ts": "2026-11-13T21:10:47+00:00",
-   "ingested": "2026-11-13T21:11:10.127516+00:00",
-   "headline": "FAA: Ground stop due to ATC frequency issues - Air Current",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851574,
-   "ts": "2026-11-13T21:06:30+00:00",
-   "ingested": "2026-11-13T21:07:20.088850+00:00",
-   "headline": "S&P: Italy 'bbb+/a-2' ratings affirmed; Outlook positive",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851573,
-   "ts": "2026-11-13T21:03:16+00:00",
-   "ingested": "2026-11-13T21:04:00.089711+00:00",
-   "headline": "Nvidia's weekly decline erases more than $573 billion in value $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851572,
-   "ts": "2026-11-13T21:02:22+00:00",
-   "ingested": "2026-11-13T21:04:00.089724+00:00",
-   "headline": "Fiscal debt sustainability rises 2 spots to fifth on list of risks to financial system - Fed report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851569,
-   "ts": "2026-11-13T21:02:10+00:00",
-   "ingested": "2026-11-13T21:04:00.089735+00:00",
-   "headline": "Several respondents noted concerns that persistent deficits and heavy treasury issuance could trigger a disorderly rise in yields - Fed report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851568,
-   "ts": "2026-11-13T21:01:51+00:00",
-   "ingested": "2026-11-13T21:02:20.066262+00:00",
-   "headline": "vulnerabilities tied to financial leverage remain 'notable '; hedge fund leverage at highest level since 2013 - Fed Report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851560,
-   "ts": "2026-11-13T21:01:34+00:00",
-   "ingested": "2026-11-13T21:02:20.066278+00:00",
-   "headline": "Advanced-computing-related debt issuance rose to over $680 bln by October 2026, a fivefold increase from 2023 levels - Fed Report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851559,
-   "ts": "2026-11-13T21:01:15+00:00",
-   "ingested": "2026-11-13T21:02:20.066289+00:00",
-   "headline": "Advanced computing-related borrowing now accounts for 31% of all nonfinancial investment-grade corporate debt issuance - Fed report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851558,
-   "ts": "2026-11-13T21:01:15+00:00",
-   "ingested": "2026-11-13T21:02:20.066299+00:00",
-   "headline": "Several respondents flagged concerns that ongoing deficits and extensive Treasury issuance could prompt disorderly yield increases: Fed report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851557,
-   "ts": "2026-11-13T21:01:14+00:00",
-   "ingested": "2026-11-13T21:02:20.066308+00:00",
-   "headline": "Fiscal debt sustainability rises two spots to fifth on list of financial system risks: Fed report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851556,
-   "ts": "2026-11-13T21:01:05+00:00",
-   "ingested": "2026-11-13T21:02:20.066316+00:00",
-   "headline": "Artificial intelligence is the most-cited risk to the financial system in the latest Federal Reserve financial stability report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851555,
-   "ts": "2026-11-13T21:00:53+00:00",
-   "ingested": "2026-11-13T21:02:20.066325+00:00",
-   "headline": "Eighty-seven percent of survey respondents cited AI as a salient risk to financial stability - Fed report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851554,
-   "ts": "2026-11-13T21:00:41+00:00",
-   "ingested": "2026-11-13T21:02:20.066341+00:00",
-   "headline": "The Fed: AI computing investment has been accelerating, suggesting the pace of the current cycle\u2019s investment may soon surpass the 1990s telecom cycle - Fed Report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851545,
-   "ts": "2026-11-13T20:59:56+00:00",
-   "ingested": "2026-11-13T21:00:40.059121+00:00",
-   "headline": "The US government is $694.1b away from the $41.1t borrowing limit as of November 12th - US Treasury",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851544,
-   "ts": "2026-11-13T20:58:19+00:00",
-   "ingested": "2026-11-13T20:59:00.102939+00:00",
-   "headline": "FAA: Inbound international flights will be managed on a case-by-case basis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851543,
-   "ts": "2026-11-13T20:58:02+00:00",
-   "ingested": "2026-11-13T20:59:00.102952+00:00",
-   "headline": "FAA: All departing traffic should remain ground stopped until further notice",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851542,
-   "ts": "2026-11-13T20:57:43+00:00",
-   "ingested": "2026-11-13T20:59:00.102961+00:00",
-   "headline": "FAA: National ground stop due to extraordinary circumstances and for reasons of safety",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851541,
-   "ts": "2026-11-13T20:57:32+00:00",
-   "ingested": "2026-11-13T20:59:00.102967+00:00",
-   "headline": "FAA issues national ground stop - FAA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851540,
-   "ts": "2026-11-13T20:53:20+00:00",
-   "ingested": "2026-11-13T20:54:00.095494+00:00",
-   "headline": "Musk: A petition is underway to reinstate Nvidia's Jensen, and I'm signing it too $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851538,
-   "ts": "2026-11-13T20:47:28+00:00",
-   "ingested": "2026-11-13T20:49:00.061801+00:00",
-   "headline": "Iran's IRGC navy: Two oil tankers exploded and caught fire after striking naval mines while attempting to transit the Strait of Hormuz - State Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851522,
-   "ts": "2026-11-13T20:32:06+00:00",
-   "ingested": "2026-11-13T20:33:00.058499+00:00",
-   "headline": "Yemen's Houthis: Attacked pumping station at saudi arabia's east-west pipeline",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851507,
-   "ts": "2026-11-13T20:27:29+00:00",
-   "ingested": "2026-11-13T20:29:00.059407+00:00",
-   "headline": "US Air Force spokesperson: \"No personnel, aircraft, or infrastructure were affected\" - Sky News reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851506,
-   "ts": "2026-11-13T20:26:45+00:00",
-   "ingested": "2026-11-13T20:27:20.067268+00:00",
-   "headline": "US military said its personnel at RAF Lakenheath in the UK responded to \"suspected unauthorised drone activity\" on Friday evening - Sky News reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851495,
-   "ts": "2026-11-13T20:05:10+00:00",
-   "ingested": "2026-11-13T20:05:50.088555+00:00",
-   "headline": "Microsoft: Still draining queued messages, rebalancing traffic $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851494,
-   "ts": "2026-11-13T20:04:42+00:00",
-   "ingested": "2026-11-13T20:05:50.088569+00:00",
-   "headline": "Microsoft: Do not have timing for full recovery yet $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851493,
-   "ts": "2026-11-13T20:03:31+00:00",
-   "ingested": "2026-11-13T20:04:10.160037+00:00",
-   "headline": "The Fed prolongs pause on reserve management purchases to mid-December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851492,
-   "ts": "2026-11-13T20:03:09+00:00",
-   "ingested": "2026-11-13T20:04:10.160049+00:00",
-   "headline": "The Fed to buy $14 billion of bills for MBS reinvestment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851483,
-   "ts": "2026-11-13T20:01:33+00:00",
-   "ingested": "2026-11-13T20:02:30.082522+00:00",
-   "headline": "Local UK MP Timothy on RAF Lakenheath alarm: There is no threat to the public, and the incident is \"resolved\".",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851479,
-   "ts": "2026-11-13T19:55:48+00:00",
-   "ingested": "2026-11-13T19:57:30.031883+00:00",
-   "headline": "OSINTdefender: Initial reports of sirens sounding at several U.S. military bases in the UK, including RAF Mildenhall - Post on X.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851478,
-   "ts": "2026-11-13T19:54:50+00:00",
-   "ingested": "2026-11-13T19:55:50.037904+00:00",
-   "headline": "IRGC: An American C-130J military transport aircraft landed at Al-Adeed base in Qatar.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851476,
-   "ts": "2026-11-13T19:50:44+00:00",
-   "ingested": "2026-11-13T19:52:30.031356+00:00",
-   "headline": "Meta is testing a new prediction-market app with employees - WSJ. $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851466,
-   "ts": "2026-11-13T19:45:56+00:00",
-   "ingested": "2026-11-13T19:46:20.108197+00:00",
-   "headline": "WH Sr. Adviser Hassett: The report on me leaving the White House is 'not true\" - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851463,
-   "ts": "2026-11-13T19:42:00+00:00",
-   "ingested": "2026-11-13T19:43:00.076912+00:00",
-   "headline": "Brent Crude futures settle at $95.84/bbl, up 2 cents, 0.02%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851461,
-   "ts": "2026-11-13T19:31:50+00:00",
-   "ingested": "2026-11-13T19:32:50.036862+00:00",
-   "headline": "NYMEX Diesel December futures settle at $4.2585 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851450,
-   "ts": "2026-11-13T19:31:40+00:00",
-   "ingested": "2026-11-13T19:32:50.036875+00:00",
-   "headline": "NYMEX Gasoline December futures settle at $2.6214 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851449,
-   "ts": "2026-11-13T19:31:29+00:00",
-   "ingested": "2026-11-13T19:32:50.036884+00:00",
-   "headline": "NYMEX Natural Gas December futures settle at $3.2300/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851448,
-   "ts": "2026-11-13T19:30:59+00:00",
-   "ingested": "2026-11-13T19:32:50.036892+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $88.56 a barrel, down 18 cents, 0.2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851440,
-   "ts": "2026-11-13T19:20:34+00:00",
-   "ingested": "2026-11-13T19:22:10.034967+00:00",
-   "headline": "NVIDIA hasn\u2019t selected search firm for Huang's replacement - CNBC. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851428,
-   "ts": "2026-11-13T19:10:09+00:00",
-   "ingested": "2026-11-13T19:11:10.049980+00:00",
-   "headline": "Nvidia Board: Have not formally engaged any potential CEO candidates, any speculation is premature; in the process of selecting a search firm for the CEO role - CNBC $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851426,
-   "ts": "2026-11-13T19:08:12+00:00",
-   "ingested": "2026-11-13T19:08:40.126357+00:00",
-   "headline": "WH Sr. Adviser Hassett is expected to depart the White House - Semafor.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851409,
-   "ts": "2026-11-13T18:45:59+00:00",
-   "ingested": "2026-11-13T18:47:30.031780+00:00",
-   "headline": "Microsoft asked for info about outage by lawmaker - Politico. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
