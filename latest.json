@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T13:01:32.798721+00:00",
+ "updated": "2026-11-16T13:03:12.829459+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853844,
+   "ts": "2026-11-16T13:02:05+00:00",
+   "ingested": "2026-11-16T13:03:12.828976+00:00",
+   "headline": "Strategy buys 485 bitcoin for aggregate purchase price $33.4m, avg. price $68,887, Nov. 9 to Nov. 15",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853826,
    "ts": "2026-11-16T13:00:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T13:07:50+00:00",
    "ingested": "2026-11-13T13:08:29.802681+00:00",
    "headline": "US Treasury Secretary Bessent questions Nvidia's ability to control where chips go $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850893,
-   "ts": "2026-11-13T13:07:32+00:00",
-   "ingested": "2026-11-13T13:08:29.802700+00:00",
-   "headline": "US Treasury Secretary Bessent: Did Nvidia know its clients, and did it aim to stop leaks? $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
