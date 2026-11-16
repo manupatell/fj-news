@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T04:04:00.148703+00:00",
+ "updated": "2026-11-16T04:05:40.129546+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853212,
+   "ts": "2026-11-16T04:04:28+00:00",
+   "ingested": "2026-11-16T04:05:40.129129+00:00",
+   "headline": "BoJ's Takata: with foreign central banks entering rate-hike cycle, BoJ must consider risk that overseas rates could raise Japan's neutral rate above market expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853211,
    "ts": "2026-11-16T04:03:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T04:44:48+00:00",
    "ingested": "2026-11-13T04:45:08.346355+00:00",
    "headline": "Japan PM Takaichi: managing economic and fiscal policy while closely monitoring market trends",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850268,
-   "ts": "2026-11-13T04:43:29+00:00",
-   "ingested": "2026-11-13T04:45:08.346375+00:00",
-   "headline": "Japan PM Takaichi: currency rates shaped by multiple factors",
    "channel": "rss",
    "source": "financialjuice"
   }
