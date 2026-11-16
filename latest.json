@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T13:49:47.283588+00:00",
+ "updated": "2026-11-16T13:51:27.241306+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853917,
+   "ts": "2026-11-16T13:49:55+00:00",
+   "ingested": "2026-11-16T13:51:27.240956+00:00",
+   "headline": "US Transport Secretary Duffy: AT&T says it can do most of the network upgrades within 2 years. $T",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853916,
    "ts": "2026-11-16T13:48:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T13:43:04+00:00",
    "ingested": "2026-11-13T13:43:29.813256+00:00",
    "headline": "Fed's Goolsbee: Inflation will determine the path of rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850973,
-   "ts": "2026-11-13T13:42:27+00:00",
-   "ingested": "2026-11-13T13:43:29.813274+00:00",
-   "headline": "Fed's Goolsbee: Price shocks now could show up in labor later",
    "channel": "rss",
    "source": "financialjuice"
   }
