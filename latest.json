@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-16T04:07:20.133693+00:00",
+ "updated": "2026-11-16T04:09:00.134064+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853223,
+   "ts": "2026-11-16T04:08:24+00:00",
+   "ingested": "2026-11-16T04:09:00.133565+00:00",
+   "headline": "Drone debris sparks blaze at industrial site in Russia's Krasnodar region: officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853222,
+   "ts": "2026-11-16T04:08:24+00:00",
+   "ingested": "2026-11-16T04:09:00.133587+00:00",
+   "headline": "BoJ's Takata: changes in equity, property, and forex markets also key in evaluating financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853221,
+   "ts": "2026-11-16T04:08:04+00:00",
+   "ingested": "2026-11-16T04:09:00.133603+00:00",
+   "headline": "BoJ's Takata: funding conditions in Japan still accommodative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853220,
+   "ts": "2026-11-16T04:07:53+00:00",
+   "ingested": "2026-11-16T04:09:00.133619+00:00",
+   "headline": "BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9853219,
+   "ts": "2026-11-16T04:07:14+00:00",
+   "ingested": "2026-11-16T04:09:00.133636+00:00",
+   "headline": "BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853218,
    "ts": "2026-11-16T04:07:01+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-13T06:06:55+00:00",
    "ingested": "2026-11-13T06:08:28.307429+00:00",
    "headline": "Dollar/yen rises to 160.09, highest level since early September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850355,
-   "ts": "2026-11-13T05:59:10+00:00",
-   "ingested": "2026-11-13T06:00:08.318193+00:00",
-   "headline": "Four killed in Ukrainian strike on Russia's Volgograd region: governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850354,
-   "ts": "2026-11-13T05:56:28+00:00",
-   "ingested": "2026-11-13T05:56:48.304605+00:00",
-   "headline": "Microsoft on outage: no signs of malicious activity causing incident",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850343,
-   "ts": "2026-11-13T05:45:33+00:00",
-   "ingested": "2026-11-13T05:46:48.305820+00:00",
-   "headline": "Dollar/yen briefly reaches 160, last at 159.96",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850323,
-   "ts": "2026-11-13T05:21:15+00:00",
-   "ingested": "2026-11-13T05:21:48.314744+00:00",
-   "headline": "SMFG CEO Nakashima: personally | don't expect NVIDIA's management position to shift significantly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850322,
-   "ts": "2026-11-13T05:20:31+00:00",
-   "ingested": "2026-11-13T05:21:48.314767+00:00",
-   "headline": "SMFG CEO Nakashima: effect of Nvidia CEO stepping down on data centre investment is unclear now, hinges on new leadership",
    "channel": "rss",
    "source": "financialjuice"
   }
