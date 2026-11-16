@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-16T11:27:42.768733+00:00",
+ "updated": "2026-11-16T11:29:22.784964+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9853690,
+   "ts": "2026-11-16T11:28:54+00:00",
+   "ingested": "2026-11-16T11:29:22.784468+00:00",
+   "headline": "EU's move comes as it imposes sanctions on 30 individuals and 2 entities in Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9853672,
    "ts": "2026-11-16T11:06:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T12:48:57+00:00",
    "ingested": "2026-11-13T12:49:09.812800+00:00",
    "headline": "Citi Market Review - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9850806,
-   "ts": "2026-11-13T12:03:28+00:00",
-   "ingested": "2026-11-13T12:04:09.775483+00:00",
-   "headline": "Microsoft: Japan comparatively more stable, North America improving.",
    "channel": "rss",
    "source": "financialjuice"
   }
