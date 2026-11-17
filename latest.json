@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T17:05:21.255440+00:00",
+ "updated": "2026-11-17T17:08:30.807144+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856184,
+   "ts": "2026-11-17T17:08:09+00:00",
+   "ingested": "2026-11-17T17:08:30.806610+00:00",
+   "headline": "NVIDIA stopped disclosing Singapore sales last year - FT. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856182,
    "ts": "2026-11-17T17:05:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:25:40+00:00",
    "ingested": "2026-11-16T13:39:37.315844+00:00",
    "headline": "US Sentiment: AI Selloff Resumes ahead of Nvidia Earnings & Anthropic IPO - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853867,
-   "ts": "2026-11-16T13:23:05+00:00",
-   "ingested": "2026-11-16T13:39:37.315852+00:00",
-   "headline": "BofA CEO Moynihan concludes remarks on Bloomberg TV. $BAC",
    "channel": "rss",
    "source": "financialjuice"
   }
