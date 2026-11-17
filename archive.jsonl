@@ -24493,3 +24493,4 @@
 {"guid": 9855459, "ts": "2026-11-17T10:00:00+00:00", "ingested": "2026-11-17T10:00:27.364226+00:00", "headline": "German ZEW Economic Sentiment Actual 35.6 (Forecast 28.8, Previous 28.1)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9855461, "ts": "2026-11-17T10:00:01+00:00", "ingested": "2026-11-17T10:00:27.364209+00:00", "headline": "Eurozone ZEW Survey Expectations Actual 26.5 (Forecast -, Previous 18.5)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9855466, "ts": "2026-11-17T10:00:39+00:00", "ingested": "2026-11-17T10:02:07.366768+00:00", "headline": "NVIDIA board establishes export control oversight committee.", "channel": "rss", "source": "financialjuice"}
+{"guid": 9855460, "ts": "2026-11-17T10:02:12+00:00", "ingested": "2026-11-17T10:07:07.393813+00:00", "headline": "German ZEW Current Conditions Actual -33.2 (Forecast -35.3, Previous -35.9)", "channel": "rss", "source": "financialjuice"}
