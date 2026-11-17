@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T23:37:23.517688+00:00",
+ "updated": "2026-11-17T23:45:43.537954+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856689,
+   "ts": "2026-11-17T23:45:21+00:00",
+   "ingested": "2026-11-17T23:45:43.537405+00:00",
+   "headline": "Nvidia interim CEO Kress: hyperscalers are currently urgently seeking more focused compute capacity available - CNBC interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856671,
    "ts": "2026-11-17T23:15:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T17:28:38+00:00",
    "ingested": "2026-11-16T17:29:47.281219+00:00",
    "headline": "OpenAI's Altman, on AI backlash: The AI industry needs to take a very strong stance in favor of people having control of the future - Semafor Event.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854215,
-   "ts": "2026-11-16T17:25:27+00:00",
-   "ingested": "2026-11-16T17:26:27.345488+00:00",
-   "headline": "OpenAI CEO: The industry will be fine after news of Huang\u2019s departure - Semafor Event.",
    "channel": "rss",
    "source": "financialjuice"
   }
