@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T23:04:03.515730+00:00",
+ "updated": "2026-11-17T23:09:03.515804+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856668,
+   "ts": "2026-11-17T23:08:21+00:00",
+   "ingested": "2026-11-17T23:09:03.515266+00:00",
+   "headline": "Bahrain interior ministry: warning of possible threat",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856630,
    "ts": "2026-11-17T22:25:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T17:20:08+00:00",
    "ingested": "2026-11-16T17:21:27.350890+00:00",
    "headline": "OPENAI CEO Altman: The AI revolution without ex-NVIDIA CEO Huang is \u2018hard to imagine\u2019 - Semafor Event. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854193,
-   "ts": "2026-11-16T17:02:12+00:00",
-   "ingested": "2026-11-16T17:02:27.264466+00:00",
-   "headline": "Google introducing new AI tools - Ask AdMob & AdMob Agent tools. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
