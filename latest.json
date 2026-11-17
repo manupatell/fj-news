@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T19:19:00.857426+00:00",
+ "updated": "2026-11-17T19:25:10.876037+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856353,
+   "ts": "2026-11-17T19:24:43+00:00",
+   "ingested": "2026-11-17T19:25:10.875497+00:00",
+   "headline": "Fed's Williams: Fed still has more work to do to get inflation back to 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856352,
+   "ts": "2026-11-17T19:24:34+00:00",
+   "ingested": "2026-11-17T19:25:10.875515+00:00",
+   "headline": "Fed's Williams: The economy is strong and getting stronger, inflation is not moving in right direction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856351,
    "ts": "2026-11-17T19:18:29+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T14:01:21+00:00",
    "ingested": "2026-11-16T14:01:37.216410+00:00",
    "headline": "Kremlin on Putin-Trump-Xi meeting: Talks will take into account contributions of different countries to victory in World War II and the founding of the United Nations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853946,
-   "ts": "2026-11-16T14:01:15+00:00",
-   "ingested": "2026-11-16T14:01:27.230830+00:00",
-   "headline": "Kremlin on Putin-Trump-Xi meeting: intensive consultations are under way on the text of the joint statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853933,
-   "ts": "2026-11-16T14:01:04+00:00",
-   "ingested": "2026-11-16T14:01:27.230844+00:00",
-   "headline": "Kremlin on Putin-Trump-Xi Trilateral meeting: Meeting to take place on November 19th at Xi's official residence.",
    "channel": "rss",
    "source": "financialjuice"
   }
