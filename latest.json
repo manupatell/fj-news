@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T14:50:26.253198+00:00",
+ "updated": "2026-11-17T14:53:56.239055+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855997,
+   "ts": "2026-11-17T14:52:54+00:00",
+   "ingested": "2026-11-17T14:53:56.238511+00:00",
+   "headline": "Fed's Hammack: Nothing has changed in views on monetary policy tightening since yesterday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855996,
    "ts": "2026-11-17T14:49:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T05:55:45+00:00",
    "ingested": "2026-11-16T05:56:30.162679+00:00",
    "headline": "Russian defence ministry: Russian forces strike cargo vessel in Black Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853329,
-   "ts": "2026-11-16T05:54:12+00:00",
-   "ingested": "2026-11-16T05:54:50.182246+00:00",
-   "headline": "Cape Verde presidential candidate Rosa concedes defeat, congratulates Neves on victory",
    "channel": "rss",
    "source": "financialjuice"
   }
