@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:29:31.126743+00:00",
+ "updated": "2026-11-17T15:34:40.777747+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856057,
+   "ts": "2026-11-17T15:33:43+00:00",
+   "ingested": "2026-11-17T15:34:40.777211+00:00",
+   "headline": "NSA internal communication network is down - CNN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856049,
    "ts": "2026-11-17T15:28:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T08:32:13+00:00",
    "ingested": "2026-11-16T08:33:02.746669+00:00",
    "headline": "ECB's Vujcic: AI and sovereign debt 'stand out very prominently\u2019 as stability risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853506,
-   "ts": "2026-11-16T08:32:00+00:00",
-   "ingested": "2026-11-16T08:33:02.746679+00:00",
-   "headline": "ECB's Vujcic: Recent energy price developments may push inflation higher",
    "channel": "rss",
    "source": "financialjuice"
   }
