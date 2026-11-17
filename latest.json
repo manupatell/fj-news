@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T14:42:06.245949+00:00",
+ "updated": "2026-11-17T14:47:06.249293+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855978,
+   "ts": "2026-11-17T14:46:41+00:00",
+   "ingested": "2026-11-17T14:47:06.248738+00:00",
+   "headline": "Fed's Waller: System is a long way for agentic AI in banking",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855976,
+   "ts": "2026-11-17T14:45:26+00:00",
+   "ingested": "2026-11-17T14:47:06.248757+00:00",
+   "headline": "Anthropic said to draw multiple $10 billion or more IPO orders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855970,
    "ts": "2026-11-17T14:41:44+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T05:42:37+00:00",
    "ingested": "2026-11-16T05:43:10.165900+00:00",
    "headline": "Russia downs 1,336 Ukrainian drones overnight: IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853281,
-   "ts": "2026-11-16T05:10:09+00:00",
-   "ingested": "2026-11-16T05:11:30.147858+00:00",
-   "headline": "Fire erupts at four industrial sites in Russia\u2019s Rostov region after drone strike: governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853279,
-   "ts": "2026-11-16T05:04:25+00:00",
-   "ingested": "2026-11-16T05:04:50.220307+00:00",
-   "headline": "Uniper approaches initial agreement to convert idle power plants into data centers - ft",
    "channel": "rss",
    "source": "financialjuice"
   }
