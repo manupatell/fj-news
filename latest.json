@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T16:05:00.864491+00:00",
+ "updated": "2026-11-17T16:05:40.837635+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856107,
+   "ts": "2026-11-17T16:05:04+00:00",
+   "ingested": "2026-11-17T16:05:40.837100+00:00",
+   "headline": "Charles Schwab: Trading remained available during the issue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856106,
+   "ts": "2026-11-17T16:05:00+00:00",
+   "ingested": "2026-11-17T16:05:40.837116+00:00",
+   "headline": "Downdetector reports issues with Gmail - $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856105,
    "ts": "2026-11-17T16:03:32+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T11:06:22+00:00",
    "ingested": "2026-11-16T11:07:42.775304+00:00",
    "headline": "EU disburses \u20ac1.71B to Ukraine for drones, ammunition, and air defense.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853593,
-   "ts": "2026-11-16T10:00:03+00:00",
-   "ingested": "2026-11-16T10:01:22.741865+00:00",
-   "headline": "Eurozone Industrial Production YoY Actual -1.5% (Forecast -0.2%, Previous -1.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853592,
-   "ts": "2026-11-16T10:00:02+00:00",
-   "ingested": "2026-11-16T10:01:22.741879+00:00",
-   "headline": "Eurozone Industrial Production MoM Actual 0.2% (Forecast 0.3%, Previous -0.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
