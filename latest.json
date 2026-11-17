@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T05:05:27.362185+00:00",
+ "updated": "2026-11-17T05:07:07.273821+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855084,
+   "ts": "2026-11-17T05:06:50+00:00",
+   "ingested": "2026-11-17T05:07:07.273092+00:00",
+   "headline": "Oman, Iran foreign ministers discuss shipping and maritime corridor security: Oman foreign ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855083,
    "ts": "2026-11-17T05:01:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T05:10:39+00:00",
    "ingested": "2026-11-14T05:11:08.865583+00:00",
    "headline": "Microsoft on outage: consumer product services partially restored",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852048,
-   "ts": "2026-11-14T05:08:59+00:00",
-   "ingested": "2026-11-14T05:09:28.866590+00:00",
-   "headline": "BoE\u2019s Pill: concern over inflationary impact amplified by second-round effects \u2013 FT interview",
    "channel": "rss",
    "source": "financialjuice"
   }
