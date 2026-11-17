@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-17T19:14:00.904605+00:00",
+ "updated": "2026-11-17T19:15:00.929620+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856333,
+   "ts": "2026-11-17T19:14:48+00:00",
+   "ingested": "2026-11-17T19:15:00.929100+00:00",
+   "headline": "Apple working to get systems online as soon as possible. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856332,
+   "ts": "2026-11-17T19:14:22+00:00",
+   "ingested": "2026-11-17T19:15:00.929119+00:00",
+   "headline": "Apple suffered outages this morning after internal update. Outage wasn't caused by cyberattack $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856331,
+   "ts": "2026-11-17T19:14:00+00:00",
+   "ingested": "2026-11-17T19:15:00.929135+00:00",
+   "headline": "Nvidia contacted 3 robotics startups it backs to reassure them of its support after Huang resignation - Business Insider. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856330,
    "ts": "2026-11-17T19:13:43+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-16T14:00:45+00:00",
    "ingested": "2026-11-16T14:01:27.230864+00:00",
    "headline": "Kremlin on Putin-Xi meeting: Putin to brief Xi on contacts with the United States, including talks held in Abu Dhabi.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853927,
-   "ts": "2026-11-16T14:00:32+00:00",
-   "ingested": "2026-11-16T14:01:27.230874+00:00",
-   "headline": "Kremlin on Putin-Xi meeting: Putin and Xi to meet on November 18th, talks to focus on prospects for bilateral economic cooperation, as well as Ukraine and the Korean peninsula.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853926,
-   "ts": "2026-11-16T14:00:31+00:00",
-   "ingested": "2026-11-16T14:01:27.230884+00:00",
-   "headline": "Kremlin on Putin's visit to the APEC forum: more than 30 russian companies, including Gazprom, Novatek, Rosneft, Lukoil, Sberbank, Yandex, and Wildberries, will be represented at the event",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853922,
-   "ts": "2026-11-16T13:59:47+00:00",
-   "ingested": "2026-11-16T14:01:27.230892+00:00",
-   "headline": "Effective Fed funds rate 3.88% November 13th vs 3.88% November 12th.",
    "channel": "rss",
    "source": "financialjuice"
   }
