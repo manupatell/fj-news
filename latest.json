@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T09:50:27.375768+00:00",
+ "updated": "2026-11-17T09:52:07.384308+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855458,
+   "ts": "2026-11-17T09:51:16+00:00",
+   "ingested": "2026-11-17T09:52:07.383776+00:00",
+   "headline": "Fitch Ratings: AI demand to drive uneven APAC tech growth amid rising risks in 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855457,
    "ts": "2026-11-17T09:49:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T16:13:39+00:00",
    "ingested": "2026-11-14T16:14:22.986353+00:00",
    "headline": "US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852303,
-   "ts": "2026-11-14T16:13:28+00:00",
-   "ingested": "2026-11-14T16:14:22.986369+00:00",
-   "headline": "US FAA administrator: delays and cancellations today will enable full recovery on Sunday",
    "channel": "rss",
    "source": "financialjuice"
   }
