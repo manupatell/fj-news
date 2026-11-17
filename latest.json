@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:23:20.853378+00:00",
+ "updated": "2026-11-17T16:28:20.797444+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856127,
+   "ts": "2026-11-17T16:26:43+00:00",
+   "ingested": "2026-11-17T16:28:20.796938+00:00",
+   "headline": "Japan's PM Takaichi and Trump hold talks in the Philippines - Kyodo.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856126,
    "ts": "2026-11-17T16:21:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:12:16+00:00",
    "ingested": "2026-11-16T13:12:52.830137+00:00",
    "headline": "BofA's Moynihan: We'll have another record earnings this year. $BAC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853847,
-   "ts": "2026-11-16T13:07:24+00:00",
-   "ingested": "2026-11-16T13:07:52.803138+00:00",
-   "headline": "Bank of America's CEO Moynihan speaking on Bloomberg TV",
    "channel": "rss",
    "source": "financialjuice"
   }
