@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T09:32:07.348916+00:00",
+ "updated": "2026-11-17T09:33:47.353631+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855434,
+   "ts": "2026-11-17T09:33:22+00:00",
+   "ingested": "2026-11-17T09:33:47.353064+00:00",
+   "headline": "Europe Sentiment: Big Day For Earnings - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855425,
    "ts": "2026-11-17T09:31:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T16:03:09+00:00",
    "ingested": "2026-11-14T16:04:22.954181+00:00",
    "headline": "Duffy on aviation shutdown: says it was not a cyberattack",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852299,
-   "ts": "2026-11-14T16:02:07+00:00",
-   "ingested": "2026-11-14T16:02:42.956273+00:00",
-   "headline": "Duffy: unclear whether shutdown caused by incompetence or faulty router",
    "channel": "rss",
    "source": "financialjuice"
   }
