@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T04:06:03.103827+00:00",
+ "updated": "2026-11-17T04:07:43.118482+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855035,
+   "ts": "2026-11-17T04:07:26+00:00",
+   "ingested": "2026-11-17T04:07:43.118070+00:00",
+   "headline": "Chemtrade Logistics Income Fund: National Bank of Canada lifts target price to C$23 from C$22.5",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855034,
+   "ts": "2026-11-17T04:06:08+00:00",
+   "ingested": "2026-11-17T04:07:43.118094+00:00",
+   "headline": "Canada PM office: tariff relief covers $116 million in frozen pork cuts exports and $285 million in fish and seafood shipments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855033,
    "ts": "2026-11-17T04:05:15+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-14T01:53:08+00:00",
    "ingested": "2026-11-14T01:54:28.231635+00:00",
    "headline": "US transportation secretary duffy: communication and radar never fully went dark",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851864,
-   "ts": "2026-11-14T01:48:35+00:00",
-   "ingested": "2026-11-14T01:49:28.235361+00:00",
-   "headline": "US transportation secretary Duffy: Expect it will take some time to return to full capacity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851863,
-   "ts": "2026-11-14T01:46:56+00:00",
-   "ingested": "2026-11-14T01:47:48.405482+00:00",
-   "headline": "US transportation secretary Duffy: network issue caused legacy system to fail",
    "channel": "rss",
    "source": "financialjuice"
   }
