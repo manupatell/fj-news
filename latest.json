@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:04:10.770926+00:00",
+ "updated": "2026-11-17T15:05:50.782627+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856018,
+   "ts": "2026-11-17T15:04:22+00:00",
+   "ingested": "2026-11-17T15:05:50.782133+00:00",
+   "headline": "Fed's Hammack: Harder to intervene during a tightening cycle",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856016,
    "ts": "2026-11-17T15:03:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T07:14:03+00:00",
    "ingested": "2026-11-16T07:14:50.219531+00:00",
    "headline": "UKMTO gets report of vessel struck by projectile in Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853382,
-   "ts": "2026-11-16T07:00:03+00:00",
-   "ingested": "2026-11-16T07:01:30.180053+00:00",
-   "headline": "Norwegian Trade Balance Actual 121.418B (Forecast -, Previous 105.00B)",
    "channel": "rss",
    "source": "financialjuice"
   }
