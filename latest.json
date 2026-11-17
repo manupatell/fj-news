@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T14:47:06.249293+00:00",
+ "updated": "2026-11-17T14:48:46.239903+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855995,
+   "ts": "2026-11-17T14:47:26+00:00",
+   "ingested": "2026-11-17T14:48:46.239343+00:00",
+   "headline": "Iran's Foreign Minister Araghchi held talks with his Omani counterpart in Muscat, discussing bilateral relations and regional developments - Press TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855978,
    "ts": "2026-11-17T14:46:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T05:54:12+00:00",
    "ingested": "2026-11-16T05:54:50.182266+00:00",
    "headline": "Cape Verde president Neves secures second term, election results show",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853323,
-   "ts": "2026-11-16T05:42:37+00:00",
-   "ingested": "2026-11-16T05:43:10.165900+00:00",
-   "headline": "Russia downs 1,336 Ukrainian drones overnight: IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
