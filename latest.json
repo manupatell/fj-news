@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-17T10:20:27.374150+00:00",
+ "updated": "2026-11-17T10:22:07.374856+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855518,
+   "ts": "2026-11-17T10:21:16+00:00",
+   "ingested": "2026-11-17T10:22:07.374114+00:00",
+   "headline": "Gazprom and CNPC discuss gas cooperation on APEC sidelines",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855517,
+   "ts": "2026-11-17T10:21:00+00:00",
+   "ingested": "2026-11-17T10:22:07.374130+00:00",
+   "headline": "Russian-installed governor: Train traffic resumed via the Crimean bridge",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855516,
+   "ts": "2026-11-17T10:20:44+00:00",
+   "ingested": "2026-11-17T10:22:07.374140+00:00",
+   "headline": "Qatar: Meeting to be held with Iran today as part of mediation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855515,
+   "ts": "2026-11-17T10:20:30+00:00",
+   "ingested": "2026-11-17T10:22:07.374153+00:00",
+   "headline": "Qatar's foreign ministry: Meeting will be held on Tuesday with Iranians as part of mediation efforts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855514,
    "ts": "2026-11-17T10:20:07+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-15T11:19:04+00:00",
    "ingested": "2026-11-15T11:20:26.141903+00:00",
    "headline": "Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852642,
-   "ts": "2026-11-15T10:51:08+00:00",
-   "ingested": "2026-11-15T10:52:06.144705+00:00",
-   "headline": "Ukraine: missile hits petrochemical plant and oil refinery in Russia\u2019s Tatarstan, defense facility in Bryansk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852637,
-   "ts": "2026-11-15T10:38:02+00:00",
-   "ingested": "2026-11-15T10:38:46.133983+00:00",
-   "headline": "Many Russian drone attacks on substations enabled by Starshield speed limits, Zelenskiy says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852636,
-   "ts": "2026-11-15T10:23:25+00:00",
-   "ingested": "2026-11-15T10:23:46.128272+00:00",
-   "headline": "Bahrain: several Iranian aerial assaults intercepted on Sunday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852635,
-   "ts": "2026-11-15T10:23:15+00:00",
-   "ingested": "2026-11-15T10:23:46.128298+00:00",
-   "headline": "Iran\u2019s IRGC: six drones struck US air defense radar at Bahrain\u2019s al-Rifaa helicopter base - Press TV",
    "channel": "rss",
    "source": "financialjuice"
   }
