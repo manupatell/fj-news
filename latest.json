@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T09:43:47.367405+00:00",
+ "updated": "2026-11-17T09:47:07.362491+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855441,
+   "ts": "2026-11-17T09:46:06+00:00",
+   "ingested": "2026-11-17T09:47:07.361946+00:00",
+   "headline": "Goldman Sachs: Oil - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855435,
    "ts": "2026-11-17T09:42:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T16:13:06+00:00",
    "ingested": "2026-11-14T16:14:22.986382+00:00",
    "headline": "US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852301,
-   "ts": "2026-11-14T16:12:36+00:00",
-   "ingested": "2026-11-14T16:14:22.986392+00:00",
-   "headline": "US FAA administrator: system stays stable on Saturday",
    "channel": "rss",
    "source": "financialjuice"
   }
