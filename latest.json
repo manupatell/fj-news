@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:48:10.785760+00:00",
+ "updated": "2026-11-17T15:55:00.879460+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856080,
+   "ts": "2026-11-17T15:54:12+00:00",
+   "ingested": "2026-11-17T15:55:00.878943+00:00",
+   "headline": "User reports indicate issues with Charles Schwab - Downdetector $SCHW",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856078,
    "ts": "2026-11-17T15:46:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T09:51:03+00:00",
    "ingested": "2026-11-16T09:51:22.764309+00:00",
    "headline": "France's Barrot: Will provide evidence to EU ministers on Monday regarding alleged Iranian cyber attack in France",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853575,
-   "ts": "2026-11-16T09:19:15+00:00",
-   "ingested": "2026-11-16T09:41:22.738248+00:00",
-   "headline": "EC Pres. von der Leyen: New momentum behind EU enlargement process",
    "channel": "rss",
    "source": "financialjuice"
   }
