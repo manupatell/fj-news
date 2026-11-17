@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T01:14:23.028634+00:00",
+ "updated": "2026-11-17T01:17:43.022612+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854816,
+   "ts": "2026-11-17T01:17:03+00:00",
+   "ingested": "2026-11-17T01:17:43.022276+00:00",
+   "headline": "China sets yuan midpoint at strongest level since Feb. 2, 2023, says PBOC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854792,
    "ts": "2026-11-17T01:04:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T00:20:24+00:00",
    "ingested": "2026-11-14T00:20:41.989463+00:00",
    "headline": "Inflation readings indicate persistent price pressures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851782,
-   "ts": "2026-11-14T00:20:24+00:00",
-   "ingested": "2026-11-14T00:20:41.989471+00:00",
-   "headline": "Trump tells Fox News flight problem unlikely caused by cyberattack or al",
    "channel": "rss",
    "source": "financialjuice"
   }
