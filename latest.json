@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T15:24:30.787668+00:00",
+ "updated": "2026-11-17T15:26:10.783673+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856046,
+   "ts": "2026-11-17T15:25:22+00:00",
+   "ingested": "2026-11-17T15:26:10.783125+00:00",
+   "headline": "Fed's Hammack: Housing is one part of the economy where I can say I see restriction from rates, not seeing it elsewhere",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856044,
+   "ts": "2026-11-17T15:24:25+00:00",
+   "ingested": "2026-11-17T15:26:10.783143+00:00",
+   "headline": "Fitch Ratings: Booming hyperscaler issuance set to raise bond market volatility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856043,
    "ts": "2026-11-17T15:23:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T08:31:38+00:00",
    "ingested": "2026-11-16T08:33:02.746697+00:00",
    "headline": "ECB's Vujcic: Financial stability risks are  \"elevated\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853503,
-   "ts": "2026-11-16T08:31:23+00:00",
-   "ingested": "2026-11-16T08:33:02.746705+00:00",
-   "headline": "ECB's Vujcic: Valuations, funding, cyberattacks are among AI risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853502,
-   "ts": "2026-11-16T08:31:10+00:00",
-   "ingested": "2026-11-16T08:31:22.717885+00:00",
-   "headline": "ECB's Vujcic: Europe's economy is \u201cremarkably resilient\"",
    "channel": "rss",
    "source": "financialjuice"
   }
