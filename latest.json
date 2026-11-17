@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T01:52:23.036220+00:00",
+ "updated": "2026-11-17T02:02:23.041276+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854873,
+   "ts": "2026-11-17T02:01:39+00:00",
+   "ingested": "2026-11-17T02:02:23.040949+00:00",
+   "headline": "NZ Q4 average 2-year inflation expectations 2.36%: RBNZ survey",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854818,
    "ts": "2026-11-17T01:21:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T00:21:30+00:00",
    "ingested": "2026-11-14T00:22:21.961600+00:00",
    "headline": "Ex-Nvidia CEO Huang misled company leaders, including general counsel, about nature of Alice Huang affair: sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851784,
-   "ts": "2026-11-14T00:20:24+00:00",
-   "ingested": "2026-11-14T00:20:41.989452+00:00",
-   "headline": "Inflation stays significantly above 2% target",
    "channel": "rss",
    "source": "financialjuice"
   }
