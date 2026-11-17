@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T23:55:43.529479+00:00",
+ "updated": "2026-11-17T23:59:03.534745+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856720,
+   "ts": "2026-11-17T23:58:18+00:00",
+   "ingested": "2026-11-17T23:59:03.534396+00:00",
+   "headline": "Suzhou Liegi Intelligent Equipment plans to sell 13.75 million shares in Shenzhen listing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856709,
    "ts": "2026-11-17T23:52:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T19:07:17+00:00",
    "ingested": "2026-11-16T19:07:57.372426+00:00",
    "headline": "WATCH LIVE: Fed's Hammack Speaks 2:15 PM ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854337,
-   "ts": "2026-11-16T18:52:01+00:00",
-   "ingested": "2026-11-16T18:52:47.299473+00:00",
-   "headline": "There is no indication at this time that there is a bug affecting multiple banks at the same time - CNBC Citing a Source.",
    "channel": "rss",
    "source": "financialjuice"
   }
