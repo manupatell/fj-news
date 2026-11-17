@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T07:17:07.315008+00:00",
+ "updated": "2026-11-17T07:27:07.325164+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855272,
+   "ts": "2026-11-17T07:25:31+00:00",
+   "ingested": "2026-11-17T07:27:07.324507+00:00",
+   "headline": "UK welfare plan could save \u00a33.8b a year by 2036 - Milburn",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855267,
    "ts": "2026-11-17T07:16:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T13:51:22+00:00",
    "ingested": "2026-11-14T13:53:09.486345+00:00",
    "headline": "Duffy: close coordination with airlines to back ongoing recovery",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852245,
-   "ts": "2026-11-14T13:51:02+00:00",
-   "ingested": "2026-11-14T13:51:29.496571+00:00",
-   "headline": "US transportation sec. Duffy: flight operations gradually returning to normal this morning",
    "channel": "rss",
    "source": "financialjuice"
   }
