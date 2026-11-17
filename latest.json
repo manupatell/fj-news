@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T15:21:10.800586+00:00",
+ "updated": "2026-11-17T15:24:30.787668+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856043,
+   "ts": "2026-11-17T15:23:57+00:00",
+   "ingested": "2026-11-17T15:24:30.787099+00:00",
+   "headline": "Fed's Hammack: Inflation moving in the wrong direction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856042,
+   "ts": "2026-11-17T15:23:49+00:00",
+   "ingested": "2026-11-17T15:24:30.787119+00:00",
+   "headline": "Fed's Hammack: Expectations for growth and the Fed are driving yields up",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856040,
    "ts": "2026-11-17T15:19:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T08:31:10+00:00",
    "ingested": "2026-11-16T08:31:22.717885+00:00",
    "headline": "ECB's Vujcic: Europe's economy is \u201cremarkably resilient\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853487,
-   "ts": "2026-11-16T08:31:01+00:00",
-   "ingested": "2026-11-16T08:31:22.717900+00:00",
-   "headline": "ECB's Vujcic: AI, high debts are top financial-stability risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853479,
-   "ts": "2026-11-16T08:30:51+00:00",
-   "ingested": "2026-11-16T08:31:22.717911+00:00",
-   "headline": "ECB's Vujcic: Private-credit risks look contained but need monitoring",
    "channel": "rss",
    "source": "financialjuice"
   }
