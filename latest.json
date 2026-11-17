@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T18:37:10.859248+00:00",
+ "updated": "2026-11-17T18:38:50.862142+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856284,
+   "ts": "2026-11-17T18:37:08+00:00",
+   "ingested": "2026-11-17T18:38:50.861615+00:00",
+   "headline": "Apple confirms outages for some services on the status page. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856276,
    "ts": "2026-11-17T18:26:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:46:40+00:00",
    "ingested": "2026-11-16T13:48:07.225828+00:00",
    "headline": "US Transport Secretary Duffy: Working with Lumen, AT&T, and Verizon on architecture $T $VZ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853899,
-   "ts": "2026-11-16T13:37:34+00:00",
-   "ingested": "2026-11-16T13:39:37.315718+00:00",
-   "headline": "US Commerce Secretary Lutnick and US Treasury Secretary Bessent are traveling on Air Force One with Trump to Asia",
    "channel": "rss",
    "source": "financialjuice"
   }
