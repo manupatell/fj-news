@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T16:06:40.829956+00:00",
+ "updated": "2026-11-17T16:07:10.839432+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856110,
+   "ts": "2026-11-17T16:06:50+00:00",
+   "ingested": "2026-11-17T16:07:10.838914+00:00",
+   "headline": "UK's PM Burnham: Will set out next steps on EU relationship later this year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856109,
+   "ts": "2026-11-17T16:06:31+00:00",
+   "ingested": "2026-11-17T16:07:10.838933+00:00",
+   "headline": "UK's PM Burnham: No rush to decide long-term relationship with the EU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856108,
    "ts": "2026-11-17T16:06:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T11:29:26+00:00",
    "ingested": "2026-11-16T11:31:02.802695+00:00",
    "headline": "Russia's Lavrov holds a phone call with an Iranian counterpart - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853691,
-   "ts": "2026-11-16T11:29:13+00:00",
-   "ingested": "2026-11-16T11:31:02.802709+00:00",
-   "headline": "Qatar Emir meets UAE national security adviser in Doha - QNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853690,
-   "ts": "2026-11-16T11:28:54+00:00",
-   "ingested": "2026-11-16T11:29:22.784468+00:00",
-   "headline": "EU's move comes as it imposes sanctions on 30 individuals and 2 entities in Russia",
    "channel": "rss",
    "source": "financialjuice"
   }
