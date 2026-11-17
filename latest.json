@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T19:11:00.902722+00:00",
+ "updated": "2026-11-17T19:12:00.984739+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856329,
+   "ts": "2026-11-17T19:11:06+00:00",
+   "ingested": "2026-11-17T19:12:00.984243+00:00",
+   "headline": "NSA: While some internal systems were affected, mission-critical capabilities remain fully operational and ability to defend national security continues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856328,
+   "ts": "2026-11-17T19:10:57+00:00",
+   "ingested": "2026-11-17T19:12:00.984259+00:00",
+   "headline": "NSA: NSA experienced temporary degradation during scheduled routine maintenance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856327,
    "ts": "2026-11-17T19:10:36+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T13:59:41+00:00",
    "ingested": "2026-11-16T14:01:27.230906+00:00",
    "headline": "Pakistan's Deputy Prime Minister: Response from the US is awaited, haven\u2019t given up on our efforts  - Asia One News Reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853919,
-   "ts": "2026-11-16T13:54:47+00:00",
-   "ingested": "2026-11-16T13:56:27.217871+00:00",
-   "headline": "Tesla to invest an additional 3 billion euros in Germany's Gr\u00fcnheide plant - FAZ $TSLA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853918,
-   "ts": "2026-11-16T13:53:35+00:00",
-   "ingested": "2026-11-16T13:54:47.222901+00:00",
-   "headline": "Iran's Foreign Minister Araghchi met with Asim Munir, Commander of Pakistan\u2019s army, at the country\u2019s armed forces headquarters - Al Jazeera, citing a Pakistani source",
    "channel": "rss",
    "source": "financialjuice"
   }
