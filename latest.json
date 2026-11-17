@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T19:04:00.848913+00:00",
+ "updated": "2026-11-17T19:11:00.902722+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856327,
+   "ts": "2026-11-17T19:10:36+00:00",
+   "ingested": "2026-11-17T19:11:00.902236+00:00",
+   "headline": "Salesforce is setting AI budgets for employees - Business Insider. $CRM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856325,
    "ts": "2026-11-17T19:02:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:53:35+00:00",
    "ingested": "2026-11-16T13:54:47.222901+00:00",
    "headline": "Iran's Foreign Minister Araghchi met with Asim Munir, Commander of Pakistan\u2019s army, at the country\u2019s armed forces headquarters - Al Jazeera, citing a Pakistani source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853917,
-   "ts": "2026-11-16T13:49:55+00:00",
-   "ingested": "2026-11-16T13:51:27.240956+00:00",
-   "headline": "US Transport Secretary Duffy: AT&T says it can do most of the network upgrades within 2 years. $T",
    "channel": "rss",
    "source": "financialjuice"
   }
