@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T19:32:10.883702+00:00",
+ "updated": "2026-11-17T19:33:50.886558+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856378,
+   "ts": "2026-11-17T19:33:20+00:00",
+   "ingested": "2026-11-17T19:33:50.886084+00:00",
+   "headline": "Fed's Williams: We have seen a bit of normalization of financial conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856376,
+   "ts": "2026-11-17T19:32:16+00:00",
+   "ingested": "2026-11-17T19:33:50.886101+00:00",
+   "headline": "Fed's Williams: Financial conditions are still pretty supportive of growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856374,
    "ts": "2026-11-17T19:31:51+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T14:35:57+00:00",
    "ingested": "2026-11-16T14:37:27.287687+00:00",
    "headline": "Trump on meeting Xi and Putin in China: We'll talk about denuclearization, Iran and Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853993,
-   "ts": "2026-11-16T14:34:53+00:00",
-   "ingested": "2026-11-16T14:35:47.221765+00:00",
-   "headline": "Trump: Huang going back to Nvidia isn't a bad idea. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853992,
-   "ts": "2026-11-16T14:33:59+00:00",
-   "ingested": "2026-11-16T14:35:47.221777+00:00",
-   "headline": "Trump on Alice Huang: I don't know that she's a Chinese spy",
    "channel": "rss",
    "source": "financialjuice"
   }
