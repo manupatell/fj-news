@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:07:30.782951+00:00",
+ "updated": "2026-11-17T15:09:10.782818+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856021,
+   "ts": "2026-11-17T15:07:21+00:00",
+   "ingested": "2026-11-17T15:09:10.782301+00:00",
+   "headline": "Nvidia general counsel to testify to Congress Dec. 2nd. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856020,
    "ts": "2026-11-17T15:06:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T07:18:08+00:00",
    "ingested": "2026-11-16T07:19:50.186612+00:00",
    "headline": "EU's Kallas: Russian demands are a clear pretext to continue the war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853416,
-   "ts": "2026-11-16T07:17:53+00:00",
-   "ingested": "2026-11-16T07:18:10.197630+00:00",
-   "headline": "EU's Kallas: European leaders decided on the format for Russia talks, now need to discuss substance",
    "channel": "rss",
    "source": "financialjuice"
   }
