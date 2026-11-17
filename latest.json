@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-17T03:04:23.063167+00:00",
+ "updated": "2026-11-17T03:11:03.080866+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854988,
+   "ts": "2026-11-17T03:09:39+00:00",
+   "ingested": "2026-11-17T03:11:03.080377+00:00",
+   "headline": "China's President Xi: Canada is far ahead of plan to boost exports to China by 50% by 2030",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854987,
+   "ts": "2026-11-17T03:09:39+00:00",
+   "ingested": "2026-11-17T03:11:03.080399+00:00",
+   "headline": "China's President Xi: interactions between our two nations have risen notably, with improved predictability and stability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854986,
+   "ts": "2026-11-17T03:09:39+00:00",
+   "ingested": "2026-11-17T03:11:03.080418+00:00",
+   "headline": "China's President Xi: enhanced communication and collaboration between China and Canada will advantage not only our two nations but also the Asia-Pacific region and world",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854985,
+   "ts": "2026-11-17T03:09:39+00:00",
+   "ingested": "2026-11-17T03:11:03.080439+00:00",
+   "headline": "China\u2019s President Xi: looking forward to sustaining momentum in discussions today and over next two days at APEC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854984,
+   "ts": "2026-11-17T03:09:39+00:00",
+   "ingested": "2026-11-17T03:11:03.080459+00:00",
+   "headline": "China\u2019s President Xi: after agreeing to promote China-Canada strategic ties in January, interactions and collaboration across sectors between the two nations have fully resumed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854983,
+   "ts": "2026-11-17T03:09:39+00:00",
+   "ingested": "2026-11-17T03:11:03.080474+00:00",
+   "headline": "China's President Xi: willing to collaborate on advancing new China-Canada strategic partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854982,
    "ts": "2026-11-17T03:03:48+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-14T01:31:58+00:00",
    "ingested": "2026-11-14T01:32:18.269854+00:00",
    "headline": "US DHS Secretary Mullin: still navigating process",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851832,
-   "ts": "2026-11-14T01:31:45+00:00",
-   "ingested": "2026-11-14T01:31:58.319150+00:00",
-   "headline": "US DHS Secretary Mullin: no cyberattack reported",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851830,
-   "ts": "2026-11-14T01:31:35+00:00",
-   "ingested": "2026-11-14T01:31:58.319163+00:00",
-   "headline": "US DHS secretary Mullin: no link between this event and Microsoft",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851827,
-   "ts": "2026-11-14T01:18:16+00:00",
-   "ingested": "2026-11-14T01:19:48.240594+00:00",
-   "headline": "U.S. nationwide ground stop lifted as of 8:15 pm ET: Air Current",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851825,
-   "ts": "2026-11-14T01:16:12+00:00",
-   "ingested": "2026-11-14T01:16:28.275028+00:00",
-   "headline": "US official: ground stop set to end",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851824,
-   "ts": "2026-11-14T01:15:11+00:00",
-   "ingested": "2026-11-14T01:16:28.275042+00:00",
-   "headline": "U.S. Nationwide Ground Stop Set to Be Lifted Soon: AirCurrent Reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851823,
-   "ts": "2026-11-14T01:14:52+00:00",
-   "ingested": "2026-11-14T01:16:28.275052+00:00",
-   "headline": "U.S. Nationwide Ground Stop Set to Lift Imminently: Air Current",
    "channel": "rss",
    "source": "financialjuice"
   }
