@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:58:20.837219+00:00",
+ "updated": "2026-11-17T16:03:20.847827+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856104,
+   "ts": "2026-11-17T16:02:27+00:00",
+   "ingested": "2026-11-17T16:03:20.847323+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi stressed need for continued consultations among regional countries after meeting with Qatari delegation in Oman's Muscat - State News Agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856084,
    "ts": "2026-11-17T15:57:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T09:52:10+00:00",
    "ingested": "2026-11-16T09:53:02.749901+00:00",
    "headline": "Russian overnight strikes on Ukrainian energy infrastructure caused power outages in six regions - Deputy energy minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853590,
-   "ts": "2026-11-16T09:51:54+00:00",
-   "ingested": "2026-11-16T09:53:02.749917+00:00",
-   "headline": "French Minister Barrot: St. Petersburg oil terminal also getting put on EU sanctions list",
    "channel": "rss",
    "source": "financialjuice"
   }
