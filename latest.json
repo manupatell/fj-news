@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-17T06:52:07.295527+00:00",
+ "updated": "2026-11-17T07:00:27.304955+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855240,
+   "ts": "2026-11-17T07:00:03+00:00",
+   "ingested": "2026-11-17T07:00:27.304306+00:00",
+   "headline": "UK Average Earnings (Ex-Bonus) Actual 3.5% (Forecast 3.6%, Previous 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855239,
+   "ts": "2026-11-17T07:00:03+00:00",
+   "ingested": "2026-11-17T07:00:27.304320+00:00",
+   "headline": "UK Unemployment Rate Actual 4.6% (Forecast 4.7%, Previous 4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855238,
+   "ts": "2026-11-17T07:00:02+00:00",
+   "ingested": "2026-11-17T07:00:27.304330+00:00",
+   "headline": "UK Employment Change 3M/3M Actual 155k (Forecast 139k, Previous 102k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855237,
+   "ts": "2026-11-17T07:00:02+00:00",
+   "ingested": "2026-11-17T07:00:27.304339+00:00",
+   "headline": "UK Average Weekly Earnings YoY Actual 3.6% (Forecast 3.5%, Previous 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855236,
+   "ts": "2026-11-17T07:00:01+00:00",
+   "ingested": "2026-11-17T07:00:27.304349+00:00",
+   "headline": "UK Employment Change SA Actual -34k (Forecast 10k, Previous 13k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855235,
+   "ts": "2026-11-17T07:00:00+00:00",
+   "ingested": "2026-11-17T07:00:27.304358+00:00",
+   "headline": "UK Unemployment Change Actual 33.2k (Forecast -, Previous 30.3k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855213,
    "ts": "2026-11-17T06:40:50+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-14T11:16:26+00:00",
    "ingested": "2026-11-14T11:18:09.446010+00:00",
    "headline": "Pakistan foreign affairs ministry: Pakistan to join Shanghai Cooperation Organisation civilizational dialogue in New Delhi, India",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852189,
-   "ts": "2026-11-14T11:06:51+00:00",
-   "ingested": "2026-11-14T11:08:09.432683+00:00",
-   "headline": "Kraken: probing problem with Osmosis funding gateway, deposits and withdrawals might be postponed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852173,
-   "ts": "2026-11-14T10:14:45+00:00",
-   "ingested": "2026-11-14T10:16:29.437086+00:00",
-   "headline": "Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852167,
-   "ts": "2026-11-14T09:58:27+00:00",
-   "ingested": "2026-11-14T09:59:39.488274+00:00",
-   "headline": "IAEA: electrical grid instability from military action caused power cuts at some nuclear units in Ukraine this week",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852152,
-   "ts": "2026-11-14T09:06:49+00:00",
-   "ingested": "2026-11-14T09:07:48.919946+00:00",
-   "headline": "Russian defence ministry: struck Ukrainian energy and transport infrastructure used by military, drone production and storage facilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852151,
-   "ts": "2026-11-14T09:03:36+00:00",
-   "ingested": "2026-11-14T09:04:28.923699+00:00",
-   "headline": "Russian defence ministry: its forces seize settlement of Tersianka in Ukraine's Zaporizhzhia region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852150,
-   "ts": "2026-11-14T09:03:28+00:00",
-   "ingested": "2026-11-14T09:04:28.923711+00:00",
-   "headline": "Zelenskiy says he believes NATO ties for Ukraine are back on agenda",
    "channel": "rss",
    "source": "financialjuice"
   }
