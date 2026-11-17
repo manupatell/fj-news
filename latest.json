@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T18:08:40.848850+00:00",
+ "updated": "2026-11-17T18:12:00.889722+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856260,
+   "ts": "2026-11-17T18:10:57+00:00",
+   "ingested": "2026-11-17T18:12:00.889229+00:00",
+   "headline": "Microsoft: Voice AI MAI Realtime 1 outperforms GPT Realtime 2.1 on public benchmarks and Microsoft product evaluations. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856259,
    "ts": "2026-11-17T18:07:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:32:13+00:00",
    "ingested": "2026-11-16T13:39:37.315748+00:00",
    "headline": "BoC Core CPI MoM Actual 0.4% (Forecast -, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853879,
-   "ts": "2026-11-16T13:32:13+00:00",
-   "ingested": "2026-11-16T13:39:37.315756+00:00",
-   "headline": "Canadian CPI Common Actual 2.5% (Forecast -, Previous 2.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
