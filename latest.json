@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T04:04:23.080541+00:00",
+ "updated": "2026-11-17T04:06:03.103827+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855033,
+   "ts": "2026-11-17T04:05:15+00:00",
+   "ingested": "2026-11-17T04:06:03.103372+00:00",
+   "headline": "Canada PM office: steps to offer extra tariff relief for about C$400 million in exports to China",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855032,
+   "ts": "2026-11-17T04:04:57+00:00",
+   "ingested": "2026-11-17T04:06:03.103399+00:00",
+   "headline": "Canada PM Office: Canada agrees to prolong existing remission measures on certain Chinese steel and aluminium products by two years, expiring end of 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855031,
    "ts": "2026-11-17T04:03:53+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-14T01:46:56+00:00",
    "ingested": "2026-11-14T01:47:48.405482+00:00",
    "headline": "US transportation secretary Duffy: network issue caused legacy system to fail",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851851,
-   "ts": "2026-11-14T01:44:20+00:00",
-   "ingested": "2026-11-14T01:44:58.248926+00:00",
-   "headline": "US DHS Secretary Mullin: no evidence incident involved cyberattack or artificial intelligence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851850,
-   "ts": "2026-11-14T01:42:44+00:00",
-   "ingested": "2026-11-14T01:43:18.265663+00:00",
-   "headline": "US DHS Secretary Mullin: still considering possibility of cyberattack, not dismissing it",
    "channel": "rss",
    "source": "financialjuice"
   }
