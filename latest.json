@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-17T09:12:07.352695+00:00",
+ "updated": "2026-11-17T09:13:47.349246+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855401,
+   "ts": "2026-11-17T09:13:13+00:00",
+   "ingested": "2026-11-17T09:13:47.348611+00:00",
+   "headline": "Ukmto: crew currently missing, damage evaluation unknown at this time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855400,
+   "ts": "2026-11-17T09:12:56+00:00",
+   "ingested": "2026-11-17T09:13:47.348625+00:00",
+   "headline": "UKMTO: strike led to fire onboard",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855399,
+   "ts": "2026-11-17T09:12:31+00:00",
+   "ingested": "2026-11-17T09:13:47.348643+00:00",
+   "headline": "UKMTO: maritime security agency reports vessel 7 nm north of Oman\u2019s Khasab hit by second strike",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855383,
    "ts": "2026-11-17T09:00:50+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-14T14:38:57+00:00",
    "ingested": "2026-11-14T14:40:01.496590+00:00",
    "headline": "Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852269,
-   "ts": "2026-11-14T14:38:24+00:00",
-   "ingested": "2026-11-14T14:40:01.496609+00:00",
-   "headline": "Elon Musk: Jensen managed Nvidia supply chain expertly, but many agreements were handshakes, not written contracts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852266,
-   "ts": "2026-11-14T14:30:05+00:00",
-   "ingested": "2026-11-14T14:31:29.501296+00:00",
-   "headline": "Fed's Collins: potential financial conditions to curb economy more than anticipated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852265,
-   "ts": "2026-11-14T14:30:02+00:00",
-   "ingested": "2026-11-14T14:31:29.501315+00:00",
-   "headline": "Fed's Collins: a strong case to keep rates steady at October FOMC meeting",
    "channel": "rss",
    "source": "financialjuice"
   }
