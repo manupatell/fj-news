@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:03:20.847827+00:00",
+ "updated": "2026-11-17T16:05:00.864491+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856105,
+   "ts": "2026-11-17T16:03:32+00:00",
+   "ingested": "2026-11-17T16:05:00.863989+00:00",
+   "headline": "User reports show problems with Microsoft Outlook - Downdetector. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856104,
    "ts": "2026-11-17T16:02:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T10:00:02+00:00",
    "ingested": "2026-11-16T10:01:22.741879+00:00",
    "headline": "Eurozone Industrial Production MoM Actual 0.2% (Forecast 0.3%, Previous -0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853591,
-   "ts": "2026-11-16T09:52:10+00:00",
-   "ingested": "2026-11-16T09:53:02.749901+00:00",
-   "headline": "Russian overnight strikes on Ukrainian energy infrastructure caused power outages in six regions - Deputy energy minister",
    "channel": "rss",
    "source": "financialjuice"
   }
