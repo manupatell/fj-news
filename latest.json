@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T19:15:00.929620+00:00",
+ "updated": "2026-11-17T19:19:00.857426+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856351,
+   "ts": "2026-11-17T19:18:29+00:00",
+   "ingested": "2026-11-17T19:19:00.856932+00:00",
+   "headline": "Apple: iCloud account & sign in issue has been resolved. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856350,
+   "ts": "2026-11-17T19:17:36+00:00",
+   "ingested": "2026-11-17T19:19:00.856952+00:00",
+   "headline": "Iran seriously pursuing diplomatic end to impasse - ISNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856333,
    "ts": "2026-11-17T19:14:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T14:01:04+00:00",
    "ingested": "2026-11-16T14:01:27.230844+00:00",
    "headline": "Kremlin on Putin-Trump-Xi Trilateral meeting: Meeting to take place on November 19th at Xi's official residence.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853930,
-   "ts": "2026-11-16T14:00:57+00:00",
-   "ingested": "2026-11-16T14:01:27.230855+00:00",
-   "headline": "Kremlin on Putin-Trump meeting: Work is underway to arrange November 19th talks, Putin and Trump certain to meet, format and venue still being finalised",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853928,
-   "ts": "2026-11-16T14:00:45+00:00",
-   "ingested": "2026-11-16T14:01:27.230864+00:00",
-   "headline": "Kremlin on Putin-Xi meeting: Putin to brief Xi on contacts with the United States, including talks held in Abu Dhabi.",
    "channel": "rss",
    "source": "financialjuice"
   }
