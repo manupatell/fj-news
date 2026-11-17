@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T14:24:49.197490+00:00",
+ "updated": "2026-11-17T14:30:22.457311+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855926,
+   "ts": "2026-11-17T14:28:59+00:00",
+   "ingested": "2026-11-17T14:30:22.456744+00:00",
+   "headline": "Goldman and Apollo to lead $40.2 billion SpaceX ABS financing. $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855925,
    "ts": "2026-11-17T14:20:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T04:07:01+00:00",
    "ingested": "2026-11-16T04:07:20.133187+00:00",
    "headline": "BoJ's Takata: on further rate increases, central bank should not target expected neutral rate or be constrained by market-anticipated intervals or ranges",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853217,
-   "ts": "2026-11-16T04:06:16+00:00",
-   "ingested": "2026-11-16T04:07:20.133209+00:00",
-   "headline": "BoJ's Takata: central bank needs regime change, setting policy interest rate early in a 'good' position",
    "channel": "rss",
    "source": "financialjuice"
   }
