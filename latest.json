@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:18:20.831569+00:00",
+ "updated": "2026-11-17T16:21:40.884781+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856124,
+   "ts": "2026-11-17T16:20:40+00:00",
+   "ingested": "2026-11-17T16:21:40.884283+00:00",
+   "headline": "Fear and Greed Index: 26/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856120,
    "ts": "2026-11-17T16:16:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:02:05+00:00",
    "ingested": "2026-11-16T13:03:12.828976+00:00",
    "headline": "Strategy buys 485 bitcoin for aggregate purchase price $33.4m, avg. price $68,887, Nov. 9 to Nov. 15",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853826,
-   "ts": "2026-11-16T13:00:59+00:00",
-   "ingested": "2026-11-16T13:01:32.798333+00:00",
-   "headline": "News sources reported that several explosions were heard in Riyadh following attacks from Yemen - Fars News",
    "channel": "rss",
    "source": "financialjuice"
   }
