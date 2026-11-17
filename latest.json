@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T17:01:10.816806+00:00",
+ "updated": "2026-11-17T17:05:21.255440+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856182,
+   "ts": "2026-11-17T17:05:04+00:00",
+   "ingested": "2026-11-17T17:05:21.254811+00:00",
+   "headline": "Google is rolling out a set of advanced features, starting in the US. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856167,
    "ts": "2026-11-17T17:00:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:23:05+00:00",
    "ingested": "2026-11-16T13:39:37.315852+00:00",
    "headline": "BofA CEO Moynihan concludes remarks on Bloomberg TV. $BAC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853866,
-   "ts": "2026-11-16T13:20:03+00:00",
-   "ingested": "2026-11-16T13:39:37.315859+00:00",
-   "headline": "The US publishes a list of higher-than-normal risk countries",
    "channel": "rss",
    "source": "financialjuice"
   }
