@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T16:07:10.839432+00:00",
+ "updated": "2026-11-17T16:08:10.799194+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856112,
+   "ts": "2026-11-17T16:07:50+00:00",
+   "ingested": "2026-11-17T16:08:10.798639+00:00",
+   "headline": "Senior Pentagon Official: US wants Canada to meet NORAD requirements",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856111,
+   "ts": "2026-11-17T16:07:07+00:00",
+   "ingested": "2026-11-17T16:08:10.798662+00:00",
+   "headline": "Jensen Huang: I am committed to cooperating with the board\u2019s independent investigation - Statement. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856110,
    "ts": "2026-11-17T16:06:50+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T11:45:45+00:00",
    "ingested": "2026-11-16T11:46:03.723654+00:00",
    "headline": "In a joint statement, regulators urge Russia to cease attacks on Ukraine's energy infrastructure",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853715,
-   "ts": "2026-11-16T11:43:51+00:00",
-   "ingested": "2026-11-16T11:44:22.775082+00:00",
-   "headline": "RBA & RBNZ Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853692,
-   "ts": "2026-11-16T11:29:26+00:00",
-   "ingested": "2026-11-16T11:31:02.802695+00:00",
-   "headline": "Russia's Lavrov holds a phone call with an Iranian counterpart - Tass",
    "channel": "rss",
    "source": "financialjuice"
   }
