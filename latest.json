@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T10:00:27.364845+00:00",
+ "updated": "2026-11-17T10:02:07.367339+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855466,
+   "ts": "2026-11-17T10:00:39+00:00",
+   "ingested": "2026-11-17T10:02:07.366768+00:00",
+   "headline": "NVIDIA board establishes export control oversight committee.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855461,
    "ts": "2026-11-17T10:00:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T16:24:45+00:00",
    "ingested": "2026-11-14T16:26:02.969009+00:00",
    "headline": "US FAA administrator: collaborating with aviation stakeholders; all passengers will be either reaccommodated on a flight or receive a full refund",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852310,
-   "ts": "2026-11-14T16:17:48+00:00",
-   "ingested": "2026-11-14T16:19:23.001971+00:00",
-   "headline": "Duffy: there will be a reassessment of the timing for maintenance work",
    "channel": "rss",
    "source": "financialjuice"
   }
