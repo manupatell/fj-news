@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T05:08:47.267713+00:00",
+ "updated": "2026-11-17T05:10:27.360507+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855087,
+   "ts": "2026-11-17T05:09:36+00:00",
+   "ingested": "2026-11-17T05:10:27.359819+00:00",
+   "headline": "Russia hits Ukrainian energy sites, port infrastructure and vessels: IFX cites Russian defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855086,
+   "ts": "2026-11-17T05:08:47+00:00",
+   "ingested": "2026-11-17T05:10:27.359835+00:00",
+   "headline": "Russia hits targets in Kyiv, Zaporizhzhia, Cherkasy and Dnipropetrovsk regions overnight: IFX cites defense ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855085,
    "ts": "2026-11-17T05:08:15+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-14T05:12:50+00:00",
    "ingested": "2026-11-14T05:14:28.869158+00:00",
    "headline": "BoE\u2019s Pill signals no third term as bank chief economist when current stint ends in September 2027 - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852051,
-   "ts": "2026-11-14T05:12:15+00:00",
-   "ingested": "2026-11-14T05:12:48.933806+00:00",
-   "headline": "BoE's Pill: delays in raising borrowing costs reduce ability to be modest in rate increases - FT interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852050,
-   "ts": "2026-11-14T05:11:26+00:00",
-   "ingested": "2026-11-14T05:12:48.933844+00:00",
-   "headline": "BoE\u2019s Pill says BoE should have hiked interest rates before this month - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
