@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T02:15:43.061554+00:00",
+ "updated": "2026-11-17T02:17:23.046053+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854932,
+   "ts": "2026-11-17T02:15:35+00:00",
+   "ingested": "2026-11-17T02:17:23.045674+00:00",
+   "headline": "US transportation chief Duffy: cause of United Airlines outage Monday remains unknown",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854931,
    "ts": "2026-11-17T02:14:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T00:30:55+00:00",
    "ingested": "2026-11-14T00:32:21.978385+00:00",
    "headline": "U.S. loses measles-elimination status: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851788,
-   "ts": "2026-11-14T00:27:56+00:00",
-   "ingested": "2026-11-14T00:29:01.944266+00:00",
-   "headline": "OpenAI: issues impacting Microsoft 365 connector resolved",
    "channel": "rss",
    "source": "financialjuice"
   }
