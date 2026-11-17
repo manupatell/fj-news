@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T17:55:20.869049+00:00",
+ "updated": "2026-11-17T17:58:40.850611+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856242,
+   "ts": "2026-11-17T17:58:02+00:00",
+   "ingested": "2026-11-17T17:58:40.850101+00:00",
+   "headline": "Putin arrives in Shenzhen for APEC Economic Leaders' Meeting - Xinhua.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856241,
+   "ts": "2026-11-17T17:57:03+00:00",
+   "ingested": "2026-11-17T17:58:40.850122+00:00",
+   "headline": "Equinor detects an ongoing cyberattack against certain IT systems. Reports no data theft or impact on operations from the cyberattack.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856218,
    "ts": "2026-11-17T17:44:14+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T13:31:12+00:00",
    "ingested": "2026-11-16T13:39:37.315779+00:00",
    "headline": "Citigroup: Risk Sentiment Remains Soft as Markets Await Fed and Geopolitical Catalysts - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853876,
-   "ts": "2026-11-16T13:30:02+00:00",
-   "ingested": "2026-11-16T13:39:37.315787+00:00",
-   "headline": "Canadian CPI YoY Actual 3.1% (Forecast 3.2%, Previous 3.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853875,
-   "ts": "2026-11-16T13:30:02+00:00",
-   "ingested": "2026-11-16T13:39:37.315794+00:00",
-   "headline": "Canadian CPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
