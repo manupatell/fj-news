@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T14:57:30.799034+00:00",
+ "updated": "2026-11-17T15:02:31.001378+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856006,
+   "ts": "2026-11-17T15:01:49+00:00",
+   "ingested": "2026-11-17T15:02:31.000812+00:00",
+   "headline": "Top AI models identify civilians as military targets in tests",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856000,
    "ts": "2026-11-17T14:56:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T06:31:13+00:00",
    "ingested": "2026-11-16T06:31:30.243446+00:00",
    "headline": "India's fuel price index in WPI jumps 32.84% y/y in Oct: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853362,
-   "ts": "2026-11-16T06:31:13+00:00",
-   "ingested": "2026-11-16T06:31:30.243465+00:00",
-   "headline": "India\u2019s wholesale food price index at 8.58% y/y in October: govt",
    "channel": "rss",
    "source": "financialjuice"
   }
