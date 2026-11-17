@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T09:47:07.362491+00:00",
+ "updated": "2026-11-17T09:50:27.375768+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855457,
+   "ts": "2026-11-17T09:49:44+00:00",
+   "ingested": "2026-11-17T09:50:27.375168+00:00",
+   "headline": "Goldmans Sachs: France 2027 Outlook - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855441,
    "ts": "2026-11-17T09:46:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T16:13:28+00:00",
    "ingested": "2026-11-14T16:14:22.986369+00:00",
    "headline": "US FAA administrator: delays and cancellations today will enable full recovery on Sunday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852302,
-   "ts": "2026-11-14T16:13:06+00:00",
-   "ingested": "2026-11-14T16:14:22.986382+00:00",
-   "headline": "US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled",
    "channel": "rss",
    "source": "financialjuice"
   }
