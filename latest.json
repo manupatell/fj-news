@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T14:38:46.249405+00:00",
+ "updated": "2026-11-17T14:40:26.236657+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855969,
+   "ts": "2026-11-17T14:39:06+00:00",
+   "ingested": "2026-11-17T14:40:26.236113+00:00",
+   "headline": "Another MQ1 drone was destroyed by a new air defense system operated by the IRGC Aerospace Force south of Qeshm Island - Press TV.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855968,
+   "ts": "2026-11-17T14:38:39+00:00",
+   "ingested": "2026-11-17T14:40:26.236132+00:00",
+   "headline": "Fed's Waller: Banks will still have an important future in changing the payments system.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855967,
    "ts": "2026-11-17T14:37:36+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T05:01:52+00:00",
    "ingested": "2026-11-16T05:03:10.153682+00:00",
    "headline": "Brussels to suggest \u20ac45bn Ukraine loan secured by EU budget - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853251,
-   "ts": "2026-11-16T04:34:38+00:00",
-   "ingested": "2026-11-16T04:39:00.159795+00:00",
-   "headline": "Japanese Capacity Utilization MoM Actual 1.6% (Forecast -, Previous -4.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853237,
-   "ts": "2026-11-16T04:28:00+00:00",
-   "ingested": "2026-11-16T04:29:00.131082+00:00",
-   "headline": "Iran\u2019s IRGC: two oil tankers struck mines in the Strait of Hormuz causing explosions - state media",
    "channel": "rss",
    "source": "financialjuice"
   }
