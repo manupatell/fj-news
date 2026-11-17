@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T02:10:43.040444+00:00",
+ "updated": "2026-11-17T02:12:23.042047+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854930,
+   "ts": "2026-11-17T02:12:03+00:00",
+   "ingested": "2026-11-17T02:12:23.041607+00:00",
+   "headline": "Chinese ambassador to UN: APEC members held in-depth talks and reached key consensus",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854929,
    "ts": "2026-11-17T02:10:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T00:27:55+00:00",
    "ingested": "2026-11-14T00:29:01.944280+00:00",
    "headline": "Chicago's O'Hare Airport closing runway 22R to park aircraft: Air Current",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851786,
-   "ts": "2026-11-14T00:21:31+00:00",
-   "ingested": "2026-11-14T00:22:21.961587+00:00",
-   "headline": "Internal messages show Jensen Huang told Nvidia lawyer, others dealings with customers mirrored standard practice",
    "channel": "rss",
    "source": "financialjuice"
   }
