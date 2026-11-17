@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T10:22:07.374856+00:00",
+ "updated": "2026-11-17T10:32:07.381486+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855524,
+   "ts": "2026-11-17T10:31:14+00:00",
+   "ingested": "2026-11-17T10:32:07.380871+00:00",
+   "headline": "German 2 Yr Schatz Yield Actual 3.1% (Forecast -, Previous 3.08%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855523,
+   "ts": "2026-11-17T10:31:13+00:00",
+   "ingested": "2026-11-17T10:32:07.380886+00:00",
+   "headline": "German 2 Yr Schatz Bid-to-Cover Actual 1.8 (Forecast -, Previous 1.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855518,
    "ts": "2026-11-17T10:21:16+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-15T13:04:15+00:00",
    "ingested": "2026-11-15T13:05:26.166450+00:00",
    "headline": "Iran's IRGC navy: two tankers ablaze after striking naval mines in Strait of Hormuz - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852676,
-   "ts": "2026-11-15T12:06:11+00:00",
-   "ingested": "2026-11-15T12:07:06.143442+00:00",
-   "headline": "Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852651,
-   "ts": "2026-11-15T11:19:04+00:00",
-   "ingested": "2026-11-15T11:20:26.141903+00:00",
-   "headline": "Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal",
    "channel": "rss",
    "source": "financialjuice"
   }
