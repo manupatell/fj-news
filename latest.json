@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:09:50.792850+00:00",
+ "updated": "2026-11-17T16:13:20.816374+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856114,
+   "ts": "2026-11-17T16:12:29+00:00",
+   "ingested": "2026-11-17T16:13:20.815839+00:00",
+   "headline": "Russian strategic bombers flew near Japan, South Korea and Taiwan before landing in Vietnam while Trump is in the Philippines ahead of his anticipated meeting with Putin and Xi in China - Fox News Reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856113,
    "ts": "2026-11-17T16:09:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T11:47:50+00:00",
    "ingested": "2026-11-16T11:49:22.779700+00:00",
    "headline": "ING FX Daily - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853733,
-   "ts": "2026-11-16T11:46:04+00:00",
-   "ingested": "2026-11-16T11:47:42.774762+00:00",
-   "headline": "A nationwide power blackout in Ukraine could lead to a meltdown at all Ukrainian nuclear reactors - Head of the pan-European safety regulator",
    "channel": "rss",
    "source": "financialjuice"
   }
