@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T14:48:46.239903+00:00",
+ "updated": "2026-11-17T14:50:26.253198+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855996,
+   "ts": "2026-11-17T14:49:33+00:00",
+   "ingested": "2026-11-17T14:50:26.252676+00:00",
+   "headline": "Banks pause $480 million chip loan tied to China\u2019s ByteDance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855995,
    "ts": "2026-11-17T14:47:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T05:54:12+00:00",
    "ingested": "2026-11-16T05:54:50.182246+00:00",
    "headline": "Cape Verde presidential candidate Rosa concedes defeat, congratulates Neves on victory",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853328,
-   "ts": "2026-11-16T05:54:12+00:00",
-   "ingested": "2026-11-16T05:54:50.182266+00:00",
-   "headline": "Cape Verde president Neves secures second term, election results show",
    "channel": "rss",
    "source": "financialjuice"
   }
