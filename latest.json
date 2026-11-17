@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T00:11:03.054176+00:00",
+ "updated": "2026-11-17T00:12:43.017093+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854724,
+   "ts": "2026-11-17T00:11:09+00:00",
+   "ingested": "2026-11-17T00:12:43.016695+00:00",
+   "headline": "Nvidia corporation: Treasury secretary reportedly questions company\u2019s revenue, stock falls again",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854665,
    "ts": "2026-11-16T23:08:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-13T23:45:13+00:00",
    "ingested": "2026-11-13T23:45:41.933340+00:00",
    "headline": "US official: no plans to engage with North Korea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851738,
-   "ts": "2026-11-13T23:41:43+00:00",
-   "ingested": "2026-11-13T23:42:21.934826+00:00",
-   "headline": "US official: situation with Nvidia should not affect Trump's trip to Asia next week",
    "channel": "rss",
    "source": "financialjuice"
   }
