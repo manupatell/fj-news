@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T17:58:40.850611+00:00",
+ "updated": "2026-11-17T18:03:40.852317+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856244,
+   "ts": "2026-11-17T18:02:38+00:00",
+   "ingested": "2026-11-17T18:03:40.851820+00:00",
+   "headline": "Meta Muse is available in Australia on iOS, Android, and Muse AI, a Mac app, and coming soon to AI glasses. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856242,
    "ts": "2026-11-17T17:58:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:32:12+00:00",
    "ingested": "2026-11-16T13:39:37.315771+00:00",
    "headline": "Canadian Core CPI MoM Actual 0.1% (Forecast -, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853884,
-   "ts": "2026-11-16T13:31:12+00:00",
-   "ingested": "2026-11-16T13:39:37.315779+00:00",
-   "headline": "Citigroup: Risk Sentiment Remains Soft as Markets Await Fed and Geopolitical Catalysts - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
