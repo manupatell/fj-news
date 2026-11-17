@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T14:40:26.236657+00:00",
+ "updated": "2026-11-17T14:42:06.245949+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855970,
+   "ts": "2026-11-17T14:41:44+00:00",
+   "ingested": "2026-11-17T14:42:06.245384+00:00",
+   "headline": "UBS cuts target price for Alphabet to $320 from $380 $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855969,
    "ts": "2026-11-17T14:39:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T05:04:25+00:00",
    "ingested": "2026-11-16T05:04:50.220307+00:00",
    "headline": "Uniper approaches initial agreement to convert idle power plants into data centers - ft",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853278,
-   "ts": "2026-11-16T05:01:52+00:00",
-   "ingested": "2026-11-16T05:03:10.153682+00:00",
-   "headline": "Brussels to suggest \u20ac45bn Ukraine loan secured by EU budget - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
