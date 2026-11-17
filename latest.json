@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T02:31:03.089205+00:00",
+ "updated": "2026-11-17T02:32:43.054012+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854949,
+   "ts": "2026-11-17T02:30:54+00:00",
+   "ingested": "2026-11-17T02:32:43.053655+00:00",
+   "headline": "Chinese President Xi Jinping meets Canadian Prime Minister Mark Carney in Shenzhen before APEC summit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854934,
    "ts": "2026-11-17T02:20:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T00:38:49+00:00",
    "ingested": "2026-11-14T00:39:21.957558+00:00",
    "headline": "Fed's Jefferson: I have not seen political factors influence discussions at FOMC meetings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851803,
-   "ts": "2026-11-14T00:36:26+00:00",
-   "ingested": "2026-11-14T00:37:42.053545+00:00",
-   "headline": "Fed vice chair Jefferson: debt or deficit concerns never influenced policy discussions at Fed",
    "channel": "rss",
    "source": "financialjuice"
   }
