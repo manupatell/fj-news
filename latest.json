@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:56:40.867344+00:00",
+ "updated": "2026-11-17T15:58:20.837219+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856084,
+   "ts": "2026-11-17T15:57:53+00:00",
+   "ingested": "2026-11-17T15:58:20.836670+00:00",
+   "headline": "Nvidia CEO Huang: If the Board of Directors decides my return is in the best interest of shareholders, employees, the company, and the US, I would be honored to return as CEO - WSJ $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856082,
    "ts": "2026-11-17T15:56:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T09:51:54+00:00",
    "ingested": "2026-11-16T09:53:02.749917+00:00",
    "headline": "French Minister Barrot: St. Petersburg oil terminal also getting put on EU sanctions list",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853589,
-   "ts": "2026-11-16T09:51:35+00:00",
-   "ingested": "2026-11-16T09:53:02.749928+00:00",
-   "headline": "French Foreign Minister: France and UK to host December conference on tackling Russian shadow fleet",
    "channel": "rss",
    "source": "financialjuice"
   }
