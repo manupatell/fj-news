@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:28:20.797444+00:00",
+ "updated": "2026-11-17T16:35:10.828834+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856145,
+   "ts": "2026-11-17T16:33:24+00:00",
+   "ingested": "2026-11-17T16:35:10.828357+00:00",
+   "headline": "FAA Spokeswoman: Confirm agency is halting Juniper router installations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856127,
    "ts": "2026-11-17T16:26:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:13:12+00:00",
    "ingested": "2026-11-16T13:14:42.854618+00:00",
    "headline": "BofA's Moynihan: We feel good about what we see in the economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853848,
-   "ts": "2026-11-16T13:12:16+00:00",
-   "ingested": "2026-11-16T13:12:52.830137+00:00",
-   "headline": "BofA's Moynihan: We'll have another record earnings this year. $BAC",
    "channel": "rss",
    "source": "financialjuice"
   }
