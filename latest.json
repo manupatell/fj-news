@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:59:40.846260+00:00",
+ "updated": "2026-11-17T17:01:10.816806+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856167,
+   "ts": "2026-11-17T17:00:49+00:00",
+   "ingested": "2026-11-17T17:01:10.816300+00:00",
+   "headline": "Nike Targets $3-$5 Adjusted EPS and 12%-14% Operating Margin by FY2031 $NKE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856163,
    "ts": "2026-11-17T16:58:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:20:03+00:00",
    "ingested": "2026-11-16T13:39:37.315859+00:00",
    "headline": "The US publishes a list of higher-than-normal risk countries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853865,
-   "ts": "2026-11-16T13:19:44+00:00",
-   "ingested": "2026-11-16T13:39:37.315866+00:00",
-   "headline": "US license needed to re-export advanced AI chips to Brazil and Singapore",
    "channel": "rss",
    "source": "financialjuice"
   }
