@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T03:37:23.083819+00:00",
+ "updated": "2026-11-17T03:39:03.135016+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855005,
+   "ts": "2026-11-17T03:38:49+00:00",
+   "ingested": "2026-11-17T03:39:03.134575+00:00",
+   "headline": "US officials confronted China over AI distillation at July talks, warning of possible intellectual property theft, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855004,
+   "ts": "2026-11-17T03:38:49+00:00",
+   "ingested": "2026-11-17T03:39:03.134598+00:00",
+   "headline": "China converts US AI model output into training data for local competitors as chip restrictions take effect, documents reveal",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855003,
    "ts": "2026-11-17T03:37:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-14T01:37:00+00:00",
    "ingested": "2026-11-14T01:37:18.287485+00:00",
    "headline": "US transportation secretary Duffy: switches, routers truly overwhelmed with data, leading to failure",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851844,
-   "ts": "2026-11-14T01:35:40+00:00",
-   "ingested": "2026-11-14T01:36:38.240596+00:00",
-   "headline": "US transportation secretary Duffy: partial loss of telecom and radar during ground stop",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851843,
-   "ts": "2026-11-14T01:33:42+00:00",
-   "ingested": "2026-11-14T01:33:58.257458+00:00",
-   "headline": "US DHS Secretary Mullin: working to fix the problem",
    "channel": "rss",
    "source": "financialjuice"
   }
