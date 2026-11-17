@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T19:12:00.984739+00:00",
+ "updated": "2026-11-17T19:14:00.904605+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856330,
+   "ts": "2026-11-17T19:13:43+00:00",
+   "ingested": "2026-11-17T19:14:00.904142+00:00",
+   "headline": "Apple: All users are impacted by ongoing iCloud Account & Sign In service issue. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856329,
    "ts": "2026-11-17T19:11:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:59:47+00:00",
    "ingested": "2026-11-16T14:01:27.230892+00:00",
    "headline": "Effective Fed funds rate 3.88% November 13th vs 3.88% November 12th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853921,
-   "ts": "2026-11-16T13:59:41+00:00",
-   "ingested": "2026-11-16T14:01:27.230906+00:00",
-   "headline": "Pakistan's Deputy Prime Minister: Response from the US is awaited, haven\u2019t given up on our efforts  - Asia One News Reporter on X",
    "channel": "rss",
    "source": "financialjuice"
   }
