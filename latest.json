@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T02:02:23.041276+00:00",
+ "updated": "2026-11-17T02:10:43.040444+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854929,
+   "ts": "2026-11-17T02:10:13+00:00",
+   "ingested": "2026-11-17T02:10:43.040115+00:00",
+   "headline": "Chinese ambassador to UN: APEC nations prioritize secure deployment and responsible use of AI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854873,
    "ts": "2026-11-17T02:01:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T00:21:31+00:00",
    "ingested": "2026-11-14T00:22:21.961587+00:00",
    "headline": "Internal messages show Jensen Huang told Nvidia lawyer, others dealings with customers mirrored standard practice",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851785,
-   "ts": "2026-11-14T00:21:30+00:00",
-   "ingested": "2026-11-14T00:22:21.961600+00:00",
-   "headline": "Ex-Nvidia CEO Huang misled company leaders, including general counsel, about nature of Alice Huang affair: sources",
    "channel": "rss",
    "source": "financialjuice"
   }
