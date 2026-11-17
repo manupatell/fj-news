@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T05:30:27.263620+00:00",
+ "updated": "2026-11-17T05:38:47.300055+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855124,
+   "ts": "2026-11-17T05:37:53+00:00",
+   "ingested": "2026-11-17T05:38:47.299379+00:00",
+   "headline": "Russian-installed governor: two killed in Ukrainian assault on Crimea",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855087,
    "ts": "2026-11-17T05:09:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T06:04:18+00:00",
    "ingested": "2026-11-14T06:06:08.867584+00:00",
    "headline": "BoE\u2019s Pill says market expectations implying rates near 5% in 2027 are \u2018not outrageous\u2019 - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852052,
-   "ts": "2026-11-14T05:12:50+00:00",
-   "ingested": "2026-11-14T05:14:28.869158+00:00",
-   "headline": "BoE\u2019s Pill signals no third term as bank chief economist when current stint ends in September 2027 - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
