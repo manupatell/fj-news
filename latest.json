@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T18:12:00.889722+00:00",
+ "updated": "2026-11-17T18:13:40.904797+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856261,
+   "ts": "2026-11-17T18:12:58+00:00",
+   "ingested": "2026-11-17T18:13:40.904336+00:00",
+   "headline": "Microsoft aims for cheaper, specialized AI models - Axios. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856260,
    "ts": "2026-11-17T18:10:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:36:13+00:00",
    "ingested": "2026-11-16T13:39:37.315738+00:00",
    "headline": "Iran\u2019s Foreign Minister Araghchi: We have complete trust in Pakistan - Iran's Sepah news",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853880,
-   "ts": "2026-11-16T13:32:13+00:00",
-   "ingested": "2026-11-16T13:39:37.315748+00:00",
-   "headline": "BoC Core CPI MoM Actual 0.4% (Forecast -, Previous 0.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
