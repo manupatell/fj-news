@@ -1,7 +1,87 @@
 {
- "updated": "2026-11-17T23:47:23.525227+00:00",
+ "updated": "2026-11-17T23:50:43.531662+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856716,
+   "ts": "2026-11-17T23:50:06+00:00",
+   "ingested": "2026-11-17T23:50:43.531039+00:00",
+   "headline": "Japan's October exports to Asia rise 22% year on year: MoF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856715,
+   "ts": "2026-11-17T23:50:06+00:00",
+   "ingested": "2026-11-17T23:50:43.531060+00:00",
+   "headline": "Japan October exports to EU up 22.1% year/year: MOF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856714,
+   "ts": "2026-11-17T23:50:06+00:00",
+   "ingested": "2026-11-17T23:50:43.531078+00:00",
+   "headline": "Japan Oct imports rise 21.6% year/year: Ministry of Finance (poll 25.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856713,
+   "ts": "2026-11-17T23:50:04+00:00",
+   "ingested": "2026-11-17T23:50:43.531094+00:00",
+   "headline": "Japan October trade deficit 476.5 billion yen: Ministry of Finance (poll: 956 billion yen)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856712,
+   "ts": "2026-11-17T23:50:04+00:00",
+   "ingested": "2026-11-17T23:50:43.531108+00:00",
+   "headline": "Japan oct exports rise 20.5% y/y: MOF (poll 20.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856711,
+   "ts": "2026-11-17T23:50:04+00:00",
+   "ingested": "2026-11-17T23:50:43.531121+00:00",
+   "headline": "Japan Oct exports to U.S. rise 23.9% year/year: MOF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856710,
+   "ts": "2026-11-17T23:50:04+00:00",
+   "ingested": "2026-11-17T23:50:43.531134+00:00",
+   "headline": "Japan October exports to China rise 13.3% year/year: MOF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856708,
+   "ts": "2026-11-17T23:50:01+00:00",
+   "ingested": "2026-11-17T23:50:43.531147+00:00",
+   "headline": "Japanese Exports YoY Actual 20.5% (Forecast 20.4%, Previous 16.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856707,
+   "ts": "2026-11-17T23:50:01+00:00",
+   "ingested": "2026-11-17T23:50:43.531160+00:00",
+   "headline": "Japanese Imports YoY Actual 21.6% (Forecast 25.9%, Previous 18.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856706,
+   "ts": "2026-11-17T23:49:35+00:00",
+   "ingested": "2026-11-17T23:50:43.531174+00:00",
+   "headline": "Nvidia interim CEO Kress: we want to focus on expanding our business now - CNBC interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856693,
    "ts": "2026-11-17T23:46:21+00:00",
@@ -3919,86 +3999,6 @@
    "ts": "2026-11-16T18:42:33+00:00",
    "ingested": "2026-11-16T18:43:47.336924+00:00",
    "headline": "California sues OpenAI over AI models' cyberattacks on Hugging Face, other companies - Attorney General.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854329,
-   "ts": "2026-11-16T18:35:10+00:00",
-   "ingested": "2026-11-16T18:35:27.296760+00:00",
-   "headline": "US Under Secretary of State for Economic Affairs Helberg: The US has no plans to target suppliers such as Ericsson, ASML, Samsung, or SK Hynix or push them out of its supply chain - Semafor Event.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854310,
-   "ts": "2026-11-16T18:19:55+00:00",
-   "ingested": "2026-11-16T18:21:27.264121+00:00",
-   "headline": "JPM: A technical issue is causing transactions to take longer. We are working to resolve issue. $JPM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854275,
-   "ts": "2026-11-16T17:54:20+00:00",
-   "ingested": "2026-11-16T17:55:47.290454+00:00",
-   "headline": "Mehr News: An American MQ-1 drone was shot down by the Iranian Army's air defense system in the vicinity of the Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854274,
-   "ts": "2026-11-16T17:50:32+00:00",
-   "ingested": "2026-11-16T17:50:47.278019+00:00",
-   "headline": "According to a reporter from Mehr News Agency in Isfahan, air defense systems in Isfahan were activated a few minutes ago.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854240,
-   "ts": "2026-11-16T17:39:33+00:00",
-   "ingested": "2026-11-16T17:40:17.317091+00:00",
-   "headline": "NVIDIA board not considering bringing Huang back as CEO - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854239,
-   "ts": "2026-11-16T17:35:24+00:00",
-   "ingested": "2026-11-16T17:36:27.275401+00:00",
-   "headline": "Fitch Ratings: Although we expect resilient economic growth. financing conditions will continue to be tight, hurting some sectors, such as housing in the US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854238,
-   "ts": "2026-11-16T17:34:50+00:00",
-   "ingested": "2026-11-16T17:36:27.275415+00:00",
-   "headline": "Fitch Ratings: Democrat majorities in both houses in the US will likely imply additional oversight and scrutiny over the administration's policies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854223,
-   "ts": "2026-11-16T17:31:34+00:00",
-   "ingested": "2026-11-16T17:33:07.323990+00:00",
-   "headline": "Fitch Ratings: Canada's outlook for 2027 is supported by improving growth and narrowing deficits, though trade tensions and tighter monetary policy weigh.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854221,
-   "ts": "2026-11-16T17:31:13+00:00",
-   "ingested": "2026-11-16T17:31:27.291393+00:00",
-   "headline": "Fitch Ratings: North American sovereigns face a deteriorating outlook as divided USA governance heightens fiscal risks and debt-ceiling brinkmanship.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854220,
-   "ts": "2026-11-16T17:30:32+00:00",
-   "ingested": "2026-11-16T17:31:27.291405+00:00",
-   "headline": "Fitch Ratings: North American sovereign outlook deteriorating on US fiscal risks.",
    "channel": "rss",
    "source": "financialjuice"
   }
