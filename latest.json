@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T09:13:47.349246+00:00",
+ "updated": "2026-11-17T09:17:07.346857+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855403,
+   "ts": "2026-11-17T09:16:35+00:00",
+   "ingested": "2026-11-17T09:17:07.346274+00:00",
+   "headline": "Russian strikes leave 700,000 households in Ukraine\u2019s Dnipropetrovsk region powerless: DTEK",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855401,
    "ts": "2026-11-17T09:13:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T15:09:00+00:00",
    "ingested": "2026-11-14T15:10:11.494166+00:00",
    "headline": "Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852270,
-   "ts": "2026-11-14T14:38:57+00:00",
-   "ingested": "2026-11-14T14:40:01.496590+00:00",
-   "headline": "Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost",
    "channel": "rss",
    "source": "financialjuice"
   }
