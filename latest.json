@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T16:13:20.816374+00:00",
+ "updated": "2026-11-17T16:15:00.867325+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856115,
+   "ts": "2026-11-17T16:13:39+00:00",
+   "ingested": "2026-11-17T16:15:00.866795+00:00",
+   "headline": "UK's PM Burnham: The EU deal could bring down the cost of power and groceries.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856114,
    "ts": "2026-11-17T16:12:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T11:48:46+00:00",
    "ingested": "2026-11-16T11:49:22.779688+00:00",
    "headline": "Westpac Morning Report - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853736,
-   "ts": "2026-11-16T11:47:50+00:00",
-   "ingested": "2026-11-16T11:49:22.779700+00:00",
-   "headline": "ING FX Daily - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
