@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T19:26:10.909404+00:00",
+ "updated": "2026-11-17T19:26:20.883368+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856356,
+   "ts": "2026-11-17T19:26:06+00:00",
+   "ingested": "2026-11-17T19:26:20.882912+00:00",
+   "headline": "Fed's Williams: I'm seeing signs of shocks spilling over into broader inflation data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856355,
    "ts": "2026-11-17T19:25:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T14:03:07+00:00",
    "ingested": "2026-11-16T14:04:07.212582+00:00",
    "headline": "Tesla on Germany's Gr\u00fcnheide plant: The planned factory expansion will create many new jobs across a range of sectors. Looking to recruit several hundred new staff. $TSLA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853951,
-   "ts": "2026-11-16T14:01:34+00:00",
-   "ingested": "2026-11-16T14:02:07.220071+00:00",
-   "headline": "Kremlin on Putin-Trump-Xi meeting: discussion is expected to have a major impact on the global situation.",
    "channel": "rss",
    "source": "financialjuice"
   }
