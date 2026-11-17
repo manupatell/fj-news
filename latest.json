@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T15:09:10.782818+00:00",
+ "updated": "2026-11-17T15:14:30.782903+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856022,
+   "ts": "2026-11-17T15:14:00+00:00",
+   "ingested": "2026-11-17T15:14:30.782362+00:00",
+   "headline": "US lawmakers ask Mercedes-Benz to disclose details about its Chinese ownership ties, technology partnerships, and other ties to China - letter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856021,
    "ts": "2026-11-17T15:07:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T08:01:41+00:00",
    "ingested": "2026-11-16T08:03:02.708562+00:00",
    "headline": "Currency Strength Chart: Strongest: GBP, USD, CHF, EUR, GBP, CAD, NZD, AUD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853417,
-   "ts": "2026-11-16T07:18:08+00:00",
-   "ingested": "2026-11-16T07:19:50.186612+00:00",
-   "headline": "EU's Kallas: Russian demands are a clear pretext to continue the war.",
    "channel": "rss",
    "source": "financialjuice"
   }
