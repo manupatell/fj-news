@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-17T19:30:00.886891+00:00",
+ "updated": "2026-11-17T19:31:50.901229+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856372,
+   "ts": "2026-11-17T19:31:39+00:00",
+   "ingested": "2026-11-17T19:31:50.900678+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.0475 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856371,
+   "ts": "2026-11-17T19:31:28+00:00",
+   "ingested": "2026-11-17T19:31:50.900695+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.5349 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856370,
+   "ts": "2026-11-17T19:30:54+00:00",
+   "ingested": "2026-11-17T19:31:50.900709+00:00",
+   "headline": "NYMEX WTI crude Dec. futures settle at $86.01 a barrel, up 29 cents, 0.34%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856369,
+   "ts": "2026-11-17T19:30:45+00:00",
+   "ingested": "2026-11-17T19:31:50.900721+00:00",
+   "headline": "Fed's Williams: Tariffs are mostly behind us.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856363,
    "ts": "2026-11-17T19:29:42+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-16T14:31:01+00:00",
    "ingested": "2026-11-16T14:32:27.214471+00:00",
    "headline": "Crypto bank rejected by the Supreme Court over Fed payment access",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853973,
-   "ts": "2026-11-16T14:30:13+00:00",
-   "ingested": "2026-11-16T14:30:47.215021+00:00",
-   "headline": "Trump: I don't want to insult China just before we get there.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853972,
-   "ts": "2026-11-16T14:29:59+00:00",
-   "ingested": "2026-11-16T14:30:47.215032+00:00",
-   "headline": "Trump: Huang wasn't allowed to sell the Blackwell chip",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853971,
-   "ts": "2026-11-16T14:29:21+00:00",
-   "ingested": "2026-11-16T14:30:47.215040+00:00",
-   "headline": "Trump: Jensen Huang learned a big lesson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853970,
-   "ts": "2026-11-16T14:28:58+00:00",
-   "ingested": "2026-11-16T14:30:47.215047+00:00",
-   "headline": "Trump on Huang: I wouldn't mind if he were reinstated. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
