@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T15:26:10.783673+00:00",
+ "updated": "2026-11-17T15:29:31.126743+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856049,
+   "ts": "2026-11-17T15:28:58+00:00",
+   "ingested": "2026-11-17T15:29:31.126203+00:00",
+   "headline": "An explosion was heard again in Qeshm - Iran's Sepah News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856047,
+   "ts": "2026-11-17T15:28:24+00:00",
+   "ingested": "2026-11-17T15:29:31.126219+00:00",
+   "headline": "Explosion heard again in Qeshm - Iran's Sepah News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856046,
    "ts": "2026-11-17T15:25:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T08:32:00+00:00",
    "ingested": "2026-11-16T08:33:02.746679+00:00",
    "headline": "ECB's Vujcic: Recent energy price developments may push inflation higher",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853505,
-   "ts": "2026-11-16T08:31:48+00:00",
-   "ingested": "2026-11-16T08:33:02.746688+00:00",
-   "headline": "ECB's Vujcic: Wages not showing material response to inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853504,
-   "ts": "2026-11-16T08:31:38+00:00",
-   "ingested": "2026-11-16T08:33:02.746697+00:00",
-   "headline": "ECB's Vujcic: Financial stability risks are  \"elevated\"",
    "channel": "rss",
    "source": "financialjuice"
   }
