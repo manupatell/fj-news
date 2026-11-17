@@ -1,7 +1,263 @@
 {
- "updated": "2026-11-17T20:03:30.950551+00:00",
+ "updated": "2026-11-17T22:33:33.632504+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856630,
+   "ts": "2026-11-17T22:25:14+00:00",
+   "ingested": "2026-11-17T22:33:33.631465+00:00",
+   "headline": "OpenAI: we're launching ChatGPT for sales",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856629,
+   "ts": "2026-11-17T22:20:54+00:00",
+   "ingested": "2026-11-17T22:33:33.631492+00:00",
+   "headline": "Nvidia: co and Spil broaden advanced packaging operations in Taiwan with multiyear deal backed by multibillion-dollar funding from company",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856626,
+   "ts": "2026-11-17T22:18:41+00:00",
+   "ingested": "2026-11-17T22:33:33.631511+00:00",
+   "headline": "Foxconn expands partnership with Nvidia for next-gen GPU and networking platforms",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856625,
+   "ts": "2026-11-17T22:18:39+00:00",
+   "ingested": "2026-11-17T22:33:33.631540+00:00",
+   "headline": "Nvidia says Kinsus output to start in H2 2027, capacity aimed for Q3 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856624,
+   "ts": "2026-11-17T22:18:30+00:00",
+   "ingested": "2026-11-17T22:33:33.631562+00:00",
+   "headline": "Nvidia's Vera Rubin NVL72 and Vera CPUs commence Q3 volume shipments with TSMC technology",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856623,
+   "ts": "2026-11-17T22:18:25+00:00",
+   "ingested": "2026-11-17T22:33:33.631577+00:00",
+   "headline": "Nvidia signs deals with Kinsus and Samsung Electro-Mechanics to expand substrate capacity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856622,
+   "ts": "2026-11-17T22:18:19+00:00",
+   "ingested": "2026-11-17T22:33:33.631591+00:00",
+   "headline": "Nvidia broadens commitments with supply chain partners to back AI infrastructure expansion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856585,
+   "ts": "2026-11-17T21:53:33+00:00",
+   "ingested": "2026-11-17T22:33:33.631605+00:00",
+   "headline": "Several explosions were heard in Kuwait - IRIB News citing Arabic media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856583,
+   "ts": "2026-11-17T21:50:45+00:00",
+   "ingested": "2026-11-17T22:33:33.631619+00:00",
+   "headline": "The Air raid warning siren sounded in US bases in Kuwait - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856567,
+   "ts": "2026-11-17T21:45:54+00:00",
+   "ingested": "2026-11-17T22:33:33.631633+00:00",
+   "headline": "US API Gasoline Stock Change Actual 5.1M (Forecast -, Previous 2.7M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856566,
+   "ts": "2026-11-17T21:45:45+00:00",
+   "ingested": "2026-11-17T22:33:33.631648+00:00",
+   "headline": "US API Distillate Stock Change Actual 0.351M (Forecast -, Previous -8M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856565,
+   "ts": "2026-11-17T21:45:31+00:00",
+   "ingested": "2026-11-17T22:33:33.631662+00:00",
+   "headline": "US API Cushing Stock Change Actual -1.7M (Forecast -, Previous 5.1M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856552,
+   "ts": "2026-11-17T21:45:20+00:00",
+   "ingested": "2026-11-17T22:33:33.631677+00:00",
+   "headline": "US API Crude Stock Change Actual 5.3M (Forecast -0.50M, Previous -9.8M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856551,
+   "ts": "2026-11-17T21:42:05+00:00",
+   "ingested": "2026-11-17T22:33:33.631691+00:00",
+   "headline": "Kuwait air defences currently countering hostile drone attacks - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856546,
+   "ts": "2026-11-17T21:30:38+00:00",
+   "ingested": "2026-11-17T22:33:33.631704+00:00",
+   "headline": "NVIDIA's reported commitments surge to $518 billion. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856544,
+   "ts": "2026-11-17T21:28:04+00:00",
+   "ingested": "2026-11-17T22:33:33.631718+00:00",
+   "headline": "Nvidia sees 4Q Rev $130 bln plus or minus 3%. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856543,
+   "ts": "2026-11-17T21:27:37+00:00",
+   "ingested": "2026-11-17T22:33:33.631734+00:00",
+   "headline": "NVIDIA: Vera Rubin added nearly $20 bln in revenue Q/Q, with strong and diverse contributions across both hyperscale and ACIE. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856542,
+   "ts": "2026-11-17T21:27:06+00:00",
+   "ingested": "2026-11-17T22:33:33.631747+00:00",
+   "headline": "Nvidia NeoCloud agreements total $32 bln. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856541,
+   "ts": "2026-11-17T21:26:35+00:00",
+   "ingested": "2026-11-17T22:33:33.631760+00:00",
+   "headline": "Nvidia expecting no data center revenue from China. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856540,
+   "ts": "2026-11-17T21:26:22+00:00",
+   "ingested": "2026-11-17T22:33:33.631773+00:00",
+   "headline": "Nvidia plan to utilize remaining authorization through FY2028. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856539,
+   "ts": "2026-11-17T21:26:06+00:00",
+   "ingested": "2026-11-17T22:33:33.631787+00:00",
+   "headline": "Nvidia had $227.3 bln of share buyback authorization remaining. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856538,
+   "ts": "2026-11-17T21:25:48+00:00",
+   "ingested": "2026-11-17T22:33:33.631800+00:00",
+   "headline": "Nvidia 4Q Rev. forecast at midpoint would be +12.3% QoQ. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856537,
+   "ts": "2026-11-17T21:24:40+00:00",
+   "ingested": "2026-11-17T22:33:33.631814+00:00",
+   "headline": "Nvidia 3Q revenue $115.8B, up 20.3% QoQ, up 103.1% YoY. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856536,
+   "ts": "2026-11-17T21:23:35+00:00",
+   "ingested": "2026-11-17T22:33:33.631827+00:00",
+   "headline": "NVIDIA: Shipments of data center Hopper products to China $2.4B. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856535,
+   "ts": "2026-11-17T21:23:33+00:00",
+   "ingested": "2026-11-17T22:33:33.631844+00:00",
+   "headline": "Nvidia 3Q Rev. tops high end of forecast for 15th straight quarter. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856534,
+   "ts": "2026-11-17T21:20:50+00:00",
+   "ingested": "2026-11-17T22:33:33.631857+00:00",
+   "headline": "$NVDA NVIDIA Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856517,
+   "ts": "2026-11-17T21:15:37+00:00",
+   "ingested": "2026-11-17T22:33:33.631871+00:00",
+   "headline": "North Korea ruling Party Politburo member Jo meets Putin - KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856513,
+   "ts": "2026-11-17T21:09:05+00:00",
+   "ingested": "2026-11-17T22:33:33.631885+00:00",
+   "headline": "Google: Tap-to-pay functionality isn't supported on iOS. $GOOGL $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856512,
+   "ts": "2026-11-17T21:08:20+00:00",
+   "ingested": "2026-11-17T22:33:33.631898+00:00",
+   "headline": "Google: Google wallet is now available on iOS in US. $GOOGL $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856511,
+   "ts": "2026-11-17T21:05:07+00:00",
+   "ingested": "2026-11-17T22:33:33.631912+00:00",
+   "headline": "Qatar PM: Our diplomatic efforts to reach an agreement between Iran and the US continue - IRNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856489,
+   "ts": "2026-11-17T20:56:54+00:00",
+   "ingested": "2026-11-17T22:33:33.631927+00:00",
+   "headline": "SEC probes Nvidia amid departure of CEO Jensen Huang; probe includes whether company's disclosures misled investors - WSJ. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856463,
+   "ts": "2026-11-17T20:22:00+00:00",
+   "ingested": "2026-11-17T22:33:33.631942+00:00",
+   "headline": "Wednesday FX Options Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856388,
    "ts": "2026-11-17T19:44:59+00:00",
@@ -3743,262 +3999,6 @@
    "ts": "2026-11-16T17:02:12+00:00",
    "ingested": "2026-11-16T17:02:27.264466+00:00",
    "headline": "Google introducing new AI tools - Ask AdMob & AdMob Agent tools. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854182,
-   "ts": "2026-11-16T17:01:14+00:00",
-   "ingested": "2026-11-16T17:02:27.264480+00:00",
-   "headline": "Fed's Chair Warsh: The risks of super intelligence cannot be overlooked, could be highly disruptive and economically costly.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854181,
-   "ts": "2026-11-16T17:01:03+00:00",
-   "ingested": "2026-11-16T17:02:27.264491+00:00",
-   "headline": "Fed's Chair Warsh: Outcomes could range from broadly shared gains to high unemployment or a slowdown driven by falling equity valuations if the technology disappoints",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854178,
-   "ts": "2026-11-16T17:00:44+00:00",
-   "ingested": "2026-11-16T17:02:27.264502+00:00",
-   "headline": "Fed's Chair Warsh: 'super intelligence\" will have a significant economic impact and implications for the Fed, with questions about magnitude, scope, and timing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854177,
-   "ts": "2026-11-16T17:00:41+00:00",
-   "ingested": "2026-11-16T17:02:27.264512+00:00",
-   "headline": "Fed's Chair Warsh: Humans 'should not be underestimated' and 'must be the deciders' in how new technology is used.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854175,
-   "ts": "2026-11-16T17:00:27+00:00",
-   "ingested": "2026-11-16T17:00:47.263166+00:00",
-   "headline": "Fed's Chair Warsh: Some indication emerging technologies could be different than others in the ability to 'supercharge' idea generation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854174,
-   "ts": "2026-11-16T17:00:25+00:00",
-   "ingested": "2026-11-16T17:00:47.263179+00:00",
-   "headline": "Fed's Chair Warsh: The Fed's job is to ask the right questions about new technologies and be prepared for what comes next.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854172,
-   "ts": "2026-11-16T16:56:12+00:00",
-   "ingested": "2026-11-16T17:00:47.263188+00:00",
-   "headline": "US 6-Month Awarded High Actual 7.390% (Forecast -, Previous 70.910%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854170,
-   "ts": "2026-11-16T16:51:30+00:00",
-   "ingested": "2026-11-16T16:55:47.255568+00:00",
-   "headline": "US 3-Month Awarded High Actual 93.850% (Forecast -, Previous 79.030%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854171,
-   "ts": "2026-11-16T16:50:01+00:00",
-   "ingested": "2026-11-16T16:50:47.265868+00:00",
-   "headline": "Fed Chair Warsh Speaks on Productivity and Jobs Task Force Conference",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854153,
-   "ts": "2026-11-16T16:31:53+00:00",
-   "ingested": "2026-11-16T16:32:07.308719+00:00",
-   "headline": "US 6-Month Bill High Yield Actual 4.31% (Forecast -, Previous 4.145%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854152,
-   "ts": "2026-11-16T16:31:52+00:00",
-   "ingested": "2026-11-16T16:32:07.308732+00:00",
-   "headline": "US 6-Month Bill Bid-to-Cover Actual 2.83 (Forecast -, Previous 2.920)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854151,
-   "ts": "2026-11-16T16:31:52+00:00",
-   "ingested": "2026-11-16T16:32:07.308741+00:00",
-   "headline": "US 3-Month Bill Bid-to-Cover Actual 2.76 (Forecast -, Previous 2.670)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854150,
-   "ts": "2026-11-16T16:31:52+00:00",
-   "ingested": "2026-11-16T16:32:07.308748+00:00",
-   "headline": "US 3-Month Bill High Yield Actual 4.155% (Forecast -, Previous 4.060%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854114,
-   "ts": "2026-11-16T16:12:57+00:00",
-   "ingested": "2026-11-16T16:14:27.333032+00:00",
-   "headline": "Stocks of crude oil in the US Strategic Petroleum Reserve fell to 276.4 mln barrels last week, the lowest level since 1982.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854112,
-   "ts": "2026-11-16T16:03:53+00:00",
-   "ingested": "2026-11-16T16:04:07.255202+00:00",
-   "headline": "Claude for Microsoft 365 usage is less than one-tenth of Copilot and the gap is widening - The Information. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854109,
-   "ts": "2026-11-16T16:03:19+00:00",
-   "ingested": "2026-11-16T16:03:57.300873+00:00",
-   "headline": "Microsoft data shows that Claude is stalling against Copilot in Office - The Information. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854106,
-   "ts": "2026-11-16T16:01:19+00:00",
-   "ingested": "2026-11-16T16:01:57.334867+00:00",
-   "headline": "Nvidia launches Vera CPU rack-scale platform for HPC $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854104,
-   "ts": "2026-11-16T16:01:05+00:00",
-   "ingested": "2026-11-16T16:01:27.247612+00:00",
-   "headline": "IBM, Fermilab and Nvidia report plans for new quantum co-design platform; Fermilab to host Nvidia DGX B200 and IBM quantum computers. $IBM $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854060,
-   "ts": "2026-11-16T15:18:04+00:00",
-   "ingested": "2026-11-16T15:18:37.220641+00:00",
-   "headline": "Crypto Fear and Greed Index: 10/100 = Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854059,
-   "ts": "2026-11-16T15:17:34+00:00",
-   "ingested": "2026-11-16T15:18:07.321645+00:00",
-   "headline": "Fear and Greed Index: 36/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854037,
-   "ts": "2026-11-16T15:01:20+00:00",
-   "ingested": "2026-11-16T15:02:57.223150+00:00",
-   "headline": "Bank of Canada Governor Tiff Macklem to step down in June 2027 at the end of his seven-year term - BOC statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854024,
-   "ts": "2026-11-16T15:01:11+00:00",
-   "ingested": "2026-11-16T15:02:57.223163+00:00",
-   "headline": "Kremlin Aide: For now, current talks only include Russia, Ukraine, and the US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854022,
-   "ts": "2026-11-16T15:01:03+00:00",
-   "ingested": "2026-11-16T15:01:17.281110+00:00",
-   "headline": "Kremlin Aide: There's a lot to agree on before Europeans could be admitted to talks, says it could take more than one new round of trilateral talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854021,
-   "ts": "2026-11-16T15:00:56+00:00",
-   "ingested": "2026-11-16T15:01:07.225261+00:00",
-   "headline": "Kremlin Aide, contradicting US Negotiators: Russia did not agree to include Europeans in Ukraine peace talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854020,
-   "ts": "2026-11-16T15:00:42+00:00",
-   "ingested": "2026-11-16T15:01:07.225274+00:00",
-   "headline": "Kremlin Aide: Agreement was reached on the next round of 3-way Ukraine peace talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854019,
-   "ts": "2026-11-16T15:00:41+00:00",
-   "ingested": "2026-11-16T15:01:07.225286+00:00",
-   "headline": "Kremlin Aide: Moscow assumes they will take place in Abu Dhabi again, says date has not yet been agreed on.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854017,
-   "ts": "2026-11-16T15:00:28+00:00",
-   "ingested": "2026-11-16T15:01:07.225294+00:00",
-   "headline": "Kremlin Aide: Russia needs a signal from the Europeans on what they want.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854015,
-   "ts": "2026-11-16T15:00:08+00:00",
-   "ingested": "2026-11-16T15:01:07.225305+00:00",
-   "headline": "Cargo ship that capsized and sank off Bulgaria's coast on Monday was hit by at least one sea drone -Maritime Security Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854010,
-   "ts": "2026-11-16T14:46:15+00:00",
-   "ingested": "2026-11-16T14:47:47.224276+00:00",
-   "headline": "Trump: Haven't heard about Starlink limits in Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854007,
-   "ts": "2026-11-16T14:45:30+00:00",
-   "ingested": "2026-11-16T14:46:07.233871+00:00",
-   "headline": "Trump: Nobody has proven Alice Huang is a spy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854005,
-   "ts": "2026-11-16T14:44:30+00:00",
-   "ingested": "2026-11-16T14:46:07.233883+00:00",
-   "headline": "Trump: I may talk to Xi about spying and Jensen Huang. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854004,
-   "ts": "2026-11-16T14:43:11+00:00",
-   "ingested": "2026-11-16T14:44:27.235091+00:00",
-   "headline": "Trump was asked if he would ask China to stop buying oil from Iran: \"I will ask him what I want to ask him. You don't have to know - Israel's Channel 12 News.",
    "channel": "rss",
    "source": "financialjuice"
   }
