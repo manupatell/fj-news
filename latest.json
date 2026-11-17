@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T17:08:30.807144+00:00",
+ "updated": "2026-11-17T17:18:20.843402+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856202,
+   "ts": "2026-11-17T17:17:12+00:00",
+   "ingested": "2026-11-17T17:18:20.842906+00:00",
+   "headline": "Amazon CEO Jassy on NVIDIA fallout: I don\u2019t think it has an impact on Amazon - Semafor Event. $AMZN $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856184,
    "ts": "2026-11-17T17:08:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T13:26:16+00:00",
    "ingested": "2026-11-16T13:39:37.315835+00:00",
    "headline": "US BIS: Rule designed to protect against circumvention through remote computing arrangements involving data centers in third countries - Statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853869,
-   "ts": "2026-11-16T13:25:40+00:00",
-   "ingested": "2026-11-16T13:39:37.315844+00:00",
-   "headline": "US Sentiment: AI Selloff Resumes ahead of Nvidia Earnings & Anthropic IPO - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
