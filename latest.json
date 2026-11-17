@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T04:01:03.084754+00:00",
+ "updated": "2026-11-17T04:02:43.097782+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855029,
+   "ts": "2026-11-17T04:02:18+00:00",
+   "ingested": "2026-11-17T04:02:43.097379+00:00",
+   "headline": "Taiwan defence ministry: early Tuesday morning detected two Russian military planes entering Taiwan\u2019s air defence identification zone from northeast Taiwan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855012,
    "ts": "2026-11-17T03:49:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T01:40:41+00:00",
    "ingested": "2026-11-14T01:41:08.245154+00:00",
    "headline": "US transportation secretary Duffy: tens of thousands of travelers stranded, many could be forced to sleep in airports",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851847,
-   "ts": "2026-11-14T01:40:18+00:00",
-   "ingested": "2026-11-14T01:41:08.245164+00:00",
-   "headline": "US transportation secretary duffy: unwinding from friday's events will take time",
    "channel": "rss",
    "source": "financialjuice"
   }
