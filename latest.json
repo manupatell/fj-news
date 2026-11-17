@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T02:54:23.047985+00:00",
+ "updated": "2026-11-17T03:04:23.063167+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9854982,
+   "ts": "2026-11-17T03:03:48+00:00",
+   "ingested": "2026-11-17T03:04:23.062714+00:00",
+   "headline": "China finance ministry: to restart 80 bln yuan 10-year bond auction on Nov 24",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9854981,
+   "ts": "2026-11-17T03:03:29+00:00",
+   "ingested": "2026-11-17T03:04:23.062737+00:00",
+   "headline": "China finance ministry: to sell 120 billion yuan of 5-year bonds on Nov. 24",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9854951,
    "ts": "2026-11-17T02:32:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-14T01:14:52+00:00",
    "ingested": "2026-11-14T01:16:28.275052+00:00",
    "headline": "U.S. Nationwide Ground Stop Set to Lift Imminently: Air Current",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851817,
-   "ts": "2026-11-14T00:57:33+00:00",
-   "ingested": "2026-11-14T00:59:21.925260+00:00",
-   "headline": "Fed\u2019s Jefferson: AI buildout makes me wary of aggregate demand, the origin of inflation pressure",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851810,
-   "ts": "2026-11-14T00:45:58+00:00",
-   "ingested": "2026-11-14T00:46:41.942290+00:00",
-   "headline": "Fed's Jefferson: FOMC to hear from Fed task forces within months or earlier",
    "channel": "rss",
    "source": "financialjuice"
   }
