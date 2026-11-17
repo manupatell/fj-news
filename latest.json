@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T04:02:43.097782+00:00",
+ "updated": "2026-11-17T04:04:23.080541+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855031,
+   "ts": "2026-11-17T04:03:53+00:00",
+   "ingested": "2026-11-17T04:04:23.080164+00:00",
+   "headline": "Canada PM office: announces extension, expansion of preliminary joint arrangement on addressing bilateral economic, trade issues between Canada and China",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855030,
+   "ts": "2026-11-17T04:03:05+00:00",
+   "ingested": "2026-11-17T04:04:23.080187+00:00",
+   "headline": "Taiwan defense ministry: After flying through airspace east of Taiwan, the aircraft left the zone south of eastern county Taitung",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855029,
    "ts": "2026-11-17T04:02:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-14T01:42:44+00:00",
    "ingested": "2026-11-14T01:43:18.265663+00:00",
    "headline": "US DHS Secretary Mullin: still considering possibility of cyberattack, not dismissing it",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851849,
-   "ts": "2026-11-14T01:40:54+00:00",
-   "ingested": "2026-11-14T01:41:08.245139+00:00",
-   "headline": "US transportation secretary Duffy: urging Congress to provide emergency funding",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9851848,
-   "ts": "2026-11-14T01:40:41+00:00",
-   "ingested": "2026-11-14T01:41:08.245154+00:00",
-   "headline": "US transportation secretary Duffy: tens of thousands of travelers stranded, many could be forced to sleep in airports",
    "channel": "rss",
    "source": "financialjuice"
   }
