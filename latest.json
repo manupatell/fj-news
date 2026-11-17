@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T05:38:47.300055+00:00",
+ "updated": "2026-11-17T05:42:07.292114+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855125,
+   "ts": "2026-11-17T05:40:34+00:00",
+   "ingested": "2026-11-17T05:42:07.291420+00:00",
+   "headline": "Russia strikes port and industrial sites in Ukraine's Mykolaiv on Monday: local official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855124,
    "ts": "2026-11-17T05:37:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-14T06:37:45+00:00",
    "ingested": "2026-11-14T06:39:28.934141+00:00",
    "headline": "Microsoft on outage: completed work to resolve root issue, restored service to affected customers and regions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852068,
-   "ts": "2026-11-14T06:04:18+00:00",
-   "ingested": "2026-11-14T06:06:08.867584+00:00",
-   "headline": "BoE\u2019s Pill says market expectations implying rates near 5% in 2027 are \u2018not outrageous\u2019 - FT",
    "channel": "rss",
    "source": "financialjuice"
   }
