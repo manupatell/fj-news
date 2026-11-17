@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-17T14:32:02.413367+00:00",
+ "updated": "2026-11-17T14:37:02.403195+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855964,
+   "ts": "2026-11-17T14:36:26+00:00",
+   "ingested": "2026-11-17T14:37:02.402466+00:00",
+   "headline": "Fed's Hammack: Fed communications should clearly distinguish policy actions from market-functioning actions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855963,
+   "ts": "2026-11-17T14:36:03+00:00",
+   "ingested": "2026-11-17T14:37:02.402484+00:00",
+   "headline": "Fed's Hammack|: Support enhancements to the standing repo facility to increase their effectiveness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855962,
+   "ts": "2026-11-17T14:35:57+00:00",
+   "ingested": "2026-11-17T14:37:02.402501+00:00",
+   "headline": "Fed's Hammack: The presumption should be that actions are temporary and targeted, ideally with an exit strategy built in from the start.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855961,
+   "ts": "2026-11-17T14:35:43+00:00",
+   "ingested": "2026-11-17T14:37:02.402516+00:00",
+   "headline": "Fed's Hammack: Intervention should be considered in instances when treasury market dysfunction could spill into the economy and Fed action can address the problem.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855960,
+   "ts": "2026-11-17T14:35:43+00:00",
+   "ingested": "2026-11-17T14:37:02.402531+00:00",
+   "headline": "Fed's Hammack: Such operations should also be temporary, and holdings should be sold in a timely way once market financial stability is restored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855959,
+   "ts": "2026-11-17T14:35:33+00:00",
+   "ingested": "2026-11-17T14:37:02.402546+00:00",
+   "headline": "Feds's Hammack: Poor liquidity conditions in volatile markets that reflect fundamentals are not a problem the Fed can or should try to solve",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855958,
+   "ts": "2026-11-17T14:35:28+00:00",
+   "ingested": "2026-11-17T14:37:02.402560+00:00",
+   "headline": "Fed's Hammack: When market stress hits, there may be very little time to decide what principles to operate under or how to communicate them.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855957,
+   "ts": "2026-11-17T14:35:22+00:00",
+   "ingested": "2026-11-17T14:37:02.402572+00:00",
+   "headline": "Fed's Hammack: Fed should prepare principles for treasury market interventions during calm market conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855956,
+   "ts": "2026-11-17T14:35:15+00:00",
+   "ingested": "2026-11-17T14:37:02.402585+00:00",
+   "headline": "Fed's Hammack does not comment on economic or monetary policy outlook in prepared remarks at the Brookings Institution event.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855939,
    "ts": "2026-11-17T14:31:39+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-11-16T04:12:58+00:00",
    "ingested": "2026-11-16T04:14:00.143466+00:00",
    "headline": "BoJ's Takata: risk of a notable slowdown in Japan's economy has recently eased",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853228,
-   "ts": "2026-11-16T04:12:05+00:00",
-   "ingested": "2026-11-16T04:12:20.128764+00:00",
-   "headline": "BoJ\u2019s Takata: Bank is still in process of increasing policy rate to normalize policy, respond to global monetary and fiscal shifts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853227,
-   "ts": "2026-11-16T04:09:44+00:00",
-   "ingested": "2026-11-16T04:10:40.142385+00:00",
-   "headline": "BoJ's Takata: despite early-November stock market volatility tied to global AI shares, I believe AI investment will stay robust overall",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853226,
-   "ts": "2026-11-16T04:09:28+00:00",
-   "ingested": "2026-11-16T04:10:40.142406+00:00",
-   "headline": "BoJ's Takata: timing of cumulative impact of policy rate hikes still some way off",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853225,
-   "ts": "2026-11-16T04:09:14+00:00",
-   "ingested": "2026-11-16T04:10:40.142425+00:00",
-   "headline": "BoJ's Takata: I believe central bank is at new phase requiring agile responses on raising or cutting policy interest rate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853224,
-   "ts": "2026-11-16T04:09:01+00:00",
-   "ingested": "2026-11-16T04:10:40.142443+00:00",
-   "headline": "BoJ's Takata: once higher rates harm corporate behavior, central bank can view it as neutral rate reached and consider possible cut",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853223,
-   "ts": "2026-11-16T04:08:24+00:00",
-   "ingested": "2026-11-16T04:09:00.133565+00:00",
-   "headline": "Drone debris sparks blaze at industrial site in Russia's Krasnodar region: officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853222,
-   "ts": "2026-11-16T04:08:24+00:00",
-   "ingested": "2026-11-16T04:09:00.133587+00:00",
-   "headline": "BoJ's Takata: changes in equity, property, and forex markets also key in evaluating financial conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853221,
-   "ts": "2026-11-16T04:08:04+00:00",
-   "ingested": "2026-11-16T04:09:00.133603+00:00",
-   "headline": "BoJ's Takata: funding conditions in Japan still accommodative",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853220,
-   "ts": "2026-11-16T04:07:53+00:00",
-   "ingested": "2026-11-16T04:09:00.133619+00:00",
-   "headline": "BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses",
    "channel": "rss",
    "source": "financialjuice"
   }
