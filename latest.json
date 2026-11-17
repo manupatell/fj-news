@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-17T10:18:47.375879+00:00",
+ "updated": "2026-11-17T10:20:27.374150+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855514,
+   "ts": "2026-11-17T10:20:07+00:00",
+   "ingested": "2026-11-17T10:20:27.373503+00:00",
+   "headline": "Qatar: Mediation between the US and Iran is still ongoing - Al Jazeera",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855513,
+   "ts": "2026-11-17T10:19:43+00:00",
+   "ingested": "2026-11-17T10:20:27.373516+00:00",
+   "headline": "Iran and Armenia discuss refinery construction, gas trade - Shana",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855512,
+   "ts": "2026-11-17T10:19:23+00:00",
+   "ingested": "2026-11-17T10:20:27.373525+00:00",
+   "headline": "UK imposed sanctions on firms building settlements in West Bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855511,
+   "ts": "2026-11-17T10:19:08+00:00",
+   "ingested": "2026-11-17T10:20:27.373534+00:00",
+   "headline": "Xi calls on China to deepen political trust with Mexico - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855510,
+   "ts": "2026-11-17T10:18:52+00:00",
+   "ingested": "2026-11-17T10:20:27.373544+00:00",
+   "headline": "Nvidia: Committee to provide oversight over Nvidia's national security and global trade compliance programs $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855509,
    "ts": "2026-11-17T10:18:31+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-15T10:23:15+00:00",
    "ingested": "2026-11-15T10:23:46.128298+00:00",
    "headline": "Iran\u2019s IRGC: six drones struck US air defense radar at Bahrain\u2019s al-Rifaa helicopter base - Press TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852634,
-   "ts": "2026-11-15T10:22:17+00:00",
-   "ingested": "2026-11-15T10:23:46.128318+00:00",
-   "headline": "Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852458,
-   "ts": "2026-11-15T00:26:48+00:00",
-   "ingested": "2026-11-15T00:28:03.902316+00:00",
-   "headline": "U.S. diesel drops under $6 a gallon for first time since September: GasBuddy analyst Patrick De Haan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852450,
-   "ts": "2026-11-14T23:47:31+00:00",
-   "ingested": "2026-11-14T23:48:03.904403+00:00",
-   "headline": "Saudi-led coalition: drone intercepted and destroyed in Saudi Arabia's eastern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852424,
-   "ts": "2026-11-14T22:23:05+00:00",
-   "ingested": "2026-11-14T22:24:43.870232+00:00",
-   "headline": "Israeli military: struck senior commander in Hamas military wing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9852411,
-   "ts": "2026-11-14T21:46:40+00:00",
-   "ingested": "2026-11-14T21:48:03.872339+00:00",
-   "headline": "Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz - state media",
    "channel": "rss",
    "source": "financialjuice"
   }
