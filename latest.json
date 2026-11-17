@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T15:05:50.782627+00:00",
+ "updated": "2026-11-17T15:07:30.782951+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856020,
+   "ts": "2026-11-17T15:06:45+00:00",
+   "ingested": "2026-11-17T15:07:30.782385+00:00",
+   "headline": "Atlanta Fed Interim President Venable: Inflation still too high, job market stable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856019,
+   "ts": "2026-11-17T15:05:51+00:00",
+   "ingested": "2026-11-17T15:07:30.782402+00:00",
+   "headline": "Jenson Huang to testify to congressional panels on December 1st",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856018,
    "ts": "2026-11-17T15:04:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T07:17:53+00:00",
    "ingested": "2026-11-16T07:18:10.197630+00:00",
    "headline": "EU's Kallas: European leaders decided on the format for Russia talks, now need to discuss substance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853415,
-   "ts": "2026-11-16T07:17:41+00:00",
-   "ingested": "2026-11-16T07:18:10.197660+00:00",
-   "headline": "EU's Kallas: Hope to elevate our relationship with Syria to the same level as that with Mediterranean partners",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853405,
-   "ts": "2026-11-16T07:14:03+00:00",
-   "ingested": "2026-11-16T07:14:50.219531+00:00",
-   "headline": "UKMTO gets report of vessel struck by projectile in Hormuz",
    "channel": "rss",
    "source": "financialjuice"
   }
