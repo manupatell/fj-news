@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T14:30:22.457311+00:00",
+ "updated": "2026-11-17T14:32:02.413367+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9855939,
+   "ts": "2026-11-17T14:31:39+00:00",
+   "ingested": "2026-11-17T14:32:02.412408+00:00",
+   "headline": "Meta Platforms: UBS cuts target price to $815 from $892. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9855936,
+   "ts": "2026-11-17T14:31:29+00:00",
+   "ingested": "2026-11-17T14:32:02.412425+00:00",
+   "headline": "Amazon: UBS cuts target price to $340 from $352. $AMZN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9855926,
    "ts": "2026-11-17T14:28:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T04:07:53+00:00",
    "ingested": "2026-11-16T04:09:00.133619+00:00",
    "headline": "BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853219,
-   "ts": "2026-11-16T04:07:14+00:00",
-   "ingested": "2026-11-16T04:09:00.133636+00:00",
-   "headline": "BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9853218,
-   "ts": "2026-11-16T04:07:01+00:00",
-   "ingested": "2026-11-16T04:07:20.133187+00:00",
-   "headline": "BoJ's Takata: on further rate increases, central bank should not target expected neutral rate or be constrained by market-anticipated intervals or ranges",
    "channel": "rss",
    "source": "financialjuice"
   }
