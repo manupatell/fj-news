@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T23:29:28.225041+00:00",
+ "updated": "2026-11-18T23:31:08.226671+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858748,
+   "ts": "2026-11-18T23:29:34+00:00",
+   "ingested": "2026-11-18T23:31:08.226196+00:00",
+   "headline": "Anthropic: 23.6 million shares offered by certain stockholders in IPO - website",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858747,
+   "ts": "2026-11-18T23:29:19+00:00",
+   "ingested": "2026-11-18T23:31:08.226211+00:00",
+   "headline": "Anthropic: offering includes 980 million shares of Class A common stock, with 956.35 million sold by Anthropic",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858746,
    "ts": "2026-11-18T23:28:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T17:57:03+00:00",
    "ingested": "2026-11-17T17:58:40.850122+00:00",
    "headline": "Equinor detects an ongoing cyberattack against certain IT systems. Reports no data theft or impact on operations from the cyberattack.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856218,
-   "ts": "2026-11-17T17:44:14+00:00",
-   "ingested": "2026-11-17T17:45:00.857387+00:00",
-   "headline": "Yemen's Houthis targeted another section of the Saudi East-West pipeline with three drones - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856217,
-   "ts": "2026-11-17T17:41:20+00:00",
-   "ingested": "2026-11-17T17:42:00.875941+00:00",
-   "headline": "Yemen's Houthis targeted the Saudi East-West pipeline with two drones in the Riyadh area - Statement.",
    "channel": "rss",
    "source": "financialjuice"
   }
