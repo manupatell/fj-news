@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T03:01:43.641165+00:00",
+ "updated": "2026-11-18T03:04:53.574145+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857022,
+   "ts": "2026-11-18T03:03:12+00:00",
+   "ingested": "2026-11-18T03:04:53.573803+00:00",
+   "headline": "China\u2019s Xi meets South Korean president in Shenzhen: CCTV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857000,
    "ts": "2026-11-18T03:00:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T21:24:16+00:00",
    "ingested": "2026-11-16T23:02:03.205630+00:00",
    "headline": "UK's PM Burnham: UK's EU options to inform decisions in next Parliament.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854490,
-   "ts": "2026-11-16T21:07:47+00:00",
-   "ingested": "2026-11-16T23:02:03.205646+00:00",
-   "headline": "Google launching new service in Japan that automatically detects system vulnerabilities called \"Scan for Japan\" - Nikkei. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
