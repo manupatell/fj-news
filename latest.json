@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T14:56:42.589131+00:00",
+ "updated": "2026-11-18T15:01:42.598614+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858036,
+   "ts": "2026-11-18T15:00:00+00:00",
+   "ingested": "2026-11-18T15:01:42.598197+00:00",
+   "headline": "US Pending Home Sales Change MoM Actual -4.7% (Forecast -2%, Previous -7.3%, Revised -7.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858035,
    "ts": "2026-11-18T14:56:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:45:33+00:00",
    "ingested": "2026-11-17T14:24:49.196651+00:00",
    "headline": "EU Commission approves \u20ac9.5 billion Dutch state aid to support offshore wind energy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855536,
-   "ts": "2026-11-17T10:45:23+00:00",
-   "ingested": "2026-11-17T14:24:49.196661+00:00",
-   "headline": "Xi: China willing to boost partnership with Peru - Xinhua",
    "channel": "rss",
    "source": "financialjuice"
   }
