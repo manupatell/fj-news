@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T00:07:23.523952+00:00",
+ "updated": "2026-11-18T00:09:03.525044+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856747,
+   "ts": "2026-11-18T00:08:18+00:00",
+   "ingested": "2026-11-18T00:09:03.524612+00:00",
+   "headline": "Anthropic backers Sequoia Capital, Iconiq and others plan to acquire billions in Shai",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856746,
+   "ts": "2026-11-18T00:08:17+00:00",
+   "ingested": "2026-11-18T00:09:03.524630+00:00",
+   "headline": "res in Anthropic's IPO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856745,
    "ts": "2026-11-18T00:06:55+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T19:11:31+00:00",
    "ingested": "2026-11-16T19:11:47.315094+00:00",
    "headline": "Fed's Hammack: Preference has been for steady and slow rate hike increments.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854354,
-   "ts": "2026-11-16T19:11:15+00:00",
-   "ingested": "2026-11-16T19:11:47.315108+00:00",
-   "headline": "Fed's Hammack: There is not much tension between fed mandates, inflation going in wrong direction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854353,
-   "ts": "2026-11-16T19:11:00+00:00",
-   "ingested": "2026-11-16T19:11:47.315118+00:00",
-   "headline": "Microsoft bug undetected since July triggered worldwide outage. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
