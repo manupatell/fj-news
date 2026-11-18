@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T05:50:25.833278+00:00",
+ "updated": "2026-11-18T05:57:05.824249+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857197,
+   "ts": "2026-11-18T05:56:53+00:00",
+   "ingested": "2026-11-18T05:57:05.823863+00:00",
+   "headline": "China oct survey-based unemployment rate for 16-24 year olds excluding college students at 17.2%: stats bureau",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857196,
+   "ts": "2026-11-18T05:56:48+00:00",
+   "ingested": "2026-11-18T05:57:05.823884+00:00",
+   "headline": "Canada's PM Carney: China, Canada can respond decisively in times of financial strain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857195,
+   "ts": "2026-11-18T05:56:36+00:00",
+   "ingested": "2026-11-18T05:57:05.823902+00:00",
+   "headline": "Canada's PM Carney: Canada and China already making practical moves for broader access for financial firms in each other's markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857171,
    "ts": "2026-11-18T05:18:44+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-17T00:11:09+00:00",
    "ingested": "2026-11-17T00:12:43.016695+00:00",
    "headline": "Nvidia corporation: Treasury secretary reportedly questions company\u2019s revenue, stock falls again",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854665,
-   "ts": "2026-11-16T23:08:32+00:00",
-   "ingested": "2026-11-16T23:09:23.029207+00:00",
-   "headline": "Nvidia unveils DGX Spark HPC developer kit for researchers, academics and developers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854657,
-   "ts": "2026-11-16T22:54:34+00:00",
-   "ingested": "2026-11-16T23:02:03.204986+00:00",
-   "headline": "RBA Governor Bullock: risk of oil prices remaining high",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854656,
-   "ts": "2026-11-16T22:53:45+00:00",
-   "ingested": "2026-11-16T23:02:03.205010+00:00",
-   "headline": "RBA Governor Bullock: inflation risks remain tilted to the upside",
    "channel": "rss",
    "source": "financialjuice"
   }
