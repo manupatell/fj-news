@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T14:41:42.653336+00:00",
+ "updated": "2026-11-18T14:43:22.584871+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858016,
+   "ts": "2026-11-18T14:42:35+00:00",
+   "ingested": "2026-11-18T14:43:22.584450+00:00",
+   "headline": "ECB's President Lagarde: Europe has seen a resilient economy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858015,
    "ts": "2026-11-18T14:41:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:44:31+00:00",
    "ingested": "2026-11-17T14:24:49.196695+00:00",
    "headline": "Iraq resumes oil exports via the Kirkuk-Ceyhan pipeline - Ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855524,
-   "ts": "2026-11-17T10:31:14+00:00",
-   "ingested": "2026-11-17T10:32:07.380871+00:00",
-   "headline": "German 2 Yr Schatz Yield Actual 3.1% (Forecast -, Previous 3.08%)",
    "channel": "rss",
    "source": "financialjuice"
   }
