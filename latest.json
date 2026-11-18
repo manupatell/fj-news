@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:56:42.581035+00:00",
+ "updated": "2026-11-18T14:00:02.583006+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857924,
+   "ts": "2026-11-18T13:59:46+00:00",
+   "ingested": "2026-11-18T14:00:02.582619+00:00",
+   "headline": "Effective Fed Funds Rate 3.88% November 17 vs 3.88% November 16.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857923,
    "ts": "2026-11-18T13:55:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:17:26+00:00",
    "ingested": "2026-11-17T10:18:47.375264+00:00",
    "headline": "Eurozone GDP to grow 1.2% in 2026, same as in 2025, seen up 1.2% in 2027 and 1.3% in 2028 - European Commission forecast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855460,
-   "ts": "2026-11-17T10:02:12+00:00",
-   "ingested": "2026-11-17T10:07:07.393813+00:00",
-   "headline": "German ZEW Current Conditions Actual -33.2 (Forecast -35.3, Previous -35.9)",
    "channel": "rss",
    "source": "financialjuice"
   }
