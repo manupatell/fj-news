@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T02:02:03.565696+00:00",
+ "updated": "2026-11-18T02:10:23.561554+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856952,
+   "ts": "2026-11-18T02:10:05+00:00",
+   "ingested": "2026-11-18T02:10:23.561012+00:00",
+   "headline": "China's President Xi: must strongly support WTO as central institution",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856951,
+   "ts": "2026-11-18T02:09:50+00:00",
+   "ingested": "2026-11-18T02:10:23.561039+00:00",
+   "headline": "China\u2019s President Xi: urged settling differences via dialogue and consultation, tackling challenges through unity and coordination - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856950,
+   "ts": "2026-11-18T02:09:25+00:00",
+   "ingested": "2026-11-18T02:10:23.561060+00:00",
+   "headline": "China's President Xi: China ready to collaborate with all parties to advance with confidence, build Asia-Pacific community for shared prosperity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856893,
    "ts": "2026-11-18T02:01:23+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-16T20:02:37+00:00",
    "ingested": "2026-11-16T23:02:03.205824+00:00",
    "headline": "RBNZ FSR: Sectors reliant on discretionary spending face challenges.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854430,
-   "ts": "2026-11-16T20:02:19+00:00",
-   "ingested": "2026-11-16T23:02:03.205842+00:00",
-   "headline": "RBNZ FSR: Higher government bond yields and still-stretched valuations, particularly among AI-related firms, leave markets vulnerable to a correction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854427,
-   "ts": "2026-11-16T20:01:44+00:00",
-   "ingested": "2026-11-16T23:02:03.205856+00:00",
-   "headline": "RBNZ Financial Stability Report: Financial system remains resilient as global risks increase.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854426,
-   "ts": "2026-11-16T20:01:16+00:00",
-   "ingested": "2026-11-16T23:02:03.205868+00:00",
-   "headline": "RBNZ: Financial system remains resilient",
    "channel": "rss",
    "source": "financialjuice"
   }
