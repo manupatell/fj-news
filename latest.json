@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T17:41:02.684484+00:00",
+ "updated": "2026-11-18T17:49:42.649276+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858327,
+   "ts": "2026-11-18T17:48:48+00:00",
+   "ingested": "2026-11-18T17:49:42.648771+00:00",
+   "headline": "Fed's Daly: Inflation is high, but i am uncertain how it will evolve.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858307,
    "ts": "2026-11-18T17:40:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T13:57:12+00:00",
    "ingested": "2026-11-17T14:24:49.195636+00:00",
    "headline": "US Redbook YoY Actual 9.5% (Forecast -, Previous 10.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855861,
-   "ts": "2026-11-17T13:50:59+00:00",
-   "ingested": "2026-11-17T14:24:49.195652+00:00",
-   "headline": "UKMTO: Unauthorised personnel attempted to board the tanker but armed security team onboard fired a warning shot at the small craft which forced them to alter course.",
    "channel": "rss",
    "source": "financialjuice"
   }
