@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T03:40:03.642868+00:00",
+ "updated": "2026-11-18T03:41:43.612816+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857058,
+   "ts": "2026-11-18T03:41:08+00:00",
+   "ingested": "2026-11-18T03:41:43.612443+00:00",
+   "headline": "Democratic challenger Mary Peltola defeats Republican incumbent Dan Sullivan in Alaska US Senate race: AP projects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857057,
+   "ts": "2026-11-18T03:41:06+00:00",
+   "ingested": "2026-11-18T03:41:43.612465+00:00",
+   "headline": "Russia's Putin at APEC CEO summit: anticipates significant gain from Trump, Xi meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857056,
    "ts": "2026-11-18T03:39:52+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T21:46:14+00:00",
    "ingested": "2026-11-16T23:02:03.205326+00:00",
    "headline": "Nvidia cuts share stake in Intel by 25.0% to 161.1 mln shares - SEC filing. $NVDA $INTC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854547,
-   "ts": "2026-11-16T21:45:00+00:00",
-   "ingested": "2026-11-16T23:02:03.205339+00:00",
-   "headline": "New Zealand Food Price Index Actual -0.4% (Forecast -, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854546,
-   "ts": "2026-11-16T21:38:22+00:00",
-   "ingested": "2026-11-16T23:02:03.205354+00:00",
-   "headline": "Sirens sound after drone flies over Khor Mor gas field in Iraqi Kurdistan - Security Sources",
    "channel": "rss",
    "source": "financialjuice"
   }
