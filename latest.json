@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T04:42:05.807292+00:00",
+ "updated": "2026-11-18T04:43:45.815552+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857112,
+   "ts": "2026-11-18T04:43:31+00:00",
+   "ingested": "2026-11-18T04:43:45.815163+00:00",
+   "headline": "China\u2019s President Xi: China-Russia ties stayed resilient through challenges with a long-term perspective",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857097,
    "ts": "2026-11-18T04:21:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T22:16:56+00:00",
    "ingested": "2026-11-16T23:02:03.205174+00:00",
    "headline": "Former CFPB Director Chopra: Coordinating with States on rules and regulations to avoid reliance on Federal regulators",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854593,
-   "ts": "2026-11-16T22:16:40+00:00",
-   "ingested": "2026-11-16T23:02:03.205196+00:00",
-   "headline": "IMF: staff and Ukrainian officials make significant progress on policy talks for second and third review of extended fund facility arrangement, with virtual discussions ongoing",
    "channel": "rss",
    "source": "financialjuice"
   }
