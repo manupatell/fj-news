@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:08:28.239158+00:00",
+ "updated": "2026-11-18T22:12:18.220962+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858652,
+   "ts": "2026-11-18T22:11:59+00:00",
+   "ingested": "2026-11-18T22:12:18.220469+00:00",
+   "headline": "Ukmto: received delayed report of incident 6nm north of Oman's Khasab",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858651,
    "ts": "2026-11-18T22:07:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:21:33+00:00",
    "ingested": "2026-11-17T16:23:20.852849+00:00",
    "headline": "Crypto Fear and Greed Index: 12/100 = Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856124,
-   "ts": "2026-11-17T16:20:40+00:00",
-   "ingested": "2026-11-17T16:21:40.884283+00:00",
-   "headline": "Fear and Greed Index: 26/100 = Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
