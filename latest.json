@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T09:33:25.573805+00:00",
+ "updated": "2026-11-18T09:43:25.569259+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857513,
+   "ts": "2026-11-18T09:42:14+00:00",
+   "ingested": "2026-11-18T09:43:25.568833+00:00",
+   "headline": "UKMTO gets late report of incident 13NM North of Khasab, Oman. Tanker struck by projectile within the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857512,
    "ts": "2026-11-18T09:32:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T04:03:53+00:00",
    "ingested": "2026-11-17T04:04:23.080164+00:00",
    "headline": "Canada PM office: announces extension, expansion of preliminary joint arrangement on addressing bilateral economic, trade issues between Canada and China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855030,
-   "ts": "2026-11-17T04:03:05+00:00",
-   "ingested": "2026-11-17T04:04:23.080187+00:00",
-   "headline": "Taiwan defense ministry: After flying through airspace east of Taiwan, the aircraft left the zone south of eastern county Taitung",
    "channel": "rss",
    "source": "financialjuice"
   }
