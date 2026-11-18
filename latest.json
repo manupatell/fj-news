@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:00:48.202589+00:00",
+ "updated": "2026-11-18T22:04:58.245678+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858649,
+   "ts": "2026-11-18T22:04:16+00:00",
+   "ingested": "2026-11-18T22:04:58.245106+00:00",
+   "headline": "South Korea's Lee, Russia's Putin reach agreement on easing tensions on Korean peninsula - News1",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858645,
    "ts": "2026-11-18T22:00:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:16:19+00:00",
    "ingested": "2026-11-17T16:16:40.818775+00:00",
    "headline": "AMD CEO Su: AMD is ensuring it's in the room on chip export control talks. $AMD $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856117,
-   "ts": "2026-11-17T16:16:18+00:00",
-   "ingested": "2026-11-17T16:16:40.818794+00:00",
-   "headline": "AMD CEO Lisa Su: Data center business will be 80% of AMD demand $AMD",
    "channel": "rss",
    "source": "financialjuice"
   }
