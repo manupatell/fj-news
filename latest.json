@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T12:43:19.472940+00:00",
+ "updated": "2026-11-18T12:45:02.595949+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857812,
+   "ts": "2026-11-18T12:44:33+00:00",
+   "ingested": "2026-11-18T12:45:02.595535+00:00",
+   "headline": "Fed's Waller: Fed may have to do more than reverse the cuts it made last year in order to bring inflation down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857811,
    "ts": "2026-11-18T12:40:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T08:01:09+00:00",
    "ingested": "2026-11-17T08:02:07.321146+00:00",
    "headline": "Currency Strength Chart: Strongest: JPY, GBP, CHF, USD, EUR, AUD, CAD, NZD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855291,
-   "ts": "2026-11-17T07:37:57+00:00",
-   "ingested": "2026-11-17T07:38:47.323653+00:00",
-   "headline": "Germany Defence Minister Pistorius: We expect changes in US Army presence in Europe",
    "channel": "rss",
    "source": "financialjuice"
   }
