@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T03:04:53.574145+00:00",
+ "updated": "2026-11-18T03:06:03.579366+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857023,
+   "ts": "2026-11-18T03:05:46+00:00",
+   "ingested": "2026-11-18T03:06:03.579011+00:00",
+   "headline": "S.Korea President Lee holds talks with Chinese President Xi Jinping on sidelines of APEC - media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857022,
    "ts": "2026-11-18T03:03:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T21:27:42+00:00",
    "ingested": "2026-11-16T23:02:03.205615+00:00",
    "headline": "Chase: There is no evidence today's issues are cyber-related. Taking longer than usual to service some customers $JPM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854509,
-   "ts": "2026-11-16T21:24:16+00:00",
-   "ingested": "2026-11-16T23:02:03.205630+00:00",
-   "headline": "UK's PM Burnham: UK's EU options to inform decisions in next Parliament.",
    "channel": "rss",
    "source": "financialjuice"
   }
