@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-18T17:30:42.640445+00:00",
+ "updated": "2026-11-18T17:32:22.631930+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858292,
+   "ts": "2026-11-18T17:31:29+00:00",
+   "ingested": "2026-11-18T17:32:22.631408+00:00",
+   "headline": "BoC\u2019s Dep. Gov. Gravelle: That decision helps keep inflation in check and reduces barriers to getting it back to target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858291,
+   "ts": "2026-11-18T17:31:25+00:00",
+   "ingested": "2026-11-18T17:32:22.631435+00:00",
+   "headline": "BoC\u2019s Dep. Gov. Gravelle: If businesses expect the BoC will get inflation back down to 2%, they are less likely to build higher inflation into their prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858290,
+   "ts": "2026-11-18T17:31:09+00:00",
+   "ingested": "2026-11-18T17:32:22.631454+00:00",
+   "headline": "BoC\u2019s Dep. Gov. Gravelle: If inflation expectations are anchored, that makes monetary policy more effective.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858289,
+   "ts": "2026-11-18T17:31:08+00:00",
+   "ingested": "2026-11-18T17:32:22.631473+00:00",
+   "headline": "BoC\u2019s Dep. Gov. Gravelle: By helping market participants understand how we tend to react when conditions change, we can shape their expectations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858288,
+   "ts": "2026-11-18T17:30:54+00:00",
+   "ingested": "2026-11-18T17:32:22.631490+00:00",
+   "headline": "BoC\u2019s Dep. Gov. Gravelle: When the public trusts the BoC to keep inflation around 2%, their inflation expectations stay anchored.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858287,
+   "ts": "2026-11-18T17:30:38+00:00",
+   "ingested": "2026-11-18T17:32:22.631507+00:00",
+   "headline": "BoC\u2019s Dep. Gov. Gravelle: Bank of Canada scenarios are designed to help keep the BoC accountable and build credibility.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858282,
    "ts": "2026-11-18T17:30:14+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-17T13:50:09+00:00",
    "ingested": "2026-11-17T14:24:49.195680+00:00",
    "headline": "UKMTO: Has received a report of an incident 50NM southwest of Al Mukalla, Yemen.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855858,
-   "ts": "2026-11-17T13:48:19+00:00",
-   "ingested": "2026-11-17T14:24:49.195695+00:00",
-   "headline": "US Homeland Security Director Mullin: Issues at Microsoft, Chase, United had to do with new technology being pushed on top of old computer systems - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855852,
-   "ts": "2026-11-17T13:46:27+00:00",
-   "ingested": "2026-11-17T14:24:49.195707+00:00",
-   "headline": "US Air Strikes on Qeshm Island, Iran - Iran's Sepah News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855845,
-   "ts": "2026-11-17T13:40:43+00:00",
-   "ingested": "2026-11-17T14:24:49.195720+00:00",
-   "headline": "Senator Ricketts introduces a bill on megaspeed blacklisting action. Proposes a bill for restrictions on megaspeed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855843,
-   "ts": "2026-11-17T13:39:54+00:00",
-   "ingested": "2026-11-17T14:24:49.195735+00:00",
-   "headline": "Unofficial sources identified with Iran report US attacks on Qeshem Island in response to the Iranian attack this morning in Bahrain - Israel's N12 News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855842,
-   "ts": "2026-11-17T13:39:47+00:00",
-   "ingested": "2026-11-17T14:24:49.195748+00:00",
-   "headline": "UniCredit: Bitcoin Re-Couples With Macro as Fed Expectations Drive Risk Sensitivity - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855841,
-   "ts": "2026-11-17T13:38:17+00:00",
-   "ingested": "2026-11-17T14:24:49.195760+00:00",
-   "headline": "Bank of America Survey: Long Duration May Be the More Crowded Consensus Trade - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
