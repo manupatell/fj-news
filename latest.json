@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T18:18:02.652773+00:00",
+ "updated": "2026-11-18T18:23:02.640414+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858360,
+   "ts": "2026-11-18T18:21:35+00:00",
+   "ingested": "2026-11-18T18:23:02.639974+00:00",
+   "headline": "US Sec. of Defense Hegseth: The oil deal makes the Strait of Hormuz a 'non-factor'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858346,
    "ts": "2026-11-18T18:16:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T14:00:43+00:00",
    "ingested": "2026-11-17T14:24:49.195559+00:00",
    "headline": "ECB forex reserves fell \u20ac500 mln to \u20ac349.1 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855869,
-   "ts": "2026-11-17T14:00:25+00:00",
-   "ingested": "2026-11-17T14:24:49.195571+00:00",
-   "headline": "ECB settled \u20ac208.0 bln corporate bond purchases.",
    "channel": "rss",
    "source": "financialjuice"
   }
