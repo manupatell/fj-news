@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T21:26:28.185116+00:00",
+ "updated": "2026-11-18T21:28:08.186408+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858600,
+   "ts": "2026-11-18T21:27:49+00:00",
+   "ingested": "2026-11-18T21:28:08.185864+00:00",
+   "headline": "Fed's Kashkari: Inflation imprint from AI buildout is real in the US",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858599,
+   "ts": "2026-11-18T21:27:33+00:00",
+   "ingested": "2026-11-18T21:28:08.185880+00:00",
+   "headline": "Fed's Kashkari: The Fed is clearly missing on the inflation side of the mandate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858598,
    "ts": "2026-11-18T21:24:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T16:02:27+00:00",
    "ingested": "2026-11-17T16:03:20.847323+00:00",
    "headline": "Iran\u2019s Foreign Minister Araghchi stressed need for continued consultations among regional countries after meeting with Qatari delegation in Oman's Muscat - State News Agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856084,
-   "ts": "2026-11-17T15:57:53+00:00",
-   "ingested": "2026-11-17T15:58:20.836670+00:00",
-   "headline": "Nvidia CEO Huang: If the Board of Directors decides my return is in the best interest of shareholders, employees, the company, and the US, I would be honored to return as CEO - WSJ $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856082,
-   "ts": "2026-11-17T15:56:29+00:00",
-   "ingested": "2026-11-17T15:56:40.866773+00:00",
-   "headline": "Jensen Huang breaks silence in statement - WSJ",
    "channel": "rss",
    "source": "financialjuice"
   }
