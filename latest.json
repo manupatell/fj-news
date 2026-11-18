@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T03:21:23.590568+00:00",
+ "updated": "2026-11-18T03:29:03.627243+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857041,
+   "ts": "2026-11-18T03:28:51+00:00",
+   "ingested": "2026-11-18T03:29:03.626795+00:00",
+   "headline": "Russia's Putin at APEC CEO summit: former hegemonies attempt to suppress development of other countries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857040,
+   "ts": "2026-11-18T03:28:42+00:00",
+   "ingested": "2026-11-18T03:29:03.626816+00:00",
+   "headline": "Russia's Putin at APEC CEO summit: artificial barriers raise costs, Europe is suffering",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857039,
    "ts": "2026-11-18T03:20:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T21:31:32+00:00",
    "ingested": "2026-11-16T23:02:03.205519+00:00",
    "headline": "VIX CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854518,
-   "ts": "2026-11-16T21:31:31+00:00",
-   "ingested": "2026-11-16T23:02:03.205532+00:00",
-   "headline": "NQ CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854517,
-   "ts": "2026-11-16T21:31:29+00:00",
-   "ingested": "2026-11-16T23:02:03.205545+00:00",
-   "headline": "ES CFTC Positions Week of November 10th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
