@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T15:38:22.599111+00:00",
+ "updated": "2026-11-18T15:40:02.625117+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858130,
+   "ts": "2026-11-18T15:39:51+00:00",
+   "ingested": "2026-11-18T15:40:02.624692+00:00",
+   "headline": "BoE's Bailey: BoE is building a team specialising in the economics of AI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858129,
    "ts": "2026-11-18T15:36:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T12:19:31+00:00",
    "ingested": "2026-11-17T14:24:49.196117+00:00",
    "headline": "Iran's IRGC warns Bahrain over \u2018cooperation\u2019 in US attacks - Fars",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855669,
-   "ts": "2026-11-17T11:47:07+00:00",
-   "ingested": "2026-11-17T14:24:49.196130+00:00",
-   "headline": "Centcom: Iran claim drones hit US radar is \u2018false\u2019",
    "channel": "rss",
    "source": "financialjuice"
   }
