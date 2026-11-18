@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T01:21:43.564220+00:00",
+ "updated": "2026-11-18T01:23:23.560207+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856828,
+   "ts": "2026-11-18T01:22:38+00:00",
+   "ingested": "2026-11-18T01:23:23.559841+00:00",
+   "headline": "BoJ governor Ueda: soft yen may raise food prices via increased import costs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856827,
+   "ts": "2026-11-18T01:22:15+00:00",
+   "ingested": "2026-11-18T01:23:23.559864+00:00",
+   "headline": "BoJ Governor Ueda: long-term rates may rise if central bank appears to back fiscal policy via bond buying",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856826,
    "ts": "2026-11-18T01:21:19+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T19:41:43+00:00",
    "ingested": "2026-11-16T23:02:03.205898+00:00",
    "headline": "Brent Crude futures settle at $92.44/bbl, down $3.40, 3.55%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854410,
-   "ts": "2026-11-16T19:35:22+00:00",
-   "ingested": "2026-11-16T23:02:03.205913+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi entered Oman - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854398,
-   "ts": "2026-11-16T19:31:43+00:00",
-   "ingested": "2026-11-16T23:02:03.205926+00:00",
-   "headline": "NYMEX Nat Gas Dec. futures settle at $3.1220/MMBTU",
    "channel": "rss",
    "source": "financialjuice"
   }
