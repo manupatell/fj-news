@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T21:52:28.189176+00:00",
+ "updated": "2026-11-18T21:54:08.200085+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858634,
+   "ts": "2026-11-18T21:53:43+00:00",
+   "ingested": "2026-11-18T21:54:08.199625+00:00",
+   "headline": "Moody's: US economy has grown more strongly than we initially expected in 2026.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858617,
    "ts": "2026-11-18T21:47:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:06:50+00:00",
    "ingested": "2026-11-17T16:07:10.838914+00:00",
    "headline": "UK's PM Burnham: Will set out next steps on EU relationship later this year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856109,
-   "ts": "2026-11-17T16:06:31+00:00",
-   "ingested": "2026-11-17T16:07:10.838933+00:00",
-   "headline": "UK's PM Burnham: No rush to decide long-term relationship with the EU",
    "channel": "rss",
    "source": "financialjuice"
   }
