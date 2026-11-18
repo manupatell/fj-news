@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T15:18:22.590235+00:00",
+ "updated": "2026-11-18T15:21:42.594755+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858090,
+   "ts": "2026-11-18T15:21:11+00:00",
+   "ingested": "2026-11-18T15:21:42.594338+00:00",
+   "headline": "Fear & Greed Index: 26/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858089,
+   "ts": "2026-11-18T15:19:58+00:00",
+   "ingested": "2026-11-18T15:21:42.594361+00:00",
+   "headline": "OpenAI's Altman: AI industry will need some shared safety standards",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858086,
    "ts": "2026-11-18T15:17:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T10:55:28+00:00",
    "ingested": "2026-11-17T14:24:49.196440+00:00",
    "headline": "France's Le Pen: If we do not have a parliamentary majority, we could put our pension reform to a referendum",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855567,
-   "ts": "2026-11-17T10:55:20+00:00",
-   "ingested": "2026-11-17T14:24:49.196453+00:00",
-   "headline": "BofA FMS: investors now least underweight bonds since November 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855566,
-   "ts": "2026-11-17T10:55:11+00:00",
-   "ingested": "2026-11-17T14:24:49.196468+00:00",
-   "headline": "BofA FMS: 52% of respondents expect an al hyperscaler to announce a capex cut in the next 6 months; record 38% say companies are overinvesting",
    "channel": "rss",
    "source": "financialjuice"
   }
