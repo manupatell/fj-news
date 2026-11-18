@@ -24897,3 +24897,4 @@
 {"guid": 9857277, "ts": "2026-11-18T07:00:06+00:00", "ingested": "2026-11-18T07:00:45.523957+00:00", "headline": "UK PPI Output Prices YoY Actual 5.1% (Forecast 5.1%, Previous 4.6%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9857278, "ts": "2026-11-18T07:00:06+00:00", "ingested": "2026-11-18T07:00:45.523939+00:00", "headline": "UK CPI YoY Actual 3.6% (Forecast 3.6%, Previous 3.5%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9857279, "ts": "2026-11-18T07:00:06+00:00", "ingested": "2026-11-18T07:00:45.523918+00:00", "headline": "UK Services CPI YoY Actual 3.7% (Forecast 3.8%, Previous 3.7%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9857280, "ts": "2026-11-18T07:02:22+00:00", "ingested": "2026-11-18T07:05:45.538721+00:00", "headline": "UK Core CPI MoM Actual 0.3% (Forecast -, Previous 0.2%)", "channel": "rss", "source": "financialjuice"}
