@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T05:05:25.818024+00:00",
+ "updated": "2026-11-18T05:15:25.819415+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857151,
+   "ts": "2026-11-18T05:15:00+00:00",
+   "ingested": "2026-11-18T05:15:25.818995+00:00",
+   "headline": "Australia dollar declines 0.25% to $0.6718",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857114,
    "ts": "2026-11-18T04:44:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T22:19:42+00:00",
    "ingested": "2026-11-16T23:02:03.205130+00:00",
    "headline": "IMF on Ukraine: With financing assurances, review to be submitted for board approval enabling $1.6 billion access",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854607,
-   "ts": "2026-11-16T22:17:50+00:00",
-   "ingested": "2026-11-16T23:02:03.205144+00:00",
-   "headline": "IMF: performance in Ukraine under the program has improved since first review",
    "channel": "rss",
    "source": "financialjuice"
   }
