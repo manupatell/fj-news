@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T04:43:45.815552+00:00",
+ "updated": "2026-11-18T04:45:25.824156+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857114,
+   "ts": "2026-11-18T04:44:02+00:00",
+   "ingested": "2026-11-18T04:45:25.823735+00:00",
+   "headline": "China's President Xi: we should guide and promote the move toward a multipolar world",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857113,
+   "ts": "2026-11-18T04:43:42+00:00",
+   "ingested": "2026-11-18T04:45:25.823756+00:00",
+   "headline": "China's President Xi: we must adopt more tangible steps to enhance comprehensive cooperation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857112,
    "ts": "2026-11-18T04:43:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T22:17:50+00:00",
    "ingested": "2026-11-16T23:02:03.205144+00:00",
    "headline": "IMF: performance in Ukraine under the program has improved since first review",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854606,
-   "ts": "2026-11-16T22:17:25+00:00",
-   "ingested": "2026-11-16T23:02:03.205158+00:00",
-   "headline": "IMF: staff estimate Ukraine financing gap of $32-34 billion in 2027 and $17 billion in 2028",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854595,
-   "ts": "2026-11-16T22:16:56+00:00",
-   "ingested": "2026-11-16T23:02:03.205174+00:00",
-   "headline": "Former CFPB Director Chopra: Coordinating with States on rules and regulations to avoid reliance on Federal regulators",
    "channel": "rss",
    "source": "financialjuice"
   }
