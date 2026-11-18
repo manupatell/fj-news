@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T14:05:02.581871+00:00",
+ "updated": "2026-11-18T14:08:22.597618+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857953,
+   "ts": "2026-11-18T14:06:38+00:00",
+   "ingested": "2026-11-18T14:08:22.597215+00:00",
+   "headline": "Nvidia: RTX Spark compact desktops from Asus, Dell, MSI now available. $NVDA $DELL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857952,
    "ts": "2026-11-18T14:04:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:18:52+00:00",
    "ingested": "2026-11-17T10:20:27.373544+00:00",
    "headline": "Nvidia: Committee to provide oversight over Nvidia's national security and global trade compliance programs $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855509,
-   "ts": "2026-11-17T10:18:31+00:00",
-   "ingested": "2026-11-17T10:18:47.375205+00:00",
-   "headline": "France to miss deficit goals as growth falters - EU Commission",
    "channel": "rss",
    "source": "financialjuice"
   }
