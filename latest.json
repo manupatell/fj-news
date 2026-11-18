@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-18T00:29:03.558288+00:00",
+ "updated": "2026-11-18T00:30:43.552200+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856758,
+   "ts": "2026-11-18T00:30:04+00:00",
+   "ingested": "2026-11-18T00:30:43.551552+00:00",
+   "headline": "Australia Q3 wage price index rises 3.5% y/y, seasonally adjusted (Poll 3.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856757,
+   "ts": "2026-11-18T00:30:04+00:00",
+   "ingested": "2026-11-18T00:30:43.551574+00:00",
+   "headline": "Australia Q3 wage price index rises 1.1% quarter on quarter, seasonally adjusted (Poll: 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856756,
+   "ts": "2026-11-18T00:30:01+00:00",
+   "ingested": "2026-11-18T00:30:43.551593+00:00",
+   "headline": "Australian Wage Price Index YoY\t Actual 3.5% (Forecast 3.4%, Previous 3.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856755,
+   "ts": "2026-11-18T00:30:01+00:00",
+   "ingested": "2026-11-18T00:30:43.551609+00:00",
+   "headline": "Australian Wage Price Index QoQ Actual 1.1% (Forecast 1%, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856754,
    "ts": "2026-11-18T00:28:47+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-16T19:13:35+00:00",
    "ingested": "2026-11-16T19:15:07.318472+00:00",
    "headline": "Fed's Hammack: I'm worried businesses are more accepting of price rises.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854359,
-   "ts": "2026-11-16T19:13:09+00:00",
-   "ingested": "2026-11-16T19:13:27.342836+00:00",
-   "headline": "Fed's Hammack: I'm seeing inflation in a broader number of sectors.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854358,
-   "ts": "2026-11-16T19:12:40+00:00",
-   "ingested": "2026-11-16T19:13:27.342849+00:00",
-   "headline": "Fed's Hammack: Inflation pressures appear to be broadening.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854357,
-   "ts": "2026-11-16T19:12:15+00:00",
-   "ingested": "2026-11-16T19:13:27.342858+00:00",
-   "headline": "Fed's Hammack: I like moving in smaller increments to allow economy to adjust to policy changes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854356,
-   "ts": "2026-11-16T19:11:54+00:00",
-   "ingested": "2026-11-16T19:13:27.342866+00:00",
-   "headline": "Fed's Hammack: We've seen inflation expectations reasonably anchored",
    "channel": "rss",
    "source": "financialjuice"
   }
