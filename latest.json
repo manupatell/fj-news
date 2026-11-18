@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T01:16:43.569541+00:00",
+ "updated": "2026-11-18T01:18:23.556017+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856813,
+   "ts": "2026-11-18T01:16:51+00:00",
+   "ingested": "2026-11-18T01:18:23.555538+00:00",
+   "headline": "Bahraini interior ministry issues all-clear alert: post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856811,
+   "ts": "2026-11-18T01:16:48+00:00",
+   "ingested": "2026-11-18T01:18:23.555558+00:00",
+   "headline": "PBOC establishes yuan midpoint at strongest level since July 11, 2022",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856810,
    "ts": "2026-11-18T01:16:30+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T19:30:50+00:00",
    "ingested": "2026-11-16T23:02:03.205966+00:00",
    "headline": "NYMEX WTI crude Dec. futures settle at $85.72 a barrel, down $2.84, 3.21%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854394,
-   "ts": "2026-11-16T19:27:31+00:00",
-   "ingested": "2026-11-16T23:02:03.205981+00:00",
-   "headline": "Fed's Hammack: I do like idea of successive rate increases to help bring inflation down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854393,
-   "ts": "2026-11-16T19:26:53+00:00",
-   "ingested": "2026-11-16T23:02:03.205995+00:00",
-   "headline": "Vance: Won't let Iran become even a 2 Year commitment - Fox News clip",
    "channel": "rss",
    "source": "financialjuice"
   }
