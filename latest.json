@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-18T05:15:25.819415+00:00",
+ "updated": "2026-11-18T05:20:25.819412+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857171,
+   "ts": "2026-11-18T05:18:44+00:00",
+   "ingested": "2026-11-18T05:20:25.818890+00:00",
+   "headline": "Shenzhen-Canada foreign minister on trade ties with China: resolving trade tensions is crucial",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857170,
+   "ts": "2026-11-18T05:18:44+00:00",
+   "ingested": "2026-11-18T05:20:25.818913+00:00",
+   "headline": "Canada foreign minister: welcome meeting between Xi, Putin and Trump if it advances progress on Ukraine and Iran conflicts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857169,
+   "ts": "2026-11-18T05:18:44+00:00",
+   "ingested": "2026-11-18T05:20:25.818930+00:00",
+   "headline": "Canada foreign minister: priority is North America auto supply chains, limiting Chinese EV presence",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857168,
+   "ts": "2026-11-18T05:18:44+00:00",
+   "ingested": "2026-11-18T05:20:25.818945+00:00",
+   "headline": "Canada foreign minister on Chinese EVs: not meeting automakers during China visit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857167,
+   "ts": "2026-11-18T05:18:44+00:00",
+   "ingested": "2026-11-18T05:20:25.818960+00:00",
+   "headline": "Canada foreign minister on Chinese energy cooperation: will ensure safeguards in place",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857166,
+   "ts": "2026-11-18T05:18:44+00:00",
+   "ingested": "2026-11-18T05:20:25.818974+00:00",
+   "headline": "Shenzhen-Canada foreign minister on China safety: engaging while safeguarding nationals at every step",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857165,
+   "ts": "2026-11-18T05:18:36+00:00",
+   "ingested": "2026-11-18T05:20:25.818988+00:00",
+   "headline": "Australia dollar drops to $0.6718, weakest since Jan. 19",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857151,
    "ts": "2026-11-18T05:15:00+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-11-16T22:53:45+00:00",
    "ingested": "2026-11-16T23:02:03.205010+00:00",
    "headline": "RBA Governor Bullock: inflation risks remain tilted to the upside",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854642,
-   "ts": "2026-11-16T22:46:34+00:00",
-   "ingested": "2026-11-16T23:02:03.205029+00:00",
-   "headline": "Department of Commerce designates si export packages: unveils next phase of American si exports program",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854638,
-   "ts": "2026-11-16T22:42:18+00:00",
-   "ingested": "2026-11-16T23:02:03.205048+00:00",
-   "headline": "State Department: Rubio, in call with Bahrain counterpart, denounces Iran's assaults on Bahrain, reaffirms dedication to Bahrain's security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854637,
-   "ts": "2026-11-16T22:36:43+00:00",
-   "ingested": "2026-11-16T23:02:03.205066+00:00",
-   "headline": "Ukraine strikes Crimea bridge: Russia-installed governor of Crimea says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854612,
-   "ts": "2026-11-16T22:28:07+00:00",
-   "ingested": "2026-11-16T23:02:03.205084+00:00",
-   "headline": "Former CFPB Director Chopra: Self-regulation without enforcement makes it hard to verify compliance on tech firms' self-regulation idea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854610,
-   "ts": "2026-11-16T22:20:39+00:00",
-   "ingested": "2026-11-16T23:02:03.205100+00:00",
-   "headline": "Trump approval steady near career low at 32% as backing for Iran war stays weak: Ipsos poll finds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854609,
-   "ts": "2026-11-16T22:20:39+00:00",
-   "ingested": "2026-11-16T23:02:03.205115+00:00",
-   "headline": "More Democrats view party Senate leader Chuck Schumer unfavorably than favorably: Ipsos poll finds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854608,
-   "ts": "2026-11-16T22:19:42+00:00",
-   "ingested": "2026-11-16T23:02:03.205130+00:00",
-   "headline": "IMF on Ukraine: With financing assurances, review to be submitted for board approval enabling $1.6 billion access",
    "channel": "rss",
    "source": "financialjuice"
   }
