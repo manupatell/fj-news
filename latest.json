@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T17:29:02.638144+00:00",
+ "updated": "2026-11-18T17:30:42.640445+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858282,
+   "ts": "2026-11-18T17:30:14+00:00",
+   "ingested": "2026-11-18T17:30:42.639988+00:00",
+   "headline": "Fed's Daly: I support continuing with a measured approach to policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858281,
+   "ts": "2026-11-18T17:29:10+00:00",
+   "ingested": "2026-11-18T17:30:42.640009+00:00",
+   "headline": "Fed's Daly: AI could put pressure on other goods and services.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858280,
    "ts": "2026-11-18T17:27:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T13:38:17+00:00",
    "ingested": "2026-11-17T14:24:49.195760+00:00",
    "headline": "Bank of America Survey: Long Duration May Be the More Crowded Consensus Trade - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855840,
-   "ts": "2026-11-17T13:35:38+00:00",
-   "ingested": "2026-11-17T14:24:49.195774+00:00",
-   "headline": "Natixis: Huang\u2019s Exit Raises Risks to the US-China AI D\u00e9tente - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855839,
-   "ts": "2026-11-17T13:33:24+00:00",
-   "ingested": "2026-11-17T14:24:49.195786+00:00",
-   "headline": "US Sentiment: All Eyes on Trump-China & Nvidia Earnings - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
