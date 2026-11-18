@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T18:03:02.635358+00:00",
+ "updated": "2026-11-18T18:04:42.642680+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858335,
+   "ts": "2026-11-18T18:03:40+00:00",
+   "ingested": "2026-11-18T18:04:42.642232+00:00",
+   "headline": "US 20-Year Bond Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858334,
+   "ts": "2026-11-18T18:02:58+00:00",
+   "ingested": "2026-11-18T18:04:42.642254+00:00",
+   "headline": "US 20-Year Bond Bid-to-Cover Actual 2.63 (Forecast -, Previous 2.730)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858333,
    "ts": "2026-11-18T18:02:07+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T14:00:23+00:00",
    "ingested": "2026-11-17T14:24:49.195582+00:00",
    "headline": "ECB settled \u20ac1,623.5 bln public-sector bond purchases",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855865,
-   "ts": "2026-11-17T13:59:46+00:00",
-   "ingested": "2026-11-17T14:24:49.195600+00:00",
-   "headline": "Effective Fed Funds Rate 3.88% November 16 vs 3.88% November 13.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855864,
-   "ts": "2026-11-17T13:58:44+00:00",
-   "ingested": "2026-11-17T14:24:49.195613+00:00",
-   "headline": "Anthropic IPO is said to stop taking orders at 4 PM ET. $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
