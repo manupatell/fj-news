@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T09:50:05.586653+00:00",
+ "updated": "2026-11-18T09:51:45.588020+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857539,
+   "ts": "2026-11-18T09:51:17+00:00",
+   "ingested": "2026-11-18T09:51:45.587610+00:00",
+   "headline": "ING: The GBP - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857538,
    "ts": "2026-11-18T09:48:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T04:05:15+00:00",
    "ingested": "2026-11-17T04:06:03.103372+00:00",
    "headline": "Canada PM office: steps to offer extra tariff relief for about C$400 million in exports to China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855032,
-   "ts": "2026-11-17T04:04:57+00:00",
-   "ingested": "2026-11-17T04:06:03.103399+00:00",
-   "headline": "Canada PM Office: Canada agrees to prolong existing remission measures on certain Chinese steel and aluminium products by two years, expiring end of 2026",
    "channel": "rss",
    "source": "financialjuice"
   }
