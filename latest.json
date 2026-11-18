@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T14:10:02.580505+00:00",
+ "updated": "2026-11-18T14:16:42.589924+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857962,
+   "ts": "2026-11-18T14:16:06+00:00",
+   "ingested": "2026-11-18T14:16:42.589532+00:00",
+   "headline": "Putin and Xi discussed the upcoming trilateral meeting with Trump - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857954,
    "ts": "2026-11-18T14:09:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:19:23+00:00",
    "ingested": "2026-11-17T10:20:27.373525+00:00",
    "headline": "UK imposed sanctions on firms building settlements in West Bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855511,
-   "ts": "2026-11-17T10:19:08+00:00",
-   "ingested": "2026-11-17T10:20:27.373534+00:00",
-   "headline": "Xi calls on China to deepen political trust with Mexico - Xinhua",
    "channel": "rss",
    "source": "financialjuice"
   }
