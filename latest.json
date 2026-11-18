@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T18:01:22.644818+00:00",
+ "updated": "2026-11-18T18:03:02.635358+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858333,
+   "ts": "2026-11-18T18:02:07+00:00",
+   "ingested": "2026-11-18T18:03:02.634892+00:00",
+   "headline": "US 20-Year Bond High Yield Actual 5.459% (Forecast -, Previous 5.469%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858332,
    "ts": "2026-11-18T18:00:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T13:58:44+00:00",
    "ingested": "2026-11-17T14:24:49.195613+00:00",
    "headline": "Anthropic IPO is said to stop taking orders at 4 PM ET. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855863,
-   "ts": "2026-11-17T13:58:04+00:00",
-   "ingested": "2026-11-17T14:24:49.195624+00:00",
-   "headline": "Anthropic is said to guide IPO price to top of range or above.",
    "channel": "rss",
    "source": "financialjuice"
   }
