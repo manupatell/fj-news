@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T06:18:45.846304+00:00",
+ "updated": "2026-11-18T06:20:25.847027+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857218,
+   "ts": "2026-11-18T06:16:05+00:00",
+   "ingested": "2026-11-18T06:20:25.846689+00:00",
+   "headline": "New Zealand Annual Trade Bal. Actual -6.18B (Forecast -, Previous -5.61B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857198,
    "ts": "2026-11-18T05:57:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T00:30:02+00:00",
    "ingested": "2026-11-17T00:31:03.015113+00:00",
    "headline": "RBA members debated raising cash rate target by 25 bps or holding steady",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854736,
-   "ts": "2026-11-17T00:23:06+00:00",
-   "ingested": "2026-11-17T00:24:23.012115+00:00",
-   "headline": "China PBOC forecast to fix yuan midpoint at 6.6715 per dollar: estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
