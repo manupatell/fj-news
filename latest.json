@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T16:20:12.617837+00:00",
+ "updated": "2026-11-18T16:20:42.640769+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858187,
+   "ts": "2026-11-18T16:20:14+00:00",
+   "ingested": "2026-11-18T16:20:42.640355+00:00",
+   "headline": "Cantor: Drop in Nvidia holdings due to clients reducing positions $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858186,
    "ts": "2026-11-18T16:19:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T13:00:08+00:00",
    "ingested": "2026-11-17T14:24:49.195980+00:00",
    "headline": "Secured overnight financing rate: 3.93% November 16th vs 3.90% November 13th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855757,
-   "ts": "2026-11-17T12:58:59+00:00",
-   "ingested": "2026-11-17T14:24:49.195991+00:00",
-   "headline": "Trump: We've made many deals on energy, critical minerals, tech.",
    "channel": "rss",
    "source": "financialjuice"
   }
