@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T03:29:03.627243+00:00",
+ "updated": "2026-11-18T03:32:23.606592+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857046,
+   "ts": "2026-11-18T03:32:12+00:00",
+   "ingested": "2026-11-18T03:32:23.606150+00:00",
+   "headline": "At APEC CEO summit: former hegemonies attempt to stifle other countries' growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857045,
+   "ts": "2026-11-18T03:32:12+00:00",
+   "ingested": "2026-11-18T03:32:23.606172+00:00",
+   "headline": "At APEC CEO summit: APEC a key partner for Russia, says 'we are ready to expand cooperation'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857043,
+   "ts": "2026-11-18T03:30:33+00:00",
+   "ingested": "2026-11-18T03:32:23.606188+00:00",
+   "headline": "At APEC CEO summit: US dollar share in Russian trade plunges sharply",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857041,
    "ts": "2026-11-18T03:28:51+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-16T21:31:38+00:00",
    "ingested": "2026-11-16T23:02:03.205481+00:00",
    "headline": "CAD CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854521,
-   "ts": "2026-11-16T21:31:36+00:00",
-   "ingested": "2026-11-16T23:02:03.205493+00:00",
-   "headline": "ZN CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854520,
-   "ts": "2026-11-16T21:31:34+00:00",
-   "ingested": "2026-11-16T23:02:03.205505+00:00",
-   "headline": "ZT CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854519,
-   "ts": "2026-11-16T21:31:32+00:00",
-   "ingested": "2026-11-16T23:02:03.205519+00:00",
-   "headline": "VIX CFTC Positions Week of November 10th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
