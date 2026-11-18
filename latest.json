@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:06:42.556094+00:00",
+ "updated": "2026-11-18T13:08:22.573161+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857857,
+   "ts": "2026-11-18T13:07:38+00:00",
+   "ingested": "2026-11-18T13:08:22.572744+00:00",
+   "headline": "Saudi Arabia sees war with Houthis extending well into 2027 - Two Western Officials Citing Conversations with Saudis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857856,
    "ts": "2026-11-18T13:05:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T09:12:56+00:00",
    "ingested": "2026-11-17T09:13:47.348625+00:00",
    "headline": "UKMTO: strike led to fire onboard",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855399,
-   "ts": "2026-11-17T09:12:31+00:00",
-   "ingested": "2026-11-17T09:13:47.348643+00:00",
-   "headline": "UKMTO: maritime security agency reports vessel 7 nm north of Oman\u2019s Khasab hit by second strike",
    "channel": "rss",
    "source": "financialjuice"
   }
