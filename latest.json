@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-18T15:26:42.608863+00:00",
+ "updated": "2026-11-18T15:30:02.657495+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858099,
+   "ts": "2026-11-18T15:29:49+00:00",
+   "ingested": "2026-11-18T15:30:02.656975+00:00",
+   "headline": "Democrat Jeffries nominated for next US House Speaker - Punchbowl",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858098,
+   "ts": "2026-11-18T15:29:30+00:00",
+   "ingested": "2026-11-18T15:30:02.656996+00:00",
+   "headline": "Jeffries is reelected House Democratic Leader - Axios.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858097,
+   "ts": "2026-11-18T15:29:08+00:00",
+   "ingested": "2026-11-18T15:30:02.657014+00:00",
+   "headline": "BoE's Bailey: Expectation of stronger food inflation hasn't happened",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858096,
+   "ts": "2026-11-18T15:28:45+00:00",
+   "ingested": "2026-11-18T15:30:02.657030+00:00",
+   "headline": "Bank of England's Bailey: I'm afraid inflation is going to go up further",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858095,
+   "ts": "2026-11-18T15:28:24+00:00",
+   "ingested": "2026-11-18T15:30:02.657044+00:00",
+   "headline": "BoE Gov. Bailey asked about inflation rising: It is enormously frustrating.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858093,
    "ts": "2026-11-18T15:25:36+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-17T11:14:43+00:00",
    "ingested": "2026-11-17T14:24:49.196277+00:00",
    "headline": "Xi: China to boost trade with Chile - CCTV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855595,
-   "ts": "2026-11-17T11:14:25+00:00",
-   "ingested": "2026-11-17T14:24:49.196299+00:00",
-   "headline": "Germany plans takeover law overhaul to curb low-ball bids - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855594,
-   "ts": "2026-11-17T11:14:15+00:00",
-   "ingested": "2026-11-17T14:24:49.196317+00:00",
-   "headline": "EU escalates Temu probe over illegal product sales on website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855593,
-   "ts": "2026-11-17T11:08:26+00:00",
-   "ingested": "2026-11-17T14:24:49.196351+00:00",
-   "headline": "Iran FM: Iran has always been serious about diplomacy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855592,
-   "ts": "2026-11-17T11:08:13+00:00",
-   "ingested": "2026-11-17T14:24:49.196378+00:00",
-   "headline": "Iran FM briefs Oman Sultan on initiative to end war",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855591,
-   "ts": "2026-11-17T11:08:04+00:00",
-   "ingested": "2026-11-17T14:24:49.196401+00:00",
-   "headline": "Iran's Araghchi held talks on the region with the Sultan of Oman",
    "channel": "rss",
    "source": "financialjuice"
   }
