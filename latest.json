@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:04:58.245678+00:00",
+ "updated": "2026-11-18T22:06:48.237228+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858650,
+   "ts": "2026-11-18T22:05:21+00:00",
+   "ingested": "2026-11-18T22:06:48.236682+00:00",
+   "headline": "South Korea\u2019s Blue House: No clear indication of Trump-Kim summit, China shares similar intelligence - news1",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858649,
    "ts": "2026-11-18T22:04:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:16:43+00:00",
    "ingested": "2026-11-17T16:18:20.831080+00:00",
    "headline": "AMD CEO Su: Demand exceeds supply even with US chip export controls",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856118,
-   "ts": "2026-11-17T16:16:19+00:00",
-   "ingested": "2026-11-17T16:16:40.818775+00:00",
-   "headline": "AMD CEO Su: AMD is ensuring it's in the room on chip export control talks. $AMD $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
