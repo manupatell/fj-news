@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T17:12:02.636371+00:00",
+ "updated": "2026-11-18T17:15:22.645177+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858252,
+   "ts": "2026-11-18T17:14:32+00:00",
+   "ingested": "2026-11-18T17:15:22.644807+00:00",
+   "headline": "French Senate adopts social security budget bill for 2027 - AFP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858246,
    "ts": "2026-11-18T17:00:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T13:19:06+00:00",
    "ingested": "2026-11-17T14:24:49.195852+00:00",
    "headline": "Fars News: An explosion was heard in Qeshm.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855779,
-   "ts": "2026-11-17T13:17:18+00:00",
-   "ingested": "2026-11-17T14:24:49.195865+00:00",
-   "headline": "Canadian House Starts, Annualized Actual 244.6k (Forecast 240k, Previous 248.9k ,Revision 250.1k)",
    "channel": "rss",
    "source": "financialjuice"
   }
