@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T23:24:28.240601+00:00",
+ "updated": "2026-11-18T23:29:28.225041+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858746,
+   "ts": "2026-11-18T23:28:18+00:00",
+   "ingested": "2026-11-18T23:29:28.224606+00:00",
+   "headline": "Anthropic offering totals 980 million shares, company sells 956 million shares",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858745,
+   "ts": "2026-11-18T23:28:11+00:00",
+   "ingested": "2026-11-18T23:29:28.224619+00:00",
+   "headline": "Anthropic prices IPO at $83 a share",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858706,
    "ts": "2026-11-18T22:52:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T17:41:20+00:00",
    "ingested": "2026-11-17T17:42:00.875941+00:00",
    "headline": "Yemen's Houthis targeted the Saudi East-West pipeline with two drones in the Riyadh area - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856216,
-   "ts": "2026-11-17T17:38:48+00:00",
-   "ingested": "2026-11-17T17:39:10.871764+00:00",
-   "headline": "Users report some Apple services are having problems - Downdetector. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856207,
-   "ts": "2026-11-17T17:27:06+00:00",
-   "ingested": "2026-11-17T17:28:30.833511+00:00",
-   "headline": "Amazon CEO Jassy, on not opening Amazon .com to AI agents: It just has to be a good customer experience, which it hasn\u2019t been to date - Semafor Event. $AMZN",
    "channel": "rss",
    "source": "financialjuice"
   }
