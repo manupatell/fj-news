@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-17T23:59:03.534745+00:00",
+ "updated": "2026-11-18T00:02:23.518630+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856729,
+   "ts": "2026-11-18T00:01:11+00:00",
+   "ingested": "2026-11-18T00:02:23.518201+00:00",
+   "headline": "Unisound AI technology Co releases U2-flash-1118, enhanced edition of U2-flash",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856720,
    "ts": "2026-11-17T23:58:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T19:09:58+00:00",
    "ingested": "2026-11-16T19:11:47.315146+00:00",
    "headline": "US Military: Aircraft carrier USS Theodore Roosevelt is currently operating in the CENTCOM area of responsibility as part of a scheduled deployment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854350,
-   "ts": "2026-11-16T19:07:17+00:00",
-   "ingested": "2026-11-16T19:07:57.372426+00:00",
-   "headline": "WATCH LIVE: Fed's Hammack Speaks 2:15 PM ET",
    "channel": "rss",
    "source": "financialjuice"
   }
