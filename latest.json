@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T15:43:22.623736+00:00",
+ "updated": "2026-11-18T15:48:22.603254+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858143,
+   "ts": "2026-11-18T15:47:50+00:00",
+   "ingested": "2026-11-18T15:48:22.602885+00:00",
+   "headline": "Putin, Xi, and Trump will determine the duration of their trilateral meeting on their own, Kremlin Aide Ushakov - Tass News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858131,
    "ts": "2026-11-18T15:42:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T12:30:32+00:00",
    "ingested": "2026-11-17T14:24:49.196093+00:00",
    "headline": "Fed's Musalem: Bond yields to rise if public doubts Fed's resolve",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855705,
-   "ts": "2026-11-17T12:29:31+00:00",
-   "ingested": "2026-11-17T14:24:49.196104+00:00",
-   "headline": "China's commerce ministry, on US chip export curb: Strongly oppose this",
    "channel": "rss",
    "source": "financialjuice"
   }
