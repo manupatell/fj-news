@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T01:08:23.550714+00:00",
+ "updated": "2026-11-18T01:10:03.590973+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856803,
+   "ts": "2026-11-18T01:08:36+00:00",
+   "ingested": "2026-11-18T01:10:03.590542+00:00",
+   "headline": "US Secretary of State Rubio: no proof these incidents involve hostile actors",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856802,
    "ts": "2026-11-18T01:07:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T19:22:59+00:00",
    "ingested": "2026-11-16T23:02:03.206063+00:00",
    "headline": "Fed's Hammack: Financial conditions are still not restraining the economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854387,
-   "ts": "2026-11-16T19:22:33+00:00",
-   "ingested": "2026-11-16T23:02:03.206076+00:00",
-   "headline": "Fed's Hammack: Higher market borrowing costs are needed to restrain economy.",
    "channel": "rss",
    "source": "financialjuice"
   }
