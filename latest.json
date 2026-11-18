@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T15:31:42.611544+00:00",
+ "updated": "2026-11-18T15:33:22.622795+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858123,
+   "ts": "2026-11-18T15:33:03+00:00",
+   "ingested": "2026-11-18T15:33:22.622394+00:00",
+   "headline": "Putin-Trump meeting planned after APEC plenary session - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858103,
+   "ts": "2026-11-18T15:32:18+00:00",
+   "ingested": "2026-11-18T15:33:22.622415+00:00",
+   "headline": "EIA Crude Cushing Inventories  Actual -1.209M (Forecast -, Previous 0.106M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858102,
    "ts": "2026-11-18T15:30:02+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T11:32:45+00:00",
    "ingested": "2026-11-17T14:24:49.196194+00:00",
    "headline": "$DIS Disney Q4 2026 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855630,
-   "ts": "2026-11-17T11:31:23+00:00",
-   "ingested": "2026-11-17T14:24:49.196205+00:00",
-   "headline": "China and Canada agree to extend tariff relief for two years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855629,
-   "ts": "2026-11-17T11:31:02+00:00",
-   "ingested": "2026-11-17T14:24:49.196215+00:00",
-   "headline": "Google signs power deal with Quaise Energy - WSJ $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
