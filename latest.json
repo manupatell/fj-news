@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T03:48:23.594831+00:00",
+ "updated": "2026-11-18T03:50:03.595256+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857075,
+   "ts": "2026-11-18T03:48:51+00:00",
+   "ingested": "2026-11-18T03:50:03.594783+00:00",
+   "headline": "South Korean president in meeting with Xi: hope both nations continue efforts that bring people closer, such as introducing pandas",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857074,
    "ts": "2026-11-18T03:48:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T22:11:57+00:00",
    "ingested": "2026-11-16T23:02:03.205252+00:00",
    "headline": "Former CFPB Director Chopra: Need greater accountability from AI firms when agents act rogue",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854586,
-   "ts": "2026-11-16T22:11:50+00:00",
-   "ingested": "2026-11-16T23:02:03.205267+00:00",
-   "headline": "Former CFPB Director Chopra: Investigating How AI Firms Forge Intimate User Bonds and Potential Breaches of Licensed Medical Practice Laws",
    "channel": "rss",
    "source": "financialjuice"
   }
