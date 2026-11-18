@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T16:01:32.619735+00:00",
+ "updated": "2026-11-18T16:04:52.632937+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858165,
+   "ts": "2026-11-18T16:03:28+00:00",
+   "ingested": "2026-11-18T16:04:52.632568+00:00",
+   "headline": "AT&T and Microsoft expand small & median business connectivity pact $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858153,
    "ts": "2026-11-18T16:01:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T12:31:15+00:00",
    "ingested": "2026-11-17T14:24:49.196036+00:00",
    "headline": "Fed's Musalem: The most likely scenario is that inflation remains elevated unless the Fed raises rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855713,
-   "ts": "2026-11-17T12:31:02+00:00",
-   "ingested": "2026-11-17T14:24:49.196047+00:00",
-   "headline": "Fed's Musalem: \"Several\" rate hikes likely needed before Spring.",
    "channel": "rss",
    "source": "financialjuice"
   }
