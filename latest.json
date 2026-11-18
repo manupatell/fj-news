@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T08:10:45.554782+00:00",
+ "updated": "2026-11-18T08:15:45.554678+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857379,
+   "ts": "2026-11-18T08:13:58+00:00",
+   "ingested": "2026-11-18T08:15:45.554159+00:00",
+   "headline": "China's Xi tells Putin: China and Russia should deepen cooperation - CCTV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857378,
    "ts": "2026-11-18T08:10:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T02:12:03+00:00",
    "ingested": "2026-11-17T02:12:23.041607+00:00",
    "headline": "Chinese ambassador to UN: APEC members held in-depth talks and reached key consensus",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854929,
-   "ts": "2026-11-17T02:10:13+00:00",
-   "ingested": "2026-11-17T02:10:43.040115+00:00",
-   "headline": "Chinese ambassador to UN: APEC nations prioritize secure deployment and responsible use of AI",
    "channel": "rss",
    "source": "financialjuice"
   }
