@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T14:16:42.589924+00:00",
+ "updated": "2026-11-18T14:18:22.590337+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857978,
+   "ts": "2026-11-18T14:17:20+00:00",
+   "ingested": "2026-11-18T14:18:22.589908+00:00",
+   "headline": "Fitch Ratings: ECB is approaching the landing zone for balance-sheet reduction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857962,
    "ts": "2026-11-18T14:16:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:19:43+00:00",
    "ingested": "2026-11-17T10:20:27.373516+00:00",
    "headline": "Iran and Armenia discuss refinery construction, gas trade - Shana",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855512,
-   "ts": "2026-11-17T10:19:23+00:00",
-   "ingested": "2026-11-17T10:20:27.373525+00:00",
-   "headline": "UK imposed sanctions on firms building settlements in West Bank",
    "channel": "rss",
    "source": "financialjuice"
   }
