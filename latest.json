@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T09:06:05.564459+00:00",
+ "updated": "2026-11-18T09:07:45.571134+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857468,
+   "ts": "2026-11-18T09:06:41+00:00",
+   "ingested": "2026-11-18T09:07:45.570647+00:00",
+   "headline": "OpenAI: Le Figaro to keep full editorial independence and control over journalism under partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857467,
+   "ts": "2026-11-18T09:06:08+00:00",
+   "ingested": "2026-11-18T09:07:45.570669+00:00",
+   "headline": "OpenAI: Le Groupe Figaro and OpenAI collaborate to bring Le Figaro journalism to ChatGPT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857466,
+   "ts": "2026-11-18T09:06:00+00:00",
+   "ingested": "2026-11-18T09:07:45.570687+00:00",
+   "headline": "Saudi-led coalition: intercepted and destroyed cruise missile launched by Yemen's Houthis towards Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857465,
    "ts": "2026-11-18T09:05:52+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-17T03:09:39+00:00",
    "ingested": "2026-11-17T03:11:03.080418+00:00",
    "headline": "China's President Xi: enhanced communication and collaboration between China and Canada will advantage not only our two nations but also the Asia-Pacific region and world",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854985,
-   "ts": "2026-11-17T03:09:39+00:00",
-   "ingested": "2026-11-17T03:11:03.080439+00:00",
-   "headline": "China\u2019s President Xi: looking forward to sustaining momentum in discussions today and over next two days at APEC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854984,
-   "ts": "2026-11-17T03:09:39+00:00",
-   "ingested": "2026-11-17T03:11:03.080459+00:00",
-   "headline": "China\u2019s President Xi: after agreeing to promote China-Canada strategic ties in January, interactions and collaboration across sectors between the two nations have fully resumed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854983,
-   "ts": "2026-11-17T03:09:39+00:00",
-   "ingested": "2026-11-17T03:11:03.080474+00:00",
-   "headline": "China's President Xi: willing to collaborate on advancing new China-Canada strategic partnership",
    "channel": "rss",
    "source": "financialjuice"
   }
