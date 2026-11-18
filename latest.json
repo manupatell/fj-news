@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T07:52:25.555650+00:00",
+ "updated": "2026-11-18T08:00:45.569757+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857357,
+   "ts": "2026-11-18T08:00:18+00:00",
+   "ingested": "2026-11-18T08:00:45.569192+00:00",
+   "headline": "South Korea's Lee: APEC countries should work together on a stable supply of critical minerals and energy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857356,
    "ts": "2026-11-18T07:52:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T01:21:05+00:00",
    "ingested": "2026-11-17T01:22:43.044095+00:00",
    "headline": "China central bank injects 714 billion yuan via overnight reverse repos at 1.25%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854816,
-   "ts": "2026-11-17T01:17:03+00:00",
-   "ingested": "2026-11-17T01:17:43.022276+00:00",
-   "headline": "China sets yuan midpoint at strongest level since Feb. 2, 2023, says PBOC",
    "channel": "rss",
    "source": "financialjuice"
   }
