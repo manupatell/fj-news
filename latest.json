@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T01:55:23.581607+00:00",
+ "updated": "2026-11-18T02:02:03.565696+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856893,
+   "ts": "2026-11-18T02:01:23+00:00",
+   "ingested": "2026-11-18T02:02:03.565224+00:00",
+   "headline": "Chinese President Xi Jinping attends opening of Asia-Pacific Economic Cooperation CEO Summit 2026 in Shenzhen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856829,
    "ts": "2026-11-18T01:23:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T20:01:16+00:00",
    "ingested": "2026-11-16T23:02:03.205868+00:00",
    "headline": "RBNZ: Financial system remains resilient",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854412,
-   "ts": "2026-11-16T19:44:29+00:00",
-   "ingested": "2026-11-16T23:02:03.205884+00:00",
-   "headline": "Putin could meet North Korean leader Kim Jong Un if he also comes to china for APEC summit, IFX quotes kremlin spokesman Peskov as saying",
    "channel": "rss",
    "source": "financialjuice"
   }
