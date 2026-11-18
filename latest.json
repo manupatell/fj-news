@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T02:13:43.574699+00:00",
+ "updated": "2026-11-18T02:15:23.570059+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856960,
+   "ts": "2026-11-18T02:14:46+00:00",
+   "ingested": "2026-11-18T02:15:23.569687+00:00",
+   "headline": "China's President Xi: will enhance ties and cooperation in Greater Bay Area, seek new avenues for Asia-Pacific economic collaboration",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856959,
    "ts": "2026-11-18T02:13:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T20:30:58+00:00",
    "ingested": "2026-11-16T23:02:03.205690+00:00",
    "headline": "CFTC Positions in the Week of November 10th 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854457,
-   "ts": "2026-11-16T20:26:15+00:00",
-   "ingested": "2026-11-16T23:02:03.205704+00:00",
-   "headline": "Deputy Isfahan Governor denies report of air defences activated - SNN News Agency",
    "channel": "rss",
    "source": "financialjuice"
   }
