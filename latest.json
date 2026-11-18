@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T03:59:43.698622+00:00",
+ "updated": "2026-11-18T04:01:23.665546+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857080,
+   "ts": "2026-11-18T04:01:11+00:00",
+   "ingested": "2026-11-18T04:01:23.665116+00:00",
+   "headline": "China's Xi meets Russian President Putin in Shenzhen: Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857076,
    "ts": "2026-11-18T03:59:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T22:14:09+00:00",
    "ingested": "2026-11-16T23:02:03.205224+00:00",
    "headline": "Former CFPB director Chopra: reviewing how AI firms are collecting personal data and possibly exploiting it",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854588,
-   "ts": "2026-11-16T22:13:59+00:00",
-   "ingested": "2026-11-16T23:02:03.205238+00:00",
-   "headline": "Former CFPB Director Chopra: Will take different steps including suing companies over rule violations",
    "channel": "rss",
    "source": "financialjuice"
   }
