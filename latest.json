@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:36:58.205749+00:00",
+ "updated": "2026-11-18T22:38:48.237703+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858698,
+   "ts": "2026-11-18T22:37:51+00:00",
+   "ingested": "2026-11-18T22:38:48.237205+00:00",
+   "headline": "Fortifai Ltd appoints former Nvidia executive Jason Brushe as CEO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858697,
    "ts": "2026-11-18T22:36:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T17:17:12+00:00",
    "ingested": "2026-11-17T17:18:20.842906+00:00",
    "headline": "Amazon CEO Jassy on NVIDIA fallout: I don\u2019t think it has an impact on Amazon - Semafor Event. $AMZN $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856184,
-   "ts": "2026-11-17T17:08:09+00:00",
-   "ingested": "2026-11-17T17:08:30.806610+00:00",
-   "headline": "NVIDIA stopped disclosing Singapore sales last year - FT. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
