@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T07:50:45.551764+00:00",
+ "updated": "2026-11-18T07:52:25.555650+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857356,
+   "ts": "2026-11-18T07:52:04+00:00",
+   "ingested": "2026-11-18T07:52:25.555066+00:00",
+   "headline": "France Fin. Min. Lescure: 2027 growth forecast of 1% at risk of being cut",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857355,
+   "ts": "2026-11-18T07:51:17+00:00",
+   "ingested": "2026-11-18T07:52:25.555090+00:00",
+   "headline": "France Fin. Min. Lescure: 2027 budget will need bigger effort than planned",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857333,
    "ts": "2026-11-18T07:39:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T01:17:03+00:00",
    "ingested": "2026-11-17T01:17:43.022276+00:00",
    "headline": "China sets yuan midpoint at strongest level since Feb. 2, 2023, says PBOC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854792,
-   "ts": "2026-11-17T01:04:01+00:00",
-   "ingested": "2026-11-17T01:04:23.022231+00:00",
-   "headline": "Meta tests direct messaging app in Turkiye and Thailand with integrated safeguards",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854791,
-   "ts": "2026-11-17T01:03:25+00:00",
-   "ingested": "2026-11-17T01:04:23.022251+00:00",
-   "headline": "Meta unveils Direct, a standalone messaging app by Instagram",
    "channel": "rss",
    "source": "financialjuice"
   }
