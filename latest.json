@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:33:28.210029+00:00",
+ "updated": "2026-11-18T22:36:58.205749+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858697,
+   "ts": "2026-11-18T22:36:07+00:00",
+   "ingested": "2026-11-18T22:36:58.205338+00:00",
+   "headline": "Traffic suspended over Crimean Bridge after attack: Moscow-installed official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858696,
    "ts": "2026-11-18T22:33:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T17:08:09+00:00",
    "ingested": "2026-11-17T17:08:30.806610+00:00",
    "headline": "NVIDIA stopped disclosing Singapore sales last year - FT. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856182,
-   "ts": "2026-11-17T17:05:04+00:00",
-   "ingested": "2026-11-17T17:05:21.254811+00:00",
-   "headline": "Google is rolling out a set of advanced features, starting in the US. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
