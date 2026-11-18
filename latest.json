@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:10:02.655844+00:00",
+ "updated": "2026-11-18T13:15:02.631901+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857859,
+   "ts": "2026-11-18T13:13:36+00:00",
+   "ingested": "2026-11-18T13:15:02.631471+00:00",
+   "headline": "Huang and Lutnick both agreed to appear before panel - Republican Senator Scott",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857858,
    "ts": "2026-11-18T13:08:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T09:16:35+00:00",
    "ingested": "2026-11-17T09:17:07.346274+00:00",
    "headline": "Russian strikes leave 700,000 households in Ukraine\u2019s Dnipropetrovsk region powerless: DTEK",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855401,
-   "ts": "2026-11-17T09:13:13+00:00",
-   "ingested": "2026-11-17T09:13:47.348611+00:00",
-   "headline": "Ukmto: crew currently missing, damage evaluation unknown at this time",
    "channel": "rss",
    "source": "financialjuice"
   }
