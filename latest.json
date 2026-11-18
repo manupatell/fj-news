@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T04:13:23.610067+00:00",
+ "updated": "2026-11-18T04:15:25.829824+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857089,
+   "ts": "2026-11-18T04:14:17+00:00",
+   "ingested": "2026-11-18T04:15:25.829455+00:00",
+   "headline": "Russia-China foreign policy partnership on international stage working steadily: IFAX quotes Putin",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857080,
    "ts": "2026-11-18T04:01:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-16T22:16:05+00:00",
    "ingested": "2026-11-16T23:02:03.205210+00:00",
    "headline": "Former CFPB director Chopra: no AL exemption from state licensing rules, accountability",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854589,
-   "ts": "2026-11-16T22:14:09+00:00",
-   "ingested": "2026-11-16T23:02:03.205224+00:00",
-   "headline": "Former CFPB director Chopra: reviewing how AI firms are collecting personal data and possibly exploiting it",
    "channel": "rss",
    "source": "financialjuice"
   }
