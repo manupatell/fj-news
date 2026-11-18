@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T03:35:43.586127+00:00",
+ "updated": "2026-11-18T03:36:13.595834+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857049,
+   "ts": "2026-11-18T03:35:38+00:00",
+   "ingested": "2026-11-18T03:36:13.595442+00:00",
+   "headline": "Russia's Putin at APEC CEO summit: US dollar share in Russian trade has dropped sharply",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857048,
+   "ts": "2026-11-18T03:35:38+00:00",
+   "ingested": "2026-11-18T03:36:13.595463+00:00",
+   "headline": "At APEC CEO Summit, Russia is ready to broaden food and fertilizer export markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857047,
    "ts": "2026-11-18T03:34:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T21:31:43+00:00",
    "ingested": "2026-11-16T23:02:03.205445+00:00",
    "headline": "GBP CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854524,
-   "ts": "2026-11-16T21:31:41+00:00",
-   "ingested": "2026-11-16T23:02:03.205457+00:00",
-   "headline": "CHF CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854523,
-   "ts": "2026-11-16T21:31:40+00:00",
-   "ingested": "2026-11-16T23:02:03.205469+00:00",
-   "headline": "NZD CFTC Positions Week of November 10th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
