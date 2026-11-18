@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T15:57:12.666270+00:00",
+ "updated": "2026-11-18T15:59:02.612965+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858147,
+   "ts": "2026-11-18T15:57:57+00:00",
+   "ingested": "2026-11-18T15:59:02.612578+00:00",
+   "headline": "US Director of National Intelligence Clayton: Iran has sophisticated global network capabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858144,
    "ts": "2026-11-18T15:55:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T12:30:50+00:00",
    "ingested": "2026-11-17T14:24:49.196070+00:00",
    "headline": "Fed's Musalem: Monetary policy and financial conditions remain tailwinds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855710,
-   "ts": "2026-11-17T12:30:49+00:00",
-   "ingested": "2026-11-17T14:24:49.196082+00:00",
-   "headline": "Fed's Musalem: I see meaningful risk high inflation will persist.",
    "channel": "rss",
    "source": "financialjuice"
   }
