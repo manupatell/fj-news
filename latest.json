@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T02:10:23.561554+00:00",
+ "updated": "2026-11-18T02:12:03.571290+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856954,
+   "ts": "2026-11-18T02:11:31+00:00",
+   "ingested": "2026-11-18T02:12:03.570791+00:00",
+   "headline": "China's President Xi: maintain global industrial and supply chain, need to boost innovation and growth as driver of social progress",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856953,
+   "ts": "2026-11-18T02:10:23+00:00",
+   "ingested": "2026-11-18T02:12:03.570813+00:00",
+   "headline": "China\u2019s President Xi: must strongly back free and open trade",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856952,
    "ts": "2026-11-18T02:10:05+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T20:03:15+00:00",
    "ingested": "2026-11-16T23:02:03.205775+00:00",
    "headline": "RBNZ FSR: Deposit takers well placed to manage financial risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854434,
-   "ts": "2026-11-16T20:02:47+00:00",
-   "ingested": "2026-11-16T23:02:03.205807+00:00",
-   "headline": "Reserve Bank of NZ FSR: Domestic financial stress has generally eased from its peak last year but remains uneven.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854433,
-   "ts": "2026-11-16T20:02:37+00:00",
-   "ingested": "2026-11-16T23:02:03.205824+00:00",
-   "headline": "RBNZ FSR: Sectors reliant on discretionary spending face challenges.",
    "channel": "rss",
    "source": "financialjuice"
   }
