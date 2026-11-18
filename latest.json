@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T18:14:42.647912+00:00",
+ "updated": "2026-11-18T18:18:02.652773+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858346,
+   "ts": "2026-11-18T18:16:55+00:00",
+   "ingested": "2026-11-18T18:18:02.652348+00:00",
+   "headline": "Google: Genie 4 is now available $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858335,
    "ts": "2026-11-18T18:03:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T14:00:25+00:00",
    "ingested": "2026-11-17T14:24:49.195571+00:00",
    "headline": "ECB settled \u20ac208.0 bln corporate bond purchases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855868,
-   "ts": "2026-11-17T14:00:23+00:00",
-   "ingested": "2026-11-17T14:24:49.195582+00:00",
-   "headline": "ECB settled \u20ac1,623.5 bln public-sector bond purchases",
    "channel": "rss",
    "source": "financialjuice"
   }
