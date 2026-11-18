@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T22:28:28.207409+00:00",
+ "updated": "2026-11-18T22:33:28.210029+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858696,
+   "ts": "2026-11-18T22:33:01+00:00",
+   "ingested": "2026-11-18T22:33:28.209594+00:00",
+   "headline": "Microsoft CEO Nadella: rediscovering that software engineering remains vibrant and will flourish",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858695,
+   "ts": "2026-11-18T22:33:01+00:00",
+   "ingested": "2026-11-18T22:33:28.209606+00:00",
+   "headline": "Microsoft CEO Nadella: Agents will have guidelines to conduct commerce",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858673,
    "ts": "2026-11-18T22:26:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T17:05:04+00:00",
    "ingested": "2026-11-17T17:05:21.254811+00:00",
    "headline": "Google is rolling out a set of advanced features, starting in the US. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856167,
-   "ts": "2026-11-17T17:00:49+00:00",
-   "ingested": "2026-11-17T17:01:10.816300+00:00",
-   "headline": "Nike Targets $3-$5 Adjusted EPS and 12%-14% Operating Margin by FY2031 $NKE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856163,
-   "ts": "2026-11-17T16:58:57+00:00",
-   "ingested": "2026-11-17T16:59:40.845732+00:00",
-   "headline": "US Democrat House Leader Jeffries: We're discussing whether to keep the China panel next year.",
    "channel": "rss",
    "source": "financialjuice"
   }
