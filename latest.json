@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T12:46:42.569449+00:00",
+ "updated": "2026-11-18T12:48:22.636516+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857835,
+   "ts": "2026-11-18T12:46:51+00:00",
+   "ingested": "2026-11-18T12:48:22.636050+00:00",
+   "headline": "Fed's Waller: I think return to 2025 summer level won't lower inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857820,
+   "ts": "2026-11-18T12:46:32+00:00",
+   "ingested": "2026-11-18T12:48:22.636072+00:00",
+   "headline": "Fed's Waller: Concern over AI financing limited to banks; some investments might not yield returns",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857818,
    "ts": "2026-11-18T12:45:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T09:00:49+00:00",
    "ingested": "2026-11-17T09:02:07.340677+00:00",
    "headline": "Italian HICP Final MoM Actual 1.2% (Forecast 1.2%, Previous 1.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855376,
-   "ts": "2026-11-17T08:58:28+00:00",
-   "ingested": "2026-11-17T08:58:47.346495+00:00",
-   "headline": "Russia: There is no date for next round of Ukraine talks - Tass.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855349,
-   "ts": "2026-11-17T08:43:56+00:00",
-   "ingested": "2026-11-17T08:45:27.345421+00:00",
-   "headline": "Russia: No understanding yet on Ukraine talks continuation - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
