@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-18T03:36:13.595834+00:00",
+ "updated": "2026-11-18T03:39:53.593770+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857055,
+   "ts": "2026-11-18T03:39:13+00:00",
+   "ingested": "2026-11-18T03:39:53.593272+00:00",
+   "headline": "Russia's Putin at APEC CEO summit: Russia is broadening eastern logistics to enhance cooperation with APEC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857054,
+   "ts": "2026-11-18T03:39:13+00:00",
+   "ingested": "2026-11-18T03:39:53.593293+00:00",
+   "headline": "China finance ministry offers 3-month bills at 1.1061% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857053,
+   "ts": "2026-11-18T03:39:02+00:00",
+   "ingested": "2026-11-18T03:39:53.593310+00:00",
+   "headline": "I at APEC CEO summit: artificial barriers raise costs, Europe impacted by sanctions on Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857052,
+   "ts": "2026-11-18T03:39:02+00:00",
+   "ingested": "2026-11-18T03:39:53.593348+00:00",
+   "headline": "Russia's Putin at APEC CEO summit: APEC a key partner for Russia, ready to broaden cooperation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857051,
+   "ts": "2026-11-18T03:39:02+00:00",
+   "ingested": "2026-11-18T03:39:53.593367+00:00",
+   "headline": "China finance ministry auctions 7-year special treasury bonds at 1.40% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857050,
+   "ts": "2026-11-18T03:39:02+00:00",
+   "ingested": "2026-11-18T03:39:53.593385+00:00",
+   "headline": "Russia\u2019s Putin at APEC CEO summit: Russia ready to broaden food, fertilizer export markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857049,
    "ts": "2026-11-18T03:35:38+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-16T21:35:17+00:00",
    "ingested": "2026-11-16T23:02:03.205370+00:00",
    "headline": "UKMTO: Third party reported attack involving tanker transiting Strait of Hormuz, disabling the vessel and resulting in an engine room fire",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854544,
-   "ts": "2026-11-16T21:34:44+00:00",
-   "ingested": "2026-11-16T23:02:03.205383+00:00",
-   "headline": "UKMTO: Received report of incident 7nm north of Oman's Khasab.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854530,
-   "ts": "2026-11-16T21:31:51+00:00",
-   "ingested": "2026-11-16T23:02:03.205396+00:00",
-   "headline": "USD CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854529,
-   "ts": "2026-11-16T21:31:49+00:00",
-   "ingested": "2026-11-16T23:02:03.205408+00:00",
-   "headline": "EUR CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854528,
-   "ts": "2026-11-16T21:31:47+00:00",
-   "ingested": "2026-11-16T23:02:03.205420+00:00",
-   "headline": "AUD CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854526,
-   "ts": "2026-11-16T21:31:45+00:00",
-   "ingested": "2026-11-16T23:02:03.205433+00:00",
-   "headline": "JPY CFTC Positions Week of November 10th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854525,
-   "ts": "2026-11-16T21:31:43+00:00",
-   "ingested": "2026-11-16T23:02:03.205445+00:00",
-   "headline": "GBP CFTC Positions Week of November 10th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
