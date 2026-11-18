@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T21:46:48.188448+00:00",
+ "updated": "2026-11-18T21:52:28.189176+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858617,
+   "ts": "2026-11-18T21:47:16+00:00",
+   "ingested": "2026-11-18T21:52:28.188758+00:00",
+   "headline": "New Zealand Exports Actual 6.95B (Forecast -, Previous 6.47B ,Revision 6.29B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858616,
+   "ts": "2026-11-18T21:47:16+00:00",
+   "ingested": "2026-11-18T21:52:28.188771+00:00",
+   "headline": "New Zealand Imports Actual 9.72B (Forecast -, Previous 8.44B ,Revision 8.42B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858615,
    "ts": "2026-11-18T21:45:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T16:06:31+00:00",
    "ingested": "2026-11-17T16:07:10.838933+00:00",
    "headline": "UK's PM Burnham: No rush to decide long-term relationship with the EU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856108,
-   "ts": "2026-11-17T16:06:04+00:00",
-   "ingested": "2026-11-17T16:06:40.829411+00:00",
-   "headline": "Pentagon Policy Chief Colby: The US is still hoping to meet the December 1 deadline for a decision on future US force deployments in Europe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856107,
-   "ts": "2026-11-17T16:05:04+00:00",
-   "ingested": "2026-11-17T16:05:40.837100+00:00",
-   "headline": "Charles Schwab: Trading remained available during the issue",
    "channel": "rss",
    "source": "financialjuice"
   }
