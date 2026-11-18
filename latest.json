@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:48:58.216595+00:00",
+ "updated": "2026-11-18T22:52:18.222209+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858705,
+   "ts": "2026-11-18T22:51:36+00:00",
+   "ingested": "2026-11-18T22:52:18.221799+00:00",
+   "headline": "Saudi defence minister meets US Centcom chief in Riyadh: Saudi state news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858698,
    "ts": "2026-11-18T22:37:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T17:20:37+00:00",
    "ingested": "2026-11-17T17:21:40.893973+00:00",
    "headline": "NVIDIA hires Heidrick & Struggles in their hunt for a new CEO - WSJ. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856202,
-   "ts": "2026-11-17T17:17:12+00:00",
-   "ingested": "2026-11-17T17:18:20.842906+00:00",
-   "headline": "Amazon CEO Jassy on NVIDIA fallout: I don\u2019t think it has an impact on Amazon - Semafor Event. $AMZN $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
