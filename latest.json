@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:16:48.207213+00:00",
+ "updated": "2026-11-18T22:18:18.215903+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858669,
+   "ts": "2026-11-18T22:17:09+00:00",
+   "ingested": "2026-11-18T22:18:18.215386+00:00",
+   "headline": "Microsoft CEO Nadella on former Nvidia CEO Huang resigning: wants to give him space to resolve, Nvidia board to decide next steps",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858657,
    "ts": "2026-11-18T22:16:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:33:24+00:00",
    "ingested": "2026-11-17T16:35:10.828357+00:00",
    "headline": "FAA Spokeswoman: Confirm agency is halting Juniper router installations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856127,
-   "ts": "2026-11-17T16:26:43+00:00",
-   "ingested": "2026-11-17T16:28:20.796938+00:00",
-   "headline": "Japan's PM Takaichi and Trump hold talks in the Philippines - Kyodo.",
    "channel": "rss",
    "source": "financialjuice"
   }
