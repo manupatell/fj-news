@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T16:04:52.632937+00:00",
+ "updated": "2026-11-18T16:06:42.612330+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858166,
+   "ts": "2026-11-18T16:05:41+00:00",
+   "ingested": "2026-11-18T16:06:42.611960+00:00",
+   "headline": "United States Secretary of Homeland Security Mullin: Not dealing with Nvidia and Huang; it's 'outside of my lane\u2019 $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858165,
    "ts": "2026-11-18T16:03:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T12:31:29+00:00",
    "ingested": "2026-11-17T14:24:49.196024+00:00",
    "headline": "Fed's Musalem: Optimistic about above-trend GDP growth to continue",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855714,
-   "ts": "2026-11-17T12:31:15+00:00",
-   "ingested": "2026-11-17T14:24:49.196036+00:00",
-   "headline": "Fed's Musalem: The most likely scenario is that inflation remains elevated unless the Fed raises rates",
    "channel": "rss",
    "source": "financialjuice"
   }
