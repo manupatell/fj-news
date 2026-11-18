@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T22:18:18.215903+00:00",
+ "updated": "2026-11-18T22:28:28.207409+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858673,
+   "ts": "2026-11-18T22:26:59+00:00",
+   "ingested": "2026-11-18T22:28:28.206937+00:00",
+   "headline": "Microsoft CEO Nadella: rediscovering the software engineering core",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858672,
+   "ts": "2026-11-18T22:26:58+00:00",
+   "ingested": "2026-11-18T22:28:28.206949+00:00",
+   "headline": "Singing remains vibrant and poised to flourish",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858669,
    "ts": "2026-11-18T22:17:09+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T16:58:57+00:00",
    "ingested": "2026-11-17T16:59:40.845732+00:00",
    "headline": "US Democrat House Leader Jeffries: We're discussing whether to keep the China panel next year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856162,
-   "ts": "2026-11-17T16:51:26+00:00",
-   "ingested": "2026-11-17T16:52:10.821906+00:00",
-   "headline": "Nvidia board is not considering Huang\u2019s return as of Tuesday $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856145,
-   "ts": "2026-11-17T16:33:24+00:00",
-   "ingested": "2026-11-17T16:35:10.828357+00:00",
-   "headline": "FAA Spokeswoman: Confirm agency is halting Juniper router installations",
    "channel": "rss",
    "source": "financialjuice"
   }
