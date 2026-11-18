@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T14:03:24.227945+00:00",
+ "updated": "2026-11-18T14:05:02.581871+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857952,
+   "ts": "2026-11-18T14:04:28+00:00",
+   "ingested": "2026-11-18T14:05:02.581419+00:00",
+   "headline": "OpenAI has complained to Microsoft in recent months that it believes chinese firms are \u201cdistilling\u201d its AI - The Information.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857951,
+   "ts": "2026-11-18T14:04:18+00:00",
+   "ingested": "2026-11-18T14:05:02.581444+00:00",
+   "headline": "Microsoft is pursuing deals to sell OpenAI models to other Chinese businesses that were cut off from Anthropic. Including Alibaba - The Information. $MSFT $BABA $ANT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857950,
+   "ts": "2026-11-18T14:03:56+00:00",
+   "ingested": "2026-11-18T14:05:02.581460+00:00",
+   "headline": "Bytedance in talks to buy $500m in Microsoft cloud - The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857949,
    "ts": "2026-11-18T14:02:26+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-17T10:18:31+00:00",
    "ingested": "2026-11-17T10:18:47.375205+00:00",
    "headline": "France to miss deficit goals as growth falters - EU Commission",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855508,
-   "ts": "2026-11-17T10:18:13+00:00",
-   "ingested": "2026-11-17T10:18:47.375226+00:00",
-   "headline": "Eurozone aggregated public debt is expected to rise to 89.6% of GDP in 2026 from 88.6% in 2025, and is seen to rise to 90.5% in 2027 and 91.3% in 2028 - Commission",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855507,
-   "ts": "2026-11-17T10:17:58+00:00",
-   "ingested": "2026-11-17T10:18:47.375240+00:00",
-   "headline": "Eurozone aggregated budget deficit to jump to 3.5% of GDP in 2026 from 3.0% in 2025, seen rising to 3.6% in 2027 and 3.8% in 2028 - Commission",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855506,
-   "ts": "2026-11-17T10:17:38+00:00",
-   "ingested": "2026-11-17T10:18:47.375252+00:00",
-   "headline": "Eurozone inflation is seen at 3.2% in 2026, up from 2.1% in 2025, expected to ease to 3.1% in 2027 and 2.1% in 2028 - Commission",
    "channel": "rss",
    "source": "financialjuice"
   }
