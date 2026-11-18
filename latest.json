@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:53:22.643254+00:00",
+ "updated": "2026-11-18T13:55:02.595528+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857922,
+   "ts": "2026-11-18T13:54:25+00:00",
+   "ingested": "2026-11-18T13:55:02.595109+00:00",
+   "headline": "Israel's News 12: The Chief of Staff and senior IDF officials will meet today with the Centcom commander who arrived in Israel. In the focus - Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857921,
    "ts": "2026-11-18T13:52:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T10:00:39+00:00",
    "ingested": "2026-11-17T10:02:07.366768+00:00",
    "headline": "NVIDIA board establishes export control oversight committee.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855461,
-   "ts": "2026-11-17T10:00:01+00:00",
-   "ingested": "2026-11-17T10:00:27.364209+00:00",
-   "headline": "Eurozone ZEW Survey Expectations Actual 26.5 (Forecast -, Previous 18.5)",
    "channel": "rss",
    "source": "financialjuice"
   }
