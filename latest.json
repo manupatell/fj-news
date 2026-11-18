@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T09:23:25.576561+00:00",
+ "updated": "2026-11-18T09:28:25.576059+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857490,
+   "ts": "2026-11-18T09:26:35+00:00",
+   "ingested": "2026-11-18T09:28:25.575613+00:00",
+   "headline": "Kremlin: Putin, trump will have conversation - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857489,
    "ts": "2026-11-18T09:23:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T03:49:35+00:00",
    "ingested": "2026-11-17T03:51:03.068632+00:00",
    "headline": "Subway in Kyiv, Ukraine damaged in overnight strike: city officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855006,
-   "ts": "2026-11-17T03:42:14+00:00",
-   "ingested": "2026-11-17T03:42:43.066181+00:00",
-   "headline": "Explosions heard in Kyiv, Ukraine: source witnesses say",
    "channel": "rss",
    "source": "financialjuice"
   }
