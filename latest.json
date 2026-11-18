@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T16:47:02.626062+00:00",
+ "updated": "2026-11-18T16:52:02.623840+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858239,
+   "ts": "2026-11-18T16:50:39+00:00",
+   "ingested": "2026-11-18T16:52:02.623472+00:00",
+   "headline": "Microsoft, Intel Collaboration $MSFT $INTC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858225,
    "ts": "2026-11-18T16:46:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T13:12:56+00:00",
    "ingested": "2026-11-17T14:24:49.195913+00:00",
    "headline": "Destatis corrects German October HICP to 2.9% y/y from 2.8%, CPI to -0.1% m/m from -0.2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855776,
-   "ts": "2026-11-17T13:12:42+00:00",
-   "ingested": "2026-11-17T14:24:49.195924+00:00",
-   "headline": "Fed's Musalem: Monetary policy must react right now",
    "channel": "rss",
    "source": "financialjuice"
   }
