@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:15:02.631901+00:00",
+ "updated": "2026-11-18T13:16:42.566859+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857864,
+   "ts": "2026-11-18T13:15:44+00:00",
+   "ingested": "2026-11-18T13:16:42.566446+00:00",
+   "headline": "Republican Senator Scott: The public hearing way to restore confidence on chips.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857859,
    "ts": "2026-11-18T13:13:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T09:26:58+00:00",
    "ingested": "2026-11-17T09:28:47.349661+00:00",
    "headline": "Iran navy claims another tanker hit mine in Hormuz Tuesday - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855403,
-   "ts": "2026-11-17T09:16:35+00:00",
-   "ingested": "2026-11-17T09:17:07.346274+00:00",
-   "headline": "Russian strikes leave 700,000 households in Ukraine\u2019s Dnipropetrovsk region powerless: DTEK",
    "channel": "rss",
    "source": "financialjuice"
   }
