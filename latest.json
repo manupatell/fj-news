@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T22:12:58.279433+00:00",
+ "updated": "2026-11-18T22:16:48.207213+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858657,
+   "ts": "2026-11-18T22:16:36+00:00",
+   "ingested": "2026-11-18T22:16:48.206728+00:00",
+   "headline": "Microsoft CEO Nadella on Former Nvidia CEO Huang resigning: it's quite tragic, I'm a big admirer of his work - New York Times DealBook Summit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858653,
    "ts": "2026-11-18T22:12:29+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:26:43+00:00",
    "ingested": "2026-11-17T16:28:20.796938+00:00",
    "headline": "Japan's PM Takaichi and Trump hold talks in the Philippines - Kyodo.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856126,
-   "ts": "2026-11-17T16:21:34+00:00",
-   "ingested": "2026-11-17T16:23:20.852833+00:00",
-   "headline": "FAA pauses installation of routers at center of telecom disruptions that led to nationwide ground stop - Agency Official",
    "channel": "rss",
    "source": "financialjuice"
   }
