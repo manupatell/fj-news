@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:08:22.573161+00:00",
+ "updated": "2026-11-18T13:10:02.655844+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857858,
+   "ts": "2026-11-18T13:08:14+00:00",
+   "ingested": "2026-11-18T13:10:02.655406+00:00",
+   "headline": "Saudis aim for allies to make gains on the battlefield in Yemen before any negotiations with Houthis - Western Officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857857,
    "ts": "2026-11-18T13:07:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T09:13:13+00:00",
    "ingested": "2026-11-17T09:13:47.348611+00:00",
    "headline": "Ukmto: crew currently missing, damage evaluation unknown at this time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855400,
-   "ts": "2026-11-17T09:12:56+00:00",
-   "ingested": "2026-11-17T09:13:47.348625+00:00",
-   "headline": "UKMTO: strike led to fire onboard",
    "channel": "rss",
    "source": "financialjuice"
   }
