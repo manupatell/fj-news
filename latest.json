@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T12:58:22.582466+00:00",
+ "updated": "2026-11-18T13:01:42.582160+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857849,
+   "ts": "2026-11-18T13:01:14+00:00",
+   "ingested": "2026-11-18T13:01:42.581735+00:00",
+   "headline": "Temu and Mastercard expand collaboration on digital payments and local business support.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857843,
+   "ts": "2026-11-18T13:00:18+00:00",
+   "ingested": "2026-11-18T13:01:42.581756+00:00",
+   "headline": "Secured Overnight Financing Rate 3.92% November 17 vs 3.93% November 16.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857841,
    "ts": "2026-11-18T12:56:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T09:00:50+00:00",
    "ingested": "2026-11-17T09:02:07.340644+00:00",
    "headline": "Italian HICP Final YoY Actual 5.6% (Forecast 5.6%, Previous 5.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855382,
-   "ts": "2026-11-17T09:00:50+00:00",
-   "ingested": "2026-11-17T09:02:07.340658+00:00",
-   "headline": "Italian CPI YoY Final Actual 5.5% (Forecast 5.4%, Previous 5.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855381,
-   "ts": "2026-11-17T09:00:50+00:00",
-   "ingested": "2026-11-17T09:02:07.340668+00:00",
-   "headline": "Italian CPI MoM Final Actual 1% (Forecast 0.9%, Previous 0.9%)",
    "channel": "rss",
    "source": "financialjuice"
   }
