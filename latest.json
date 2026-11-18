@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:01:42.582160+00:00",
+ "updated": "2026-11-18T13:06:42.556094+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857856,
+   "ts": "2026-11-18T13:05:10+00:00",
+   "ingested": "2026-11-18T13:06:42.555674+00:00",
+   "headline": "US Energy Secretary Wright: There will now be enough American LNG to meet roughly one-third of Poland\u2019s annual natural gas demand - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857849,
    "ts": "2026-11-18T13:01:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T09:12:31+00:00",
    "ingested": "2026-11-17T09:13:47.348643+00:00",
    "headline": "UKMTO: maritime security agency reports vessel 7 nm north of Oman\u2019s Khasab hit by second strike",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855383,
-   "ts": "2026-11-17T09:00:50+00:00",
-   "ingested": "2026-11-17T09:02:07.340644+00:00",
-   "headline": "Italian HICP Final YoY Actual 5.6% (Forecast 5.6%, Previous 5.6%)",
    "channel": "rss",
    "source": "financialjuice"
   }
