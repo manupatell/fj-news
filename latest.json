@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-18T01:15:03.551440+00:00",
+ "updated": "2026-11-18T01:16:43.569541+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9856810,
+   "ts": "2026-11-18T01:16:30+00:00",
+   "ingested": "2026-11-18T01:16:43.568909+00:00",
+   "headline": "US Secretary of State Rubio: Trump meeting with North Korea's Kim a significant proposal",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9856809,
+   "ts": "2026-11-18T01:16:02+00:00",
+   "ingested": "2026-11-18T01:16:43.568933+00:00",
+   "headline": "BoJ governor Ueda: will evaluate effect of food sales tax reduction on core inflation and apply suitable monetary policy accordingly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9856808,
    "ts": "2026-11-18T01:14:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-16T19:26:53+00:00",
    "ingested": "2026-11-16T23:02:03.205995+00:00",
    "headline": "Vance: Won't let Iran become even a 2 Year commitment - Fox News clip",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854392,
-   "ts": "2026-11-16T19:23:56+00:00",
-   "ingested": "2026-11-16T23:02:03.206008+00:00",
-   "headline": "Fed's Hammack: 2% inflation is still a reasonable goal for the Fed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854391,
-   "ts": "2026-11-16T19:23:47+00:00",
-   "ingested": "2026-11-16T23:02:03.206023+00:00",
-   "headline": "Fed's Hammack: The economy can deal with more restriction. It's unclear how far Fed has to go.",
    "channel": "rss",
    "source": "financialjuice"
   }
