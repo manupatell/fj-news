@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T13:40:02.564175+00:00",
+ "updated": "2026-11-18T13:45:02.634274+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857909,
+   "ts": "2026-11-18T13:44:21+00:00",
+   "ingested": "2026-11-18T13:45:02.633843+00:00",
+   "headline": "US Sentiment: Nvidia Boosts the AI Sector, but the Rebound is Narrow - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857908,
    "ts": "2026-11-18T13:38:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T09:49:44+00:00",
    "ingested": "2026-11-17T09:50:27.375168+00:00",
    "headline": "Goldmans Sachs: France 2027 Outlook - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855441,
-   "ts": "2026-11-17T09:46:06+00:00",
-   "ingested": "2026-11-17T09:47:07.361946+00:00",
-   "headline": "Goldman Sachs: Oil - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
