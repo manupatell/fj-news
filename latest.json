@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T21:29:08.187697+00:00",
+ "updated": "2026-11-18T21:37:48.187107+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858614,
+   "ts": "2026-11-18T21:37:26+00:00",
+   "ingested": "2026-11-18T21:37:48.186567+00:00",
+   "headline": "Google CEO Pichai: Gemini 4 Neon begins rolling out today. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858601,
    "ts": "2026-11-18T21:28:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T16:05:00+00:00",
    "ingested": "2026-11-17T16:05:40.837116+00:00",
    "headline": "Downdetector reports issues with Gmail - $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856105,
-   "ts": "2026-11-17T16:03:32+00:00",
-   "ingested": "2026-11-17T16:05:00.863989+00:00",
-   "headline": "User reports show problems with Microsoft Outlook - Downdetector. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
