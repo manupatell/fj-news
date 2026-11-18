@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T17:59:42.680276+00:00",
+ "updated": "2026-11-18T18:01:22.644818+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858332,
+   "ts": "2026-11-18T18:00:27+00:00",
+   "ingested": "2026-11-18T18:01:22.644456+00:00",
+   "headline": "Treasury WI 20-Year yield 5.459% before $16 billion auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858327,
    "ts": "2026-11-18T17:48:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T13:58:04+00:00",
    "ingested": "2026-11-17T14:24:49.195624+00:00",
    "headline": "Anthropic is said to guide IPO price to top of range or above.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855862,
-   "ts": "2026-11-17T13:57:12+00:00",
-   "ingested": "2026-11-17T14:24:49.195636+00:00",
-   "headline": "US Redbook YoY Actual 9.5% (Forecast -, Previous 10.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
