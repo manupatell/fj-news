@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T16:06:42.612330+00:00",
+ "updated": "2026-11-18T16:08:52.641638+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858167,
+   "ts": "2026-11-18T16:07:26+00:00",
+   "ingested": "2026-11-18T16:08:52.641222+00:00",
+   "headline": "FBI Deputy Director: There is no indication whatsoever of any malicious cyber activity related to outages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858166,
    "ts": "2026-11-18T16:05:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T12:43:32+00:00",
    "ingested": "2026-11-17T14:24:49.196014+00:00",
    "headline": "Mexico's President Sheinbaum to have a bilateral meeting with Trump tomorrow - Reforma",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9855715,
-   "ts": "2026-11-17T12:31:29+00:00",
-   "ingested": "2026-11-17T14:24:49.196024+00:00",
-   "headline": "Fed's Musalem: Optimistic about above-trend GDP growth to continue",
    "channel": "rss",
    "source": "financialjuice"
   }
