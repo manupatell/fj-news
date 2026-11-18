@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T03:43:23.600230+00:00",
+ "updated": "2026-11-18T03:48:23.594831+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9857074,
+   "ts": "2026-11-18T03:48:01+00:00",
+   "ingested": "2026-11-18T03:48:23.594300+00:00",
+   "headline": "South Korean president in meeting with Xi: hope to collaborate for era of peaceful coexistence on Korean peninsula",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857073,
+   "ts": "2026-11-18T03:47:53+00:00",
+   "ingested": "2026-11-18T03:48:23.594341+00:00",
+   "headline": "South Korean president in meeting with Xi: peace and stability on Korean peninsula essential to mature development of strategic cooperative partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9857072,
+   "ts": "2026-11-18T03:47:43+00:00",
+   "ingested": "2026-11-18T03:48:23.594361+00:00",
+   "headline": "South Korean president in meeting with Xi: hope two countries further develop equal, mutually beneficial economic partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9857059,
    "ts": "2026-11-18T03:42:34+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-16T22:11:50+00:00",
    "ingested": "2026-11-16T23:02:03.205267+00:00",
    "headline": "Former CFPB Director Chopra: Investigating How AI Firms Forge Intimate User Bonds and Potential Breaches of Licensed Medical Practice Laws",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854585,
-   "ts": "2026-11-16T22:08:14+00:00",
-   "ingested": "2026-11-16T23:02:03.205281+00:00",
-   "headline": "California consumer watchdog Rohit Chopra: unsure if Federal Reserve considering AI related risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854584,
-   "ts": "2026-11-16T22:07:09+00:00",
-   "ingested": "2026-11-16T23:02:03.205296+00:00",
-   "headline": "California Consumer Watchdog Rohit Chopra: Major concern is strong connection between AI trade and real economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9854564,
-   "ts": "2026-11-16T21:48:36+00:00",
-   "ingested": "2026-11-16T23:02:03.205311+00:00",
-   "headline": "Nvidia cuts share stake in Synopsys by 9.7% to 4.4 mln shares - SEC filing. $NVDA $SNPS",
    "channel": "rss",
    "source": "financialjuice"
   }
