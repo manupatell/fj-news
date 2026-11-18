@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T21:18:48.217275+00:00",
+ "updated": "2026-11-18T21:20:08.187442+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858594,
+   "ts": "2026-11-18T21:19:49+00:00",
+   "ingested": "2026-11-18T21:20:08.186856+00:00",
+   "headline": "Fed's Kashkari: Elevated inflation has flowed from a series of supply shocks:",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858591,
    "ts": "2026-11-18T21:17:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T15:46:03+00:00",
    "ingested": "2026-11-17T15:46:30.784520+00:00",
    "headline": "Five to six explosions were heard in the city of Qeshm on Tuesday evening - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856060,
-   "ts": "2026-11-17T15:45:20+00:00",
-   "ingested": "2026-11-17T15:46:30.784541+00:00",
-   "headline": "Political Deputy of Hormozgan Governorate: The American attack on some places in Qeshm did not cause damage to residential, commercial, and infrastructure areas - IRNA",
    "channel": "rss",
    "source": "financialjuice"
   }
