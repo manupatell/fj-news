@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T02:09:44.400366+00:00",
+ "updated": "2026-11-19T02:11:24.551725+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859070,
+   "ts": "2026-11-19T02:10:18+00:00",
+   "ingested": "2026-11-19T02:11:24.551169+00:00",
+   "headline": "China's President Xi: cooperation in Asia-Pacific to focus on digital tech, cross-border data flow, clean energy and SMEs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859069,
+   "ts": "2026-11-19T02:09:35+00:00",
+   "ingested": "2026-11-19T02:11:24.551183+00:00",
+   "headline": "BoJ Governor Ueda: No current plan to reassess pace of bank's ETF sales",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859068,
    "ts": "2026-11-19T02:09:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T22:18:19+00:00",
    "ingested": "2026-11-17T22:33:33.631591+00:00",
    "headline": "Nvidia broadens commitments with supply chain partners to back AI infrastructure expansion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856585,
-   "ts": "2026-11-17T21:53:33+00:00",
-   "ingested": "2026-11-17T22:33:33.631605+00:00",
-   "headline": "Several explosions were heard in Kuwait - IRIB News citing Arabic media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856583,
-   "ts": "2026-11-17T21:50:45+00:00",
-   "ingested": "2026-11-17T22:33:33.631619+00:00",
-   "headline": "The Air raid warning siren sounded in US bases in Kuwait - Fars News",
    "channel": "rss",
    "source": "financialjuice"
   }
