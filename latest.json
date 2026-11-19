@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T19:41:42.587570+00:00",
+ "updated": "2026-11-19T19:43:22.582105+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860548,
+   "ts": "2026-11-19T19:42:37+00:00",
+   "ingested": "2026-11-19T19:43:22.581531+00:00",
+   "headline": "Majority of US Senate objects to resolution curbing Trump's Iran war powers, voting continues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860547,
    "ts": "2026-11-19T19:41:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T16:07:26+00:00",
    "ingested": "2026-11-18T16:08:52.641222+00:00",
    "headline": "FBI Deputy Director: There is no indication whatsoever of any malicious cyber activity related to outages",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858166,
-   "ts": "2026-11-18T16:05:41+00:00",
-   "ingested": "2026-11-18T16:06:42.611960+00:00",
-   "headline": "United States Secretary of Homeland Security Mullin: Not dealing with Nvidia and Huang; it's 'outside of my lane\u2019 $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
