@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:22:04.064934+00:00",
+ "updated": "2026-11-19T15:27:04.077589+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860132,
+   "ts": "2026-11-19T15:25:27+00:00",
+   "ingested": "2026-11-19T15:27:04.077137+00:00",
+   "headline": "Anthropic: We have always worked extremely well with the national security apparatus of the USA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860131,
    "ts": "2026-11-19T15:20:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T10:09:21+00:00",
    "ingested": "2026-11-18T12:43:19.472338+00:00",
    "headline": "EU's Von der Leyen: Loan consists of 20 bln for budget support and 25 bln for military needs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857567,
-   "ts": "2026-11-18T10:08:08+00:00",
-   "ingested": "2026-11-18T12:43:19.472352+00:00",
-   "headline": "EU's Von der Leyen: Loan to be repaid from future Russian war reparations",
    "channel": "rss",
    "source": "financialjuice"
   }
