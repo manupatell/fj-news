@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:27:04.077589+00:00",
+ "updated": "2026-11-19T15:30:24.055237+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860133,
+   "ts": "2026-11-19T15:30:01+00:00",
+   "ingested": "2026-11-19T15:30:24.054824+00:00",
+   "headline": "EIA Natural Gas Change BCF Actual 20B (Forecast 25B, Previous 61B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860132,
    "ts": "2026-11-19T15:25:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T10:31:27+00:00",
    "ingested": "2026-11-18T12:43:19.472321+00:00",
    "headline": "German 7 Yr Bund Yield Actual 3.27% (Forecast -, Previous 3.36%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857569,
-   "ts": "2026-11-18T10:09:21+00:00",
-   "ingested": "2026-11-18T12:43:19.472338+00:00",
-   "headline": "EU's Von der Leyen: Loan consists of 20 bln for budget support and 25 bln for military needs",
    "channel": "rss",
    "source": "financialjuice"
   }
