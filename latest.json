@@ -1,7 +1,263 @@
 {
- "updated": "2026-11-19T08:14:24.241047+00:00",
+ "updated": "2026-11-19T10:37:44.157643+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859703,
+   "ts": "2026-11-19T10:37:10+00:00",
+   "ingested": "2026-11-19T10:37:44.156549+00:00",
+   "headline": "Russia, US, China leaders joint statement due within hour - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859690,
+   "ts": "2026-11-19T10:24:12+00:00",
+   "ingested": "2026-11-19T10:37:44.156573+00:00",
+   "headline": "ECB's Nagel: An ECB rate hike would send clear signal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859689,
+   "ts": "2026-11-19T10:23:48+00:00",
+   "ingested": "2026-11-19T10:37:44.156591+00:00",
+   "headline": "TSMC, Samsung halt as applying for US commerce dept licences - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859688,
+   "ts": "2026-11-19T10:23:18+00:00",
+   "ingested": "2026-11-19T10:37:44.156606+00:00",
+   "headline": "ECB's Nagel: I don't see a wage-price spiral.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859687,
+   "ts": "2026-11-19T10:23:04+00:00",
+   "ingested": "2026-11-19T10:37:44.156621+00:00",
+   "headline": "TSMC, Samsung suspend some chip shipment to Chinese customers - FT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859686,
+   "ts": "2026-11-19T10:22:32+00:00",
+   "ingested": "2026-11-19T10:37:44.156635+00:00",
+   "headline": "ECB's Nagel: I am confident ECB will reach 2% inflation target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859667,
+   "ts": "2026-11-19T10:02:41+00:00",
+   "ingested": "2026-11-19T10:37:44.156650+00:00",
+   "headline": "Moonshot AI ends $150m Indonesia NVIDIA chips deal - Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859661,
+   "ts": "2026-11-19T10:00:36+00:00",
+   "ingested": "2026-11-19T10:37:44.156665+00:00",
+   "headline": "Goldman Sachs: ASEAN - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859658,
+   "ts": "2026-11-19T10:00:01+00:00",
+   "ingested": "2026-11-19T10:37:44.156680+00:00",
+   "headline": "Eurozone Construction Output MoM Actual 0.1% (Forecast -, Previous 1.85%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859657,
+   "ts": "2026-11-19T09:59:38+00:00",
+   "ingested": "2026-11-19T10:37:44.156694+00:00",
+   "headline": "French 4 Yr OAT Yield Actual 4.09% (Forecast -, Previous 4.01%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859656,
+   "ts": "2026-11-19T09:59:38+00:00",
+   "ingested": "2026-11-19T10:37:44.156708+00:00",
+   "headline": "French 4 Yr OAT Bid-to-Cover Actual 2.83 (Forecast -, Previous 2.32)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859655,
+   "ts": "2026-11-19T09:59:27+00:00",
+   "ingested": "2026-11-19T10:37:44.156721+00:00",
+   "headline": "Iran: 2 tankers hit mine in Eastern Hormuz - Fars",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859654,
+   "ts": "2026-11-19T09:58:32+00:00",
+   "ingested": "2026-11-19T10:37:44.156735+00:00",
+   "headline": "French 8 Yr Bid-to-Cover Actual 3.053 (Forecast -, Previous 2.69)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859653,
+   "ts": "2026-11-19T09:58:32+00:00",
+   "ingested": "2026-11-19T10:37:44.156753+00:00",
+   "headline": "French 5 Yr OAT Yield Actual 4.26% (Forecast -, Previous 4.16%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859652,
+   "ts": "2026-11-19T09:58:32+00:00",
+   "ingested": "2026-11-19T10:37:44.156767+00:00",
+   "headline": "French 5 Yr OAT Bid-to-Cover Actual 2.819 (Forecast -, Previous 2.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859651,
+   "ts": "2026-11-19T09:58:31+00:00",
+   "ingested": "2026-11-19T10:37:44.156779+00:00",
+   "headline": "French 8 Yr OAT Yield Actual 4.67% (Forecast -, Previous 3.88%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859595,
+   "ts": "2026-11-19T09:07:21+00:00",
+   "ingested": "2026-11-19T10:37:44.156791+00:00",
+   "headline": "Xi: China, US, Russia should be partners, friends.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859594,
+   "ts": "2026-11-19T09:07:02+00:00",
+   "ingested": "2026-11-19T10:37:44.156804+00:00",
+   "headline": "Xi: China, US, Russia should set up crisis prevention mechanism.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859593,
+   "ts": "2026-11-19T09:03:38+00:00",
+   "ingested": "2026-11-19T10:37:44.156818+00:00",
+   "headline": "Xi, to Putin, Trump: nuclear weapons should be comprehensively banned and thoroughly destroyed, building nuclear-free world - Xinhua.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859592,
+   "ts": "2026-11-19T09:03:13+00:00",
+   "ingested": "2026-11-19T10:37:44.156849+00:00",
+   "headline": "Xi: Nuclear war cannot be won and must never be fought.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859583,
+   "ts": "2026-11-19T09:01:07+00:00",
+   "ingested": "2026-11-19T10:37:44.156880+00:00",
+   "headline": "Eurozone Current Account NSA Actual 27.50B (Forecast -, Previous 7.70B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859582,
+   "ts": "2026-11-19T09:00:43+00:00",
+   "ingested": "2026-11-19T10:37:44.156899+00:00",
+   "headline": "ECB: 96% of supervised banks received medium-high risk scores on operational and IT risk.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859576,
+   "ts": "2026-11-19T09:00:10+00:00",
+   "ingested": "2026-11-19T10:37:44.156912+00:00",
+   "headline": "Eurozone Current Account Actual 12.474B (Forecast -, Previous 8.709B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859575,
+   "ts": "2026-11-19T08:59:42+00:00",
+   "ingested": "2026-11-19T10:37:44.156925+00:00",
+   "headline": "Tiktok to attend US House committee roundtable December 15 - Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859555,
+   "ts": "2026-11-19T08:38:31+00:00",
+   "ingested": "2026-11-19T10:37:44.156938+00:00",
+   "headline": "Trump: It's very hard to give nuclear weapons up.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859554,
+   "ts": "2026-11-19T08:38:15+00:00",
+   "ingested": "2026-11-19T10:37:44.156951+00:00",
+   "headline": "Trump: We're positioned to discuss reducing nuclear weapons.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859553,
+   "ts": "2026-11-19T08:36:40+00:00",
+   "ingested": "2026-11-19T10:37:44.156963+00:00",
+   "headline": "Trump: We've already discussed a lot.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859552,
+   "ts": "2026-11-19T08:36:00+00:00",
+   "ingested": "2026-11-19T10:37:44.156976+00:00",
+   "headline": "Putin: We should discuss global and regional ties, as well as energy security - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859510,
+   "ts": "2026-11-19T08:16:15+00:00",
+   "ingested": "2026-11-19T10:37:44.156989+00:00",
+   "headline": "Xi: To boost communication in trade, AI with US - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859506,
+   "ts": "2026-11-19T08:15:14+00:00",
+   "ingested": "2026-11-19T10:37:44.157001+00:00",
+   "headline": "Xi: US, China to cooperate to address AI safety risks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859505,
+   "ts": "2026-11-19T08:14:55+00:00",
+   "ingested": "2026-11-19T10:37:44.157015+00:00",
+   "headline": "Xi, in meeting with Trump: China, US agree to formulate action plan for constructive strategic stable relationship.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859504,
+   "ts": "2026-11-19T08:14:17+00:00",
+   "ingested": "2026-11-19T10:37:44.157027+00:00",
+   "headline": "Xi calls for more cooperation, fewer disputes with US - Xinhua.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859503,
    "ts": "2026-11-19T08:13:55+00:00",
@@ -3743,262 +3999,6 @@
    "ts": "2026-11-18T05:18:44+00:00",
    "ingested": "2026-11-18T05:20:25.818945+00:00",
    "headline": "Canada foreign minister on Chinese EVs: not meeting automakers during China visit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857167,
-   "ts": "2026-11-18T05:18:44+00:00",
-   "ingested": "2026-11-18T05:20:25.818960+00:00",
-   "headline": "Canada foreign minister on Chinese energy cooperation: will ensure safeguards in place",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857166,
-   "ts": "2026-11-18T05:18:44+00:00",
-   "ingested": "2026-11-18T05:20:25.818974+00:00",
-   "headline": "Shenzhen-Canada foreign minister on China safety: engaging while safeguarding nationals at every step",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857165,
-   "ts": "2026-11-18T05:18:36+00:00",
-   "ingested": "2026-11-18T05:20:25.818988+00:00",
-   "headline": "Australia dollar drops to $0.6718, weakest since Jan. 19",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857151,
-   "ts": "2026-11-18T05:15:00+00:00",
-   "ingested": "2026-11-18T05:15:25.818995+00:00",
-   "headline": "Australia dollar declines 0.25% to $0.6718",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857114,
-   "ts": "2026-11-18T04:44:02+00:00",
-   "ingested": "2026-11-18T04:45:25.823735+00:00",
-   "headline": "China's President Xi: we should guide and promote the move toward a multipolar world",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857113,
-   "ts": "2026-11-18T04:43:42+00:00",
-   "ingested": "2026-11-18T04:45:25.823756+00:00",
-   "headline": "China's President Xi: we must adopt more tangible steps to enhance comprehensive cooperation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857112,
-   "ts": "2026-11-18T04:43:31+00:00",
-   "ingested": "2026-11-18T04:43:45.815163+00:00",
-   "headline": "China\u2019s President Xi: China-Russia ties stayed resilient through challenges with a long-term perspective",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857097,
-   "ts": "2026-11-18T04:21:39+00:00",
-   "ingested": "2026-11-18T04:22:05.798158+00:00",
-   "headline": "Saudi-led coalition: intercepts cruise missile fired by Yemen's Houthis toward Riyadh region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857089,
-   "ts": "2026-11-18T04:14:17+00:00",
-   "ingested": "2026-11-18T04:15:25.829455+00:00",
-   "headline": "Russia-China foreign policy partnership on international stage working steadily: IFAX quotes Putin",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857080,
-   "ts": "2026-11-18T04:01:11+00:00",
-   "ingested": "2026-11-18T04:01:23.665116+00:00",
-   "headline": "China's Xi meets Russian President Putin in Shenzhen: Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857076,
-   "ts": "2026-11-18T03:59:05+00:00",
-   "ingested": "2026-11-18T03:59:43.698237+00:00",
-   "headline": "Iranian army: targeted US drone and missile sites at Kuwait's Ali Al Salem base - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857075,
-   "ts": "2026-11-18T03:48:51+00:00",
-   "ingested": "2026-11-18T03:50:03.594783+00:00",
-   "headline": "South Korean president in meeting with Xi: hope both nations continue efforts that bring people closer, such as introducing pandas",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857074,
-   "ts": "2026-11-18T03:48:01+00:00",
-   "ingested": "2026-11-18T03:48:23.594300+00:00",
-   "headline": "South Korean president in meeting with Xi: hope to collaborate for era of peaceful coexistence on Korean peninsula",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857073,
-   "ts": "2026-11-18T03:47:53+00:00",
-   "ingested": "2026-11-18T03:48:23.594341+00:00",
-   "headline": "South Korean president in meeting with Xi: peace and stability on Korean peninsula essential to mature development of strategic cooperative partnership",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857072,
-   "ts": "2026-11-18T03:47:43+00:00",
-   "ingested": "2026-11-18T03:48:23.594361+00:00",
-   "headline": "South Korean president in meeting with Xi: hope two countries further develop equal, mutually beneficial economic partnership",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857059,
-   "ts": "2026-11-18T03:42:34+00:00",
-   "ingested": "2026-11-18T03:43:23.599825+00:00",
-   "headline": "Xi to South Korean President: China prepared to uphold stability and smooth functioning of global industrial and supply chains with South Korea - pool report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857058,
-   "ts": "2026-11-18T03:41:08+00:00",
-   "ingested": "2026-11-18T03:41:43.612443+00:00",
-   "headline": "Democratic challenger Mary Peltola defeats Republican incumbent Dan Sullivan in Alaska US Senate race: AP projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857057,
-   "ts": "2026-11-18T03:41:06+00:00",
-   "ingested": "2026-11-18T03:41:43.612465+00:00",
-   "headline": "Russia's Putin at APEC CEO summit: anticipates significant gain from Trump, Xi meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857056,
-   "ts": "2026-11-18T03:39:52+00:00",
-   "ingested": "2026-11-18T03:40:03.642414+00:00",
-   "headline": "Russia's Putin at APEC CEO Summit: partnership over isolation vital, APEC enables constructive dialogue",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857055,
-   "ts": "2026-11-18T03:39:13+00:00",
-   "ingested": "2026-11-18T03:39:53.593272+00:00",
-   "headline": "Russia's Putin at APEC CEO summit: Russia is broadening eastern logistics to enhance cooperation with APEC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857054,
-   "ts": "2026-11-18T03:39:13+00:00",
-   "ingested": "2026-11-18T03:39:53.593293+00:00",
-   "headline": "China finance ministry offers 3-month bills at 1.1061% yield: traders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857053,
-   "ts": "2026-11-18T03:39:02+00:00",
-   "ingested": "2026-11-18T03:39:53.593310+00:00",
-   "headline": "I at APEC CEO summit: artificial barriers raise costs, Europe impacted by sanctions on Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857052,
-   "ts": "2026-11-18T03:39:02+00:00",
-   "ingested": "2026-11-18T03:39:53.593348+00:00",
-   "headline": "Russia's Putin at APEC CEO summit: APEC a key partner for Russia, ready to broaden cooperation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857051,
-   "ts": "2026-11-18T03:39:02+00:00",
-   "ingested": "2026-11-18T03:39:53.593367+00:00",
-   "headline": "China finance ministry auctions 7-year special treasury bonds at 1.40% yield: traders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857050,
-   "ts": "2026-11-18T03:39:02+00:00",
-   "ingested": "2026-11-18T03:39:53.593385+00:00",
-   "headline": "Russia\u2019s Putin at APEC CEO summit: Russia ready to broaden food, fertilizer export markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857049,
-   "ts": "2026-11-18T03:35:38+00:00",
-   "ingested": "2026-11-18T03:36:13.595442+00:00",
-   "headline": "Russia's Putin at APEC CEO summit: US dollar share in Russian trade has dropped sharply",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857048,
-   "ts": "2026-11-18T03:35:38+00:00",
-   "ingested": "2026-11-18T03:36:13.595463+00:00",
-   "headline": "At APEC CEO Summit, Russia is ready to broaden food and fertilizer export markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857047,
-   "ts": "2026-11-18T03:34:03+00:00",
-   "ingested": "2026-11-18T03:35:43.585716+00:00",
-   "headline": "At APEC CEO summit: Russia broadening eastern logistics to enhance cooperation with APEC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857046,
-   "ts": "2026-11-18T03:32:12+00:00",
-   "ingested": "2026-11-18T03:32:23.606150+00:00",
-   "headline": "At APEC CEO summit: former hegemonies attempt to stifle other countries' growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857045,
-   "ts": "2026-11-18T03:32:12+00:00",
-   "ingested": "2026-11-18T03:32:23.606172+00:00",
-   "headline": "At APEC CEO summit: APEC a key partner for Russia, says 'we are ready to expand cooperation'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857043,
-   "ts": "2026-11-18T03:30:33+00:00",
-   "ingested": "2026-11-18T03:32:23.606188+00:00",
-   "headline": "At APEC CEO summit: US dollar share in Russian trade plunges sharply",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857041,
-   "ts": "2026-11-18T03:28:51+00:00",
-   "ingested": "2026-11-18T03:29:03.626795+00:00",
-   "headline": "Russia's Putin at APEC CEO summit: former hegemonies attempt to suppress development of other countries",
    "channel": "rss",
    "source": "financialjuice"
   }
