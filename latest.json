@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T03:04:24.183270+00:00",
+ "updated": "2026-11-19T03:09:24.178526+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859153,
+   "ts": "2026-11-19T03:07:57+00:00",
+   "ingested": "2026-11-19T03:09:24.178050+00:00",
+   "headline": "BoJ Governor Ueda: bank of Japan's JGB holdings likely to decline steadily as purchases taper",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859151,
    "ts": "2026-11-19T03:03:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T00:08:18+00:00",
    "ingested": "2026-11-18T00:09:03.524612+00:00",
    "headline": "Anthropic backers Sequoia Capital, Iconiq and others plan to acquire billions in Shai",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856746,
-   "ts": "2026-11-18T00:08:17+00:00",
-   "ingested": "2026-11-18T00:09:03.524630+00:00",
-   "headline": "res in Anthropic's IPO",
    "channel": "rss",
    "source": "financialjuice"
   }
