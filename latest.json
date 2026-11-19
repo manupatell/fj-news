@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T02:34:04.436299+00:00",
+ "updated": "2026-11-19T02:41:04.216633+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859115,
+   "ts": "2026-11-19T02:40:38+00:00",
+   "ingested": "2026-11-19T02:41:04.216242+00:00",
+   "headline": "S.Korea President Lee hopes reopening dialogue with North Korea will evolve into talks to establish peace and end war in Korean peninsula: Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859114,
    "ts": "2026-11-19T02:33:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T23:49:35+00:00",
    "ingested": "2026-11-17T23:50:43.531174+00:00",
    "headline": "Nvidia interim CEO Kress: we want to focus on expanding our business now - CNBC interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856693,
-   "ts": "2026-11-17T23:46:21+00:00",
-   "ingested": "2026-11-17T23:47:23.524816+00:00",
-   "headline": "Nvidia interim CEO Kress: idea that anything is shifting in our customer base is false - CNBC interview",
    "channel": "rss",
    "source": "financialjuice"
   }
