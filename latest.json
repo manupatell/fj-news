@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T11:53:21.765283+00:00",
+ "updated": "2026-11-19T12:01:41.737051+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859795,
+   "ts": "2026-11-19T12:01:13+00:00",
+   "ingested": "2026-11-19T12:01:41.736597+00:00",
+   "headline": "$WMT Walmart Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859759,
    "ts": "2026-11-19T11:31:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T05:56:53+00:00",
    "ingested": "2026-11-18T05:57:05.823863+00:00",
    "headline": "China oct survey-based unemployment rate for 16-24 year olds excluding college students at 17.2%: stats bureau",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857196,
-   "ts": "2026-11-18T05:56:48+00:00",
-   "ingested": "2026-11-18T05:57:05.823884+00:00",
-   "headline": "Canada's PM Carney: China, Canada can respond decisively in times of financial strain",
    "channel": "rss",
    "source": "financialjuice"
   }
