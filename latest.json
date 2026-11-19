@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T04:12:44.232323+00:00",
+ "updated": "2026-11-19T04:14:24.193578+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859204,
+   "ts": "2026-11-19T04:14:05+00:00",
+   "ingested": "2026-11-19T04:14:24.193148+00:00",
+   "headline": "India economic affairs secy: inflation not worrying yet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859203,
    "ts": "2026-11-19T04:12:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T00:39:19+00:00",
    "ingested": "2026-11-18T00:40:43.545997+00:00",
    "headline": "Former Nvidia CEO Jensen Huang agrees to testify before Senate banking panel - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856758,
-   "ts": "2026-11-18T00:30:04+00:00",
-   "ingested": "2026-11-18T00:30:43.551552+00:00",
-   "headline": "Australia Q3 wage price index rises 3.5% y/y, seasonally adjusted (Poll 3.3%)",
    "channel": "rss",
    "source": "financialjuice"
   }
