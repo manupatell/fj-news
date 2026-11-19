@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-19T00:29:28.250220+00:00",
+ "updated": "2026-11-19T00:31:08.246015+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858808,
+   "ts": "2026-11-19T00:30:05+00:00",
+   "ingested": "2026-11-19T00:31:08.245540+00:00",
+   "headline": "Australia October employment drops 43.5k seasonally adjusted versus poll of +25.0k",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858807,
+   "ts": "2026-11-19T00:30:04+00:00",
+   "ingested": "2026-11-19T00:31:08.245554+00:00",
+   "headline": "Australia Oct participation rate rises 66.6%, seasonally adjusted poll shows 66.8%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858806,
+   "ts": "2026-11-19T00:30:04+00:00",
+   "ingested": "2026-11-19T00:31:08.245564+00:00",
+   "headline": "Australia October unemployment rate rises 4.9%, poll expected 4.7%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858805,
+   "ts": "2026-11-19T00:30:04+00:00",
+   "ingested": "2026-11-19T00:31:08.245574+00:00",
+   "headline": "Australia October full-time jobs slip 2,900 seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858804,
+   "ts": "2026-11-19T00:30:02+00:00",
+   "ingested": "2026-11-19T00:31:08.245583+00:00",
+   "headline": "Australian Employment Change Actual -43.5k (Forecast 25k, Previous -39.3k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858803,
+   "ts": "2026-11-19T00:30:01+00:00",
+   "ingested": "2026-11-19T00:31:08.245592+00:00",
+   "headline": "Australian Unemployment Rate Actual 4.9% (Forecast 4.7%, Previous 4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858802,
+   "ts": "2026-11-19T00:30:01+00:00",
+   "ingested": "2026-11-19T00:31:08.245600+00:00",
+   "headline": "Australian Participation Rate Actual 66.6% (Forecast 66.8%, Previous 66.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858801,
+   "ts": "2026-11-19T00:30:01+00:00",
+   "ingested": "2026-11-19T00:31:08.245609+00:00",
+   "headline": "Australian Full Time Employment Chg. Actual -2.9k (Forecast -, Previous 34.4k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858800,
    "ts": "2026-11-19T00:18:27+00:00",
@@ -3935,70 +3999,6 @@
    "ts": "2026-11-17T19:14:48+00:00",
    "ingested": "2026-11-17T19:15:00.929100+00:00",
    "headline": "Apple working to get systems online as soon as possible. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856332,
-   "ts": "2026-11-17T19:14:22+00:00",
-   "ingested": "2026-11-17T19:15:00.929119+00:00",
-   "headline": "Apple suffered outages this morning after internal update. Outage wasn't caused by cyberattack $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856331,
-   "ts": "2026-11-17T19:14:00+00:00",
-   "ingested": "2026-11-17T19:15:00.929135+00:00",
-   "headline": "Nvidia contacted 3 robotics startups it backs to reassure them of its support after Huang resignation - Business Insider. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856330,
-   "ts": "2026-11-17T19:13:43+00:00",
-   "ingested": "2026-11-17T19:14:00.904142+00:00",
-   "headline": "Apple: All users are impacted by ongoing iCloud Account & Sign In service issue. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856329,
-   "ts": "2026-11-17T19:11:06+00:00",
-   "ingested": "2026-11-17T19:12:00.984243+00:00",
-   "headline": "NSA: While some internal systems were affected, mission-critical capabilities remain fully operational and ability to defend national security continues.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856328,
-   "ts": "2026-11-17T19:10:57+00:00",
-   "ingested": "2026-11-17T19:12:00.984259+00:00",
-   "headline": "NSA: NSA experienced temporary degradation during scheduled routine maintenance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856327,
-   "ts": "2026-11-17T19:10:36+00:00",
-   "ingested": "2026-11-17T19:11:00.902236+00:00",
-   "headline": "Salesforce is setting AI budgets for employees - Business Insider. $CRM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856325,
-   "ts": "2026-11-17T19:02:39+00:00",
-   "ingested": "2026-11-17T19:04:00.848385+00:00",
-   "headline": "A senior source tells Al Arabiya: The diplomatic track between the US and Iran has not seen a breakthrough so far.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856285,
-   "ts": "2026-11-17T18:42:25+00:00",
-   "ingested": "2026-11-17T18:43:50.868043+00:00",
-   "headline": "California AG: The NVIDIA scandal has raised red flags. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
