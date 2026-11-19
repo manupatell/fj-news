@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T05:01:04.204420+00:00",
+ "updated": "2026-11-19T05:06:04.211383+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859273,
+   "ts": "2026-11-19T05:05:03+00:00",
+   "ingested": "2026-11-19T05:06:04.210932+00:00",
+   "headline": "JBIC chair: seeks larger Japanese role in selecting projects under $550 billion U.S. initiative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859272,
+   "ts": "2026-11-19T05:04:52+00:00",
+   "ingested": "2026-11-19T05:06:04.210947+00:00",
+   "headline": "Putin tells Trump: pleased to meet him - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859244,
    "ts": "2026-11-19T05:00:38+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T01:07:57+00:00",
    "ingested": "2026-11-18T01:08:23.550155+00:00",
    "headline": "BoJ Governor Ueda: financial conditions still accommodative",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856801,
-   "ts": "2026-11-18T01:07:37+00:00",
-   "ingested": "2026-11-18T01:08:23.550176+00:00",
-   "headline": "BoJ Governor Ueda: will keep raising policy rate based on economic, price, financial trends",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856800,
-   "ts": "2026-11-18T01:07:33+00:00",
-   "ingested": "2026-11-18T01:08:23.550193+00:00",
-   "headline": "US Secretary of State Rubio: no proof outages are linked",
    "channel": "rss",
    "source": "financialjuice"
   }
