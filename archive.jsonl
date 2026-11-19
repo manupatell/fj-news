@@ -25540,3 +25540,7 @@
 {"guid": 9860513, "ts": "2026-11-19T19:30:50+00:00", "ingested": "2026-11-19T19:31:42.977426+00:00", "headline": "NYMEX WTI crude futures settle at $83.21 a barrel, down 5 cents, 0.06%", "channel": "rss", "source": "financialjuice"}
 {"guid": 9860514, "ts": "2026-11-19T19:31:00+00:00", "ingested": "2026-11-19T19:31:42.977415+00:00", "headline": "NYMEX diesel Dec. futures settle at $3.9514 a gallon", "channel": "rss", "source": "financialjuice"}
 {"guid": 9860515, "ts": "2026-11-19T19:31:12+00:00", "ingested": "2026-11-19T19:31:42.977402+00:00", "headline": "NYMEX gasoline Dec. futures settle at $2.4951 a gallon", "channel": "rss", "source": "financialjuice"}
+{"guid": 9860516, "ts": "2026-11-19T19:31:39+00:00", "ingested": "2026-11-19T19:33:22.584876+00:00", "headline": "NYMEX Nat Gas Dec. futures settle at $3.2680/MMBtu", "channel": "rss", "source": "financialjuice"}
+{"guid": 9860528, "ts": "2026-11-19T19:32:27+00:00", "ingested": "2026-11-19T19:33:22.584867+00:00", "headline": "Honeywell and GE Aerospace cited in House China Panel report. $GE $HON", "channel": "rss", "source": "financialjuice"}
+{"guid": 9860529, "ts": "2026-11-19T19:32:44+00:00", "ingested": "2026-11-19T19:33:22.584858+00:00", "headline": "Fed's Barr: disclosed differences over banking oversight", "channel": "rss", "source": "financialjuice"}
+{"guid": 9860532, "ts": "2026-11-19T19:33:03+00:00", "ingested": "2026-11-19T19:33:22.584846+00:00", "headline": "Fed's Barr: more focused on long-term challenges with bank rules", "channel": "rss", "source": "financialjuice"}
