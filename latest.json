@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T01:19:44.389133+00:00",
+ "updated": "2026-11-19T01:23:04.424253+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858884,
+   "ts": "2026-11-19T01:22:29+00:00",
+   "ingested": "2026-11-19T01:23:04.423779+00:00",
+   "headline": "China cbank injects 767.5 billion yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858883,
    "ts": "2026-11-19T01:17:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T19:28:48+00:00",
    "ingested": "2026-11-17T19:30:00.886379+00:00",
    "headline": "US Official: Strike at Qeshm was in self-defense - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856361,
-   "ts": "2026-11-17T19:28:06+00:00",
-   "ingested": "2026-11-17T19:28:20.891682+00:00",
-   "headline": "Google: Aren\u2019t currently seeing evidence of a broad Gmail service disruption. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
