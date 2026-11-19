@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T01:02:54.377561+00:00",
+ "updated": "2026-11-19T01:04:44.377619+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858859,
+   "ts": "2026-11-19T01:03:27+00:00",
+   "ingested": "2026-11-19T01:04:44.377174+00:00",
+   "headline": "BoJ Governor Ueda: Japan's economy steady but showing some fragility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858858,
+   "ts": "2026-11-19T01:02:54+00:00",
+   "ingested": "2026-11-19T01:04:44.377189+00:00",
+   "headline": "Saudi Crown Prince and US Centcom Chief discuss military relations and regional issues in Riyadh: Saudi State News Agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858841,
    "ts": "2026-11-19T01:01:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T19:25:48+00:00",
    "ingested": "2026-11-17T19:26:10.908916+00:00",
    "headline": "Fed's Williams: Inflation is stubbornly high.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856354,
-   "ts": "2026-11-17T19:25:36+00:00",
-   "ingested": "2026-11-17T19:26:10.908937+00:00",
-   "headline": "US Military Official: US fighter aircraft struck an IRGC missile launch site on Qeshm island.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856353,
-   "ts": "2026-11-17T19:24:43+00:00",
-   "ingested": "2026-11-17T19:25:10.875497+00:00",
-   "headline": "Fed's Williams: Fed still has more work to do to get inflation back to 2%.",
    "channel": "rss",
    "source": "financialjuice"
   }
