@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T01:51:24.405244+00:00",
+ "updated": "2026-11-19T01:53:04.405980+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858933,
+   "ts": "2026-11-19T01:52:49+00:00",
+   "ingested": "2026-11-19T01:53:04.405497+00:00",
+   "headline": "BoJ Governor Ueda: difficult to determine response if weak domestic demand and yen decline coexist",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858932,
+   "ts": "2026-11-19T01:51:55+00:00",
+   "ingested": "2026-11-19T01:53:04.405510+00:00",
+   "headline": "Loud explosion heard in Saudi capital Riyadh: witness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858931,
    "ts": "2026-11-19T01:49:44+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T19:44:34+00:00",
    "ingested": "2026-11-17T19:45:21.307182+00:00",
    "headline": "Fed's Williams: Fed will get inflation back to 2% in a timely manner.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856385,
-   "ts": "2026-11-17T19:44:03+00:00",
-   "ingested": "2026-11-17T19:45:21.307194+00:00",
-   "headline": "SpaceX CFO: Anthropic will need a lot more compute. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856384,
-   "ts": "2026-11-17T19:41:51+00:00",
-   "ingested": "2026-11-17T19:43:41.313784+00:00",
-   "headline": "Explosion of the third offending vessel in the Strait of Hormuz - Tasnim News",
    "channel": "rss",
    "source": "financialjuice"
   }
