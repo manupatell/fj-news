@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-19T23:33:28.450123+00:00",
+ "updated": "2026-11-19T23:39:48.583255+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860823,
+   "ts": "2026-11-19T23:39:08+00:00",
+   "ingested": "2026-11-19T23:39:48.582700+00:00",
+   "headline": "Fed's Paulson: monetary policy forward guidance less useful in normal periods",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860822,
+   "ts": "2026-11-19T23:39:07+00:00",
+   "ingested": "2026-11-19T23:39:48.582714+00:00",
+   "headline": "Fed's Paulson: usefulness of rate path guidance varies with circumstances",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860821,
+   "ts": "2026-11-19T23:39:07+00:00",
+   "ingested": "2026-11-19T23:39:48.582724+00:00",
+   "headline": "Fed's Paulson: Public needs to grasp rationale behind Fed's actions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860820,
+   "ts": "2026-11-19T23:39:07+00:00",
+   "ingested": "2026-11-19T23:39:48.582734+00:00",
+   "headline": "Fed's Paulson: does not comment on near-term monetary policy outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860819,
+   "ts": "2026-11-19T23:39:07+00:00",
+   "ingested": "2026-11-19T23:39:48.582742+00:00",
+   "headline": "Fed's Paulson: Fed communications need to be clear on perspectives",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860804,
    "ts": "2026-11-19T23:31:53+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-18T19:01:30+00:00",
    "ingested": "2026-11-18T20:55:38.339604+00:00",
    "headline": "Fed Minutes: Participants had extensive discussion of issues around the AI buildout, including implications for financial stability and potential productivity gains.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858413,
-   "ts": "2026-11-18T19:01:20+00:00",
-   "ingested": "2026-11-18T20:55:38.339614+00:00",
-   "headline": "Fed Minutes: A few participants who supported no change in rates indicated the decision was a close call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858412,
-   "ts": "2026-11-18T19:01:17+00:00",
-   "ingested": "2026-11-18T20:55:38.339623+00:00",
-   "headline": "Fed staff inflation forecast was similar to one prepared for September meeting, economic growth outlook a little stronger.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858411,
-   "ts": "2026-11-18T19:01:11+00:00",
-   "ingested": "2026-11-18T20:55:38.339637+00:00",
-   "headline": "Fed Minutes: Many participants stressed the importance of communicating that the decision not to hike was not a weakening of their commitment to returning inflation to the 2% target in a timely manner",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858410,
-   "ts": "2026-11-18T19:01:04+00:00",
-   "ingested": "2026-11-18T20:55:38.339645+00:00",
-   "headline": "Fed: Almost all officials saw further action likely appropriate.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858409,
-   "ts": "2026-11-18T19:00:54+00:00",
-   "ingested": "2026-11-18T20:55:38.339654+00:00",
-   "headline": "Fed: Couple said December hike more than 25 BPS may be warranted",
    "channel": "rss",
    "source": "financialjuice"
   }
