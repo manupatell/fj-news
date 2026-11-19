@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T05:26:04.203517+00:00",
+ "updated": "2026-11-19T05:29:24.203029+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859297,
+   "ts": "2026-11-19T05:29:12+00:00",
+   "ingested": "2026-11-19T05:29:24.202605+00:00",
+   "headline": "Russia targets power stations in Odesa region and Sumy: IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859296,
+   "ts": "2026-11-19T05:28:33+00:00",
+   "ingested": "2026-11-19T05:29:24.202620+00:00",
+   "headline": "Russia strikes infrastructure in Ukraine's Chornomorsk port: RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859273,
    "ts": "2026-11-19T05:05:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T01:10:49+00:00",
    "ingested": "2026-11-18T01:11:43.548927+00:00",
    "headline": "BoJ Governor Ueda: effect of food consumption tax reduction likely to remain limited",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856803,
-   "ts": "2026-11-18T01:08:36+00:00",
-   "ingested": "2026-11-18T01:10:03.590542+00:00",
-   "headline": "US Secretary of State Rubio: no proof these incidents involve hostile actors",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856802,
-   "ts": "2026-11-18T01:07:57+00:00",
-   "ingested": "2026-11-18T01:08:23.550155+00:00",
-   "headline": "BoJ Governor Ueda: financial conditions still accommodative",
    "channel": "rss",
    "source": "financialjuice"
   }
