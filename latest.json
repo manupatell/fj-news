@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T12:41:41.810385+00:00",
+ "updated": "2026-11-19T12:45:01.777206+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859857,
+   "ts": "2026-11-19T12:43:52+00:00",
+   "ingested": "2026-11-19T12:45:01.776636+00:00",
+   "headline": "Canadian Business Barometer Actual 57.33 (Forecast -, Previous 50.00)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859835,
    "ts": "2026-11-19T12:29:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T06:28:42+00:00",
    "ingested": "2026-11-18T06:29:05.570827+00:00",
    "headline": "Adnoc: A vessel attacked while transiting Hormuz November 17.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857218,
-   "ts": "2026-11-18T06:16:05+00:00",
-   "ingested": "2026-11-18T06:20:25.846689+00:00",
-   "headline": "New Zealand Annual Trade Bal. Actual -6.18B (Forecast -, Previous -5.61B)",
    "channel": "rss",
    "source": "financialjuice"
   }
