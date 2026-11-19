@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T07:57:44.233511+00:00",
+ "updated": "2026-11-19T08:02:44.249012+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859494,
+   "ts": "2026-11-19T08:01:18+00:00",
+   "ingested": "2026-11-19T08:02:44.248577+00:00",
+   "headline": "Currency Strength Chart: Strongest: NZD, EUR, GBP, CHF, CAD, USD, AUD, JPY - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859491,
    "ts": "2026-11-19T07:56:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T03:28:42+00:00",
    "ingested": "2026-11-18T03:29:03.626816+00:00",
    "headline": "Russia's Putin at APEC CEO summit: artificial barriers raise costs, Europe is suffering",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857039,
-   "ts": "2026-11-18T03:20:59+00:00",
-   "ingested": "2026-11-18T03:21:23.590102+00:00",
-   "headline": "Taiwan presidential office on upcoming China-US-Russia meeting: Taiwan\u2019s stance remains consistent to bolster self-defense and strive to maintain the status quo",
    "channel": "rss",
    "source": "financialjuice"
   }
