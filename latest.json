@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T14:53:24.047931+00:00",
+ "updated": "2026-11-19T15:01:44.046841+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860094,
+   "ts": "2026-11-19T15:00:38+00:00",
+   "ingested": "2026-11-19T15:01:44.046413+00:00",
+   "headline": "US Leading Index Change MoM Actual -0.3% (Forecast 0%, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860089,
    "ts": "2026-11-19T14:52:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T09:54:28+00:00",
    "ingested": "2026-11-18T12:43:19.472420+00:00",
    "headline": "Xi says he is looking forward to hold talks with trump - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857539,
-   "ts": "2026-11-18T09:51:17+00:00",
-   "ingested": "2026-11-18T09:51:45.587610+00:00",
-   "headline": "ING: The GBP - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
