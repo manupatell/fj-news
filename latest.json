@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-19T02:04:44.397989+00:00",
+ "updated": "2026-11-19T02:06:24.394679+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859061,
+   "ts": "2026-11-19T02:05:59+00:00",
+   "ingested": "2026-11-19T02:06:24.394154+00:00",
+   "headline": "China's President Xi: regional data management should be enhanced",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859060,
+   "ts": "2026-11-19T02:05:52+00:00",
+   "ingested": "2026-11-19T02:06:24.394166+00:00",
+   "headline": "Taiwan shares fall over 3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859059,
+   "ts": "2026-11-19T02:05:47+00:00",
+   "ingested": "2026-11-19T02:06:24.394178+00:00",
+   "headline": "China's President Xi: should build innovative pillars with digital economy as drivers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859058,
+   "ts": "2026-11-19T02:05:16+00:00",
+   "ingested": "2026-11-19T02:06:24.394187+00:00",
+   "headline": "China's President Xi: should advance intelligent customs systems",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859057,
+   "ts": "2026-11-19T02:04:49+00:00",
+   "ingested": "2026-11-19T02:06:24.394196+00:00",
+   "headline": "China's President Xi: boost digitization of trade and investment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859056,
+   "ts": "2026-11-19T02:04:35+00:00",
+   "ingested": "2026-11-19T02:06:24.394204+00:00",
+   "headline": "China's President Xi: essential to advance regional trade pacts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859055,
    "ts": "2026-11-19T02:03:55+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-17T21:28:04+00:00",
    "ingested": "2026-11-17T22:33:33.631718+00:00",
    "headline": "Nvidia sees 4Q Rev $130 bln plus or minus 3%. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856543,
-   "ts": "2026-11-17T21:27:37+00:00",
-   "ingested": "2026-11-17T22:33:33.631734+00:00",
-   "headline": "NVIDIA: Vera Rubin added nearly $20 bln in revenue Q/Q, with strong and diverse contributions across both hyperscale and ACIE. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856542,
-   "ts": "2026-11-17T21:27:06+00:00",
-   "ingested": "2026-11-17T22:33:33.631747+00:00",
-   "headline": "Nvidia NeoCloud agreements total $32 bln. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856541,
-   "ts": "2026-11-17T21:26:35+00:00",
-   "ingested": "2026-11-17T22:33:33.631760+00:00",
-   "headline": "Nvidia expecting no data center revenue from China. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856540,
-   "ts": "2026-11-17T21:26:22+00:00",
-   "ingested": "2026-11-17T22:33:33.631773+00:00",
-   "headline": "Nvidia plan to utilize remaining authorization through FY2028. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856539,
-   "ts": "2026-11-17T21:26:06+00:00",
-   "ingested": "2026-11-17T22:33:33.631787+00:00",
-   "headline": "Nvidia had $227.3 bln of share buyback authorization remaining. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856538,
-   "ts": "2026-11-17T21:25:48+00:00",
-   "ingested": "2026-11-17T22:33:33.631800+00:00",
-   "headline": "Nvidia 4Q Rev. forecast at midpoint would be +12.3% QoQ. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
