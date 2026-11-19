@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-19T23:23:28.463178+00:00",
+ "updated": "2026-11-19T23:31:48.442932+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860798,
+   "ts": "2026-11-19T23:30:21+00:00",
+   "ingested": "2026-11-19T23:31:48.442344+00:00",
+   "headline": "Japan October nationwide core-core CPI excluding fresh food, energy prices rises 2.2% yr/yr: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860797,
+   "ts": "2026-11-19T23:30:12+00:00",
+   "ingested": "2026-11-19T23:31:48.442358+00:00",
+   "headline": "Japan oct consumer prices excluding fresh food, energy rise 2.2% yr/yr: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860796,
+   "ts": "2026-11-19T23:30:12+00:00",
+   "ingested": "2026-11-19T23:31:48.442368+00:00",
+   "headline": "Japan Oct nationwide core consumer prices rise 2.3% yr/yr: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860795,
+   "ts": "2026-11-19T23:30:05+00:00",
+   "ingested": "2026-11-19T23:31:48.442378+00:00",
+   "headline": "Japan Oct nationwide core CPI rises 2.2% yr/yr: govt poll 2.3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860794,
+   "ts": "2026-11-19T23:30:03+00:00",
+   "ingested": "2026-11-19T23:31:48.442388+00:00",
+   "headline": "Japanese Core CPI Nationwide YoY Actual 2.2% (Forecast 2.3%, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860793,
+   "ts": "2026-11-19T23:30:02+00:00",
+   "ingested": "2026-11-19T23:31:48.442396+00:00",
+   "headline": "Japanese CPI Overall Nationwide Actual 2.3% (Forecast 2.5%, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860790,
    "ts": "2026-11-19T23:22:57+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-11-18T19:00:34+00:00",
    "ingested": "2026-11-18T20:55:38.339677+00:00",
    "headline": "Fed Minutes: Some participants favored a 25 basis point rate hike at the October meeting, emphasizing inflation was too high and they saw few signs of it abating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858404,
-   "ts": "2026-11-18T19:00:22+00:00",
-   "ingested": "2026-11-18T20:55:38.339687+00:00",
-   "headline": "Fed Minutes: A few participants observed inflation could prove more persistent than expected, necessitating a shift to a more restrictive policy stance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858403,
-   "ts": "2026-11-18T18:57:11+00:00",
-   "ingested": "2026-11-18T20:55:38.339696+00:00",
-   "headline": "US Money-market fund assets down $18.47 B for week ended November 17th - Imoneynet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858382,
-   "ts": "2026-11-18T18:38:28+00:00",
-   "ingested": "2026-11-18T20:55:38.339705+00:00",
-   "headline": "Bank of Canada's Gravelle: Energy price inflation spreading",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858381,
-   "ts": "2026-11-18T18:35:56+00:00",
-   "ingested": "2026-11-18T20:55:38.339712+00:00",
-   "headline": "Fed's Barr: Economy strong with low unemployment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858380,
-   "ts": "2026-11-18T18:35:46+00:00",
-   "ingested": "2026-11-18T20:55:38.339721+00:00",
-   "headline": "Fed's Barr: Will watch data to determine the Fed's next move",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858379,
-   "ts": "2026-11-18T18:35:36+00:00",
-   "ingested": "2026-11-18T20:55:38.339733+00:00",
-   "headline": "Fed's Barr: Critical for the Fed to lower inflation to 2% \u2018in a timely way\"",
    "channel": "rss",
    "source": "financialjuice"
   }
