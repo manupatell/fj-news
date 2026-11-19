@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-19T01:23:04.424253+00:00",
+ "updated": "2026-11-19T01:26:24.392359+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858888,
+   "ts": "2026-11-19T01:26:06+00:00",
+   "ingested": "2026-11-19T01:26:24.391899+00:00",
+   "headline": "BoJ Governor Ueda: financial conditions stay loose, backing economic activity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858887,
+   "ts": "2026-11-19T01:25:50+00:00",
+   "ingested": "2026-11-19T01:26:24.391914+00:00",
+   "headline": "BoJ Governor Ueda: real interest rates stay low in short-term zones despite previous hikes with biggest effect on economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858886,
+   "ts": "2026-11-19T01:25:11+00:00",
+   "ingested": "2026-11-19T01:26:24.391925+00:00",
+   "headline": "BoJ governor Ueda: rate hikes raise firms' funding costs but strong corporate earnings and rising wages also factor in economic impact",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858884,
    "ts": "2026-11-19T01:22:29+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-17T19:30:54+00:00",
    "ingested": "2026-11-17T19:31:50.900709+00:00",
    "headline": "NYMEX WTI crude Dec. futures settle at $86.01 a barrel, up 29 cents, 0.34%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856369,
-   "ts": "2026-11-17T19:30:45+00:00",
-   "ingested": "2026-11-17T19:31:50.900721+00:00",
-   "headline": "Fed's Williams: Tariffs are mostly behind us.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856363,
-   "ts": "2026-11-17T19:29:42+00:00",
-   "ingested": "2026-11-17T19:30:00.886362+00:00",
-   "headline": "US reacted to Iran's targeting of US personnel and assets - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856362,
-   "ts": "2026-11-17T19:28:48+00:00",
-   "ingested": "2026-11-17T19:30:00.886379+00:00",
-   "headline": "US Official: Strike at Qeshm was in self-defense - Axios",
    "channel": "rss",
    "source": "financialjuice"
   }
