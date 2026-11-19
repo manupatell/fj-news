@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T04:16:04.190084+00:00",
+ "updated": "2026-11-19T04:24:24.190312+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859218,
+   "ts": "2026-11-19T04:24:04+00:00",
+   "ingested": "2026-11-19T04:24:24.189893+00:00",
+   "headline": "Putin meets with Trump at APEC: TV report",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859205,
    "ts": "2026-11-19T04:15:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T00:50:44+00:00",
    "ingested": "2026-11-18T00:52:23.562989+00:00",
    "headline": "Bahrain's interior ministry issues another warning of possible threat - post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856775,
-   "ts": "2026-11-18T00:39:19+00:00",
-   "ingested": "2026-11-18T00:40:43.545975+00:00",
-   "headline": "Anthropic backers Sequoia Capital, Iconiq and others plan to acquire billions in shares in anthropic's IPO",
    "channel": "rss",
    "source": "financialjuice"
   }
