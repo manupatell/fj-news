@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T12:55:01.765742+00:00",
+ "updated": "2026-11-19T13:01:41.765970+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859882,
+   "ts": "2026-11-19T13:00:46+00:00",
+   "ingested": "2026-11-19T13:01:41.765330+00:00",
+   "headline": "US warned of telecoms risk years before salt typhoon hack.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859878,
+   "ts": "2026-11-19T12:59:58+00:00",
+   "ingested": "2026-11-19T13:01:41.765352+00:00",
+   "headline": "Secured Overnight Financing Rate 3.90% Nov. 18th vs 3.92% Nov. 17th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859857,
    "ts": "2026-11-19T12:43:52+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T07:00:05+00:00",
    "ingested": "2026-11-18T07:00:45.524048+00:00",
    "headline": "UK PPI Input Prices YoY Actual 10.8% (Forecast 9.2%, Previous 8.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857255,
-   "ts": "2026-11-18T06:36:30+00:00",
-   "ingested": "2026-11-18T06:37:25.534679+00:00",
-   "headline": "RBA Interest Rate Probabilties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857223,
-   "ts": "2026-11-18T06:28:42+00:00",
-   "ingested": "2026-11-18T06:29:05.570827+00:00",
-   "headline": "Adnoc: A vessel attacked while transiting Hormuz November 17.",
    "channel": "rss",
    "source": "financialjuice"
   }
