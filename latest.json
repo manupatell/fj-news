@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T01:41:24.386958+00:00",
+ "updated": "2026-11-19T01:43:04.392348+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858915,
+   "ts": "2026-11-19T01:42:36+00:00",
+   "ingested": "2026-11-19T01:43:04.391931+00:00",
+   "headline": "BoJ Governor Ueda: rising crude oil prices, weak yen may dent household real income, curb spending more than expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858914,
+   "ts": "2026-11-19T01:41:59+00:00",
+   "ingested": "2026-11-19T01:43:04.391945+00:00",
+   "headline": "BoJ governor Ueda: consumption likely to resume moderate rise as nominal wages increase steadily, inflation expected to gradually ease",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858913,
    "ts": "2026-11-19T01:39:36+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T19:33:57+00:00",
    "ingested": "2026-11-17T19:35:31.376405+00:00",
    "headline": "Fed's Williams: We're seeing more opaque and complex financing of AI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856378,
-   "ts": "2026-11-17T19:33:20+00:00",
-   "ingested": "2026-11-17T19:33:50.886084+00:00",
-   "headline": "Fed's Williams: We have seen a bit of normalization of financial conditions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856376,
-   "ts": "2026-11-17T19:32:16+00:00",
-   "ingested": "2026-11-17T19:33:50.886101+00:00",
-   "headline": "Fed's Williams: Financial conditions are still pretty supportive of growth.",
    "channel": "rss",
    "source": "financialjuice"
   }
