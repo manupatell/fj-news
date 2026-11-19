@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T05:56:04.205009+00:00",
+ "updated": "2026-11-19T06:02:44.210572+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859355,
+   "ts": "2026-11-19T06:02:11+00:00",
+   "ingested": "2026-11-19T06:02:44.210147+00:00",
+   "headline": "China's President Xi: China-U.S. relations generally stable and improving",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859354,
+   "ts": "2026-11-19T06:01:57+00:00",
+   "ingested": "2026-11-19T06:02:44.210164+00:00",
+   "headline": "China's President Xi: willing to cooperate with Trump to keep China-U.S. relations on right track",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859344,
    "ts": "2026-11-19T05:55:47+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T02:11:54+00:00",
    "ingested": "2026-11-18T02:13:43.574161+00:00",
    "headline": "China's President Xi: Apec members are advancing in global science and technology innovation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856954,
-   "ts": "2026-11-18T02:11:31+00:00",
-   "ingested": "2026-11-18T02:12:03.570791+00:00",
-   "headline": "China's President Xi: maintain global industrial and supply chain, need to boost innovation and growth as driver of social progress",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856953,
-   "ts": "2026-11-18T02:10:23+00:00",
-   "ingested": "2026-11-18T02:12:03.570813+00:00",
-   "headline": "China\u2019s President Xi: must strongly back free and open trade",
    "channel": "rss",
    "source": "financialjuice"
   }
