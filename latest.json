@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T22:32:58.529083+00:00",
+ "updated": "2026-11-19T22:34:48.437092+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860746,
+   "ts": "2026-11-19T22:33:10+00:00",
+   "ingested": "2026-11-19T22:34:48.436581+00:00",
+   "headline": "California AG: California Department of Justice questions Nvidia on whether it misled investors and the public",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860731,
    "ts": "2026-11-19T22:32:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T18:35:21+00:00",
    "ingested": "2026-11-18T20:55:38.339752+00:00",
    "headline": "Fed's Barr: Support raising rates further if the economy performs as expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858376,
-   "ts": "2026-11-18T18:34:29+00:00",
-   "ingested": "2026-11-18T20:55:38.339760+00:00",
-   "headline": "Arm's Haas was approached by Nvidia's recruiting firm $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
