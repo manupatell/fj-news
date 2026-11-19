@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T14:36:44.042953+00:00",
+ "updated": "2026-11-19T14:38:24.041830+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860062,
+   "ts": "2026-11-19T14:37:05+00:00",
+   "ingested": "2026-11-19T14:38:24.041395+00:00",
+   "headline": "Alphabet files for Canadian dollar note offer in five parts $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860061,
+   "ts": "2026-11-19T14:36:48+00:00",
+   "ingested": "2026-11-19T14:38:24.041415+00:00",
+   "headline": "Alphabet to sell multi-series CAD notes via RBC, Scotiabank, and TD. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860060,
    "ts": "2026-11-19T14:36:30+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T09:22:52+00:00",
    "ingested": "2026-11-18T09:23:25.575965+00:00",
    "headline": "Europe Sentiment: NVIDIA Has \"Got This\" - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857474,
-   "ts": "2026-11-18T09:13:11+00:00",
-   "ingested": "2026-11-18T09:13:25.570642+00:00",
-   "headline": "Austria October HICP 3.5% y/y: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857473,
-   "ts": "2026-11-18T09:13:08+00:00",
-   "ingested": "2026-11-18T09:13:25.570662+00:00",
-   "headline": "Austria October HICP 0.4% m/m, not 0.3%: stats office",
    "channel": "rss",
    "source": "financialjuice"
   }
