@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T19:53:22.599823+00:00",
+ "updated": "2026-11-19T20:01:42.580136+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860557,
+   "ts": "2026-11-19T20:00:05+00:00",
+   "ingested": "2026-11-19T20:01:42.579559+00:00",
+   "headline": "Israeli ambassador Leiter: You get US soldiers back to their families when Iran is defeated.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860556,
    "ts": "2026-11-19T19:52:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T16:46:03+00:00",
    "ingested": "2026-11-18T16:47:02.625707+00:00",
    "headline": "China's Commerce Ministry: 2nd phase of negotiations on China-ROK FTA upgraded investment, trade in services, financial services, and economic cooperation - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858211,
-   "ts": "2026-11-18T16:45:11+00:00",
-   "ingested": "2026-11-18T16:45:22.619182+00:00",
-   "headline": "China's Commerce Ministry: China and the Republic of Korea substantially conclude the 2nd phase of negotiations on a bilateral free trade agreement - Xinhua",
    "channel": "rss",
    "source": "financialjuice"
   }
