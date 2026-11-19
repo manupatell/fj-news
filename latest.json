@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T01:53:04.405980+00:00",
+ "updated": "2026-11-19T01:54:44.402086+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858935,
+   "ts": "2026-11-19T01:53:33+00:00",
+   "ingested": "2026-11-19T01:54:44.401589+00:00",
+   "headline": "BoJ Governor Ueda: FX swings could influence price changes more than before, impacting long-term inflation expectations and core inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858934,
+   "ts": "2026-11-19T01:52:54+00:00",
+   "ingested": "2026-11-19T01:54:44.401602+00:00",
+   "headline": "China's Xi delivers address at 33rd APEC summit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858933,
    "ts": "2026-11-19T01:52:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T19:44:59+00:00",
    "ingested": "2026-11-17T19:45:21.307149+00:00",
    "headline": "Brent Crude futures settle at $93.14/bbl, up 70 cents, 0.76%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856387,
-   "ts": "2026-11-17T19:44:52+00:00",
-   "ingested": "2026-11-17T19:45:21.307167+00:00",
-   "headline": "SpaceX CFO: SpaceX could be the largest AI infrastructure player next year. $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856386,
-   "ts": "2026-11-17T19:44:34+00:00",
-   "ingested": "2026-11-17T19:45:21.307182+00:00",
-   "headline": "Fed's Williams: Fed will get inflation back to 2% in a timely manner.",
    "channel": "rss",
    "source": "financialjuice"
   }
