@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T13:16:41.773978+00:00",
+ "updated": "2026-11-19T13:18:21.785176+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859912,
+   "ts": "2026-11-19T13:16:46+00:00",
+   "ingested": "2026-11-19T13:18:21.784563+00:00",
+   "headline": "APEC leaders call for uninterrupted energy flows - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859911,
    "ts": "2026-11-19T13:16:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T07:00:06+00:00",
    "ingested": "2026-11-18T07:00:45.523957+00:00",
    "headline": "UK PPI Output Prices YoY Actual 5.1% (Forecast 5.1%, Previous 4.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857276,
-   "ts": "2026-11-18T07:00:06+00:00",
-   "ingested": "2026-11-18T07:00:45.523973+00:00",
-   "headline": "UK RPI MoM Actual 0.6% (Forecast 0.5%, Previous 0.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
