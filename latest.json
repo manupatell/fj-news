@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:30:24.055237+00:00",
+ "updated": "2026-11-19T15:33:54.098190+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860156,
+   "ts": "2026-11-19T15:33:08+00:00",
+   "ingested": "2026-11-19T15:33:54.097771+00:00",
+   "headline": "Hunterbrook: Hunterbrook capital is short AMD $AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860133,
    "ts": "2026-11-19T15:30:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T10:31:27+00:00",
    "ingested": "2026-11-18T12:43:19.472276+00:00",
    "headline": "German 7 yr Bund Bid-to-Cover Actual 1.5 (Forecast -, Previous 1.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857603,
-   "ts": "2026-11-18T10:31:27+00:00",
-   "ingested": "2026-11-18T12:43:19.472321+00:00",
-   "headline": "German 7 Yr Bund Yield Actual 3.27% (Forecast -, Previous 3.36%)",
    "channel": "rss",
    "source": "financialjuice"
   }
