@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-19T15:37:44.063626+00:00",
+ "updated": "2026-11-19T15:41:04.086551+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860165,
+   "ts": "2026-11-19T15:39:59+00:00",
+   "ingested": "2026-11-19T15:41:04.086020+00:00",
+   "headline": "Saudi Arabia: Reserve the right to take all necessary measures to defend its sovereignty after Houthi attack - Foreign Ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860164,
+   "ts": "2026-11-19T15:39:29+00:00",
+   "ingested": "2026-11-19T15:41:04.086043+00:00",
+   "headline": "Trump calls in to THE leaders meeting in Berlin to discuss Ukraine.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860163,
+   "ts": "2026-11-19T15:39:24+00:00",
+   "ingested": "2026-11-19T15:41:04.086059+00:00",
+   "headline": "Trump expresses optimism about peace after Putin talks - sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860162,
+   "ts": "2026-11-19T15:39:18+00:00",
+   "ingested": "2026-11-19T15:41:04.086073+00:00",
+   "headline": "Trump tells leaders he spoke with Putin on Ukraine - Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860161,
    "ts": "2026-11-19T15:37:04+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-18T11:24:24+00:00",
    "ingested": "2026-11-18T12:43:19.472196+00:00",
    "headline": "Russia and China have moved to a new level of defence industry cooperation - Senior russian official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857662,
-   "ts": "2026-11-18T11:05:58+00:00",
-   "ingested": "2026-11-18T12:43:19.472208+00:00",
-   "headline": "Trump admin weighs US firms to disclose China AI use - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857637,
-   "ts": "2026-11-18T10:49:34+00:00",
-   "ingested": "2026-11-18T12:43:19.472221+00:00",
-   "headline": "Kremlin: Putin and Trump to discuss current issues and Ukraine - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857613,
-   "ts": "2026-11-18T10:41:22+00:00",
-   "ingested": "2026-11-18T12:43:19.472234+00:00",
-   "headline": "Trump is meeting with the Mexican President and the Canadian PM - White House Official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857612,
-   "ts": "2026-11-18T10:40:59+00:00",
-   "ingested": "2026-11-18T12:43:19.472247+00:00",
-   "headline": "Kremlin: Putin and Trump may discuss putin's visit to G-20 - Tass",
    "channel": "rss",
    "source": "financialjuice"
   }
