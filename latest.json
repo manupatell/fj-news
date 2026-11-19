@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-19T02:08:04.397347+00:00",
+ "updated": "2026-11-19T02:09:44.400366+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859068,
+   "ts": "2026-11-19T02:09:11+00:00",
+   "ingested": "2026-11-19T02:09:44.399896+00:00",
+   "headline": "China's President Xi: china will establish Asia-Pacific community research center in Shenzhen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859067,
+   "ts": "2026-11-19T02:08:43+00:00",
+   "ingested": "2026-11-19T02:09:44.399909+00:00",
+   "headline": "China's President Xi: China will allocate $20 million to back practical collaboration in APEC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859066,
+   "ts": "2026-11-19T02:08:17+00:00",
+   "ingested": "2026-11-19T02:09:44.399918+00:00",
+   "headline": "China's President Xi: need to back enhancing people's lives, invest in citizens",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859065,
    "ts": "2026-11-19T02:07:49+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-17T21:50:45+00:00",
    "ingested": "2026-11-17T22:33:33.631619+00:00",
    "headline": "The Air raid warning siren sounded in US bases in Kuwait - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856567,
-   "ts": "2026-11-17T21:45:54+00:00",
-   "ingested": "2026-11-17T22:33:33.631633+00:00",
-   "headline": "US API Gasoline Stock Change Actual 5.1M (Forecast -, Previous 2.7M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856566,
-   "ts": "2026-11-17T21:45:45+00:00",
-   "ingested": "2026-11-17T22:33:33.631648+00:00",
-   "headline": "US API Distillate Stock Change Actual 0.351M (Forecast -, Previous -8M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856565,
-   "ts": "2026-11-17T21:45:31+00:00",
-   "ingested": "2026-11-17T22:33:33.631662+00:00",
-   "headline": "US API Cushing Stock Change Actual -1.7M (Forecast -, Previous 5.1M)",
    "channel": "rss",
    "source": "financialjuice"
   }
