@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:59:24.066025+00:00",
+ "updated": "2026-11-19T16:01:04.103728+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860196,
+   "ts": "2026-11-19T16:00:38+00:00",
+   "ingested": "2026-11-19T16:01:04.103255+00:00",
+   "headline": "Kansas City Fed Manufacturing Actual 23 (Forecast -, Previous 16)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860191,
    "ts": "2026-11-19T15:59:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T12:00:49+00:00",
    "ingested": "2026-11-18T12:43:19.472087+00:00",
    "headline": "ECB's Vujcic: Market pricing for 2027 isn't unreasonable",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857740,
-   "ts": "2026-11-18T12:00:38+00:00",
-   "ingested": "2026-11-18T12:43:19.472100+00:00",
-   "headline": "ECB's Vujcic: As things stand, a December hike looks very likely",
    "channel": "rss",
    "source": "financialjuice"
   }
