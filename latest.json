@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T02:44:24.161585+00:00",
+ "updated": "2026-11-19T02:49:24.166907+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859121,
+   "ts": "2026-11-19T02:48:01+00:00",
+   "ingested": "2026-11-19T02:49:24.166523+00:00",
+   "headline": "Russia's Putin at APEC: Russia backs final communique",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859117,
    "ts": "2026-11-19T02:43:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T23:50:04+00:00",
    "ingested": "2026-11-17T23:50:43.531134+00:00",
    "headline": "Japan October exports to China rise 13.3% year/year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856708,
-   "ts": "2026-11-17T23:50:01+00:00",
-   "ingested": "2026-11-17T23:50:43.531147+00:00",
-   "headline": "Japanese Exports YoY Actual 20.5% (Forecast 20.4%, Previous 16.7%)",
    "channel": "rss",
    "source": "financialjuice"
   }
