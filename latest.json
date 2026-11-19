@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T14:01:41.774535+00:00",
+ "updated": "2026-11-19T14:03:21.775900+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860011,
+   "ts": "2026-11-19T14:02:40+00:00",
+   "ingested": "2026-11-19T14:03:21.775413+00:00",
+   "headline": "Anthropic is pushing new products, and big discounts. to justify its huge valuation - The Information. $ANT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859997,
    "ts": "2026-11-19T13:59:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T09:05:21+00:00",
    "ingested": "2026-11-18T09:06:05.563935+00:00",
    "headline": "Saudi civil defense issues warning of possible threat in Jazan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857463,
-   "ts": "2026-11-18T09:04:28+00:00",
-   "ingested": "2026-11-18T09:06:05.563951+00:00",
-   "headline": "China's Xi to greet Trump at APEC summit arrival",
    "channel": "rss",
    "source": "financialjuice"
   }
