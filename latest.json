@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T02:41:04.216633+00:00",
+ "updated": "2026-11-19T02:44:24.161585+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859117,
+   "ts": "2026-11-19T02:43:15+00:00",
+   "ingested": "2026-11-19T02:44:24.161159+00:00",
+   "headline": "BoJ Governor Ueda: closely watching next year\u2019s wage talks as key to judging if core inflation will stay at 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859116,
+   "ts": "2026-11-19T02:42:41+00:00",
+   "ingested": "2026-11-19T02:44:24.161177+00:00",
+   "headline": "BoJ Governor Ueda: robust global al demand boosting Japan\u2019s exports, capex, raising prices for wide range of goods",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859115,
    "ts": "2026-11-19T02:40:38+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T23:50:01+00:00",
    "ingested": "2026-11-17T23:50:43.531147+00:00",
    "headline": "Japanese Exports YoY Actual 20.5% (Forecast 20.4%, Previous 16.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856707,
-   "ts": "2026-11-17T23:50:01+00:00",
-   "ingested": "2026-11-17T23:50:43.531160+00:00",
-   "headline": "Japanese Imports YoY Actual 21.6% (Forecast 25.9%, Previous 18.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856706,
-   "ts": "2026-11-17T23:49:35+00:00",
-   "ingested": "2026-11-17T23:50:43.531174+00:00",
-   "headline": "Nvidia interim CEO Kress: we want to focus on expanding our business now - CNBC interview",
    "channel": "rss",
    "source": "financialjuice"
   }
