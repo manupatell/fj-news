@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T14:50:04.046387+00:00",
+ "updated": "2026-11-19T14:51:44.052307+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860087,
+   "ts": "2026-11-19T14:50:45+00:00",
+   "ingested": "2026-11-19T14:51:44.051874+00:00",
+   "headline": "Anthropic shares indicated to open at $99.60 in NASDAQ debut vs IPO price of $83 per share.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860086,
    "ts": "2026-11-19T14:49:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T09:42:14+00:00",
    "ingested": "2026-11-18T09:43:25.568833+00:00",
    "headline": "UKMTO gets late report of incident 13NM North of Khasab, Oman. Tanker struck by projectile within the Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857512,
-   "ts": "2026-11-18T09:32:31+00:00",
-   "ingested": "2026-11-18T09:33:25.573299+00:00",
-   "headline": "UK ONS: Average UK monthly private rent increased by 3.8%, to \u00a31,411, in the 12 months to October 2026.",
    "channel": "rss",
    "source": "financialjuice"
   }
