@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T06:24:24.206555+00:00",
+ "updated": "2026-11-19T06:27:44.205207+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859377,
+   "ts": "2026-11-19T06:26:33+00:00",
+   "ingested": "2026-11-19T06:27:44.204796+00:00",
+   "headline": "Japan PM Takaichi: Briefly exchanged views with Putin's and Trump.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859376,
    "ts": "2026-11-19T06:22:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T02:17:16+00:00",
    "ingested": "2026-11-18T02:18:53.591362+00:00",
    "headline": "China's President Xi: country increases import of quality goods, services",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856961,
-   "ts": "2026-11-18T02:16:58+00:00",
-   "ingested": "2026-11-18T02:17:13.578545+00:00",
-   "headline": "China's President Xi: China accelerating creation of open market",
    "channel": "rss",
    "source": "financialjuice"
   }
