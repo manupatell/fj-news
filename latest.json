@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T06:14:24.202447+00:00",
+ "updated": "2026-11-19T06:21:04.225089+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859375,
+   "ts": "2026-11-19T06:20:22+00:00",
+   "ingested": "2026-11-19T06:21:04.224657+00:00",
+   "headline": "Drones attack oil storage facilities in Russia's Tatarstan - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859374,
+   "ts": "2026-11-19T06:19:56+00:00",
+   "ingested": "2026-11-19T06:21:04.224673+00:00",
+   "headline": "Oil storage tanks near Russia's Almetyevsk hit by drones - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859358,
    "ts": "2026-11-19T06:03:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T02:14:46+00:00",
    "ingested": "2026-11-18T02:15:23.569687+00:00",
    "headline": "China's President Xi: will enhance ties and cooperation in Greater Bay Area, seek new avenues for Asia-Pacific economic collaboration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856959,
-   "ts": "2026-11-18T02:13:32+00:00",
-   "ingested": "2026-11-18T02:13:43.574092+00:00",
-   "headline": "China's President Xi: efforts should focus on removing trade and investment barriers to build an open Asia-Pacific economy, while advancing inclusive and balanced growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856958,
-   "ts": "2026-11-18T02:13:03+00:00",
-   "ingested": "2026-11-18T02:13:43.574114+00:00",
-   "headline": "China's President Xi: we should broaden path of mutual gain and win-win outcomes",
    "channel": "rss",
    "source": "financialjuice"
   }
