@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T15:42:44.060369+00:00",
+ "updated": "2026-11-19T15:44:24.061116+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860170,
+   "ts": "2026-11-19T15:43:46+00:00",
+   "ingested": "2026-11-19T15:44:24.060715+00:00",
+   "headline": "Anthropic's Rao: Will continue to make compute investments, we're always conservative on the balance sheet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860169,
+   "ts": "2026-11-19T15:43:40+00:00",
+   "ingested": "2026-11-19T15:44:24.060734+00:00",
+   "headline": "WATCH LIVE: Anthropic CFO Speaks. $ANT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860167,
    "ts": "2026-11-19T15:42:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T12:00:00+00:00",
    "ingested": "2026-11-18T12:43:19.472139+00:00",
    "headline": "US MBA Mortgage Applications Actual -2.3% (Forecast -, Previous 6.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857689,
-   "ts": "2026-11-18T11:31:13+00:00",
-   "ingested": "2026-11-18T12:43:19.472151+00:00",
-   "headline": "$TGT Target Q3 2026 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857683,
-   "ts": "2026-11-18T11:28:10+00:00",
-   "ingested": "2026-11-18T12:43:19.472165+00:00",
-   "headline": "BoJ's Ueda is scheduled to appear in parliament from 10AM November 19th",
    "channel": "rss",
    "source": "financialjuice"
   }
