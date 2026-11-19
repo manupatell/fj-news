@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T00:32:48.234905+00:00",
+ "updated": "2026-11-19T00:34:28.236507+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858827,
+   "ts": "2026-11-19T00:32:47+00:00",
+   "ingested": "2026-11-19T00:34:28.236040+00:00",
+   "headline": "Trump: might have mentioned Nvidia situation just briefly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858826,
    "ts": "2026-11-19T00:32:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T19:24:34+00:00",
    "ingested": "2026-11-17T19:25:10.875515+00:00",
    "headline": "Fed's Williams: The economy is strong and getting stronger, inflation is not moving in right direction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856351,
-   "ts": "2026-11-17T19:18:29+00:00",
-   "ingested": "2026-11-17T19:19:00.856932+00:00",
-   "headline": "Apple: iCloud account & sign in issue has been resolved. $AAPL",
    "channel": "rss",
    "source": "financialjuice"
   }
