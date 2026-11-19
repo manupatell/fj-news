@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T01:58:04.415230+00:00",
+ "updated": "2026-11-19T01:59:44.390813+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858939,
+   "ts": "2026-11-19T01:58:27+00:00",
+   "ingested": "2026-11-19T01:59:44.390396+00:00",
+   "headline": "IMF Managing Director Georgieva: rising global inflation requires tighter monetary policies in many economies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858938,
    "ts": "2026-11-19T01:57:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T21:08:20+00:00",
    "ingested": "2026-11-17T22:33:33.631898+00:00",
    "headline": "Google: Google wallet is now available on iOS in US. $GOOGL $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856511,
-   "ts": "2026-11-17T21:05:07+00:00",
-   "ingested": "2026-11-17T22:33:33.631912+00:00",
-   "headline": "Qatar PM: Our diplomatic efforts to reach an agreement between Iran and the US continue - IRNA",
    "channel": "rss",
    "source": "financialjuice"
   }
