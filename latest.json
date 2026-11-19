@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T13:38:21.772532+00:00",
+ "updated": "2026-11-19T13:40:01.771128+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859971,
+   "ts": "2026-11-19T13:38:47+00:00",
+   "ingested": "2026-11-19T13:40:01.770688+00:00",
+   "headline": "Walmart CEO: Food inflation is in 1-2% range $WMT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859970,
    "ts": "2026-11-19T13:37:52+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T08:19:35+00:00",
    "ingested": "2026-11-18T08:20:45.550316+00:00",
    "headline": "BoE on Wednesday's UK inflation data: Inflation is expected to rise further by the middle of next year due to cost pressures already in the pipeline - Statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857379,
-   "ts": "2026-11-18T08:13:58+00:00",
-   "ingested": "2026-11-18T08:15:45.554159+00:00",
-   "headline": "China's Xi tells Putin: China and Russia should deepen cooperation - CCTV",
    "channel": "rss",
    "source": "financialjuice"
   }
