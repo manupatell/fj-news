@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T14:46:44.052591+00:00",
+ "updated": "2026-11-19T14:50:04.046387+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860086,
+   "ts": "2026-11-19T14:49:33+00:00",
+   "ingested": "2026-11-19T14:50:04.045958+00:00",
+   "headline": "BoE's Lombardelli: We will take the action needed to meet the CPI target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860083,
+   "ts": "2026-11-19T14:48:15+00:00",
+   "ingested": "2026-11-19T14:50:04.045982+00:00",
+   "headline": "US extends deadline for talks on sale of Lukoil International GmbH's foreign assets until December 19th - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860075,
    "ts": "2026-11-19T14:46:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T09:32:31+00:00",
    "ingested": "2026-11-18T09:33:25.573299+00:00",
    "headline": "UK ONS: Average UK monthly private rent increased by 3.8%, to \u00a31,411, in the 12 months to October 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857511,
-   "ts": "2026-11-18T09:32:21+00:00",
-   "ingested": "2026-11-18T09:33:25.573323+00:00",
-   "headline": "UK ONS: Average UK house prices increased by 1.2%, to \u00a3273,000, in the 12 months to September 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857490,
-   "ts": "2026-11-18T09:26:35+00:00",
-   "ingested": "2026-11-18T09:28:25.575613+00:00",
-   "headline": "Kremlin: Putin, trump will have conversation - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
