@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T23:15:08.643112+00:00",
+ "updated": "2026-11-19T23:23:28.463178+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860790,
+   "ts": "2026-11-19T23:22:57+00:00",
+   "ingested": "2026-11-19T23:23:28.462673+00:00",
+   "headline": "Explosions heard in Ukraine's Kyiv: witness source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860747,
    "ts": "2026-11-19T22:43:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T18:35:36+00:00",
    "ingested": "2026-11-18T20:55:38.339733+00:00",
    "headline": "Fed's Barr: Critical for the Fed to lower inflation to 2% \u2018in a timely way\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858378,
-   "ts": "2026-11-18T18:35:29+00:00",
-   "ingested": "2026-11-18T20:55:38.339742+00:00",
-   "headline": "Fed's Barr: Inflation is \u2018too high\u2019 and pressuring many families",
    "channel": "rss",
    "source": "financialjuice"
   }
