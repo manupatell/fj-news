@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T01:46:24.395509+00:00",
+ "updated": "2026-11-19T01:51:24.405244+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858931,
+   "ts": "2026-11-19T01:49:44+00:00",
+   "ingested": "2026-11-19T01:51:24.404831+00:00",
+   "headline": "Saudi civil defense: danger has eased in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858922,
    "ts": "2026-11-19T01:45:35+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T19:41:51+00:00",
    "ingested": "2026-11-17T19:43:41.313784+00:00",
    "headline": "Explosion of the third offending vessel in the Strait of Hormuz - Tasnim News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856383,
-   "ts": "2026-11-17T19:41:07+00:00",
-   "ingested": "2026-11-17T19:41:51.353626+00:00",
-   "headline": "Fed's Williams: Cyber security issues continue to be an area of worry.",
    "channel": "rss",
    "source": "financialjuice"
   }
