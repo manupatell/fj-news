@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-19T02:06:24.394679+00:00",
+ "updated": "2026-11-19T02:08:04.397347+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859065,
+   "ts": "2026-11-19T02:07:49+00:00",
+   "ingested": "2026-11-19T02:08:04.396835+00:00",
+   "headline": "China's President Xi: need to widen green, low-carbon collaboration",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859064,
+   "ts": "2026-11-19T02:07:31+00:00",
+   "ingested": "2026-11-19T02:08:04.396850+00:00",
+   "headline": "China's President Xi: need to advance coordinated growth of resources, environment and population",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859063,
+   "ts": "2026-11-19T02:06:59+00:00",
+   "ingested": "2026-11-19T02:08:04.396859+00:00",
+   "headline": "China's President Xi: need to intensify campaign against corruption",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859062,
+   "ts": "2026-11-19T02:06:33+00:00",
+   "ingested": "2026-11-19T02:08:04.396869+00:00",
+   "headline": "China's President Xi: need to boost capacity building, advance regional energy and food security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859061,
    "ts": "2026-11-19T02:05:59+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-17T21:45:31+00:00",
    "ingested": "2026-11-17T22:33:33.631662+00:00",
    "headline": "US API Cushing Stock Change Actual -1.7M (Forecast -, Previous 5.1M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856552,
-   "ts": "2026-11-17T21:45:20+00:00",
-   "ingested": "2026-11-17T22:33:33.631677+00:00",
-   "headline": "US API Crude Stock Change Actual 5.3M (Forecast -0.50M, Previous -9.8M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856551,
-   "ts": "2026-11-17T21:42:05+00:00",
-   "ingested": "2026-11-17T22:33:33.631691+00:00",
-   "headline": "Kuwait air defences currently countering hostile drone attacks - Statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856546,
-   "ts": "2026-11-17T21:30:38+00:00",
-   "ingested": "2026-11-17T22:33:33.631704+00:00",
-   "headline": "NVIDIA's reported commitments surge to $518 billion. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856544,
-   "ts": "2026-11-17T21:28:04+00:00",
-   "ingested": "2026-11-17T22:33:33.631718+00:00",
-   "headline": "Nvidia sees 4Q Rev $130 bln plus or minus 3%. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
