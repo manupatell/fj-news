@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T02:51:04.167955+00:00",
+ "updated": "2026-11-19T02:52:44.167418+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859126,
+   "ts": "2026-11-19T02:51:52+00:00",
+   "ingested": "2026-11-19T02:52:44.166980+00:00",
+   "headline": "Putin: invites all regional partners to use Russia's transport network, some already utilizing it",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859125,
+   "ts": "2026-11-19T02:51:06+00:00",
+   "ingested": "2026-11-19T02:52:44.166995+00:00",
+   "headline": "Saudi civil defense issues warning of possible threat in As-Sulayyil governorate in Riyadh region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859124,
    "ts": "2026-11-19T02:50:16+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T23:50:06+00:00",
    "ingested": "2026-11-17T23:50:43.531060+00:00",
    "headline": "Japan October exports to EU up 22.1% year/year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856714,
-   "ts": "2026-11-17T23:50:06+00:00",
-   "ingested": "2026-11-17T23:50:43.531078+00:00",
-   "headline": "Japan Oct imports rise 21.6% year/year: Ministry of Finance (poll 25.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856713,
-   "ts": "2026-11-17T23:50:04+00:00",
-   "ingested": "2026-11-17T23:50:43.531094+00:00",
-   "headline": "Japan October trade deficit 476.5 billion yen: Ministry of Finance (poll: 956 billion yen)",
    "channel": "rss",
    "source": "financialjuice"
   }
