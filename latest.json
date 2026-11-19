@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T05:31:04.211614+00:00",
+ "updated": "2026-11-19T05:34:24.201380+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859313,
+   "ts": "2026-11-19T05:32:51+00:00",
+   "ingested": "2026-11-19T05:34:24.200945+00:00",
+   "headline": "South Korea exports reach $1 trillion so far this year: Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859300,
    "ts": "2026-11-19T05:30:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T01:16:30+00:00",
    "ingested": "2026-11-18T01:16:43.568909+00:00",
    "headline": "US Secretary of State Rubio: Trump meeting with North Korea's Kim a significant proposal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856809,
-   "ts": "2026-11-18T01:16:02+00:00",
-   "ingested": "2026-11-18T01:16:43.568933+00:00",
-   "headline": "BoJ governor Ueda: will evaluate effect of food sales tax reduction on core inflation and apply suitable monetary policy accordingly",
    "channel": "rss",
    "source": "financialjuice"
   }
