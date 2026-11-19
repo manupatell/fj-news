@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-19T20:28:22.606398+00:00",
+ "updated": "2026-11-19T20:31:42.591518+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860599,
+   "ts": "2026-11-19T20:31:21+00:00",
+   "ingested": "2026-11-19T20:31:42.590846+00:00",
+   "headline": "Fed's Goolsbee: I am not concerned about wages pressuring inflation at this point.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860598,
+   "ts": "2026-11-19T20:31:07+00:00",
+   "ingested": "2026-11-19T20:31:42.590867+00:00",
+   "headline": "Fed's Goolsbee: I do not see at this point that inflation is on the path back to 2%; it is not just coming from oil and tariff shocks, but also from a sizable demand component.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860597,
+   "ts": "2026-11-19T20:30:50+00:00",
+   "ingested": "2026-11-19T20:31:42.590885+00:00",
+   "headline": "Fed's Goolsbee: The steepness of the interest-rate path will be rooted in whether \u2018borderline disturbingly high' inflation is seen returning to the Fed's 2% target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860596,
+   "ts": "2026-11-19T20:30:35+00:00",
+   "ingested": "2026-11-19T20:31:42.590898+00:00",
+   "headline": "Fed's Goolsbee: Inflation has proven to be far more persistent than was thought in 2025, and data center demand and AI-related wealth impact are adding to it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860591,
+   "ts": "2026-11-19T20:30:17+00:00",
+   "ingested": "2026-11-19T20:31:42.590909+00:00",
+   "headline": "Fed's Goolsbee: What is happening with services inflation is important in understanding whether price pressures stem from demand or things like energy costs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860578,
    "ts": "2026-11-19T20:17:33+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-18T17:27:29+00:00",
    "ingested": "2026-11-18T17:29:02.637765+00:00",
    "headline": "Fed's Daly: The labor market overall is stable, not much dynamism.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858278,
-   "ts": "2026-11-18T17:27:12+00:00",
-   "ingested": "2026-11-18T17:27:22.632547+00:00",
-   "headline": "Orlen, QatarEnergy in early talks over new long-term LNG deal after contract termination; Orlen seeking different pricing structure - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858277,
-   "ts": "2026-11-18T17:26:26+00:00",
-   "ingested": "2026-11-18T17:27:22.632570+00:00",
-   "headline": "Fed's Daly: Consumer spending is resilient even at the bottom half of income; resilience is a strength but also a risk.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858276,
-   "ts": "2026-11-18T17:23:23+00:00",
-   "ingested": "2026-11-18T17:24:02.637862+00:00",
-   "headline": "Goldman Sachs' Nachmann: I feel good about the ability to fund AI buildout.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858275,
-   "ts": "2026-11-18T17:18:27+00:00",
-   "ingested": "2026-11-18T17:18:42.631989+00:00",
-   "headline": "Fed's Daly Speaks at the 2026 Women in Banking Symposium Keynote Conversation - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858252,
-   "ts": "2026-11-18T17:14:32+00:00",
-   "ingested": "2026-11-18T17:15:22.644807+00:00",
-   "headline": "French Senate adopts social security budget bill for 2027 - AFP",
    "channel": "rss",
    "source": "financialjuice"
   }
