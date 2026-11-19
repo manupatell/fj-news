@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:20:24.051868+00:00",
+ "updated": "2026-11-19T15:22:04.064934+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860131,
+   "ts": "2026-11-19T15:20:30+00:00",
+   "ingested": "2026-11-19T15:22:04.064533+00:00",
+   "headline": "Anthropic's Amodei: At some point in the future, we're hoping to be investment grade",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860130,
    "ts": "2026-11-19T15:19:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T10:08:08+00:00",
    "ingested": "2026-11-18T12:43:19.472352+00:00",
    "headline": "EU's Von der Leyen: Loan to be repaid from future Russian war reparations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857566,
-   "ts": "2026-11-18T10:07:54+00:00",
-   "ingested": "2026-11-18T12:43:19.472369+00:00",
-   "headline": "EU's Von der Leyen: EU Commission proposes a \u20ac45 billion loan to Ukraine to help cover 2027 financing needs",
    "channel": "rss",
    "source": "financialjuice"
   }
