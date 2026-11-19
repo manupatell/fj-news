@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T01:54:44.402086+00:00",
+ "updated": "2026-11-19T01:56:24.406748+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858936,
+   "ts": "2026-11-19T01:54:42+00:00",
+   "ingested": "2026-11-19T01:56:24.406282+00:00",
+   "headline": "BoJ governor Ueda: reduced presence in JGB market lets long-term rates reflect market views on economy, prices, fiscal and monetary policies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858935,
    "ts": "2026-11-19T01:53:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T20:22:00+00:00",
    "ingested": "2026-11-17T22:33:33.631942+00:00",
    "headline": "Wednesday FX Options Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856388,
-   "ts": "2026-11-17T19:44:59+00:00",
-   "ingested": "2026-11-17T19:45:21.307149+00:00",
-   "headline": "Brent Crude futures settle at $93.14/bbl, up 70 cents, 0.76%",
    "channel": "rss",
    "source": "financialjuice"
   }
