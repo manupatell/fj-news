@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:01:44.046841+00:00",
+ "updated": "2026-11-19T15:12:04.085064+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860108,
+   "ts": "2026-11-19T15:10:29+00:00",
+   "ingested": "2026-11-19T15:12:04.084638+00:00",
+   "headline": "Poland expects a deal with a US consortium for a $50 billion nuclear power plant - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860094,
    "ts": "2026-11-19T15:00:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T10:00:01+00:00",
    "ingested": "2026-11-18T12:43:19.472407+00:00",
    "headline": "Eurozone Core CPI YoY Final Actual 2.6% (Forecast 2.5%, Previous 2.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857541,
-   "ts": "2026-11-18T09:54:28+00:00",
-   "ingested": "2026-11-18T12:43:19.472420+00:00",
-   "headline": "Xi says he is looking forward to hold talks with trump - Xinhua",
    "channel": "rss",
    "source": "financialjuice"
   }
