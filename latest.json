@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T13:35:01.778511+00:00",
+ "updated": "2026-11-19T13:36:41.764571+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859968,
+   "ts": "2026-11-19T13:36:07+00:00",
+   "ingested": "2026-11-19T13:36:41.764098+00:00",
+   "headline": "Credit Agricole: Treasury Issuance Seen Rising Modestly in 2027 as Debt-Limit Risks Build - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859966,
    "ts": "2026-11-19T13:33:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T08:00:56+00:00",
    "ingested": "2026-11-18T08:02:25.566186+00:00",
    "headline": "\t\nCurrency Strength Chart: Strongest: JPY, USD, EUR, CHF, CAD, AUD, EUR, GBP - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857357,
-   "ts": "2026-11-18T08:00:18+00:00",
-   "ingested": "2026-11-18T08:00:45.569192+00:00",
-   "headline": "South Korea's Lee: APEC countries should work together on a stable supply of critical minerals and energy",
    "channel": "rss",
    "source": "financialjuice"
   }
