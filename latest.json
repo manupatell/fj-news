@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T07:34:24.249964+00:00",
+ "updated": "2026-11-19T07:41:04.236047+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859474,
+   "ts": "2026-11-19T07:40:02+00:00",
+   "ingested": "2026-11-19T07:41:04.235607+00:00",
+   "headline": "US Envoy Kushner: Witkoff and I are heading to Berlin to consult with president Zelenskiy and European leaders at the coalition of the willing meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859473,
    "ts": "2026-11-19T07:33:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T03:20:22+00:00",
    "ingested": "2026-11-18T03:21:23.590145+00:00",
    "headline": "Taiwan presidential office: Taiwan welcomes efforts to manage risks of authoritarian expansion and enhance regional security ahead of China-US-Russia meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857036,
-   "ts": "2026-11-18T03:17:18+00:00",
-   "ingested": "2026-11-18T03:17:33.593528+00:00",
-   "headline": "Democratic challenger Mary Peltola defeats Republican incumbent Dan Sullivan in Alaska US Senate race: CNN projects",
    "channel": "rss",
    "source": "financialjuice"
   }
