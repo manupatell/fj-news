@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-19T05:42:44.221272+00:00",
+ "updated": "2026-11-19T05:44:24.204203+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859327,
+   "ts": "2026-11-19T05:44:05+00:00",
+   "ingested": "2026-11-19T05:44:24.203750+00:00",
+   "headline": "Kremlin on Putin-Trump meeting: Putin left meeting in an excellent mood, Tass says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859326,
+   "ts": "2026-11-19T05:43:21+00:00",
+   "ingested": "2026-11-19T05:44:24.203765+00:00",
+   "headline": "Kremlin: Ukraine was main focus at Putin-Trump meeting - TASS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859325,
+   "ts": "2026-11-19T05:42:46+00:00",
+   "ingested": "2026-11-19T05:44:24.203777+00:00",
+   "headline": "Kremlin: Putin and Trump discussed Ukraine conflict and bilateral relations - Tass",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859324,
    "ts": "2026-11-19T05:42:18+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-18T02:10:05+00:00",
    "ingested": "2026-11-18T02:10:23.561012+00:00",
    "headline": "China's President Xi: must strongly support WTO as central institution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856951,
-   "ts": "2026-11-18T02:09:50+00:00",
-   "ingested": "2026-11-18T02:10:23.561039+00:00",
-   "headline": "China\u2019s President Xi: urged settling differences via dialogue and consultation, tackling challenges through unity and coordination - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856950,
-   "ts": "2026-11-18T02:09:25+00:00",
-   "ingested": "2026-11-18T02:10:23.561060+00:00",
-   "headline": "China's President Xi: China ready to collaborate with all parties to advance with confidence, build Asia-Pacific community for shared prosperity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856893,
-   "ts": "2026-11-18T02:01:23+00:00",
-   "ingested": "2026-11-18T02:02:03.565224+00:00",
-   "headline": "Chinese President Xi Jinping attends opening of Asia-Pacific Economic Cooperation CEO Summit 2026 in Shenzhen",
    "channel": "rss",
    "source": "financialjuice"
   }
