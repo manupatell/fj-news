@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T13:56:41.768189+00:00",
+ "updated": "2026-11-19T14:01:41.774535+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859997,
+   "ts": "2026-11-19T13:59:59+00:00",
+   "ingested": "2026-11-19T14:01:41.774125+00:00",
+   "headline": "Effective Fed funds rate 3.88% November 18th vs 3.88% November 17th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859994,
    "ts": "2026-11-19T13:54:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T09:04:28+00:00",
    "ingested": "2026-11-18T09:06:05.563951+00:00",
    "headline": "China's Xi to greet Trump at APEC summit arrival",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857462,
-   "ts": "2026-11-18T09:04:17+00:00",
-   "ingested": "2026-11-18T09:06:05.563964+00:00",
-   "headline": "China's Xi welcomes Trump at airport",
    "channel": "rss",
    "source": "financialjuice"
   }
