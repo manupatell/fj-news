@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-19T01:59:44.390813+00:00",
+ "updated": "2026-11-19T02:03:04.408531+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859052,
+   "ts": "2026-11-19T02:02:32+00:00",
+   "ingested": "2026-11-19T02:03:04.408033+00:00",
+   "headline": "China's President Xi: should establish fair, non-discriminatory cooperation environment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859051,
+   "ts": "2026-11-19T02:02:05+00:00",
+   "ingested": "2026-11-19T02:03:04.408046+00:00",
+   "headline": "China's President Xi: should reopen economic channels, expand growth opportunities in Asia Pacific region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858994,
+   "ts": "2026-11-19T02:01:38+00:00",
+   "ingested": "2026-11-19T02:03:04.408055+00:00",
+   "headline": "China's President Xi: should promote free, open trade",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858993,
+   "ts": "2026-11-19T02:01:20+00:00",
+   "ingested": "2026-11-19T02:03:04.408065+00:00",
+   "headline": "China's President Xi: must maintain open regionalism, steadily advance economy, foster inclusive cooperation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858939,
    "ts": "2026-11-19T01:58:27+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-17T21:23:33+00:00",
    "ingested": "2026-11-17T22:33:33.631844+00:00",
    "headline": "Nvidia 3Q Rev. tops high end of forecast for 15th straight quarter. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856534,
-   "ts": "2026-11-17T21:20:50+00:00",
-   "ingested": "2026-11-17T22:33:33.631857+00:00",
-   "headline": "$NVDA NVIDIA Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856517,
-   "ts": "2026-11-17T21:15:37+00:00",
-   "ingested": "2026-11-17T22:33:33.631871+00:00",
-   "headline": "North Korea ruling Party Politburo member Jo meets Putin - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856513,
-   "ts": "2026-11-17T21:09:05+00:00",
-   "ingested": "2026-11-17T22:33:33.631885+00:00",
-   "headline": "Google: Tap-to-pay functionality isn't supported on iOS. $GOOGL $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856512,
-   "ts": "2026-11-17T21:08:20+00:00",
-   "ingested": "2026-11-17T22:33:33.631898+00:00",
-   "headline": "Google: Google wallet is now available on iOS in US. $GOOGL $AAPL",
    "channel": "rss",
    "source": "financialjuice"
   }
