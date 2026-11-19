@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T03:01:04.171663+00:00",
+ "updated": "2026-11-19T03:04:24.183270+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859151,
+   "ts": "2026-11-19T03:03:34+00:00",
+   "ingested": "2026-11-19T03:04:24.182833+00:00",
+   "headline": "BoJ Governor Ueda: important to raise rates to positive levels so real interest rates can fall when economy slows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9859150,
+   "ts": "2026-11-19T03:03:34+00:00",
+   "ingested": "2026-11-19T03:04:24.182847+00:00",
+   "headline": "At APEC: Russia backs APEC final communique",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859131,
    "ts": "2026-11-19T03:00:03+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T00:08:17+00:00",
    "ingested": "2026-11-18T00:09:03.524630+00:00",
    "headline": "res in Anthropic's IPO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856745,
-   "ts": "2026-11-18T00:06:55+00:00",
-   "ingested": "2026-11-18T00:07:23.523413+00:00",
-   "headline": "Anthropic backers Sequoia, Lightspeed poised to boost IPO investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856743,
-   "ts": "2026-11-18T00:05:38+00:00",
-   "ingested": "2026-11-18T00:07:23.523434+00:00",
-   "headline": "Bahrain's interior ministry issues all-clear alert: post on X",
    "channel": "rss",
    "source": "financialjuice"
   }
