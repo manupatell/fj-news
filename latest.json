@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T03:19:24.164675+00:00",
+ "updated": "2026-11-19T03:27:44.181289+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859170,
+   "ts": "2026-11-19T03:26:21+00:00",
+   "ingested": "2026-11-19T03:27:44.180854+00:00",
+   "headline": "Houthi-run Saba news agency: Saudi Arabia launches airstrikes on Yemen's capital Sanaa",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859153,
    "ts": "2026-11-19T03:07:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T00:28:47+00:00",
    "ingested": "2026-11-18T00:29:03.557840+00:00",
    "headline": "China PBOC likely to fix yuan midpoint at 6.6654 per dollar: Estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856747,
-   "ts": "2026-11-18T00:08:18+00:00",
-   "ingested": "2026-11-18T00:09:03.524612+00:00",
-   "headline": "Anthropic backers Sequoia Capital, Iconiq and others plan to acquire billions in Shai",
    "channel": "rss",
    "source": "financialjuice"
   }
