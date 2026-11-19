@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T14:41:44.041859+00:00",
+ "updated": "2026-11-19T14:46:44.052591+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860075,
+   "ts": "2026-11-19T14:46:03+00:00",
+   "ingested": "2026-11-19T14:46:44.052136+00:00",
+   "headline": "Roughly 15% of Anthropic IPO sold to retail - WSJ. $ANT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860063,
    "ts": "2026-11-19T14:41:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T09:26:35+00:00",
    "ingested": "2026-11-18T09:28:25.575613+00:00",
    "headline": "Kremlin: Putin, trump will have conversation - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857489,
-   "ts": "2026-11-18T09:23:05+00:00",
-   "ingested": "2026-11-18T09:23:25.575942+00:00",
-   "headline": "ECB's Vujcic: We discussed opening the ECB's balance sheets to funds and decided against it, it may come back.",
    "channel": "rss",
    "source": "financialjuice"
   }
