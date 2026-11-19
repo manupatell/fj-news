@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-19T14:23:21.782589+00:00",
+ "updated": "2026-11-19T14:26:41.799987+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860039,
+   "ts": "2026-11-19T14:25:55+00:00",
+   "ingested": "2026-11-19T14:26:41.799380+00:00",
+   "headline": "Fed's Jefferson: AI could pose a 'meaningful challenge\u2019 to some households through job displacement, but could also produce new jobs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860038,
+   "ts": "2026-11-19T14:25:52+00:00",
+   "ingested": "2026-11-19T14:26:41.799407+00:00",
+   "headline": "Fed's Jefferson: Energy cost shock is a challenge for central banks that poses trade-offs for central banks between inflation and job risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860037,
+   "ts": "2026-11-19T14:25:41+00:00",
+   "ingested": "2026-11-19T14:26:41.799430+00:00",
+   "headline": "Fed's Jefferson: AI buildout is a shock that affects both demand and supply; current pressure is on demand with possible productivity advancements 'in the future\u2019.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860036,
+   "ts": "2026-11-19T14:25:28+00:00",
+   "ingested": "2026-11-19T14:26:41.799447+00:00",
+   "headline": "Fed's Jefferson: Artificial intelligence buildout is putting upward pressure on inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860035,
+   "ts": "2026-11-19T14:25:23+00:00",
+   "ingested": "2026-11-19T14:26:41.799482+00:00",
+   "headline": "Fed's Jefferson doesn\u2019t comment in text on interest-rate outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860011,
    "ts": "2026-11-19T14:02:40+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-18T09:07:46+00:00",
    "ingested": "2026-11-18T09:08:15.561713+00:00",
    "headline": "Iceland central bank: inflation stays too high, inflation expectations exceed target; outlook highly uncertain",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857468,
-   "ts": "2026-11-18T09:06:41+00:00",
-   "ingested": "2026-11-18T09:07:45.570647+00:00",
-   "headline": "OpenAI: Le Figaro to keep full editorial independence and control over journalism under partnership",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857467,
-   "ts": "2026-11-18T09:06:08+00:00",
-   "ingested": "2026-11-18T09:07:45.570669+00:00",
-   "headline": "OpenAI: Le Groupe Figaro and OpenAI collaborate to bring Le Figaro journalism to ChatGPT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857466,
-   "ts": "2026-11-18T09:06:00+00:00",
-   "ingested": "2026-11-18T09:07:45.570687+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed cruise missile launched by Yemen's Houthis towards Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857465,
-   "ts": "2026-11-18T09:05:52+00:00",
-   "ingested": "2026-11-18T09:06:05.563915+00:00",
-   "headline": "China's Xi embraces Trump on tarmac ahead of APEC summit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857464,
-   "ts": "2026-11-18T09:05:21+00:00",
-   "ingested": "2026-11-18T09:06:05.563935+00:00",
-   "headline": "Saudi civil defense issues warning of possible threat in Jazan",
    "channel": "rss",
    "source": "financialjuice"
   }
