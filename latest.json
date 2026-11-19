@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T07:51:04.232525+00:00",
+ "updated": "2026-11-19T07:56:04.232242+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859490,
+   "ts": "2026-11-19T07:54:20+00:00",
+   "ingested": "2026-11-19T07:56:04.231795+00:00",
+   "headline": "ECB's Moulin: France can't ignore reality of high debt, deficit.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859474,
    "ts": "2026-11-19T07:40:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T03:20:37+00:00",
    "ingested": "2026-11-18T03:21:23.590125+00:00",
    "headline": "Taiwan presidential office: Taiwan closely engaged with US, fully aware of developments ahead of China-US-Russia meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857037,
-   "ts": "2026-11-18T03:20:22+00:00",
-   "ingested": "2026-11-18T03:21:23.590145+00:00",
-   "headline": "Taiwan presidential office: Taiwan welcomes efforts to manage risks of authoritarian expansion and enhance regional security ahead of China-US-Russia meeting",
    "channel": "rss",
    "source": "financialjuice"
   }
