@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T15:15:24.071188+00:00",
+ "updated": "2026-11-19T15:18:44.051658+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860128,
+   "ts": "2026-11-19T15:17:47+00:00",
+   "ingested": "2026-11-19T15:18:44.051274+00:00",
+   "headline": "Anthropic Amodei: Compute commitments are not so large given sales",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860110,
    "ts": "2026-11-19T15:15:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T10:02:16+00:00",
    "ingested": "2026-11-18T12:43:19.472382+00:00",
    "headline": "Eurozone CPI MoM Final Actual 0.5% (Forecast 0.4%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857543,
-   "ts": "2026-11-18T10:00:02+00:00",
-   "ingested": "2026-11-18T12:43:19.472394+00:00",
-   "headline": "Eurozone CPI YoY Final Actual 4% (Forecast 4%, Previous 4.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
