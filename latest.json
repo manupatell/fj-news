@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T13:53:21.785065+00:00",
+ "updated": "2026-11-19T13:56:41.768189+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859994,
+   "ts": "2026-11-19T13:54:59+00:00",
+   "ingested": "2026-11-19T13:56:41.767762+00:00",
+   "headline": "White House on China, Russia meeting: The three heads of state had an in-depth exchange of views on current international situation and committed to maintaining strategic stability and international security.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859993,
    "ts": "2026-11-19T13:52:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T09:04:17+00:00",
    "ingested": "2026-11-18T09:06:05.563964+00:00",
    "headline": "China's Xi welcomes Trump at airport",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857445,
-   "ts": "2026-11-18T09:00:54+00:00",
-   "ingested": "2026-11-18T09:01:05.569716+00:00",
-   "headline": "ECB's Stability Review: Widening of French spreads points to country-specific risks.",
    "channel": "rss",
    "source": "financialjuice"
   }
