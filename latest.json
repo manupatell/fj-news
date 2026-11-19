@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T08:12:44.243440+00:00",
+ "updated": "2026-11-19T08:14:24.241047+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859503,
+   "ts": "2026-11-19T08:13:55+00:00",
+   "ingested": "2026-11-19T08:14:24.240609+00:00",
+   "headline": "Xi: To continue the positive momentum of China-US relationship.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859494,
    "ts": "2026-11-19T08:01:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T03:28:51+00:00",
    "ingested": "2026-11-18T03:29:03.626795+00:00",
    "headline": "Russia's Putin at APEC CEO summit: former hegemonies attempt to suppress development of other countries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857040,
-   "ts": "2026-11-18T03:28:42+00:00",
-   "ingested": "2026-11-18T03:29:03.626816+00:00",
-   "headline": "Russia's Putin at APEC CEO summit: artificial barriers raise costs, Europe is suffering",
    "channel": "rss",
    "source": "financialjuice"
   }
