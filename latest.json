@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T12:01:41.737051+00:00",
+ "updated": "2026-11-19T12:08:21.747162+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859815,
+   "ts": "2026-11-19T12:07:51+00:00",
+   "ingested": "2026-11-19T12:08:21.746686+00:00",
+   "headline": "Putin: EU, Ukraine not ready for compromise yet - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859795,
    "ts": "2026-11-19T12:01:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T05:57:20+00:00",
    "ingested": "2026-11-18T05:58:45.827414+00:00",
    "headline": "China Oct survey-based jobless rate for 30-59 year-olds at 3.9%: stats bureau",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857197,
-   "ts": "2026-11-18T05:56:53+00:00",
-   "ingested": "2026-11-18T05:57:05.823863+00:00",
-   "headline": "China oct survey-based unemployment rate for 16-24 year olds excluding college students at 17.2%: stats bureau",
    "channel": "rss",
    "source": "financialjuice"
   }
