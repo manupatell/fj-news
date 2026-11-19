@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T23:31:48.442932+00:00",
+ "updated": "2026-11-19T23:33:28.450123+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860804,
+   "ts": "2026-11-19T23:31:53+00:00",
+   "ingested": "2026-11-19T23:33:28.449611+00:00",
+   "headline": "Japan overall CPI climbs at fastest rate since November 2025",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860803,
+   "ts": "2026-11-19T23:31:41+00:00",
+   "ingested": "2026-11-19T23:33:28.449624+00:00",
+   "headline": "Japan core CPI climbs at fastest rate since December 2025",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860798,
    "ts": "2026-11-19T23:30:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T19:00:54+00:00",
    "ingested": "2026-11-18T20:55:38.339654+00:00",
    "headline": "Fed: Couple said December hike more than 25 BPS may be warranted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858408,
-   "ts": "2026-11-18T19:00:52+00:00",
-   "ingested": "2026-11-18T20:55:38.339666+00:00",
-   "headline": "Fed Minutes: A few participants who favored a rate hike said they could have backed no change if it was clearly understood by market participants that more tightening was likely",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858407,
-   "ts": "2026-11-18T19:00:34+00:00",
-   "ingested": "2026-11-18T20:55:38.339677+00:00",
-   "headline": "Fed Minutes: Some participants favored a 25 basis point rate hike at the October meeting, emphasizing inflation was too high and they saw few signs of it abating",
    "channel": "rss",
    "source": "financialjuice"
   }
