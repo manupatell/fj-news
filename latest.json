@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T06:57:44.242626+00:00",
+ "updated": "2026-11-19T07:06:04.271221+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9859438,
+   "ts": "2026-11-19T07:04:46+00:00",
+   "ingested": "2026-11-19T07:06:04.270762+00:00",
+   "headline": "Swiss Trade Balance Actual 4,089M (Forecast -, Previous 1,309M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9859415,
    "ts": "2026-11-19T06:36:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T03:05:46+00:00",
    "ingested": "2026-11-18T03:06:03.579011+00:00",
    "headline": "S.Korea President Lee holds talks with Chinese President Xi Jinping on sidelines of APEC - media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857022,
-   "ts": "2026-11-18T03:03:12+00:00",
-   "ingested": "2026-11-18T03:04:53.573803+00:00",
-   "headline": "China\u2019s Xi meets South Korean president in Shenzhen: CCTV",
    "channel": "rss",
    "source": "financialjuice"
   }
