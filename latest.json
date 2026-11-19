@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T16:14:24.068136+00:00",
+ "updated": "2026-11-19T16:16:04.072397+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860221,
+   "ts": "2026-11-19T16:15:44+00:00",
+   "ingested": "2026-11-19T16:16:04.071954+00:00",
+   "headline": "Anthropic shares indicated to open 30% above the IPO price on its debut $ANT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860218,
+   "ts": "2026-11-19T16:14:29+00:00",
+   "ingested": "2026-11-19T16:16:04.071977+00:00",
+   "headline": "Federal Communications Commission votes to ban Chinese telecom firms from direct access to US phone numbers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860216,
    "ts": "2026-11-19T16:13:37+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T12:36:55+00:00",
    "ingested": "2026-11-18T12:43:19.471987+00:00",
    "headline": "Fed's Waller: Very concerned inflation is heading in the wrong direction and broadening - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857804,
-   "ts": "2026-11-18T12:34:22+00:00",
-   "ingested": "2026-11-18T12:43:19.472001+00:00",
-   "headline": "Canada's PM Carney and Trump met on the margins of the APEC meeting in Shenzhen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9857773,
-   "ts": "2026-11-18T12:28:48+00:00",
-   "ingested": "2026-11-18T12:43:19.472014+00:00",
-   "headline": "UK's PM Burnham: Will honor Labour manifesto red lines on EU",
    "channel": "rss",
    "source": "financialjuice"
   }
