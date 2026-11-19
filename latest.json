@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-19T19:26:42.573856+00:00",
+ "updated": "2026-11-19T19:28:22.601628+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860509,
+   "ts": "2026-11-19T19:28:05+00:00",
+   "ingested": "2026-11-19T19:28:22.600959+00:00",
+   "headline": "Mast moves to disclose Nvidia China export control license details. $NVDA $AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860508,
+   "ts": "2026-11-19T19:27:54+00:00",
+   "ingested": "2026-11-19T19:28:22.600973+00:00",
+   "headline": "Mast reveals Nvidia and AMD AI chip licenses for China - statement. $NVDA $AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860507,
+   "ts": "2026-11-19T19:27:12+00:00",
+   "ingested": "2026-11-19T19:28:22.600986+00:00",
+   "headline": "BoE\u2019s Greene: We need to shore up credibility on inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860506,
    "ts": "2026-11-19T19:25:46+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-18T15:29:08+00:00",
    "ingested": "2026-11-18T15:30:02.657014+00:00",
    "headline": "BoE's Bailey: Expectation of stronger food inflation hasn't happened",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858096,
-   "ts": "2026-11-18T15:28:45+00:00",
-   "ingested": "2026-11-18T15:30:02.657030+00:00",
-   "headline": "Bank of England's Bailey: I'm afraid inflation is going to go up further",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858095,
-   "ts": "2026-11-18T15:28:24+00:00",
-   "ingested": "2026-11-18T15:30:02.657044+00:00",
-   "headline": "BoE Gov. Bailey asked about inflation rising: It is enormously frustrating.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858093,
-   "ts": "2026-11-18T15:25:36+00:00",
-   "ingested": "2026-11-18T15:26:42.608441+00:00",
-   "headline": "OpenAI's Brockman confirms he asked Musk for computing",
    "channel": "rss",
    "source": "financialjuice"
   }
