@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-19T01:44:44.397811+00:00",
+ "updated": "2026-11-19T01:46:24.395509+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858922,
+   "ts": "2026-11-19T01:45:35+00:00",
+   "ingested": "2026-11-19T01:46:24.395079+00:00",
+   "headline": "BoJ governor Ueda: FX swings could affect inflation more as companies pass on costs more actively",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9858919,
+   "ts": "2026-11-19T01:45:13+00:00",
+   "ingested": "2026-11-19T01:46:24.395093+00:00",
+   "headline": "BoJ governor Ueda: weak yen could cause inflation overshoot by driving up prices across many goods",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858918,
    "ts": "2026-11-19T01:44:06+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-17T19:41:07+00:00",
    "ingested": "2026-11-17T19:41:51.353626+00:00",
    "headline": "Fed's Williams: Cyber security issues continue to be an area of worry.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856382,
-   "ts": "2026-11-17T19:40:17+00:00",
-   "ingested": "2026-11-17T19:41:51.353642+00:00",
-   "headline": "Fed's Williams: Demand clearly winning the race with supply.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856381,
-   "ts": "2026-11-17T19:36:08+00:00",
-   "ingested": "2026-11-17T19:36:40.880695+00:00",
-   "headline": "Fed's Williams: I don't yet see financial stability risk from AI",
    "channel": "rss",
    "source": "financialjuice"
   }
