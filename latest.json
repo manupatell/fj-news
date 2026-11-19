@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T01:28:04.401193+00:00",
+ "updated": "2026-11-19T01:34:44.392939+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9858911,
+   "ts": "2026-11-19T01:34:13+00:00",
+   "ingested": "2026-11-19T01:34:44.392438+00:00",
+   "headline": "BoJ governor Ueda: July-September consumption decline in GDP data matches expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9858889,
    "ts": "2026-11-19T01:26:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-17T19:31:39+00:00",
    "ingested": "2026-11-17T19:31:50.900678+00:00",
    "headline": "NYMEX diesel Dec. futures settle at $4.0475 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9856371,
-   "ts": "2026-11-17T19:31:28+00:00",
-   "ingested": "2026-11-17T19:31:50.900695+00:00",
-   "headline": "NYMEX gasoline Dec. futures settle at $2.5349 a gallon",
    "channel": "rss",
    "source": "financialjuice"
   }
