@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-20T11:15:02.603987+00:00",
+ "updated": "2026-11-20T11:18:22.598851+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861623,
+   "ts": "2026-11-20T11:18:11+00:00",
+   "ingested": "2026-11-20T11:18:22.598459+00:00",
+   "headline": "Houthis threaten to hit Saudi ports if Hodeidah port is attacked",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861616,
+   "ts": "2026-11-20T11:17:26+00:00",
+   "ingested": "2026-11-20T11:18:22.598473+00:00",
+   "headline": "Yemen's Houthis warn workers and people near Saudi Red Sea ports to evacuate immediately, urge shipping companies to remove vessels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861604,
+   "ts": "2026-11-20T11:17:14+00:00",
+   "ingested": "2026-11-20T11:18:22.598484+00:00",
+   "headline": "Yemen's Houthis: Saudi Arabia's Jeddah port and all its Red Sea ports will be targeted if the coalition strikes Yemen's Hodeidah port - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861598,
    "ts": "2026-11-20T11:03:47+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T00:30:02+00:00",
    "ingested": "2026-11-19T00:31:08.245583+00:00",
    "headline": "Australian Employment Change Actual -43.5k (Forecast 25k, Previous -39.3k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858803,
-   "ts": "2026-11-19T00:30:01+00:00",
-   "ingested": "2026-11-19T00:31:08.245592+00:00",
-   "headline": "Australian Unemployment Rate Actual 4.9% (Forecast 4.7%, Previous 4.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858802,
-   "ts": "2026-11-19T00:30:01+00:00",
-   "ingested": "2026-11-19T00:31:08.245600+00:00",
-   "headline": "Australian Participation Rate Actual 66.6% (Forecast 66.8%, Previous 66.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858801,
-   "ts": "2026-11-19T00:30:01+00:00",
-   "ingested": "2026-11-19T00:31:08.245609+00:00",
-   "headline": "Australian Full Time Employment Chg. Actual -2.9k (Forecast -, Previous 34.4k)",
    "channel": "rss",
    "source": "financialjuice"
   }
