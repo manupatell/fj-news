@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T01:51:26.007698+00:00",
+ "updated": "2026-11-20T01:54:46.003791+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860970,
+   "ts": "2026-11-20T01:53:43+00:00",
+   "ingested": "2026-11-20T01:54:46.003175+00:00",
+   "headline": "China finance ministry issues $2 billion three-year bonds in Hong Kong",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860940,
    "ts": "2026-11-20T01:20:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T20:39:14+00:00",
    "ingested": "2026-11-18T20:55:38.339303+00:00",
    "headline": "US charges Russian as foreign agent targeting Palantir workers. $PLTR",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858516,
-   "ts": "2026-11-18T20:22:43+00:00",
-   "ingested": "2026-11-18T20:55:38.339335+00:00",
-   "headline": "Thursday FX Options Expiries",
    "channel": "rss",
    "source": "financialjuice"
   }
