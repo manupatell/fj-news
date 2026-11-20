@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T12:10:02.629671+00:00",
+ "updated": "2026-11-20T12:13:22.620820+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861681,
+   "ts": "2026-11-20T12:12:51+00:00",
+   "ingested": "2026-11-20T12:13:22.620404+00:00",
+   "headline": "French unions call for further strike on December 1 - AFP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861667,
    "ts": "2026-11-20T11:58:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T01:03:27+00:00",
    "ingested": "2026-11-19T01:04:44.377174+00:00",
    "headline": "BoJ Governor Ueda: Japan's economy steady but showing some fragility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858858,
-   "ts": "2026-11-19T01:02:54+00:00",
-   "ingested": "2026-11-19T01:04:44.377189+00:00",
-   "headline": "Saudi Crown Prince and US Centcom Chief discuss military relations and regional issues in Riyadh: Saudi State News Agency",
    "channel": "rss",
    "source": "financialjuice"
   }
