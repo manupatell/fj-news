@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T22:19:22.295506+00:00",
+ "updated": "2026-11-20T22:27:42.323195+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862543,
+   "ts": "2026-11-20T22:26:13+00:00",
+   "ingested": "2026-11-20T22:27:42.322730+00:00",
+   "headline": "Agriculture department hacked: NBC News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862507,
    "ts": "2026-11-20T21:48:46+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T13:43:04+00:00",
    "ingested": "2026-11-19T13:43:21.770870+00:00",
    "headline": "JPMorgan: We believe attackers accessed certain marketing data held by third-party vendors. This may include some customer names and email addresses $JPM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859972,
-   "ts": "2026-11-19T13:42:12+00:00",
-   "ingested": "2026-11-19T13:43:21.770912+00:00",
-   "headline": "JPMorgan Spokesperson: No disruption to our services; we have learned that third parties who provide services to the firm were the target of a cyber attack $JPM",
    "channel": "rss",
    "source": "financialjuice"
   }
