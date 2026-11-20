@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T00:03:48.502983+00:00",
+ "updated": "2026-11-20T00:05:28.486865+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860861,
+   "ts": "2026-11-20T00:04:25+00:00",
+   "ingested": "2026-11-20T00:05:28.486317+00:00",
+   "headline": "Fed's Paulson: reducing inflation is top priority at the moment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860860,
+   "ts": "2026-11-20T00:04:09+00:00",
+   "ingested": "2026-11-20T00:05:28.486331+00:00",
+   "headline": "Fed's Paulson: inflation remains elevated, labor market at full employment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860858,
    "ts": "2026-11-20T00:02:48+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T19:35:16+00:00",
    "ingested": "2026-11-18T20:55:38.339508+00:00",
    "headline": "RBNZ's Breman: Hard for NZ businesses to pass on higher costs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858463,
-   "ts": "2026-11-18T19:34:42+00:00",
-   "ingested": "2026-11-18T20:55:38.339517+00:00",
-   "headline": "RBNZ's Breman: Indirect effects from fuel prices may be higher",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858462,
-   "ts": "2026-11-18T19:33:47+00:00",
-   "ingested": "2026-11-18T20:55:38.339524+00:00",
-   "headline": "RBNZ's Breman: Economic recovery remains uneven",
    "channel": "rss",
    "source": "financialjuice"
   }
