@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T03:34:06.036240+00:00",
+ "updated": "2026-11-20T03:39:06.039140+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861102,
+   "ts": "2026-11-20T03:38:51+00:00",
+   "ingested": "2026-11-20T03:39:06.038598+00:00",
+   "headline": "China's President Xi: we should enhance people-to-people ties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861101,
+   "ts": "2026-11-20T03:38:27+00:00",
+   "ingested": "2026-11-20T03:39:06.038614+00:00",
+   "headline": "China's President Xi: fair to say we have achieved a thorough recovery in China-Australia ties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861100,
    "ts": "2026-11-20T03:32:50+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T21:17:26+00:00",
    "ingested": "2026-11-18T21:18:48.216708+00:00",
    "headline": "Fed's Kashkari: Interest rates absolutely can impact investment levels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858580,
-   "ts": "2026-11-18T21:16:47+00:00",
-   "ingested": "2026-11-18T21:17:08.238174+00:00",
-   "headline": "Iran: Have exercised \u2018maximum restraint\u2019 in defensive strikes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858556,
-   "ts": "2026-11-18T21:02:53+00:00",
-   "ingested": "2026-11-18T21:04:28.174005+00:00",
-   "headline": "US action on China unlikely during Trump's Asia trip - ABC",
    "channel": "rss",
    "source": "financialjuice"
   }
