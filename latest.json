@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-20T13:42:42.685375+00:00",
+ "updated": "2026-11-20T13:44:22.667842+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861822,
+   "ts": "2026-11-20T13:43:14+00:00",
+   "ingested": "2026-11-20T13:44:22.667431+00:00",
+   "headline": "US Sentiment: NVDA & ANT Couldn't Take the Lid off the AI Trade This Week - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861821,
+   "ts": "2026-11-20T13:42:55+00:00",
+   "ingested": "2026-11-20T13:44:22.667444+00:00",
+   "headline": "USTR Greer: 301 investigations coming before year-end",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861820,
+   "ts": "2026-11-20T13:42:43+00:00",
+   "ingested": "2026-11-20T13:44:22.667454+00:00",
+   "headline": "USTR Greer: China brought up Taiwan in talks this week",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861819,
    "ts": "2026-11-20T13:42:20+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T02:02:05+00:00",
    "ingested": "2026-11-19T02:03:04.408046+00:00",
    "headline": "China's President Xi: should reopen economic channels, expand growth opportunities in Asia Pacific region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858994,
-   "ts": "2026-11-19T02:01:38+00:00",
-   "ingested": "2026-11-19T02:03:04.408055+00:00",
-   "headline": "China's President Xi: should promote free, open trade",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858993,
-   "ts": "2026-11-19T02:01:20+00:00",
-   "ingested": "2026-11-19T02:03:04.408065+00:00",
-   "headline": "China's President Xi: must maintain open regionalism, steadily advance economy, foster inclusive cooperation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858939,
-   "ts": "2026-11-19T01:58:27+00:00",
-   "ingested": "2026-11-19T01:59:44.390396+00:00",
-   "headline": "IMF Managing Director Georgieva: rising global inflation requires tighter monetary policies in many economies",
    "channel": "rss",
    "source": "financialjuice"
   }
