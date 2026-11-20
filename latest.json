@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T13:25:42.662543+00:00",
+ "updated": "2026-11-20T13:27:22.658334+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861791,
+   "ts": "2026-11-20T13:25:45+00:00",
+   "ingested": "2026-11-20T13:27:22.657922+00:00",
+   "headline": "ECB's Nagel: Then we're in slightly restrictive territory.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861790,
    "ts": "2026-11-20T13:25:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T01:34:55+00:00",
    "ingested": "2026-11-19T01:36:24.400840+00:00",
    "headline": "BoJ governor Ueda: consumption steady overall as wages grow steadily amid tight labor market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858911,
-   "ts": "2026-11-19T01:34:13+00:00",
-   "ingested": "2026-11-19T01:34:44.392438+00:00",
-   "headline": "BoJ governor Ueda: July-September consumption decline in GDP data matches expectations",
    "channel": "rss",
    "source": "financialjuice"
   }
