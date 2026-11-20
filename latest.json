@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T01:16:26.032459+00:00",
+ "updated": "2026-11-20T01:18:06.066187+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860637,
+   "ts": "2026-11-19T20:50:31+00:00",
+   "ingested": "2026-11-20T01:18:06.065587+00:00",
+   "headline": "MOC Imbalance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860911,
    "ts": "2026-11-20T01:01:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T20:14:20+00:00",
    "ingested": "2026-11-18T20:55:38.339346+00:00",
    "headline": "Nvidia Chair at Employee Townhall: Jensen Huang not coming back. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858495,
-   "ts": "2026-11-18T20:11:38+00:00",
-   "ingested": "2026-11-18T20:55:38.339354+00:00",
-   "headline": "Moolenaar: US tech firms shouldn't play both sides of AI race",
    "channel": "rss",
    "source": "financialjuice"
   }
