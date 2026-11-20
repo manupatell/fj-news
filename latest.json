@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T21:36:02.264760+00:00",
+ "updated": "2026-11-20T21:37:42.302989+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862487,
+   "ts": "2026-11-20T21:36:18+00:00",
+   "ingested": "2026-11-20T21:37:42.302543+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: Exchange of messages via mediators still continues between Iran and the US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862486,
    "ts": "2026-11-20T21:35:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T13:33:58+00:00",
    "ingested": "2026-11-19T13:35:01.778026+00:00",
    "headline": "Citigroup on the October FOMC Minutes - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859953,
-   "ts": "2026-11-19T13:31:36+00:00",
-   "ingested": "2026-11-19T13:33:21.761007+00:00",
-   "headline": "US Sentiment: Anthropic IPO Reviving the AI Trade, but Will it Hold Past the Open? - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
