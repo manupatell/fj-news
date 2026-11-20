@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T13:37:42.664055+00:00",
+ "updated": "2026-11-20T13:39:22.691947+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861815,
+   "ts": "2026-11-20T13:38:12+00:00",
+   "ingested": "2026-11-20T13:39:22.691581+00:00",
+   "headline": "USTR Greer: There is no deal yet on china trade truce extension.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861814,
    "ts": "2026-11-20T13:36:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T01:53:33+00:00",
    "ingested": "2026-11-19T01:54:44.401589+00:00",
    "headline": "BoJ Governor Ueda: FX swings could influence price changes more than before, impacting long-term inflation expectations and core inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858934,
-   "ts": "2026-11-19T01:52:54+00:00",
-   "ingested": "2026-11-19T01:54:44.401602+00:00",
-   "headline": "China's Xi delivers address at 33rd APEC summit",
    "channel": "rss",
    "source": "financialjuice"
   }
