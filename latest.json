@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-20T18:19:22.229808+00:00",
+ "updated": "2026-11-20T18:21:02.230938+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862258,
+   "ts": "2026-11-20T18:20:35+00:00",
+   "ingested": "2026-11-20T18:21:02.230464+00:00",
+   "headline": "Trump: Nvidia is a very important company to the US $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862257,
+   "ts": "2026-11-20T18:20:08+00:00",
+   "ingested": "2026-11-20T18:21:02.230480+00:00",
+   "headline": "ECB's Moulin: inflation in France is too high, driven by energy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862256,
+   "ts": "2026-11-20T18:19:15+00:00",
+   "ingested": "2026-11-20T18:21:02.230492+00:00",
+   "headline": "ECB's Moulin: Inflation is currently clearly too high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862255,
    "ts": "2026-11-20T18:18:41+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T08:36:40+00:00",
    "ingested": "2026-11-19T10:37:44.156963+00:00",
    "headline": "Trump: We've already discussed a lot.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859552,
-   "ts": "2026-11-19T08:36:00+00:00",
-   "ingested": "2026-11-19T10:37:44.156976+00:00",
-   "headline": "Putin: We should discuss global and regional ties, as well as energy security - IFX.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859510,
-   "ts": "2026-11-19T08:16:15+00:00",
-   "ingested": "2026-11-19T10:37:44.156989+00:00",
-   "headline": "Xi: To boost communication in trade, AI with US - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859506,
-   "ts": "2026-11-19T08:15:14+00:00",
-   "ingested": "2026-11-19T10:37:44.157001+00:00",
-   "headline": "Xi: US, China to cooperate to address AI safety risks.",
    "channel": "rss",
    "source": "financialjuice"
   }
