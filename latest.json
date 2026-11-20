@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T18:11:02.210204+00:00",
+ "updated": "2026-11-20T18:12:42.211221+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862223,
+   "ts": "2026-11-20T18:11:26+00:00",
+   "ingested": "2026-11-20T18:12:42.210815+00:00",
+   "headline": "ECB's Moulin: France is facing a budget crisis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862222,
+   "ts": "2026-11-20T18:11:10+00:00",
+   "ingested": "2026-11-20T18:12:42.210832+00:00",
+   "headline": "US Secretary of State Rubio: President met with Canadian Prime Minister to discuss trade, progress was made",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862220,
    "ts": "2026-11-20T18:10:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T06:36:59+00:00",
    "ingested": "2026-11-19T06:37:44.219407+00:00",
    "headline": "Japan PM Takaichi: Have been communicating with china on rare earth export controls.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859414,
-   "ts": "2026-11-19T06:36:26+00:00",
-   "ingested": "2026-11-19T06:37:44.219423+00:00",
-   "headline": "Xi, Trump meeting concluded - CCTV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859377,
-   "ts": "2026-11-19T06:26:33+00:00",
-   "ingested": "2026-11-19T06:27:44.204796+00:00",
-   "headline": "Japan PM Takaichi: Briefly exchanged views with Putin's and Trump.",
    "channel": "rss",
    "source": "financialjuice"
   }
