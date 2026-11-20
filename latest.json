@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T03:39:06.039140+00:00",
+ "updated": "2026-11-20T03:40:46.047929+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861104,
+   "ts": "2026-11-20T03:39:34+00:00",
+   "ingested": "2026-11-20T03:40:46.047386+00:00",
+   "headline": "China's President Xi: willing to collaborate, advance China-Australia comprehensive strategic partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861103,
+   "ts": "2026-11-20T03:39:29+00:00",
+   "ingested": "2026-11-20T03:40:46.047403+00:00",
+   "headline": "China finance ministry offers 2-year bonds at 1.2021% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861102,
    "ts": "2026-11-20T03:38:51+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T21:19:58+00:00",
    "ingested": "2026-11-18T21:21:08.225745+00:00",
    "headline": "Fed's Kashkari: Fed must make sure inflation expectations remain anchored",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858594,
-   "ts": "2026-11-18T21:19:49+00:00",
-   "ingested": "2026-11-18T21:20:08.186856+00:00",
-   "headline": "Fed's Kashkari: Elevated inflation has flowed from a series of supply shocks:",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858591,
-   "ts": "2026-11-18T21:17:26+00:00",
-   "ingested": "2026-11-18T21:18:48.216708+00:00",
-   "headline": "Fed's Kashkari: Interest rates absolutely can impact investment levels",
    "channel": "rss",
    "source": "financialjuice"
   }
