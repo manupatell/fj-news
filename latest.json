@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T05:30:46.072976+00:00",
+ "updated": "2026-11-20T05:32:26.074108+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861212,
+   "ts": "2026-11-20T05:31:01+00:00",
+   "ingested": "2026-11-20T05:32:26.073679+00:00",
+   "headline": "Russian defence ministry: Russian forces target energy and transport infrastructure in Kyiv, several Ukrainian regions - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861209,
    "ts": "2026-11-20T05:30:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T22:00:31+00:00",
    "ingested": "2026-11-18T22:00:48.202051+00:00",
    "headline": "Poll: Japan's wage growth in next year's labor talks estimated at 5.00% versus 5.01% in 2023",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858637,
-   "ts": "2026-11-18T21:55:16+00:00",
-   "ingested": "2026-11-18T21:55:48.194048+00:00",
-   "headline": "Moody's: Higher interest rates, elevated energy prices, and normalization of AI investment cycle will contribute to slower growth in the US",
    "channel": "rss",
    "source": "financialjuice"
   }
