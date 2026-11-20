@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-20T13:39:22.691947+00:00",
+ "updated": "2026-11-20T13:41:02.687143+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861818,
+   "ts": "2026-11-20T13:40:45+00:00",
+   "ingested": "2026-11-20T13:41:02.686724+00:00",
+   "headline": "USTR Greer: Trump is eager to have China buy more soybeans",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861817,
+   "ts": "2026-11-20T13:40:19+00:00",
+   "ingested": "2026-11-20T13:41:02.686738+00:00",
+   "headline": "USTR Greer: Any US-China truce extension hinges on rare earths.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861816,
+   "ts": "2026-11-20T13:39:19+00:00",
+   "ingested": "2026-11-20T13:41:02.686747+00:00",
+   "headline": "USTR Greer: Trump-Xi meeting constructive.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861815,
    "ts": "2026-11-20T13:38:12+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T01:57:23+00:00",
    "ingested": "2026-11-19T01:58:04.414750+00:00",
    "headline": "IMF managing director Georgieva: countries must quickly establish digital infrastructure",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858937,
-   "ts": "2026-11-19T01:56:33+00:00",
-   "ingested": "2026-11-19T01:58:04.414765+00:00",
-   "headline": "IMF Managing Director Georgieva: energy supply and al demand shocks are driving global inflation to 4.7%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858936,
-   "ts": "2026-11-19T01:54:42+00:00",
-   "ingested": "2026-11-19T01:56:24.406282+00:00",
-   "headline": "BoJ governor Ueda: reduced presence in JGB market lets long-term rates reflect market views on economy, prices, fiscal and monetary policies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858935,
-   "ts": "2026-11-19T01:53:33+00:00",
-   "ingested": "2026-11-19T01:54:44.401589+00:00",
-   "headline": "BoJ Governor Ueda: FX swings could influence price changes more than before, impacting long-term inflation expectations and core inflation",
    "channel": "rss",
    "source": "financialjuice"
   }
