@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T23:07:42.297178+00:00",
+ "updated": "2026-11-20T23:11:02.318352+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862586,
+   "ts": "2026-11-20T23:10:40+00:00",
+   "ingested": "2026-11-20T23:11:02.317850+00:00",
+   "headline": "Saudi civil defence issues another warning of potential risk in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862585,
+   "ts": "2026-11-20T23:10:31+00:00",
+   "ingested": "2026-11-20T23:11:02.317869+00:00",
+   "headline": "Defense secretary Pete Hegseth imposes new limits on U.S.-Canada defense ties - Washington Post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862584,
    "ts": "2026-11-20T23:06:14+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T14:25:41+00:00",
    "ingested": "2026-11-19T14:26:41.799430+00:00",
    "headline": "Fed's Jefferson: AI buildout is a shock that affects both demand and supply; current pressure is on demand with possible productivity advancements 'in the future\u2019.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860036,
-   "ts": "2026-11-19T14:25:28+00:00",
-   "ingested": "2026-11-19T14:26:41.799447+00:00",
-   "headline": "Fed's Jefferson: Artificial intelligence buildout is putting upward pressure on inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860035,
-   "ts": "2026-11-19T14:25:23+00:00",
-   "ingested": "2026-11-19T14:26:41.799482+00:00",
-   "headline": "Fed's Jefferson doesn\u2019t comment in text on interest-rate outlook",
    "channel": "rss",
    "source": "financialjuice"
   }
