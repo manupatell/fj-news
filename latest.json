@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T17:37:42.213330+00:00",
+ "updated": "2026-11-20T17:39:22.207621+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862168,
+   "ts": "2026-11-20T17:38:18+00:00",
+   "ingested": "2026-11-20T17:39:22.207196+00:00",
+   "headline": "Trump: I will put a tax on companies building data centers abroad.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862167,
+   "ts": "2026-11-20T17:37:55+00:00",
+   "ingested": "2026-11-20T17:39:22.207213+00:00",
+   "headline": "Trump: I will not allow companies to build data centers outside the US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862166,
    "ts": "2026-11-20T17:36:44+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T05:32:51+00:00",
    "ingested": "2026-11-19T05:34:24.200945+00:00",
    "headline": "South Korea exports reach $1 trillion so far this year: Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859300,
-   "ts": "2026-11-19T05:30:19+00:00",
-   "ingested": "2026-11-19T05:31:04.211165+00:00",
-   "headline": "Trump, China's Xi meet on sidelines of APEC summit: CCTV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859299,
-   "ts": "2026-11-19T05:30:00+00:00",
-   "ingested": "2026-11-19T05:31:04.211182+00:00",
-   "headline": "Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
    "channel": "rss",
    "source": "financialjuice"
   }
