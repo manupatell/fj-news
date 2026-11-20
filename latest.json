@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T18:04:22.211381+00:00",
+ "updated": "2026-11-20T18:06:02.487303+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862216,
+   "ts": "2026-11-20T18:05:33+00:00",
+   "ingested": "2026-11-20T18:06:02.486855+00:00",
+   "headline": "Microsoft to reward those it views as top cloud performers $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862215,
+   "ts": "2026-11-20T18:04:16+00:00",
+   "ingested": "2026-11-20T18:06:02.486870+00:00",
+   "headline": "Fed's Cook: Fed will monitor finances around AI buildout",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862214,
    "ts": "2026-11-20T18:03:56+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T06:03:31+00:00",
    "ingested": "2026-11-19T06:04:24.196199+00:00",
    "headline": "China's President Xi: I remain dedicated to cooperating with you",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859357,
-   "ts": "2026-11-19T06:03:18+00:00",
-   "ingested": "2026-11-19T06:04:24.196219+00:00",
-   "headline": "China\u2019s President Xi: forging a constructive China-U.S. relationship of strategic stability is unprecedented",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859356,
-   "ts": "2026-11-19T06:03:02+00:00",
-   "ingested": "2026-11-19T06:04:24.196231+00:00",
-   "headline": "Trump: plans to discuss ending Ukraine war with Xi and later with Putin in trilateral meeting",
    "channel": "rss",
    "source": "financialjuice"
   }
