@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T22:51:02.284351+00:00",
+ "updated": "2026-11-20T22:56:02.282525+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862562,
+   "ts": "2026-11-20T22:54:40+00:00",
+   "ingested": "2026-11-20T22:56:02.282091+00:00",
+   "headline": "Saudi civil defence issues warning over possible threat in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862561,
    "ts": "2026-11-20T22:50:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T13:54:59+00:00",
    "ingested": "2026-11-19T13:56:41.767762+00:00",
    "headline": "White House on China, Russia meeting: The three heads of state had an in-depth exchange of views on current international situation and committed to maintaining strategic stability and international security.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859993,
-   "ts": "2026-11-19T13:52:48+00:00",
-   "ingested": "2026-11-19T13:53:21.784632+00:00",
-   "headline": "Anthropic: Lists underwriting discount of $550 mln in IPO - SEC filing.",
    "channel": "rss",
    "source": "financialjuice"
   }
