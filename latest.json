@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T04:15:46.065538+00:00",
+ "updated": "2026-11-20T04:22:26.052944+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861138,
+   "ts": "2026-11-20T04:22:10+00:00",
+   "ingested": "2026-11-20T04:22:26.052495+00:00",
+   "headline": "Saudi-led coalition: intercepted and destroyed Houthi drone launched toward southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861124,
    "ts": "2026-11-20T04:04:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T21:27:49+00:00",
    "ingested": "2026-11-18T21:28:08.185864+00:00",
    "headline": "Fed's Kashkari: Inflation imprint from AI buildout is real in the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858599,
-   "ts": "2026-11-18T21:27:33+00:00",
-   "ingested": "2026-11-18T21:28:08.185880+00:00",
-   "headline": "Fed's Kashkari: The Fed is clearly missing on the inflation side of the mandate",
    "channel": "rss",
    "source": "financialjuice"
   }
