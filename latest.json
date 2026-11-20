@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-20T00:00:28.490775+00:00",
+ "updated": "2026-11-20T00:02:08.542099+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860850,
+   "ts": "2026-11-20T00:01:51+00:00",
+   "ingested": "2026-11-20T00:02:08.541536+00:00",
+   "headline": "Japan economy minister Kiuchi: rising inflation expectations pressure consumer sentiment, one-off factors contribute to weak consumption indicators",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860849,
+   "ts": "2026-11-20T00:01:16+00:00",
+   "ingested": "2026-11-20T00:02:08.541551+00:00",
+   "headline": "Japan economy minister Kiuchi: underlying consumer inflation quickening as firms advance passing on rising costs from Middle East developments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860848,
+   "ts": "2026-11-20T00:01:03+00:00",
+   "ingested": "2026-11-20T00:02:08.541562+00:00",
+   "headline": "Japan economy minister Kiuchi: economy showing favorable signs as wages and prices rise steadily together",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860847,
+   "ts": "2026-11-20T00:01:03+00:00",
+   "ingested": "2026-11-20T00:02:08.541572+00:00",
+   "headline": "UK GfK consumer confidence index at -22 in November versus -24 in October (Poll: -22)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860846,
+   "ts": "2026-11-20T00:01:03+00:00",
+   "ingested": "2026-11-20T00:02:08.541581+00:00",
+   "headline": "UK GfK major purchases gauge climbs 5 points to -17",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860823,
    "ts": "2026-11-19T23:39:08+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-18T19:31:06+00:00",
    "ingested": "2026-11-18T20:55:38.339558+00:00",
    "headline": "NYMEX gasoline Dec. futures settle at $2.4819 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858444,
-   "ts": "2026-11-18T19:30:57+00:00",
-   "ingested": "2026-11-18T20:55:38.339567+00:00",
-   "headline": "NYMEX WTI crude Dec. futures settle at $83.26 a barrel, down $2.75, 3.20%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858441,
-   "ts": "2026-11-18T19:18:56+00:00",
-   "ingested": "2026-11-18T20:55:38.339575+00:00",
-   "headline": "Iran had constructive talks with Oman - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858421,
-   "ts": "2026-11-18T19:03:55+00:00",
-   "ingested": "2026-11-18T20:55:38.339582+00:00",
-   "headline": "PlayStation: Seeing issues in game streaming.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858419,
-   "ts": "2026-11-18T19:01:46+00:00",
-   "ingested": "2026-11-18T20:55:38.339592+00:00",
-   "headline": "Fed Staff inflation forecast was similar to one prepared for the September meeting, economic growth outlook a little stronger",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858415,
-   "ts": "2026-11-18T19:01:30+00:00",
-   "ingested": "2026-11-18T20:55:38.339604+00:00",
-   "headline": "Fed Minutes: Participants had extensive discussion of issues around the AI buildout, including implications for financial stability and potential productivity gains.",
    "channel": "rss",
    "source": "financialjuice"
   }
