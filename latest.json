@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-20T00:17:08.491939+00:00",
+ "updated": "2026-11-20T00:18:48.497138+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860881,
+   "ts": "2026-11-20T00:18:36+00:00",
+   "ingested": "2026-11-20T00:18:48.496629+00:00",
+   "headline": "RBA\u2019s Fry-McKibbin: Important for public to know board closely monitoring AL implications",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860880,
+   "ts": "2026-11-20T00:18:07+00:00",
+   "ingested": "2026-11-20T00:18:48.496646+00:00",
+   "headline": "RBA monetary policy board member Fry-McKibbin: observing pockets of robust demand in Australia and weakness elsewhere amid a huge global oil supply shock",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860879,
+   "ts": "2026-11-20T00:17:47+00:00",
+   "ingested": "2026-11-20T00:18:48.496657+00:00",
+   "headline": "Japan finance minister Katayama: aware of JT's plan to reduce dividend, no effect on government budget strategy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860868,
    "ts": "2026-11-20T00:16:26+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-18T19:52:00+00:00",
    "ingested": "2026-11-18T20:55:38.339443+00:00",
    "headline": "RBNZ Governor Breman: Measures of underlying inflation remain elevated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858484,
-   "ts": "2026-11-18T19:51:11+00:00",
-   "ingested": "2026-11-18T20:55:38.339456+00:00",
-   "headline": "Navarro: Using AI program to help detect transshipment - Fox Busniness",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858482,
-   "ts": "2026-11-18T19:48:46+00:00",
-   "ingested": "2026-11-18T20:55:38.339465+00:00",
-   "headline": "RBNZ Governor Breman: Subdued demand making it hard for businesses to pass on higher costs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858481,
-   "ts": "2026-11-18T19:48:35+00:00",
-   "ingested": "2026-11-18T20:55:38.339474+00:00",
-   "headline": "RBNZ Governor Breman: Will continue to monitor closely extent to which higher costs feed into other prices.",
    "channel": "rss",
    "source": "financialjuice"
   }
