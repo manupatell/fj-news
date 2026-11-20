@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T05:12:26.069802+00:00",
+ "updated": "2026-11-20T05:19:06.106119+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861203,
+   "ts": "2026-11-20T05:17:57+00:00",
+   "ingested": "2026-11-20T05:19:06.105674+00:00",
+   "headline": "Russian strike kills three in Ukraine's Kyiv: city authorities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861169,
    "ts": "2026-11-20T05:02:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T21:45:00+00:00",
    "ingested": "2026-11-18T21:46:48.187965+00:00",
    "headline": "New Zealand Trade Balance Actual -2772M (Forecast -, Previous -1,971.0M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858614,
-   "ts": "2026-11-18T21:37:26+00:00",
-   "ingested": "2026-11-18T21:37:48.186567+00:00",
-   "headline": "Google CEO Pichai: Gemini 4 Neon begins rolling out today. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
