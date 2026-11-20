@@ -25894,3 +25894,6 @@
 {"guid": 9862458, "ts": "2026-11-20T21:16:21+00:00", "ingested": "2026-11-20T21:17:42.272434+00:00", "headline": "CHF CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9862459, "ts": "2026-11-20T21:16:45+00:00", "ingested": "2026-11-20T21:17:42.272424+00:00", "headline": "GBP CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9862461, "ts": "2026-11-20T21:17:11+00:00", "ingested": "2026-11-20T21:17:42.272409+00:00", "headline": "JPY CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862474, "ts": "2026-11-20T21:17:35+00:00", "ingested": "2026-11-20T21:19:22.253034+00:00", "headline": "AUD CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862476, "ts": "2026-11-20T21:18:14+00:00", "ingested": "2026-11-20T21:19:22.253024+00:00", "headline": "EUR CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862477, "ts": "2026-11-20T21:18:42+00:00", "ingested": "2026-11-20T21:19:22.253009+00:00", "headline": "DXY CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
