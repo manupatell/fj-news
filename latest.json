@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-20T05:29:06.077446+00:00",
+ "updated": "2026-11-20T05:30:46.072976+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861209,
+   "ts": "2026-11-20T05:30:04+00:00",
+   "ingested": "2026-11-20T05:30:46.072455+00:00",
+   "headline": "Dutch November consumer confidence improves to -32 points from -34 in October, CBS says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861208,
+   "ts": "2026-11-20T05:30:00+00:00",
+   "ingested": "2026-11-20T05:30:46.072469+00:00",
+   "headline": "Dutch Consumer Confidence Adjusted Actual -32 (Forecast -, Previous -34)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861207,
+   "ts": "2026-11-20T05:29:46+00:00",
+   "ingested": "2026-11-20T05:30:46.072480+00:00",
+   "headline": "Russian defence ministry: Russian forces strike sea vessels utilized by Ukrainian military - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861206,
+   "ts": "2026-11-20T05:29:46+00:00",
+   "ingested": "2026-11-20T05:30:46.072489+00:00",
+   "headline": "China finance ministry auctions 30-year bonds at 2.0337% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861205,
    "ts": "2026-11-20T05:28:13+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-18T21:55:16+00:00",
    "ingested": "2026-11-18T21:55:48.194048+00:00",
    "headline": "Moody's: Higher interest rates, elevated energy prices, and normalization of AI investment cycle will contribute to slower growth in the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858636,
-   "ts": "2026-11-18T21:54:58+00:00",
-   "ingested": "2026-11-18T21:55:48.194063+00:00",
-   "headline": "Moody's expects US will continue its long history of very effective monetary policy led by an independent Fed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858635,
-   "ts": "2026-11-18T21:54:19+00:00",
-   "ingested": "2026-11-18T21:55:48.194081+00:00",
-   "headline": "Moody's on the USA: Expect Congress to raise or suspend the debt limit before the Treasury exhausts borrowing capacity. Potentially after protracted negotiations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858634,
-   "ts": "2026-11-18T21:53:43+00:00",
-   "ingested": "2026-11-18T21:54:08.199625+00:00",
-   "headline": "Moody's: US economy has grown more strongly than we initially expected in 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858617,
-   "ts": "2026-11-18T21:47:16+00:00",
-   "ingested": "2026-11-18T21:52:28.188758+00:00",
-   "headline": "New Zealand Exports Actual 6.95B (Forecast -, Previous 6.47B ,Revision 6.29B)",
    "channel": "rss",
    "source": "financialjuice"
   }
