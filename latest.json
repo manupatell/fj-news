@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-20T19:26:02.241624+00:00",
+ "updated": "2026-11-20T19:32:42.244303+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862343,
+   "ts": "2026-11-20T19:32:08+00:00",
+   "ingested": "2026-11-20T19:32:42.243811+00:00",
+   "headline": "NYMEX Natural Gas December futures settle at $3.4110/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862342,
+   "ts": "2026-11-20T19:31:34+00:00",
+   "ingested": "2026-11-20T19:32:42.243827+00:00",
+   "headline": "NYMEX Diesel December futures settle at $3.9216 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862341,
+   "ts": "2026-11-20T19:31:24+00:00",
+   "ingested": "2026-11-20T19:32:42.243837+00:00",
+   "headline": "NYMEX Gasoline December futures settle at $2.5027 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862340,
+   "ts": "2026-11-20T19:31:13+00:00",
+   "ingested": "2026-11-20T19:32:42.243848+00:00",
+   "headline": "NYMEX WTI Crude December futures settle at $83.98 a barrel, up 77 cents, 0.93%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862316,
    "ts": "2026-11-20T19:15:00+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-19T10:00:36+00:00",
    "ingested": "2026-11-19T10:37:44.156665+00:00",
    "headline": "Goldman Sachs: ASEAN - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859658,
-   "ts": "2026-11-19T10:00:01+00:00",
-   "ingested": "2026-11-19T10:37:44.156680+00:00",
-   "headline": "Eurozone Construction Output MoM Actual 0.1% (Forecast -, Previous 1.85%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859657,
-   "ts": "2026-11-19T09:59:38+00:00",
-   "ingested": "2026-11-19T10:37:44.156694+00:00",
-   "headline": "French 4 Yr OAT Yield Actual 4.09% (Forecast -, Previous 4.01%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859656,
-   "ts": "2026-11-19T09:59:38+00:00",
-   "ingested": "2026-11-19T10:37:44.156708+00:00",
-   "headline": "French 4 Yr OAT Bid-to-Cover Actual 2.83 (Forecast -, Previous 2.32)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859655,
-   "ts": "2026-11-19T09:59:27+00:00",
-   "ingested": "2026-11-19T10:37:44.156721+00:00",
-   "headline": "Iran: 2 tankers hit mine in Eastern Hormuz - Fars",
    "channel": "rss",
    "source": "financialjuice"
   }
