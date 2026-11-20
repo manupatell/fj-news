@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T18:09:22.210137+00:00",
+ "updated": "2026-11-20T18:11:02.210204+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862220,
+   "ts": "2026-11-20T18:10:42+00:00",
+   "ingested": "2026-11-20T18:11:02.209753+00:00",
+   "headline": "ECB's Moulin: The banking sector is not at risk in France",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862219,
+   "ts": "2026-11-20T18:09:54+00:00",
+   "ingested": "2026-11-20T18:11:02.209770+00:00",
+   "headline": "ECB's Moulin: France is in a very different situation from the Greece crisis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862218,
    "ts": "2026-11-20T18:08:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T06:26:33+00:00",
    "ingested": "2026-11-19T06:27:44.204796+00:00",
    "headline": "Japan PM Takaichi: Briefly exchanged views with Putin's and Trump.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859376,
-   "ts": "2026-11-19T06:22:45+00:00",
-   "ingested": "2026-11-19T06:24:24.206150+00:00",
-   "headline": "Japan PM Takaichi: Will support building oil stockpile system among asean states.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859375,
-   "ts": "2026-11-19T06:20:22+00:00",
-   "ingested": "2026-11-19T06:21:04.224657+00:00",
-   "headline": "Drones attack oil storage facilities in Russia's Tatarstan - IFX.",
    "channel": "rss",
    "source": "financialjuice"
   }
