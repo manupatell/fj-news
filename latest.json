@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T05:52:26.075985+00:00",
+ "updated": "2026-11-20T05:59:06.080187+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861230,
+   "ts": "2026-11-20T05:57:17+00:00",
+   "ingested": "2026-11-20T05:59:06.079754+00:00",
+   "headline": "Emergency blackouts introduced in Ukraine's Kyiv, city officials say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861212,
    "ts": "2026-11-20T05:31:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T22:00:31+00:00",
    "ingested": "2026-11-18T22:00:48.202040+00:00",
    "headline": "Poll: timing of BoJ's next rate increase unaffected by recent stock market volatility, say 83% of respondents",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858641,
-   "ts": "2026-11-18T22:00:31+00:00",
-   "ingested": "2026-11-18T22:00:48.202051+00:00",
-   "headline": "Poll: Japan's wage growth in next year's labor talks estimated at 5.00% versus 5.01% in 2023",
    "channel": "rss",
    "source": "financialjuice"
   }
