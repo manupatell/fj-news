@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T20:57:42.268390+00:00",
+ "updated": "2026-11-20T21:06:02.255039+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862440,
+   "ts": "2026-11-20T21:04:56+00:00",
+   "ingested": "2026-11-20T21:06:02.254587+00:00",
+   "headline": "S&P 500, Dow Jones close in correction territory.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862424,
    "ts": "2026-11-20T20:47:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T11:00:41+00:00",
    "ingested": "2026-11-19T11:01:04.082490+00:00",
    "headline": "Bundesbank: Higher rates to weigh on investment, construction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859723,
-   "ts": "2026-11-19T11:00:34+00:00",
-   "ingested": "2026-11-19T11:01:04.082511+00:00",
-   "headline": "Bundesbank: German economic growth to quicken in fourth quarter.",
    "channel": "rss",
    "source": "financialjuice"
   }
