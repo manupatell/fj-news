@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T18:47:42.238306+00:00",
+ "updated": "2026-11-20T18:54:22.243338+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862301,
+   "ts": "2026-11-20T18:53:39+00:00",
+   "ingested": "2026-11-20T18:54:22.242899+00:00",
+   "headline": "Alice Huang. The woman at the center of the Nvidia scandal. Has extensive ties through her family and associates to China's defense industry - NYT $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862291,
    "ts": "2026-11-20T18:46:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T09:58:32+00:00",
    "ingested": "2026-11-19T10:37:44.156767+00:00",
    "headline": "French 5 Yr OAT Bid-to-Cover Actual 2.819 (Forecast -, Previous 2.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859651,
-   "ts": "2026-11-19T09:58:31+00:00",
-   "ingested": "2026-11-19T10:37:44.156779+00:00",
-   "headline": "French 8 Yr OAT Yield Actual 4.67% (Forecast -, Previous 3.88%)",
    "channel": "rss",
    "source": "financialjuice"
   }
