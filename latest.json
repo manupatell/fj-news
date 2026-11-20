@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T02:55:46.185962+00:00",
+ "updated": "2026-11-20T03:05:46.025659+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861079,
+   "ts": "2026-11-20T03:04:47+00:00",
+   "ingested": "2026-11-20T03:05:46.025167+00:00",
+   "headline": "China's President Xi: we share a stake in open, rule-based commerce",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861071,
    "ts": "2026-11-20T02:54:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T20:57:16+00:00",
    "ingested": "2026-11-18T20:58:58.316777+00:00",
    "headline": "US weighs new penalties on China over jailed Americans - ABC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858532,
-   "ts": "2026-11-18T20:43:12+00:00",
-   "ingested": "2026-11-18T20:55:38.339264+00:00",
-   "headline": "Nvidia to pull forward pay raises and new equity awards to Dec - FT. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
