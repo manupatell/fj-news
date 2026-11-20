@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T18:07:42.206983+00:00",
+ "updated": "2026-11-20T18:09:22.210137+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862218,
+   "ts": "2026-11-20T18:08:22+00:00",
+   "ingested": "2026-11-20T18:09:22.209664+00:00",
+   "headline": "ECB's Moulin: Must take measures that reduce spending dynamics",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862217,
    "ts": "2026-11-20T18:07:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T06:20:22+00:00",
    "ingested": "2026-11-19T06:21:04.224657+00:00",
    "headline": "Drones attack oil storage facilities in Russia's Tatarstan - IFX.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859374,
-   "ts": "2026-11-19T06:19:56+00:00",
-   "ingested": "2026-11-19T06:21:04.224673+00:00",
-   "headline": "Oil storage tanks near Russia's Almetyevsk hit by drones - IFX",
    "channel": "rss",
    "source": "financialjuice"
   }
