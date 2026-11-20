@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T03:20:46.035591+00:00",
+ "updated": "2026-11-20T03:29:06.070487+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861087,
+   "ts": "2026-11-20T03:28:28+00:00",
+   "ingested": "2026-11-20T03:29:06.069951+00:00",
+   "headline": "Australia PM Albanese: important Australia keeps engaging constructively with China, manages differences without being defined by them",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861081,
    "ts": "2026-11-20T03:08:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T21:02:14+00:00",
    "ingested": "2026-11-18T21:04:28.174019+00:00",
    "headline": "US Overall Net Capital Flows Actual 261.0B (Forecast -, Previous 199.8B ,Revision 203.0B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858554,
-   "ts": "2026-11-18T21:02:13+00:00",
-   "ingested": "2026-11-18T21:04:28.174033+00:00",
-   "headline": "US TIC Long-Term Transactions Actual 155.3B (Forecast -, Previous 279.2B ,Revision 285.0B)",
    "channel": "rss",
    "source": "financialjuice"
   }
