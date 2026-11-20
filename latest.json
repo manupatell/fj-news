@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T22:56:02.282525+00:00",
+ "updated": "2026-11-20T22:57:42.284314+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862563,
+   "ts": "2026-11-20T22:57:15+00:00",
+   "ingested": "2026-11-20T22:57:42.283884+00:00",
+   "headline": "Saudi civil defence issues warning of possible threat in As Sulayyil governorate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862562,
    "ts": "2026-11-20T22:54:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T13:59:59+00:00",
    "ingested": "2026-11-19T14:01:41.774125+00:00",
    "headline": "Effective Fed funds rate 3.88% November 18th vs 3.88% November 17th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859994,
-   "ts": "2026-11-19T13:54:59+00:00",
-   "ingested": "2026-11-19T13:56:41.767762+00:00",
-   "headline": "White House on China, Russia meeting: The three heads of state had an in-depth exchange of views on current international situation and committed to maintaining strategic stability and international security.",
    "channel": "rss",
    "source": "financialjuice"
   }
