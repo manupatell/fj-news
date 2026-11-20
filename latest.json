@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T21:09:22.258485+00:00",
+ "updated": "2026-11-20T21:11:02.251099+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862442,
+   "ts": "2026-11-20T21:10:06+00:00",
+   "ingested": "2026-11-20T21:11:02.250610+00:00",
+   "headline": "Gold CFTC Positions Week of November 17th - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862441,
    "ts": "2026-11-20T21:09:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T12:01:13+00:00",
    "ingested": "2026-11-19T12:01:41.736597+00:00",
    "headline": "$WMT Walmart Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859759,
-   "ts": "2026-11-19T11:31:33+00:00",
-   "ingested": "2026-11-19T11:33:21.745009+00:00",
-   "headline": "US Energy Secretary Wright: US mulls ramping up diesel, oil exports to Europe.",
    "channel": "rss",
    "source": "financialjuice"
   }
