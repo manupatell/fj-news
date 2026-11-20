@@ -25882,3 +25882,7 @@
 {"guid": 9862440, "ts": "2026-11-20T21:04:56+00:00", "ingested": "2026-11-20T21:06:02.254587+00:00", "headline": "S&P 500, Dow Jones close in correction territory.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9862441, "ts": "2026-11-20T21:09:04+00:00", "ingested": "2026-11-20T21:09:22.258057+00:00", "headline": "US: Targeting key \u201coil trustees\u201d that the Iranian regime relies on.", "channel": "rss", "source": "financialjuice"}
 {"guid": 9862442, "ts": "2026-11-20T21:10:06+00:00", "ingested": "2026-11-20T21:11:02.250610+00:00", "headline": "Gold CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862443, "ts": "2026-11-20T21:11:02+00:00", "ingested": "2026-11-20T21:12:42.258490+00:00", "headline": "Copper CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862444, "ts": "2026-11-20T21:11:27+00:00", "ingested": "2026-11-20T21:12:42.258480+00:00", "headline": "WTI CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862445, "ts": "2026-11-20T21:11:49+00:00", "ingested": "2026-11-20T21:12:42.258469+00:00", "headline": "ES CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862446, "ts": "2026-11-20T21:12:16+00:00", "ingested": "2026-11-20T21:12:42.258455+00:00", "headline": "NQ CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
