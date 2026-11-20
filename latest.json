@@ -1,7 +1,135 @@
 {
- "updated": "2026-11-20T06:55:46.114378+00:00",
+ "updated": "2026-11-20T08:55:02.620168+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861384,
+   "ts": "2026-11-20T08:01:34+00:00",
+   "ingested": "2026-11-20T08:55:02.619612+00:00",
+   "headline": "Currency Strength Chart: Strongest: NZD, GBP, AUD, GBP, CHF, CAD, NZD, USD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861382,
+   "ts": "2026-11-20T07:52:27+00:00",
+   "ingested": "2026-11-20T08:55:02.619633+00:00",
+   "headline": "French Budget Minister Amiel: Extra \u20ac6B French budget effort \u201cstarting point' for 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861371,
+   "ts": "2026-11-20T07:45:00+00:00",
+   "ingested": "2026-11-20T08:55:02.619644+00:00",
+   "headline": "French Business Climate Mfg Actual 104 (Forecast 103, Previous 105)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861370,
+   "ts": "2026-11-20T07:45:00+00:00",
+   "ingested": "2026-11-20T08:55:02.619653+00:00",
+   "headline": "French Business Climate Overall Actual 95 (Forecast 96, Previous 97)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861332,
+   "ts": "2026-11-20T07:08:41+00:00",
+   "ingested": "2026-11-20T08:55:02.619664+00:00",
+   "headline": "Russian Foreign Ministry: No agreement on next round of Ukraine talks - TASS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861320,
+   "ts": "2026-11-20T07:04:23+00:00",
+   "ingested": "2026-11-20T08:55:02.619694+00:00",
+   "headline": "ONS - UK supermarkets reported stronger October sales after government advice to buy long-life items",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861302,
+   "ts": "2026-11-20T07:00:09+00:00",
+   "ingested": "2026-11-20T08:55:02.619710+00:00",
+   "headline": "Swedish Unemployment Rate SA Actual 8.2% (Forecast 8.55%, Previous 8.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861301,
+   "ts": "2026-11-20T07:00:09+00:00",
+   "ingested": "2026-11-20T08:55:02.619718+00:00",
+   "headline": "Swedish Unemployment Rate Actual 7.7% (Forecast -, Previous 8.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861304,
+   "ts": "2026-11-20T07:00:09+00:00",
+   "ingested": "2026-11-20T08:55:02.619729+00:00",
+   "headline": "German PPI YoY Actual 8.1% (Forecast 7.3%, Previous 6.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861303,
+   "ts": "2026-11-20T07:00:08+00:00",
+   "ingested": "2026-11-20T08:55:02.619737+00:00",
+   "headline": "German PPI MoM Actual 1.4% (Forecast 1%, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861300,
+   "ts": "2026-11-20T07:00:06+00:00",
+   "ingested": "2026-11-20T08:55:02.619745+00:00",
+   "headline": "UK PSNB ex Banks Actual 17.036B (Forecast -, Previous 24.520B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861299,
+   "ts": "2026-11-20T07:00:02+00:00",
+   "ingested": "2026-11-20T08:55:02.619753+00:00",
+   "headline": "UK Core Retail Sales MoM Actual 0.9% (Forecast 0.1%, Previous -0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861298,
+   "ts": "2026-11-20T07:00:02+00:00",
+   "ingested": "2026-11-20T08:55:02.619760+00:00",
+   "headline": "UK Retail Sales MoM Actual 0.7% (Forecast 0%, Previous -0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861297,
+   "ts": "2026-11-20T07:00:02+00:00",
+   "ingested": "2026-11-20T08:55:02.619767+00:00",
+   "headline": "UK Retail Sales YoY Actual 2.3% (Forecast 1.7%, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861296,
+   "ts": "2026-11-20T07:00:01+00:00",
+   "ingested": "2026-11-20T08:55:02.619775+00:00",
+   "headline": "UK Core Retail Sales YoY Actual 2.5% (Forecast 1.8%, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861295,
+   "ts": "2026-11-20T06:58:00+00:00",
+   "ingested": "2026-11-20T08:55:02.619783+00:00",
+   "headline": "Russian Foreign Ministry: no agreement on next round of Ukraine talks - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861265,
    "ts": "2026-11-20T06:24:52+00:00",
@@ -3871,134 +3999,6 @@
    "ts": "2026-11-18T23:29:19+00:00",
    "ingested": "2026-11-18T23:31:08.226211+00:00",
    "headline": "Anthropic: offering includes 980 million shares of Class A common stock, with 956.35 million sold by Anthropic",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858746,
-   "ts": "2026-11-18T23:28:18+00:00",
-   "ingested": "2026-11-18T23:29:28.224606+00:00",
-   "headline": "Anthropic offering totals 980 million shares, company sells 956 million shares",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858745,
-   "ts": "2026-11-18T23:28:11+00:00",
-   "ingested": "2026-11-18T23:29:28.224619+00:00",
-   "headline": "Anthropic prices IPO at $83 a share",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858706,
-   "ts": "2026-11-18T22:52:42+00:00",
-   "ingested": "2026-11-18T22:53:58.213962+00:00",
-   "headline": "Saudi defence minister, US CENTCOM chief discuss military cooperation, regional security and stability: Saudi state news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858705,
-   "ts": "2026-11-18T22:51:36+00:00",
-   "ingested": "2026-11-18T22:52:18.221799+00:00",
-   "headline": "Saudi defence minister meets US Centcom chief in Riyadh: Saudi state news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858698,
-   "ts": "2026-11-18T22:37:51+00:00",
-   "ingested": "2026-11-18T22:38:48.237205+00:00",
-   "headline": "Fortifai Ltd appoints former Nvidia executive Jason Brushe as CEO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858697,
-   "ts": "2026-11-18T22:36:07+00:00",
-   "ingested": "2026-11-18T22:36:58.205338+00:00",
-   "headline": "Traffic suspended over Crimean Bridge after attack: Moscow-installed official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858696,
-   "ts": "2026-11-18T22:33:01+00:00",
-   "ingested": "2026-11-18T22:33:28.209594+00:00",
-   "headline": "Microsoft CEO Nadella: rediscovering that software engineering remains vibrant and will flourish",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858695,
-   "ts": "2026-11-18T22:33:01+00:00",
-   "ingested": "2026-11-18T22:33:28.209606+00:00",
-   "headline": "Microsoft CEO Nadella: Agents will have guidelines to conduct commerce",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858673,
-   "ts": "2026-11-18T22:26:59+00:00",
-   "ingested": "2026-11-18T22:28:28.206937+00:00",
-   "headline": "Microsoft CEO Nadella: rediscovering the software engineering core",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858672,
-   "ts": "2026-11-18T22:26:58+00:00",
-   "ingested": "2026-11-18T22:28:28.206949+00:00",
-   "headline": "Singing remains vibrant and poised to flourish",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858669,
-   "ts": "2026-11-18T22:17:09+00:00",
-   "ingested": "2026-11-18T22:18:18.215386+00:00",
-   "headline": "Microsoft CEO Nadella on former Nvidia CEO Huang resigning: wants to give him space to resolve, Nvidia board to decide next steps",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858657,
-   "ts": "2026-11-18T22:16:36+00:00",
-   "ingested": "2026-11-18T22:16:48.206728+00:00",
-   "headline": "Microsoft CEO Nadella on Former Nvidia CEO Huang resigning: it's quite tragic, I'm a big admirer of his work - New York Times DealBook Summit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858653,
-   "ts": "2026-11-18T22:12:29+00:00",
-   "ingested": "2026-11-18T22:12:58.278874+00:00",
-   "headline": "UKMTO: tanker hit by unidentified projectile in engine room while passing outbound through Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858652,
-   "ts": "2026-11-18T22:11:59+00:00",
-   "ingested": "2026-11-18T22:12:18.220469+00:00",
-   "headline": "Ukmto: received delayed report of incident 6nm north of Oman's Khasab",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858651,
-   "ts": "2026-11-18T22:07:54+00:00",
-   "ingested": "2026-11-18T22:08:28.238640+00:00",
-   "headline": "Saudi-led coalition: intercepted and neutralized missile launched by Yemen's Houthis towards southern Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858650,
-   "ts": "2026-11-18T22:05:21+00:00",
-   "ingested": "2026-11-18T22:06:48.236682+00:00",
-   "headline": "South Korea\u2019s Blue House: No clear indication of Trump-Kim summit, China shares similar intelligence - news1",
    "channel": "rss",
    "source": "financialjuice"
   }
