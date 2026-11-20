@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T13:41:02.687143+00:00",
+ "updated": "2026-11-20T13:42:42.685375+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861819,
+   "ts": "2026-11-20T13:42:20+00:00",
+   "ingested": "2026-11-20T13:42:42.684964+00:00",
+   "headline": "USTR Greer: China AG buying and rare earths would boost goodwill",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861818,
    "ts": "2026-11-20T13:40:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T01:58:27+00:00",
    "ingested": "2026-11-19T01:59:44.390396+00:00",
    "headline": "IMF Managing Director Georgieva: rising global inflation requires tighter monetary policies in many economies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858938,
-   "ts": "2026-11-19T01:57:23+00:00",
-   "ingested": "2026-11-19T01:58:04.414750+00:00",
-   "headline": "IMF managing director Georgieva: countries must quickly establish digital infrastructure",
    "channel": "rss",
    "source": "financialjuice"
   }
