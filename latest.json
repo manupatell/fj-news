@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T22:47:42.275215+00:00",
+ "updated": "2026-11-20T22:51:02.284351+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862561,
+   "ts": "2026-11-20T22:50:48+00:00",
+   "ingested": "2026-11-20T22:51:02.283911+00:00",
+   "headline": "Databricks in preliminary discussions to secure funding at $225 billion valuation: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862560,
+   "ts": "2026-11-20T22:50:46+00:00",
+   "ingested": "2026-11-20T22:51:02.283928+00:00",
+   "headline": "Databricks in early discussions to secure funding at $225 billion valuation: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862543,
    "ts": "2026-11-20T22:26:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T13:52:48+00:00",
    "ingested": "2026-11-19T13:53:21.784632+00:00",
    "headline": "Anthropic: Lists underwriting discount of $550 mln in IPO - SEC filing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859974,
-   "ts": "2026-11-19T13:44:18+00:00",
-   "ingested": "2026-11-19T13:45:01.786581+00:00",
-   "headline": "Russia and Georgia have resumed direct dialogue \u2014 TASS cites Russian Foreign Ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859973,
-   "ts": "2026-11-19T13:43:04+00:00",
-   "ingested": "2026-11-19T13:43:21.770870+00:00",
-   "headline": "JPMorgan: We believe attackers accessed certain marketing data held by third-party vendors. This may include some customer names and email addresses $JPM",
    "channel": "rss",
    "source": "financialjuice"
   }
