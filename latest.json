@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T18:36:02.218581+00:00",
+ "updated": "2026-11-20T18:44:22.250373+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862284,
+   "ts": "2026-11-20T18:43:49+00:00",
+   "ingested": "2026-11-20T18:44:22.249940+00:00",
+   "headline": "US Senator Tim Scott: Former Nvidia CEO Jensen Huang will testify in a public hearing $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862283,
    "ts": "2026-11-20T18:35:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T09:07:02+00:00",
    "ingested": "2026-11-19T10:37:44.156804+00:00",
    "headline": "Xi: China, US, Russia should set up crisis prevention mechanism.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859593,
-   "ts": "2026-11-19T09:03:38+00:00",
-   "ingested": "2026-11-19T10:37:44.156818+00:00",
-   "headline": "Xi, to Putin, Trump: nuclear weapons should be comprehensively banned and thoroughly destroyed, building nuclear-free world - Xinhua.",
    "channel": "rss",
    "source": "financialjuice"
   }
