@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T23:04:22.373216+00:00",
+ "updated": "2026-11-20T23:07:42.297178+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862584,
+   "ts": "2026-11-20T23:06:14+00:00",
+   "ingested": "2026-11-20T23:07:42.296725+00:00",
+   "headline": "Saudi civil defence: danger over in As Sulayyil governorate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862583,
    "ts": "2026-11-20T23:03:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T14:25:23+00:00",
    "ingested": "2026-11-19T14:26:41.799482+00:00",
    "headline": "Fed's Jefferson doesn\u2019t comment in text on interest-rate outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860011,
-   "ts": "2026-11-19T14:02:40+00:00",
-   "ingested": "2026-11-19T14:03:21.775413+00:00",
-   "headline": "Anthropic is pushing new products, and big discounts. to justify its huge valuation - The Information. $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
