@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T18:14:22.228157+00:00",
+ "updated": "2026-11-20T18:16:02.215223+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862228,
+   "ts": "2026-11-20T18:14:17+00:00",
+   "ingested": "2026-11-20T18:16:02.214827+00:00",
+   "headline": "ECB's Moulin: Essential to have a budget that reduces the deficit approved",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862227,
    "ts": "2026-11-20T18:14:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T07:54:20+00:00",
    "ingested": "2026-11-19T07:56:04.231795+00:00",
    "headline": "ECB's Moulin: France can't ignore reality of high debt, deficit.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859474,
-   "ts": "2026-11-19T07:40:02+00:00",
-   "ingested": "2026-11-19T07:41:04.235607+00:00",
-   "headline": "US Envoy Kushner: Witkoff and I are heading to Berlin to consult with president Zelenskiy and European leaders at the coalition of the willing meeting.",
    "channel": "rss",
    "source": "financialjuice"
   }
