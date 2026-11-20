@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-20T00:02:08.542099+00:00",
+ "updated": "2026-11-20T00:03:48.502983+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860858,
+   "ts": "2026-11-20T00:02:48+00:00",
+   "ingested": "2026-11-20T00:03:48.502397+00:00",
+   "headline": "Fed's Paulson: gradual pace of rate increases allows economy to adapt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860856,
+   "ts": "2026-11-20T00:02:34+00:00",
+   "ingested": "2026-11-20T00:03:48.502411+00:00",
+   "headline": "Saudi civil defence issues alert on potential threat in Jizan city",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860855,
+   "ts": "2026-11-20T00:02:20+00:00",
+   "ingested": "2026-11-20T00:03:48.502420+00:00",
+   "headline": "Japan economy minister Kiuchi: households' income stays resilient",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860851,
+   "ts": "2026-11-20T00:02:07+00:00",
+   "ingested": "2026-11-20T00:03:48.502429+00:00",
+   "headline": "Fed's Paulson: more policy tightening needed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860850,
    "ts": "2026-11-20T00:01:51+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-18T19:33:47+00:00",
    "ingested": "2026-11-18T20:55:38.339524+00:00",
    "headline": "RBNZ's Breman: Economic recovery remains uneven",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858460,
-   "ts": "2026-11-18T19:32:01+00:00",
-   "ingested": "2026-11-18T20:55:38.339532+00:00",
-   "headline": "NYMEX Nat Gas Dec. futures settle at $3.3720/MMBtu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858448,
-   "ts": "2026-11-18T19:31:45+00:00",
-   "ingested": "2026-11-18T20:55:38.339541+00:00",
-   "headline": "Senate GOP Leader Thune: Democrats not engaging yet on government funding",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858446,
-   "ts": "2026-11-18T19:31:17+00:00",
-   "ingested": "2026-11-18T20:55:38.339550+00:00",
-   "headline": "NYMEX diesel Dec. futures settle at $3.9723 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858445,
-   "ts": "2026-11-18T19:31:06+00:00",
-   "ingested": "2026-11-18T20:55:38.339558+00:00",
-   "headline": "NYMEX gasoline Dec. futures settle at $2.4819 a gallon",
    "channel": "rss",
    "source": "financialjuice"
   }
