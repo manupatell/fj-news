@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T18:29:22.222768+00:00",
+ "updated": "2026-11-20T18:32:42.241956+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862270,
+   "ts": "2026-11-20T18:32:25+00:00",
+   "ingested": "2026-11-20T18:32:42.241513+00:00",
+   "headline": "Fed's Paulson: Open to considering consecutive rate hikes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862262,
    "ts": "2026-11-20T18:29:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T09:00:43+00:00",
    "ingested": "2026-11-19T10:37:44.156899+00:00",
    "headline": "ECB: 96% of supervised banks received medium-high risk scores on operational and IT risk.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859576,
-   "ts": "2026-11-19T09:00:10+00:00",
-   "ingested": "2026-11-19T10:37:44.156912+00:00",
-   "headline": "Eurozone Current Account Actual 12.474B (Forecast -, Previous 8.709B)",
    "channel": "rss",
    "source": "financialjuice"
   }
