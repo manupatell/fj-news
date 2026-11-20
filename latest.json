@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-20T04:00:46.076700+00:00",
+ "updated": "2026-11-20T04:05:46.075600+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861124,
+   "ts": "2026-11-20T04:04:45+00:00",
+   "ingested": "2026-11-20T04:05:46.075027+00:00",
+   "headline": "Poll: China property sales seen dropping 14.0% y/y in 2026 vs -10.0% in prior poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861123,
+   "ts": "2026-11-20T04:04:42+00:00",
+   "ingested": "2026-11-20T04:05:46.075041+00:00",
+   "headline": "Poll: China home prices seen rising 0.7% y/y in 2028 versus 1.0% in prior survey",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861122,
+   "ts": "2026-11-20T04:04:42+00:00",
+   "ingested": "2026-11-20T04:05:46.075052+00:00",
+   "headline": "Poll: China property investment seen dropping 22% y/y in 2026 versus 20% decline in prior poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861121,
+   "ts": "2026-11-20T04:04:40+00:00",
+   "ingested": "2026-11-20T04:05:46.075063+00:00",
+   "headline": "Poll: China home prices set to drop 2.8% y/y in 2026, down from 3.4% expected in prior poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861104,
    "ts": "2026-11-20T03:39:34+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-18T21:27:33+00:00",
    "ingested": "2026-11-18T21:28:08.185880+00:00",
    "headline": "Fed's Kashkari: The Fed is clearly missing on the inflation side of the mandate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858598,
-   "ts": "2026-11-18T21:24:57+00:00",
-   "ingested": "2026-11-18T21:26:28.184597+00:00",
-   "headline": "Fed's Kashkari: AI massive investment creates concentration risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858597,
-   "ts": "2026-11-18T21:22:49+00:00",
-   "ingested": "2026-11-18T21:23:08.183782+00:00",
-   "headline": "Fed's Kashkari: Markets believe the Fed will have to hike more than Fed officials now expect",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858596,
-   "ts": "2026-11-18T21:20:27+00:00",
-   "ingested": "2026-11-18T21:21:08.225730+00:00",
-   "headline": "Fed's Kashkari: Strong level of demand has been a bit surprising, job market resilient",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858595,
-   "ts": "2026-11-18T21:19:58+00:00",
-   "ingested": "2026-11-18T21:21:08.225745+00:00",
-   "headline": "Fed's Kashkari: Fed must make sure inflation expectations remain anchored",
    "channel": "rss",
    "source": "financialjuice"
   }
