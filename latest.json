@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T23:21:33.317771+00:00",
+ "updated": "2026-11-20T23:23:13.265531+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862599,
+   "ts": "2026-11-20T23:22:45+00:00",
+   "ingested": "2026-11-20T23:23:13.265132+00:00",
+   "headline": "Saudi Arabia's civil defence: danger has passed in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862587,
    "ts": "2026-11-20T23:14:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T14:25:55+00:00",
    "ingested": "2026-11-19T14:26:41.799380+00:00",
    "headline": "Fed's Jefferson: AI could pose a 'meaningful challenge\u2019 to some households through job displacement, but could also produce new jobs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860038,
-   "ts": "2026-11-19T14:25:52+00:00",
-   "ingested": "2026-11-19T14:26:41.799407+00:00",
-   "headline": "Fed's Jefferson: Energy cost shock is a challenge for central banks that poses trade-offs for central banks between inflation and job risks",
    "channel": "rss",
    "source": "financialjuice"
   }
