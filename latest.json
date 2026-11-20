@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T02:47:26.031816+00:00",
+ "updated": "2026-11-20T02:55:46.185962+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861071,
+   "ts": "2026-11-20T02:54:25+00:00",
+   "ingested": "2026-11-20T02:55:46.185404+00:00",
+   "headline": "Majority of US Senate backs bipartisan energy permitting bill, voting ongoing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861068,
    "ts": "2026-11-20T02:46:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T20:43:12+00:00",
    "ingested": "2026-11-18T20:55:38.339264+00:00",
    "headline": "Nvidia to pull forward pay raises and new equity awards to Dec - FT. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858531,
-   "ts": "2026-11-18T20:41:06+00:00",
-   "ingested": "2026-11-18T20:55:38.339281+00:00",
-   "headline": "Pentagon chief walks out of NATO talks after admonishing Ukraine - Telegraph",
    "channel": "rss",
    "source": "financialjuice"
   }
