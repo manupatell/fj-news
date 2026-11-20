@@ -25886,3 +25886,7 @@
 {"guid": 9862444, "ts": "2026-11-20T21:11:27+00:00", "ingested": "2026-11-20T21:12:42.258480+00:00", "headline": "WTI CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9862445, "ts": "2026-11-20T21:11:49+00:00", "ingested": "2026-11-20T21:12:42.258469+00:00", "headline": "ES CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
 {"guid": 9862446, "ts": "2026-11-20T21:12:16+00:00", "ingested": "2026-11-20T21:12:42.258455+00:00", "headline": "NQ CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862447, "ts": "2026-11-20T21:14:12+00:00", "ingested": "2026-11-20T21:16:02.316359+00:00", "headline": "VIX CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862448, "ts": "2026-11-20T21:14:53+00:00", "ingested": "2026-11-20T21:16:02.316349+00:00", "headline": "ZT CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862449, "ts": "2026-11-20T21:15:13+00:00", "ingested": "2026-11-20T21:16:02.316338+00:00", "headline": "ZN CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
+{"guid": 9862456, "ts": "2026-11-20T21:15:35+00:00", "ingested": "2026-11-20T21:16:02.316324+00:00", "headline": "CAD CFTC Positions Week of November 17th - FJElite", "channel": "rss", "source": "financialjuice"}
