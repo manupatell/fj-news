@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T00:22:08.589930+00:00",
+ "updated": "2026-11-20T00:23:38.505230+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860885,
+   "ts": "2026-11-20T00:22:58+00:00",
+   "ingested": "2026-11-20T00:23:38.504714+00:00",
+   "headline": "Fed's Paulson: wage growth aligns with 2% inflation, a positive indicator",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860884,
    "ts": "2026-11-20T00:21:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T20:08:19+00:00",
    "ingested": "2026-11-18T20:55:38.339393+00:00",
    "headline": "House Select Committee on China has requested a bipartisan briefing from Microsoft on reported deal to sell AI to ByteDance - Statement. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858490,
-   "ts": "2026-11-18T20:07:27+00:00",
-   "ingested": "2026-11-18T20:55:38.339411+00:00",
-   "headline": "IRIB News: Three oil tankers caught fire, stopped after hitting sea mines east of Strait of Hormuz, having ignored Navy warnings - Iran Army",
    "channel": "rss",
    "source": "financialjuice"
   }
