@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T13:51:02.703521+00:00",
+ "updated": "2026-11-20T13:52:42.694155+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861845,
+   "ts": "2026-11-20T13:52:15+00:00",
+   "ingested": "2026-11-20T13:52:42.693816+00:00",
+   "headline": "German Fin. Min. Klingbeil: Swift progress on capital markets union a priority.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861844,
    "ts": "2026-11-20T13:49:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T02:04:35+00:00",
    "ingested": "2026-11-19T02:06:24.394204+00:00",
    "headline": "China's President Xi: essential to advance regional trade pacts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859055,
-   "ts": "2026-11-19T02:03:55+00:00",
-   "ingested": "2026-11-19T02:04:44.397566+00:00",
-   "headline": "China\u2019s President Xi: China is supporter and driver of Asia Pacific collaboration",
    "channel": "rss",
    "source": "financialjuice"
   }
