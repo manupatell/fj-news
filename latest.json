@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T22:57:42.284314+00:00",
+ "updated": "2026-11-20T23:04:22.373216+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862583,
+   "ts": "2026-11-20T23:03:11+00:00",
+   "ingested": "2026-11-20T23:04:22.372803+00:00",
+   "headline": "Saudi Arabia: danger has passed in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862563,
    "ts": "2026-11-20T22:57:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T14:02:40+00:00",
    "ingested": "2026-11-19T14:03:21.775413+00:00",
    "headline": "Anthropic is pushing new products, and big discounts. to justify its huge valuation - The Information. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859997,
-   "ts": "2026-11-19T13:59:59+00:00",
-   "ingested": "2026-11-19T14:01:41.774125+00:00",
-   "headline": "Effective Fed funds rate 3.88% November 18th vs 3.88% November 17th.",
    "channel": "rss",
    "source": "financialjuice"
   }
