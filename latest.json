@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T11:58:22.671793+00:00",
+ "updated": "2026-11-20T12:00:02.626866+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861667,
+   "ts": "2026-11-20T11:58:18+00:00",
+   "ingested": "2026-11-20T12:00:02.626497+00:00",
+   "headline": "Yemen's Houthis: Saudi Arabia's Shugaiq power plant will be targeted in coming hours in retaliation for strikes on Saada, mocha power stations - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861631,
    "ts": "2026-11-20T11:26:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T01:02:54+00:00",
    "ingested": "2026-11-19T01:04:44.377189+00:00",
    "headline": "Saudi Crown Prince and US Centcom Chief discuss military relations and regional issues in Riyadh: Saudi State News Agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858841,
-   "ts": "2026-11-19T01:01:21+00:00",
-   "ingested": "2026-11-19T01:02:54.377097+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open",
    "channel": "rss",
    "source": "financialjuice"
   }
