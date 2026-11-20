@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T19:46:02.234221+00:00",
+ "updated": "2026-11-20T19:51:02.241393+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862367,
+   "ts": "2026-11-20T19:50:10+00:00",
+   "ingested": "2026-11-20T19:51:02.240955+00:00",
+   "headline": "Brent Crude futures settle at $92.57/bbl, up 59 cents, 0.64%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862359,
    "ts": "2026-11-20T19:35:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T10:22:32+00:00",
    "ingested": "2026-11-19T10:37:44.156635+00:00",
    "headline": "ECB's Nagel: I am confident ECB will reach 2% inflation target.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859667,
-   "ts": "2026-11-19T10:02:41+00:00",
-   "ingested": "2026-11-19T10:37:44.156650+00:00",
-   "headline": "Moonshot AI ends $150m Indonesia NVIDIA chips deal - Information",
    "channel": "rss",
    "source": "financialjuice"
   }
