@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T20:07:42.238877+00:00",
+ "updated": "2026-11-20T20:12:42.245480+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862386,
+   "ts": "2026-11-20T20:11:32+00:00",
+   "ingested": "2026-11-20T20:12:42.245060+00:00",
+   "headline": "Anthropic IPO was said to draw about $115B-$120B of retail demand. $ANT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862384,
    "ts": "2026-11-20T20:07:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T10:23:18+00:00",
    "ingested": "2026-11-19T10:37:44.156606+00:00",
    "headline": "ECB's Nagel: I don't see a wage-price spiral.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859687,
-   "ts": "2026-11-19T10:23:04+00:00",
-   "ingested": "2026-11-19T10:37:44.156621+00:00",
-   "headline": "TSMC, Samsung suspend some chip shipment to Chinese customers - FT.",
    "channel": "rss",
    "source": "financialjuice"
   }
