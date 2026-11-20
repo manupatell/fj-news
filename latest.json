@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T21:41:02.266610+00:00",
+ "updated": "2026-11-20T21:47:42.268761+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862504,
+   "ts": "2026-11-20T21:47:25+00:00",
+   "ingested": "2026-11-20T21:47:42.268277+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: Iran's red lines include enriched uranium not leaving the country, but I believe a fair solution can be reached.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862493,
+   "ts": "2026-11-20T21:46:28+00:00",
+   "ingested": "2026-11-20T21:47:42.268295+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi: Iran's first demand is for Trump to explicitly state that he wants an agreement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862488,
    "ts": "2026-11-20T21:40:02+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T13:37:52+00:00",
    "ingested": "2026-11-19T13:38:21.772030+00:00",
    "headline": "Walmart Executive: Had some cost pressures throughout the year on fuel and transportation, think some of those will remain true as long as diesel fuel remains elevated - Conference call $WMT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859969,
-   "ts": "2026-11-19T13:37:47+00:00",
-   "ingested": "2026-11-19T13:38:21.772051+00:00",
-   "headline": "Deutsche Bank: Foreign Buying Helps Explain Dollar Strength Despite Tech Selloff - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859968,
-   "ts": "2026-11-19T13:36:07+00:00",
-   "ingested": "2026-11-19T13:36:41.764098+00:00",
-   "headline": "Credit Agricole: Treasury Issuance Seen Rising Modestly in 2027 as Debt-Limit Risks Build - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
