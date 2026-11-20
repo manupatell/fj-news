@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T11:03:22.626326+00:00",
+ "updated": "2026-11-20T11:05:02.621737+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861598,
+   "ts": "2026-11-20T11:03:47+00:00",
+   "ingested": "2026-11-20T11:05:02.621316+00:00",
+   "headline": "EU Commission disburses \u20ac7.9 billion for Ukraine",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861590,
    "ts": "2026-11-20T10:32:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T00:30:01+00:00",
    "ingested": "2026-11-19T00:31:08.245609+00:00",
    "headline": "Australian Full Time Employment Chg. Actual -2.9k (Forecast -, Previous 34.4k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858800,
-   "ts": "2026-11-19T00:18:27+00:00",
-   "ingested": "2026-11-19T00:19:28.258885+00:00",
-   "headline": "China PBOC expected to set yuan midpoint at 6.6684 per dollar: Estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
