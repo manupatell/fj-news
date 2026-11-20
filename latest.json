@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T02:44:06.037990+00:00",
+ "updated": "2026-11-20T02:47:26.031816+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861068,
+   "ts": "2026-11-20T02:46:15+00:00",
+   "ingested": "2026-11-20T02:47:26.031270+00:00",
+   "headline": "Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis toward kingdom's southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861043,
    "ts": "2026-11-20T02:13:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T20:41:06+00:00",
    "ingested": "2026-11-18T20:55:38.339281+00:00",
    "headline": "Pentagon chief walks out of NATO talks after admonishing Ukraine - Telegraph",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858530,
-   "ts": "2026-11-18T20:39:29+00:00",
-   "ingested": "2026-11-18T20:55:38.339293+00:00",
-   "headline": "Anthropic is said to be weighing IPO price up to $85 per share. $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
