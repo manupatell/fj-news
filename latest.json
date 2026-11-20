@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T11:20:02.608866+00:00",
+ "updated": "2026-11-20T11:21:42.615187+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861627,
+   "ts": "2026-11-20T11:20:30+00:00",
+   "ingested": "2026-11-20T11:21:42.614773+00:00",
+   "headline": "China premier Li Qiang comments in meeting with Albanese: CCTV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861626,
+   "ts": "2026-11-20T11:20:09+00:00",
+   "ingested": "2026-11-20T11:21:42.614787+00:00",
+   "headline": "Russia: involvement of Kallas in talks could cause breakdown of negotiations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861625,
    "ts": "2026-11-20T11:19:17+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T00:30:05+00:00",
    "ingested": "2026-11-19T00:31:08.245540+00:00",
    "headline": "Australia October employment drops 43.5k seasonally adjusted versus poll of +25.0k",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858807,
-   "ts": "2026-11-19T00:30:04+00:00",
-   "ingested": "2026-11-19T00:31:08.245554+00:00",
-   "headline": "Australia Oct participation rate rises 66.6%, seasonally adjusted poll shows 66.8%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858806,
-   "ts": "2026-11-19T00:30:04+00:00",
-   "ingested": "2026-11-19T00:31:08.245564+00:00",
-   "headline": "Australia October unemployment rate rises 4.9%, poll expected 4.7%",
    "channel": "rss",
    "source": "financialjuice"
   }
