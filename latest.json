@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T20:12:42.245480+00:00",
+ "updated": "2026-11-20T20:22:42.270909+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862404,
+   "ts": "2026-11-20T20:22:04+00:00",
+   "ingested": "2026-11-20T20:22:42.270453+00:00",
+   "headline": "Hawkish officials in DC and Israel are urging Trump to hit Iran - FT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862386,
    "ts": "2026-11-20T20:11:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T10:23:48+00:00",
    "ingested": "2026-11-19T10:37:44.156591+00:00",
    "headline": "TSMC, Samsung halt as applying for US commerce dept licences - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859688,
-   "ts": "2026-11-19T10:23:18+00:00",
-   "ingested": "2026-11-19T10:37:44.156606+00:00",
-   "headline": "ECB's Nagel: I don't see a wage-price spiral.",
    "channel": "rss",
    "source": "financialjuice"
   }
