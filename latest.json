@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T05:19:06.106119+00:00",
+ "updated": "2026-11-20T05:29:06.077446+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861205,
+   "ts": "2026-11-20T05:28:13+00:00",
+   "ingested": "2026-11-20T05:29:06.076929+00:00",
+   "headline": "Meta: it has removed Threads accounts flagged by Taiwan government",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861204,
+   "ts": "2026-11-20T05:28:11+00:00",
+   "ingested": "2026-11-20T05:29:06.076944+00:00",
+   "headline": "Taiwan government reported nearly 2,700 suspicious social media accounts to Meta: Taipei says they aimed to sway elections",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861203,
    "ts": "2026-11-20T05:17:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T21:47:16+00:00",
    "ingested": "2026-11-18T21:52:28.188758+00:00",
    "headline": "New Zealand Exports Actual 6.95B (Forecast -, Previous 6.47B ,Revision 6.29B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858616,
-   "ts": "2026-11-18T21:47:16+00:00",
-   "ingested": "2026-11-18T21:52:28.188771+00:00",
-   "headline": "New Zealand Imports Actual 9.72B (Forecast -, Previous 8.44B ,Revision 8.42B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858615,
-   "ts": "2026-11-18T21:45:00+00:00",
-   "ingested": "2026-11-18T21:46:48.187965+00:00",
-   "headline": "New Zealand Trade Balance Actual -2772M (Forecast -, Previous -1,971.0M)",
    "channel": "rss",
    "source": "financialjuice"
   }
