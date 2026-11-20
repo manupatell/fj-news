@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-20T13:00:42.668830+00:00",
+ "updated": "2026-11-20T13:09:02.645705+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861763,
+   "ts": "2026-11-20T13:08:49+00:00",
+   "ingested": "2026-11-20T13:09:02.645350+00:00",
+   "headline": "The EU and the UK aim to apply youth experience no later than 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861762,
+   "ts": "2026-11-20T13:08:40+00:00",
+   "ingested": "2026-11-20T13:09:02.645364+00:00",
+   "headline": "EU, UK to limit negative impact on each other's supply chains.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9861761,
+   "ts": "2026-11-20T13:08:30+00:00",
+   "ingested": "2026-11-20T13:09:02.645372+00:00",
+   "headline": "EU and the UK to set up dialogue on economic security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861748,
    "ts": "2026-11-20T12:59:30+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T01:08:04+00:00",
    "ingested": "2026-11-19T01:09:44.382550+00:00",
    "headline": "BoJ Governor Ueda: crucial to anchor core inflation near 2% to prevent risk of inflation overshoot",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858862,
-   "ts": "2026-11-19T01:07:23+00:00",
-   "ingested": "2026-11-19T01:08:04.380219+00:00",
-   "headline": "BoJ Governor Ueda: plans to continue raising interest rates as monetary conditions remain accommodative",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858861,
-   "ts": "2026-11-19T01:05:58+00:00",
-   "ingested": "2026-11-19T01:06:24.381121+00:00",
-   "headline": "BoJ Governor Ueda: risk inflation could exceed central bank's target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858860,
-   "ts": "2026-11-19T01:05:22+00:00",
-   "ingested": "2026-11-19T01:06:24.381134+00:00",
-   "headline": "BoJ Governor Ueda: underlying inflation roughly aligns with price target",
    "channel": "rss",
    "source": "financialjuice"
   }
