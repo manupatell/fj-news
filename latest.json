@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T00:18:48.497138+00:00",
+ "updated": "2026-11-20T00:20:28.535864+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9860883,
+   "ts": "2026-11-20T00:19:58+00:00",
+   "ingested": "2026-11-20T00:20:28.535320+00:00",
+   "headline": "RBA's Fry-McKibbin: broad disagreement can exist on managing policy trade-offs, but they can't be ignored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9860882,
+   "ts": "2026-11-20T00:18:43+00:00",
+   "ingested": "2026-11-20T00:20:28.535335+00:00",
+   "headline": "China PBOC likely to set yuan midpoint at 6.6731 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9860881,
    "ts": "2026-11-20T00:18:36+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-18T20:06:33+00:00",
    "ingested": "2026-11-18T20:55:38.339420+00:00",
    "headline": "3 offending oil tankers caught fire in the east of the Strait of Hormuz - IRIB News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858486,
-   "ts": "2026-11-18T19:52:31+00:00",
-   "ingested": "2026-11-18T20:55:38.339428+00:00",
-   "headline": "RBNZ Governor Breman: There are risks in both directions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858485,
-   "ts": "2026-11-18T19:52:00+00:00",
-   "ingested": "2026-11-18T20:55:38.339443+00:00",
-   "headline": "RBNZ Governor Breman: Measures of underlying inflation remain elevated",
    "channel": "rss",
    "source": "financialjuice"
   }
