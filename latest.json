@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T13:58:42.709978+00:00",
+ "updated": "2026-11-20T14:00:42.680299+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861848,
+   "ts": "2026-11-20T13:59:35+00:00",
+   "ingested": "2026-11-20T14:00:42.679879+00:00",
+   "headline": "Effective Fed funds rate 3.88% November 19th vs 3.88% November 18th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861847,
    "ts": "2026-11-20T13:57:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T02:05:47+00:00",
    "ingested": "2026-11-19T02:06:24.394178+00:00",
    "headline": "China's President Xi: should build innovative pillars with digital economy as drivers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9859058,
-   "ts": "2026-11-19T02:05:16+00:00",
-   "ingested": "2026-11-19T02:06:24.394187+00:00",
-   "headline": "China's President Xi: should advance intelligent customs systems",
    "channel": "rss",
    "source": "financialjuice"
   }
