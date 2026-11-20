@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T23:14:22.288558+00:00",
+ "updated": "2026-11-20T23:21:33.317771+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862587,
+   "ts": "2026-11-20T23:14:18+00:00",
+   "ingested": "2026-11-20T23:21:33.317383+00:00",
+   "headline": "Huge boom heard in Riyadh: source witness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862586,
    "ts": "2026-11-20T23:10:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T14:25:52+00:00",
    "ingested": "2026-11-19T14:26:41.799407+00:00",
    "headline": "Fed's Jefferson: Energy cost shock is a challenge for central banks that poses trade-offs for central banks between inflation and job risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860037,
-   "ts": "2026-11-19T14:25:41+00:00",
-   "ingested": "2026-11-19T14:26:41.799430+00:00",
-   "headline": "Fed's Jefferson: AI buildout is a shock that affects both demand and supply; current pressure is on demand with possible productivity advancements 'in the future\u2019.",
    "channel": "rss",
    "source": "financialjuice"
   }
