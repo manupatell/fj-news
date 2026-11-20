@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T04:54:06.065511+00:00",
+ "updated": "2026-11-20T05:02:26.070745+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9861169,
+   "ts": "2026-11-20T05:02:01+00:00",
+   "ingested": "2026-11-20T05:02:26.070315+00:00",
+   "headline": "China prepares to resume US private equity investments after withdrawal - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9861157,
    "ts": "2026-11-20T04:33:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-18T21:37:26+00:00",
    "ingested": "2026-11-18T21:37:48.186567+00:00",
    "headline": "Google CEO Pichai: Gemini 4 Neon begins rolling out today. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9858601,
-   "ts": "2026-11-18T21:28:08+00:00",
-   "ingested": "2026-11-18T21:29:08.187142+00:00",
-   "headline": "Fed's Kashkari: AI's imprint on US productivity is still unclear",
    "channel": "rss",
    "source": "financialjuice"
   }
