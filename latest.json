@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-21T13:26:10.547113+00:00",
+ "updated": "2026-11-21T13:29:30.547148+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863001,
+   "ts": "2026-11-21T13:28:51+00:00",
+   "ingested": "2026-11-21T13:29:30.546767+00:00",
+   "headline": "No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863000,
+   "ts": "2026-11-21T13:28:29+00:00",
+   "ingested": "2026-11-21T13:29:30.546790+00:00",
+   "headline": "Iran\u2019s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862988,
    "ts": "2026-11-21T13:05:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T15:39:24+00:00",
    "ingested": "2026-11-19T15:41:04.086059+00:00",
    "headline": "Trump expresses optimism about peace after Putin talks - sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860162,
-   "ts": "2026-11-19T15:39:18+00:00",
-   "ingested": "2026-11-19T15:41:04.086073+00:00",
-   "headline": "Trump tells leaders he spoke with Putin on Ukraine - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860161,
-   "ts": "2026-11-19T15:37:04+00:00",
-   "ingested": "2026-11-19T15:37:44.063162+00:00",
-   "headline": "Russia summons Finland's ambassador - IFX.",
    "channel": "rss",
    "source": "financialjuice"
   }
