@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T15:52:50.590174+00:00",
+ "updated": "2026-11-21T16:01:10.599509+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863058,
+   "ts": "2026-11-21T16:00:37+00:00",
+   "ingested": "2026-11-21T16:01:10.599051+00:00",
+   "headline": "Not difficult to reopen Strait of Hormuz if US agrees to Iran's reasonable conditions consistent with international law: Iranian foreign minister cited by Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863055,
    "ts": "2026-11-21T15:31:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T16:01:30+00:00",
    "ingested": "2026-11-19T16:02:44.124798+00:00",
    "headline": "US Treasury Announces Auctions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860196,
-   "ts": "2026-11-19T16:00:38+00:00",
-   "ingested": "2026-11-19T16:01:04.103255+00:00",
-   "headline": "Kansas City Fed Manufacturing Actual 23 (Forecast -, Previous 16)",
    "channel": "rss",
    "source": "financialjuice"
   }
