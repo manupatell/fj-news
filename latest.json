@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-21T16:49:30.605891+00:00",
+ "updated": "2026-11-21T16:54:30.619357+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863076,
+   "ts": "2026-11-21T16:53:56+00:00",
+   "ingested": "2026-11-21T16:54:30.618978+00:00",
+   "headline": "IAEA on Ukraine: one transmission line remains offline",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863075,
+   "ts": "2026-11-21T16:52:58+00:00",
+   "ingested": "2026-11-21T16:54:30.619000+00:00",
+   "headline": "IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863064,
    "ts": "2026-11-21T16:06:37+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T16:13:37+00:00",
    "ingested": "2026-11-19T16:14:24.067734+00:00",
    "headline": "Visa, Mastercard, and JPMorgan Customer Data Leaked by Hackers - WSJ $V $JPM $MA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860215,
-   "ts": "2026-11-19T16:09:49+00:00",
-   "ingested": "2026-11-19T16:11:04.075362+00:00",
-   "headline": "NASDAQ'S Griggs: Anthropic retail allocation closer to 13%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860201,
-   "ts": "2026-11-19T16:02:24+00:00",
-   "ingested": "2026-11-19T16:02:44.124763+00:00",
-   "headline": "Trump: Spoke to Xi about buying more US agriculture - NBC",
    "channel": "rss",
    "source": "financialjuice"
   }
