@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T17:44:30.621510+00:00",
+ "updated": "2026-11-21T17:46:10.748191+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863095,
+   "ts": "2026-11-21T17:45:53+00:00",
+   "ingested": "2026-11-21T17:46:10.747788+00:00",
+   "headline": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863076,
    "ts": "2026-11-21T16:53:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T16:14:29+00:00",
    "ingested": "2026-11-19T16:16:04.071977+00:00",
    "headline": "Federal Communications Commission votes to ban Chinese telecom firms from direct access to US phone numbers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860216,
-   "ts": "2026-11-19T16:13:37+00:00",
-   "ingested": "2026-11-19T16:14:24.067734+00:00",
-   "headline": "Visa, Mastercard, and JPMorgan Customer Data Leaked by Hackers - WSJ $V $JPM $MA",
    "channel": "rss",
    "source": "financialjuice"
   }
