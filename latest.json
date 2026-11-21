@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T22:17:49.956766+00:00",
+ "updated": "2026-11-21T22:19:29.963410+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863162,
+   "ts": "2026-11-21T22:19:07+00:00",
+   "ingested": "2026-11-21T22:19:29.962919+00:00",
+   "headline": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863160,
    "ts": "2026-11-21T22:16:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:14:34+00:00",
    "ingested": "2026-11-19T19:10:12.626310+00:00",
    "headline": "US Envoy Kushner: We've made progress for Ukraine's pathway to the EU.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860307,
-   "ts": "2026-11-19T17:12:14+00:00",
-   "ingested": "2026-11-19T19:10:12.626319+00:00",
-   "headline": "US Envoy Kushner: Trump wants to engage with Xi and Putin to get to peace.",
    "channel": "rss",
    "source": "financialjuice"
   }
