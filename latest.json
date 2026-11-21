@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-21T18:17:50.652403+00:00",
+ "updated": "2026-11-21T19:48:59.946107+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863125,
+   "ts": "2026-11-21T19:47:20+00:00",
+   "ingested": "2026-11-21T19:48:59.945436+00:00",
+   "headline": "Iran\u2019s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863123,
+   "ts": "2026-11-21T19:32:56+00:00",
+   "ingested": "2026-11-21T19:48:59.945455+00:00",
+   "headline": "Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863118,
+   "ts": "2026-11-21T19:21:49+00:00",
+   "ingested": "2026-11-21T19:48:59.945469+00:00",
+   "headline": "Bahrain civil defence working to contain fire: interior ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863117,
+   "ts": "2026-11-21T19:21:18+00:00",
+   "ingested": "2026-11-21T19:48:59.945506+00:00",
+   "headline": "Bahrain interior ministry: preliminary information points to material damage, no casualties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863116,
+   "ts": "2026-11-21T19:20:57+00:00",
+   "ingested": "2026-11-21T19:48:59.945521+00:00",
+   "headline": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863108,
+   "ts": "2026-11-21T18:42:23+00:00",
+   "ingested": "2026-11-21T19:48:59.945530+00:00",
+   "headline": "Finland border guard: one Russian rescue ship involved in rescue efforts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863107,
+   "ts": "2026-11-21T18:40:02+00:00",
+   "ingested": "2026-11-21T19:48:59.945539+00:00",
+   "headline": "Finland border guard: vessel remains ablaze with visible flames",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863106,
+   "ts": "2026-11-21T18:38:31+00:00",
+   "ingested": "2026-11-21T19:48:59.945548+00:00",
+   "headline": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863105,
+   "ts": "2026-11-21T18:34:25+00:00",
+   "ingested": "2026-11-21T19:48:59.945559+00:00",
+   "headline": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863100,
    "ts": "2026-11-21T18:11:23+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-11-19T16:52:01+00:00",
    "ingested": "2026-11-19T19:10:12.626410+00:00",
    "headline": "US House committee report: Washington should subject acquisitions of US aerospace firms by French companies to heightened scrutiny; Airbus, other firms should not get US taxpayer contracts if they keep investing in China's aerospace industrial base; FAA should not certify Chinese-made airplanes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860277,
-   "ts": "2026-11-19T16:51:31+00:00",
-   "ingested": "2026-11-19T19:10:12.626420+00:00",
-   "headline": "Anthropic opens 34% above IPO price after raising $107 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860276,
-   "ts": "2026-11-19T16:49:00+00:00",
-   "ingested": "2026-11-19T19:10:12.626428+00:00",
-   "headline": "Anthropic starts trading $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860256,
-   "ts": "2026-11-19T16:38:52+00:00",
-   "ingested": "2026-11-19T19:10:12.626467+00:00",
-   "headline": "Anthropic shares indicated to open at $110.50 in Nasdaq debut vs IPO price of $83 per share, on track for $2 trillion valuation in debut $ANT.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860255,
-   "ts": "2026-11-19T16:38:23+00:00",
-   "ingested": "2026-11-19T19:10:12.626478+00:00",
-   "headline": "House AI caucus to be led by Beyer, Whitesides, Moran - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860254,
-   "ts": "2026-11-19T16:37:55+00:00",
-   "ingested": "2026-11-19T19:10:12.626493+00:00",
-   "headline": "Trump called Kushner during the meeting of the \u2018coalition of the willing\u2019 in Berlin and spoke positively about his meeting with Putin and Xi - Bild newspaper.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860253,
-   "ts": "2026-11-19T16:36:23+00:00",
-   "ingested": "2026-11-19T19:10:12.626501+00:00",
-   "headline": "House lawmakers form new bipartisan AI caucus - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860248,
-   "ts": "2026-11-19T16:32:43+00:00",
-   "ingested": "2026-11-19T19:10:12.626513+00:00",
-   "headline": "US 4-Week Bill High Yield Actual 4.05% (Forecast -, Previous 3.955%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860247,
-   "ts": "2026-11-19T16:32:42+00:00",
-   "ingested": "2026-11-19T19:10:12.626524+00:00",
-   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.55 (Forecast -, Previous 2.940)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860221,
-   "ts": "2026-11-19T16:15:44+00:00",
-   "ingested": "2026-11-19T16:16:04.071954+00:00",
-   "headline": "Anthropic shares indicated to open 30% above the IPO price on its debut $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
