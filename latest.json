@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-21T07:34:47.543138+00:00",
+ "updated": "2026-11-21T07:43:07.549788+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862893,
+   "ts": "2026-11-21T07:42:26+00:00",
+   "ingested": "2026-11-21T07:43:07.549227+00:00",
+   "headline": "UKMTO: no injuries reported, environmental impact unclear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862892,
+   "ts": "2026-11-21T07:41:54+00:00",
+   "ingested": "2026-11-21T07:43:07.549242+00:00",
+   "headline": "Ukmto: tanker leaving strait of Hormuz struck on stern by unidentified projectile",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862891,
+   "ts": "2026-11-21T07:41:28+00:00",
+   "ingested": "2026-11-21T07:43:07.549252+00:00",
+   "headline": "UKMTO reports incident 11nm north of Oman's Khasab",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862780,
    "ts": "2026-11-21T02:37:15+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T14:41:16+00:00",
    "ingested": "2026-11-19T14:41:44.041472+00:00",
    "headline": "Nscale warns of its exposure to suppliers facing US blacklist - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860062,
-   "ts": "2026-11-19T14:37:05+00:00",
-   "ingested": "2026-11-19T14:38:24.041395+00:00",
-   "headline": "Alphabet files for Canadian dollar note offer in five parts $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860061,
-   "ts": "2026-11-19T14:36:48+00:00",
-   "ingested": "2026-11-19T14:38:24.041415+00:00",
-   "headline": "Alphabet to sell multi-series CAD notes via RBC, Scotiabank, and TD. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860060,
-   "ts": "2026-11-19T14:36:30+00:00",
-   "ingested": "2026-11-19T14:36:44.042498+00:00",
-   "headline": "Anthropic IPO said to give nothing to most institutional buyers. $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
