@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T18:06:10.626328+00:00",
+ "updated": "2026-11-21T18:12:50.631583+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863100,
+   "ts": "2026-11-21T18:11:23+00:00",
+   "ingested": "2026-11-21T18:12:50.631036+00:00",
+   "headline": "Bahrain's interior ministry: warning of possible threat",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863095,
    "ts": "2026-11-21T17:45:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T16:15:44+00:00",
    "ingested": "2026-11-19T16:16:04.071954+00:00",
    "headline": "Anthropic shares indicated to open 30% above the IPO price on its debut $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860218,
-   "ts": "2026-11-19T16:14:29+00:00",
-   "ingested": "2026-11-19T16:16:04.071977+00:00",
-   "headline": "Federal Communications Commission votes to ban Chinese telecom firms from direct access to US phone numbers",
    "channel": "rss",
    "source": "financialjuice"
   }
