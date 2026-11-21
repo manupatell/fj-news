@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T20:35:49.923183+00:00",
+ "updated": "2026-11-21T20:37:29.933029+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863138,
+   "ts": "2026-11-21T20:36:31+00:00",
+   "ingested": "2026-11-21T20:37:29.932434+00:00",
+   "headline": "Bahrain's interior ministry raises another warning on potential threat - post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863137,
    "ts": "2026-11-21T20:35:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:01:46+00:00",
    "ingested": "2026-11-19T19:10:12.626368+00:00",
    "headline": "AMD: We comply with US export control laws.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860282,
-   "ts": "2026-11-19T17:01:23+00:00",
-   "ingested": "2026-11-19T19:10:12.626376+00:00",
-   "headline": "AMD: Hunterbrook claims misrepresent AMD's practices. $AMD",
    "channel": "rss",
    "source": "financialjuice"
   }
