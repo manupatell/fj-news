@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-21T08:38:07.549869+00:00",
+ "updated": "2026-11-21T08:46:27.559002+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862907,
+   "ts": "2026-11-21T08:45:51+00:00",
+   "ingested": "2026-11-21T08:46:27.558634+00:00",
+   "headline": "EU's Von der Leyen: we stand in full solidarity with Denmark",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9862906,
+   "ts": "2026-11-21T08:45:37+00:00",
+   "ingested": "2026-11-21T08:46:27.558648+00:00",
+   "headline": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862897,
    "ts": "2026-11-21T08:16:47+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T14:49:33+00:00",
    "ingested": "2026-11-19T14:50:04.045958+00:00",
    "headline": "BoE's Lombardelli: We will take the action needed to meet the CPI target.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860083,
-   "ts": "2026-11-19T14:48:15+00:00",
-   "ingested": "2026-11-19T14:50:04.045982+00:00",
-   "headline": "US extends deadline for talks on sale of Lukoil International GmbH's foreign assets until December 19th - Statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860075,
-   "ts": "2026-11-19T14:46:03+00:00",
-   "ingested": "2026-11-19T14:46:44.052136+00:00",
-   "headline": "Roughly 15% of Anthropic IPO sold to retail - WSJ. $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
