@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T22:09:29.951383+00:00",
+ "updated": "2026-11-21T22:17:49.956766+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863160,
+   "ts": "2026-11-21T22:16:48+00:00",
+   "ingested": "2026-11-21T22:17:49.956233+00:00",
+   "headline": "UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863149,
    "ts": "2026-11-21T21:28:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:12:14+00:00",
    "ingested": "2026-11-19T19:10:12.626319+00:00",
    "headline": "US Envoy Kushner: Trump wants to engage with Xi and Putin to get to peace.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860306,
-   "ts": "2026-11-19T17:11:52+00:00",
-   "ingested": "2026-11-19T19:10:12.626328+00:00",
-   "headline": "US Envoy Kushner: We're making steps towards getting Russia and Ukraine to the table.",
    "channel": "rss",
    "source": "financialjuice"
   }
