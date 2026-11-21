@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T21:20:49.961837+00:00",
+ "updated": "2026-11-21T21:29:09.939971+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863149,
+   "ts": "2026-11-21T21:28:16+00:00",
+   "ingested": "2026-11-21T21:29:09.939442+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863144,
    "ts": "2026-11-21T20:50:14+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:11:52+00:00",
    "ingested": "2026-11-19T19:10:12.626328+00:00",
    "headline": "US Envoy Kushner: We're making steps towards getting Russia and Ukraine to the table.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860304,
-   "ts": "2026-11-19T17:04:45+00:00",
-   "ingested": "2026-11-19T19:10:12.626336+00:00",
-   "headline": "Google: Chrome introduces Synthetic Web to test AI agents. $GOOGL",
    "channel": "rss",
    "source": "financialjuice"
   }
