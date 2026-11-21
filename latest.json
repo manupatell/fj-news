@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T20:04:09.911360+00:00",
+ "updated": "2026-11-21T20:14:09.929411+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863130,
+   "ts": "2026-11-21T20:12:29+00:00",
+   "ingested": "2026-11-21T20:14:09.928939+00:00",
+   "headline": "Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863129,
    "ts": "2026-11-21T20:02:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:00:33+00:00",
    "ingested": "2026-11-19T19:10:12.626386+00:00",
    "headline": "US 30-year fixed rate mortgage averages 7.28% in November 19th week vs 7.11% prior week - Freddie Mac.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860279,
-   "ts": "2026-11-19T16:53:41+00:00",
-   "ingested": "2026-11-19T19:10:12.626395+00:00",
-   "headline": "Iran war powers vote will be at around 2pm  - Punchbowl Reporter on X",
    "channel": "rss",
    "source": "financialjuice"
   }
