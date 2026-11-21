@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T19:59:09.915397+00:00",
+ "updated": "2026-11-21T20:04:09.911360+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863129,
+   "ts": "2026-11-21T20:02:24+00:00",
+   "ingested": "2026-11-21T20:04:09.910888+00:00",
+   "headline": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863125,
    "ts": "2026-11-21T19:47:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T16:53:41+00:00",
    "ingested": "2026-11-19T19:10:12.626395+00:00",
    "headline": "Iran war powers vote will be at around 2pm  - Punchbowl Reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860278,
-   "ts": "2026-11-19T16:52:01+00:00",
-   "ingested": "2026-11-19T19:10:12.626410+00:00",
-   "headline": "US House committee report: Washington should subject acquisitions of US aerospace firms by French companies to heightened scrutiny; Airbus, other firms should not get US taxpayer contracts if they keep investing in China's aerospace industrial base; FAA should not certify Chinese-made airplanes",
    "channel": "rss",
    "source": "financialjuice"
   }
