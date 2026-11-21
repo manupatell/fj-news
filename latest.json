@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T09:58:07.590916+00:00",
+ "updated": "2026-11-21T10:06:27.586958+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862922,
+   "ts": "2026-11-21T10:06:12+00:00",
+   "ingested": "2026-11-21T10:06:27.586448+00:00",
+   "headline": "Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862911,
    "ts": "2026-11-21T08:47:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T15:00:38+00:00",
    "ingested": "2026-11-19T15:01:44.046413+00:00",
    "headline": "US Leading Index Change MoM Actual -0.3% (Forecast 0%, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860089,
-   "ts": "2026-11-19T14:52:07+00:00",
-   "ingested": "2026-11-19T14:53:24.047435+00:00",
-   "headline": "Anthropic shares indicated to open 20% above IPO price in debut. $ANT",
    "channel": "rss",
    "source": "financialjuice"
   }
