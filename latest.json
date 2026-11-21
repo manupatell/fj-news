@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T02:13:23.799259+00:00",
+ "updated": "2026-11-21T02:18:23.777591+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9862756,
+   "ts": "2026-11-21T02:16:47+00:00",
+   "ingested": "2026-11-21T02:18:23.777145+00:00",
+   "headline": "FBI national crime information center hacked: CNN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9862601,
    "ts": "2026-11-20T23:42:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T14:30:29+00:00",
    "ingested": "2026-11-19T14:31:44.041905+00:00",
    "headline": "Iran's Representative to the IAEA Najafi: IAEA inspections will never return to what they were before the attacks - Press TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860040,
-   "ts": "2026-11-19T14:27:10+00:00",
-   "ingested": "2026-11-19T14:28:24.038066+00:00",
-   "headline": "Iran's IRGC: There will be no nuclear talks until Hormuz settled - IRNA.",
    "channel": "rss",
    "source": "financialjuice"
   }
