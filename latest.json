@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T01:22:50.001123+00:00",
+ "updated": "2026-11-22T01:27:50.007183+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863209,
+   "ts": "2026-11-22T01:26:02+00:00",
+   "ingested": "2026-11-22T01:27:50.006748+00:00",
+   "headline": "China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863187,
    "ts": "2026-11-22T00:12:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:16:44+00:00",
    "ingested": "2026-11-19T19:10:12.626292+00:00",
    "headline": "US Envoy Kushner: Trump wants to make a deal with Europe by his side.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860310,
-   "ts": "2026-11-19T17:15:42+00:00",
-   "ingested": "2026-11-19T19:10:12.626302+00:00",
-   "headline": "US Envoy Kushner: Russia has agreed to engage with the Europeans in multilateral format.",
    "channel": "rss",
    "source": "financialjuice"
   }
