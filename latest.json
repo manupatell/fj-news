@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T00:11:09.985058+00:00",
+ "updated": "2026-11-22T00:12:49.993891+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863187,
+   "ts": "2026-11-22T00:12:37+00:00",
+   "ingested": "2026-11-22T00:12:49.993512+00:00",
+   "headline": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863162,
    "ts": "2026-11-21T22:19:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:15:42+00:00",
    "ingested": "2026-11-19T19:10:12.626302+00:00",
    "headline": "US Envoy Kushner: Russia has agreed to engage with the Europeans in multilateral format.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860308,
-   "ts": "2026-11-19T17:14:34+00:00",
-   "ingested": "2026-11-19T19:10:12.626310+00:00",
-   "headline": "US Envoy Kushner: We've made progress for Ukraine's pathway to the EU.",
    "channel": "rss",
    "source": "financialjuice"
   }
