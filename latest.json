@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T15:51:50.845885+00:00",
+ "updated": "2026-11-22T16:00:10.858624+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863476,
+   "ts": "2026-11-22T15:59:00+00:00",
+   "ingested": "2026-11-22T16:00:10.858287+00:00",
+   "headline": "Ukmto reports incident involving tanker and military forces in Gulf of Oman",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863475,
    "ts": "2026-11-22T15:41:28+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T17:57:44+00:00",
    "ingested": "2026-11-19T19:10:12.626178+00:00",
    "headline": "Fed's Goolsbee: The job market right now is stable; the Fed's failure has been on inflation. Not seeing stagflation now though.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860365,
-   "ts": "2026-11-19T17:55:49+00:00",
-   "ingested": "2026-11-19T19:10:12.626188+00:00",
-   "headline": "Fed's Goolsbee: Right now, the Fed's job is to prevent the AI surge from overheating the economy.",
    "channel": "rss",
    "source": "financialjuice"
   }
