@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-22T15:40:10.833910+00:00",
+ "updated": "2026-11-22T15:41:50.826157+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863475,
+   "ts": "2026-11-22T15:41:28+00:00",
+   "ingested": "2026-11-22T15:41:50.825726+00:00",
+   "headline": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863474,
+   "ts": "2026-11-22T15:41:28+00:00",
+   "ingested": "2026-11-22T15:41:50.825738+00:00",
+   "headline": "US Treasury Secretary Bessent: we need to find where the buck stops",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863473,
+   "ts": "2026-11-22T15:41:04+00:00",
+   "ingested": "2026-11-22T15:41:50.825748+00:00",
+   "headline": "US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863472,
+   "ts": "2026-11-22T15:41:04+00:00",
+   "ingested": "2026-11-22T15:41:50.825757+00:00",
+   "headline": "US Treasury Secretary Bessent: what level of Nvidia business we need to see",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863471,
+   "ts": "2026-11-22T15:41:04+00:00",
+   "ingested": "2026-11-22T15:41:50.825764+00:00",
+   "headline": "Knew about this, confident committees moving quickly to find answers: CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863470,
    "ts": "2026-11-22T15:38:29+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-19T17:55:49+00:00",
    "ingested": "2026-11-19T19:10:12.626188+00:00",
    "headline": "Fed's Goolsbee: Right now, the Fed's job is to prevent the AI surge from overheating the economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860364,
-   "ts": "2026-11-19T17:55:45+00:00",
-   "ingested": "2026-11-19T19:10:12.626198+00:00",
-   "headline": "Fed's Goolsbee: The bigger the hype around al companies, the more demand will be pulled into present activity through demand and investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860363,
-   "ts": "2026-11-19T17:55:32+00:00",
-   "ingested": "2026-11-19T19:10:12.626208+00:00",
-   "headline": "ECB's Panetta: Must prevent inflation from taking root.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860362,
-   "ts": "2026-11-19T17:54:58+00:00",
-   "ingested": "2026-11-19T19:10:12.626221+00:00",
-   "headline": "Fed's Goolsbee: AI seems promising as a boost to productivity, but the day job of the Fed is to determine if the economy is overheating now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860360,
-   "ts": "2026-11-19T17:51:53+00:00",
-   "ingested": "2026-11-19T19:10:12.626231+00:00",
-   "headline": "Fed's Goolsbee: I am concerned that the impact of tariffs on inflation has been more persistent than expected.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860341,
-   "ts": "2026-11-19T17:46:04+00:00",
-   "ingested": "2026-11-19T19:10:12.626242+00:00",
-   "headline": "Fed bids for 10-year TIPS total $2 bln.",
    "channel": "rss",
    "source": "financialjuice"
   }
