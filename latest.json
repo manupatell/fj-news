@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T23:57:00.492479+00:00",
+ "updated": "2026-11-22T23:58:40.496498+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863606,
+   "ts": "2026-11-22T23:57:48+00:00",
+   "ingested": "2026-11-22T23:58:40.496044+00:00",
+   "headline": "Libya's NOC: valve closure on Sharara oil pipeline by unlawful group to cut about 350,000 bpd of output",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863566,
    "ts": "2026-11-22T22:00:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T18:10:45+00:00",
    "ingested": "2026-11-19T19:10:12.626084+00:00",
    "headline": "US Energy Secretary Wright on Iran: There's no increase in tensions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860390,
-   "ts": "2026-11-19T18:10:31+00:00",
-   "ingested": "2026-11-19T19:10:12.626093+00:00",
-   "headline": "US Energy Secretary Wright: Yesterday was by far the largest flow out of Hormuz.",
    "channel": "rss",
    "source": "financialjuice"
   }
