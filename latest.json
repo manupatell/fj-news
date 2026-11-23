@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T07:24:12.445530+00:00",
+ "updated": "2026-11-23T07:24:22.448607+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863945,
+   "ts": "2026-11-23T07:24:04+00:00",
+   "ingested": "2026-11-23T07:24:22.448237+00:00",
+   "headline": "BoE Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863944,
    "ts": "2026-11-23T07:23:43+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:15:07+00:00",
    "ingested": "2026-11-19T19:16:02.618318+00:00",
    "headline": "Meta has pushed back the wider release of its smartwatch to 2027 - the Information. $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860481,
-   "ts": "2026-11-19T19:14:08+00:00",
-   "ingested": "2026-11-19T19:14:22.620826+00:00",
-   "headline": "BoE's Greene: risk of underacting bigger than overdoing it",
    "channel": "rss",
    "source": "financialjuice"
   }
