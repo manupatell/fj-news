@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T15:23:03.868948+00:00",
+ "updated": "2026-11-23T15:26:23.902294+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864616,
+   "ts": "2026-11-23T15:24:46+00:00",
+   "ingested": "2026-11-23T15:26:23.901869+00:00",
+   "headline": "Trump: US VP Vance was involved in the NVIDIA decision. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864615,
    "ts": "2026-11-23T15:22:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T00:19:58+00:00",
    "ingested": "2026-11-20T00:20:28.535320+00:00",
    "headline": "RBA's Fry-McKibbin: broad disagreement can exist on managing policy trade-offs, but they can't be ignored",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860882,
-   "ts": "2026-11-20T00:18:43+00:00",
-   "ingested": "2026-11-20T00:20:28.535335+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6731 per dollar: estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
