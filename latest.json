@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T12:44:43.814361+00:00",
+ "updated": "2026-11-23T12:51:23.801246+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864358,
+   "ts": "2026-11-23T12:51:08+00:00",
+   "ingested": "2026-11-23T12:51:23.800818+00:00",
+   "headline": "Iran: In talks with Azerbaijan on gas transit - Tansim",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864342,
    "ts": "2026-11-23T12:43:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:45:31+00:00",
    "ingested": "2026-11-19T19:46:42.579884+00:00",
    "headline": "Commerce approved shipment of 879,868 advanced chips to Chinese firms as of May 2026 - committee",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860552,
-   "ts": "2026-11-19T19:44:52+00:00",
-   "ingested": "2026-11-19T19:45:02.599901+00:00",
-   "headline": "Nvidia also sought permission to ship 445,000 H200 advanced AI chips to Tencent in December 2025 - Committee. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
