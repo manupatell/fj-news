@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T06:54:02.441339+00:00",
+ "updated": "2026-11-23T06:59:32.440538+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863915,
+   "ts": "2026-11-23T06:58:39+00:00",
+   "ingested": "2026-11-23T06:59:32.440146+00:00",
+   "headline": "French Finance Minister Lescure: Government's 2027 economic growth forecast of 1% is at risk of being downgraded",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863792,
    "ts": "2026-11-23T05:00:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T18:39:14+00:00",
    "ingested": "2026-11-19T19:10:12.626051+00:00",
    "headline": "US Secretary of State Rubio is weighing a 2028 run more seriously - CNN citing Allies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860393,
-   "ts": "2026-11-19T18:11:27+00:00",
-   "ingested": "2026-11-19T19:10:12.626063+00:00",
-   "headline": "Fed's Goolsbee: Unless AI shows it can increase productivity outside the tech sector, it could prove a \"flash in the pan\".",
    "channel": "rss",
    "source": "financialjuice"
   }
