@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T07:26:02.460501+00:00",
+ "updated": "2026-11-23T07:27:02.445006+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863952,
+   "ts": "2026-11-23T07:26:02+00:00",
+   "ingested": "2026-11-23T07:27:02.444603+00:00",
+   "headline": "SNB Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863951,
    "ts": "2026-11-23T07:25:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:19:08+00:00",
    "ingested": "2026-11-19T19:19:52.567464+00:00",
    "headline": "BoE\u2019s Greene cites above-target inflation and resilient economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860497,
-   "ts": "2026-11-19T19:18:17+00:00",
-   "ingested": "2026-11-19T19:19:52.567484+00:00",
-   "headline": "BoE\u2019s Greene: Policy has not been as restrictive as thought.",
    "channel": "rss",
    "source": "financialjuice"
   }
