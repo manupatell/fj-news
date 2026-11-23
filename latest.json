@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T21:56:59.907261+00:00",
+ "updated": "2026-11-23T21:58:49.930401+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865101,
+   "ts": "2026-11-23T21:58:00+00:00",
+   "ingested": "2026-11-23T21:58:49.929945+00:00",
+   "headline": "Meta Platforms \u2013 SEC Filing $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865100,
    "ts": "2026-11-23T21:56:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:23:46+00:00",
    "ingested": "2026-11-20T13:24:02.724844+00:00",
    "headline": "ECB's Nagel: Policy is slightly restrictive territory",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861784,
-   "ts": "2026-11-20T13:22:29+00:00",
-   "ingested": "2026-11-20T13:24:02.724859+00:00",
-   "headline": "ECB's Nagel: Inflation is too high",
    "channel": "rss",
    "source": "financialjuice"
   }
