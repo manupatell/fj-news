@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T13:59:43.842075+00:00",
+ "updated": "2026-11-23T14:01:23.844030+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864454,
+   "ts": "2026-11-23T13:59:57+00:00",
+   "ingested": "2026-11-23T14:01:23.843633+00:00",
+   "headline": "Effective Fed funds rate 3.88% November 20th vs 3.88% November 19th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864453,
    "ts": "2026-11-23T13:58:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T20:35:43+00:00",
    "ingested": "2026-11-19T20:36:48.446068+00:00",
    "headline": "Iran Foreign Ministry Spokesman on X: US accusations about Tehran developing chemical and biological weapons are intended to create fear and justify military action.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860619,
-   "ts": "2026-11-19T20:32:50+00:00",
-   "ingested": "2026-11-19T20:33:22.837054+00:00",
-   "headline": "Fed's Goolsbee: It is not clear how the financial sector would be impacted if there is a major correction in equities related to AI.",
    "channel": "rss",
    "source": "financialjuice"
   }
