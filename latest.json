@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T10:51:23.781767+00:00",
+ "updated": "2026-11-23T11:01:23.768263+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864205,
+   "ts": "2026-11-23T10:53:23+00:00",
+   "ingested": "2026-11-23T11:01:23.767866+00:00",
+   "headline": "German Government Spokesperson on reports about Russia being ready to launch a nuclear-armed satellite: Taking the reports very seriously",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864202,
    "ts": "2026-11-23T10:50:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:37:47+00:00",
    "ingested": "2026-11-19T19:38:22.575855+00:00",
    "headline": "Fed's Barr: financial conditions remain accommodative, supporting economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860538,
-   "ts": "2026-11-19T19:37:44+00:00",
-   "ingested": "2026-11-19T19:38:22.575865+00:00",
-   "headline": "Fed's Barr: Central bank is not seeking to target a specific level of investment in economy",
    "channel": "rss",
    "source": "financialjuice"
   }
