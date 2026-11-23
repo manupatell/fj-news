@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T14:34:43.857784+00:00",
+ "updated": "2026-11-23T14:43:03.849789+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864530,
+   "ts": "2026-11-23T14:41:27+00:00",
+   "ingested": "2026-11-23T14:43:03.849348+00:00",
+   "headline": "Musk after Nvidia announces Jensen Huang's return as CEO: It is done. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864526,
    "ts": "2026-11-23T14:33:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T22:33:10+00:00",
    "ingested": "2026-11-19T22:34:48.436581+00:00",
    "headline": "California AG: California Department of Justice questions Nvidia on whether it misled investors and the public",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860731,
-   "ts": "2026-11-19T22:32:18+00:00",
-   "ingested": "2026-11-19T22:32:58.528526+00:00",
-   "headline": "California AG: California DOJ asking Nvidia if its advanced chips or confidential data may have been sent to China",
    "channel": "rss",
    "source": "financialjuice"
   }
