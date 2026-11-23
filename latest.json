@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-23T15:06:23.862384+00:00",
+ "updated": "2026-11-23T15:09:43.864283+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864581,
+   "ts": "2026-11-23T15:08:59+00:00",
+   "ingested": "2026-11-23T15:09:43.863804+00:00",
+   "headline": "Trump on Jensen Huang returning to Nvidia: He did nothing wrong - CNBC. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864580,
+   "ts": "2026-11-23T15:08:44+00:00",
+   "ingested": "2026-11-23T15:09:43.863824+00:00",
+   "headline": "Trump: Huang makes great chips. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864579,
+   "ts": "2026-11-23T15:08:09+00:00",
+   "ingested": "2026-11-23T15:09:43.863840+00:00",
+   "headline": "Trump: I felt very strongly that Huang should come back - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864578,
    "ts": "2026-11-23T15:05:36+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T23:39:07+00:00",
    "ingested": "2026-11-19T23:39:48.582724+00:00",
    "headline": "Fed's Paulson: Public needs to grasp rationale behind Fed's actions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860820,
-   "ts": "2026-11-19T23:39:07+00:00",
-   "ingested": "2026-11-19T23:39:48.582734+00:00",
-   "headline": "Fed's Paulson: does not comment on near-term monetary policy outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860819,
-   "ts": "2026-11-19T23:39:07+00:00",
-   "ingested": "2026-11-19T23:39:48.582742+00:00",
-   "headline": "Fed's Paulson: Fed communications need to be clear on perspectives",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860804,
-   "ts": "2026-11-19T23:31:53+00:00",
-   "ingested": "2026-11-19T23:33:28.449611+00:00",
-   "headline": "Japan overall CPI climbs at fastest rate since November 2025",
    "channel": "rss",
    "source": "financialjuice"
   }
