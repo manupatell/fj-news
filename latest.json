@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T09:51:13.834647+00:00",
+ "updated": "2026-11-23T09:52:53.758736+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864139,
+   "ts": "2026-11-23T09:51:30+00:00",
+   "ingested": "2026-11-23T09:52:53.758307+00:00",
+   "headline": "Deutsche Bank: Week  Ahead - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864138,
    "ts": "2026-11-23T09:50:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:33:47+00:00",
    "ingested": "2026-11-19T19:35:02.586168+00:00",
    "headline": "Fed's Barr: I'm worried path of regulation could make it harder to understand financial risks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860532,
-   "ts": "2026-11-19T19:33:03+00:00",
-   "ingested": "2026-11-19T19:33:22.584846+00:00",
-   "headline": "Fed's Barr: more focused on long-term challenges with bank rules",
    "channel": "rss",
    "source": "financialjuice"
   }
