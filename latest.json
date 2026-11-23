@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T07:20:42.444694+00:00",
+ "updated": "2026-11-23T07:21:02.446907+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863938,
+   "ts": "2026-11-23T07:20:52+00:00",
+   "ingested": "2026-11-23T07:21:02.446533+00:00",
+   "headline": "120-Day Correlation Matrix",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863937,
    "ts": "2026-11-23T07:20:31+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:10:41+00:00",
    "ingested": "2026-11-19T19:11:52.578082+00:00",
    "headline": "BoE\u2019s Greene: Duty to anchor elevated inflation expectations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860474,
-   "ts": "2026-11-19T19:08:09+00:00",
-   "ingested": "2026-11-19T19:10:12.626012+00:00",
-   "headline": "Canada seeks interim US trade arrangement by end of year - CBC.",
    "channel": "rss",
    "source": "financialjuice"
   }

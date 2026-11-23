@@ -26010,3 +26010,4 @@
 {"guid": 9863935, "ts": "2026-11-23T07:19:56+00:00", "ingested": "2026-11-23T07:20:42.444334+00:00", "headline": "30-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
 {"guid": 9863936, "ts": "2026-11-23T07:20:13+00:00", "ingested": "2026-11-23T07:20:42.444320+00:00", "headline": "60-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
 {"guid": 9863937, "ts": "2026-11-23T07:20:31+00:00", "ingested": "2026-11-23T07:20:42.444301+00:00", "headline": "90-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
+{"guid": 9863938, "ts": "2026-11-23T07:20:52+00:00", "ingested": "2026-11-23T07:21:02.446533+00:00", "headline": "120-Day Correlation Matrix", "channel": "rss", "source": "financialjuice"}
