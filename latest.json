@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-23T15:03:03.898573+00:00",
+ "updated": "2026-11-23T15:04:43.863352+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864577,
+   "ts": "2026-11-23T15:04:00+00:00",
+   "ingested": "2026-11-23T15:04:43.862946+00:00",
+   "headline": "Wells Fargo Investment Institute upgrades US large cap equities to most favorable from favorable.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864576,
+   "ts": "2026-11-23T15:03:43+00:00",
+   "ingested": "2026-11-23T15:04:43.862967+00:00",
+   "headline": "EU Commission President von der Leyen: Russia sanctions ban 60 Russian banks from SWIFT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864572,
    "ts": "2026-11-23T15:02:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-19T23:31:41+00:00",
    "ingested": "2026-11-19T23:33:28.449624+00:00",
    "headline": "Japan core CPI climbs at fastest rate since December 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860798,
-   "ts": "2026-11-19T23:30:21+00:00",
-   "ingested": "2026-11-19T23:31:48.442344+00:00",
-   "headline": "Japan October nationwide core-core CPI excluding fresh food, energy prices rises 2.2% yr/yr: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860797,
-   "ts": "2026-11-19T23:30:12+00:00",
-   "ingested": "2026-11-19T23:31:48.442358+00:00",
-   "headline": "Japan oct consumer prices excluding fresh food, energy rise 2.2% yr/yr: govt",
    "channel": "rss",
    "source": "financialjuice"
   }
