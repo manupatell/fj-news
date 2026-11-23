@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T22:52:09.919989+00:00",
+ "updated": "2026-11-23T22:55:29.910572+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865161,
+   "ts": "2026-11-23T22:53:52+00:00",
+   "ingested": "2026-11-23T22:55:29.910099+00:00",
+   "headline": "California AG: Attorney General Bonta submits amicus brief in Epic v. Apple",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865160,
    "ts": "2026-11-23T22:51:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:25:17+00:00",
    "ingested": "2026-11-20T13:25:42.662106+00:00",
    "headline": "Fed's Waller does not comment on monetary policy or economic outlook in prepared remarks to Fed college competition",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861789,
-   "ts": "2026-11-20T13:25:14+00:00",
-   "ingested": "2026-11-20T13:25:42.662120+00:00",
-   "headline": "ECB's Nagel: I believe ECB has to do something at december meeting.",
    "channel": "rss",
    "source": "financialjuice"
   }
