@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-23T15:26:23.902294+00:00",
+ "updated": "2026-11-23T15:29:43.861093+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864619,
+   "ts": "2026-11-23T15:29:02+00:00",
+   "ingested": "2026-11-23T15:29:43.860612+00:00",
+   "headline": "Trump: If Huang was angry enough, he could've worked for China. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864618,
+   "ts": "2026-11-23T15:28:55+00:00",
+   "ingested": "2026-11-23T15:29:43.860636+00:00",
+   "headline": "Trump: We could have seen China paying Huang to flip sides. We wouldn't want China to poach Huang. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864617,
+   "ts": "2026-11-23T15:28:01+00:00",
+   "ingested": "2026-11-23T15:29:43.860653+00:00",
+   "headline": "Trump: I asked Xi, \"Why don't you slow down on nuclear weapons?\"",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864616,
    "ts": "2026-11-23T15:24:46+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-20T01:00:08+00:00",
    "ingested": "2026-11-20T01:16:26.031846+00:00",
    "headline": "PBoC Interest Rate 1 Yr Actual 3.00% (Forecast 3%, Previous 3.00%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860885,
-   "ts": "2026-11-20T00:22:58+00:00",
-   "ingested": "2026-11-20T00:23:38.504714+00:00",
-   "headline": "Fed's Paulson: wage growth aligns with 2% inflation, a positive indicator",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860884,
-   "ts": "2026-11-20T00:21:54+00:00",
-   "ingested": "2026-11-20T00:22:08.589379+00:00",
-   "headline": "Fed's Paulson: steady long-term inflation expectations reflect Fed credibility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860883,
-   "ts": "2026-11-20T00:19:58+00:00",
-   "ingested": "2026-11-20T00:20:28.535320+00:00",
-   "headline": "RBA's Fry-McKibbin: broad disagreement can exist on managing policy trade-offs, but they can't be ignored",
    "channel": "rss",
    "source": "financialjuice"
   }
