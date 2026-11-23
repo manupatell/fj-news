@@ -1,7 +1,119 @@
 {
- "updated": "2026-11-23T08:23:12.481665+00:00",
+ "updated": "2026-11-23T09:51:13.834647+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864138,
+   "ts": "2026-11-23T09:50:31+00:00",
+   "ingested": "2026-11-23T09:51:13.834008+00:00",
+   "headline": "UK Secretary of State Haigh: Competition should be left to thrive where it exists.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864096,
+   "ts": "2026-11-23T09:30:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834032+00:00",
+   "headline": "UK Manufacturing PMI Flash Actual 52.7 (Forecast 53, Previous 52.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864095,
+   "ts": "2026-11-23T09:30:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834051+00:00",
+   "headline": "UK Composite PMI Flash Actual 52.3 (Forecast 52.8, Previous 52.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864094,
+   "ts": "2026-11-23T09:30:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834067+00:00",
+   "headline": "UK Services PMI Flash Actual 52 (Forecast 53, Previous 52.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864093,
+   "ts": "2026-11-23T09:27:34+00:00",
+   "ingested": "2026-11-23T09:51:13.834083+00:00",
+   "headline": "Europe Sentiment: The Calm After the Selloff - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864092,
+   "ts": "2026-11-23T09:22:33+00:00",
+   "ingested": "2026-11-23T09:51:13.834098+00:00",
+   "headline": "TSMC's Hou: Not seeing order adjustment from clients.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864091,
+   "ts": "2026-11-23T09:22:08+00:00",
+   "ingested": "2026-11-23T09:51:13.834116+00:00",
+   "headline": "TSMC's Hou: Trend of AI remains unchanged.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864059,
+   "ts": "2026-11-23T09:00:01+00:00",
+   "ingested": "2026-11-23T09:51:13.834132+00:00",
+   "headline": "Eurozone Manufacturing PMI Flash Actual 52.9 (Forecast 52.7, Previous 52.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864058,
+   "ts": "2026-11-23T09:00:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834145+00:00",
+   "headline": "Eurozone Composite PMI Flash Actual 51.7 (Forecast 52, Previous 51.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864057,
+   "ts": "2026-11-23T09:00:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834158+00:00",
+   "headline": "Eurozone Services PMI Flash Actual 51.2 (Forecast 51.8, Previous 51.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864056,
+   "ts": "2026-11-23T08:50:47+00:00",
+   "ingested": "2026-11-23T09:51:13.834172+00:00",
+   "headline": "NVIDIA-backed AI company Firmus mulls $1.5 billion bond sale.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864017,
+   "ts": "2026-11-23T08:30:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834186+00:00",
+   "headline": "German Composite PMI Flash Actual 55 (Forecast 53.2, Previous 53.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864016,
+   "ts": "2026-11-23T08:30:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834199+00:00",
+   "headline": "German Service PMI Flash Actual 54 (Forecast 52.3, Previous 52.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864015,
+   "ts": "2026-11-23T08:30:00+00:00",
+   "ingested": "2026-11-23T09:51:13.834212+00:00",
+   "headline": "German Manufacturing PMI Flash Actual 55 (Forecast 54.2, Previous 54.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863997,
    "ts": "2026-11-23T08:15:09+00:00",
@@ -3887,118 +3999,6 @@
    "ts": "2026-11-19T19:33:03+00:00",
    "ingested": "2026-11-19T19:33:22.584846+00:00",
    "headline": "Fed's Barr: more focused on long-term challenges with bank rules",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860529,
-   "ts": "2026-11-19T19:32:44+00:00",
-   "ingested": "2026-11-19T19:33:22.584858+00:00",
-   "headline": "Fed's Barr: disclosed differences over banking oversight",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860528,
-   "ts": "2026-11-19T19:32:27+00:00",
-   "ingested": "2026-11-19T19:33:22.584867+00:00",
-   "headline": "Honeywell and GE Aerospace cited in House China Panel report. $GE $HON",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860516,
-   "ts": "2026-11-19T19:31:39+00:00",
-   "ingested": "2026-11-19T19:33:22.584876+00:00",
-   "headline": "NYMEX Nat Gas Dec. futures settle at $3.2680/MMBtu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860515,
-   "ts": "2026-11-19T19:31:12+00:00",
-   "ingested": "2026-11-19T19:31:42.977402+00:00",
-   "headline": "NYMEX gasoline Dec. futures settle at $2.4951 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860514,
-   "ts": "2026-11-19T19:31:00+00:00",
-   "ingested": "2026-11-19T19:31:42.977415+00:00",
-   "headline": "NYMEX diesel Dec. futures settle at $3.9514 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860513,
-   "ts": "2026-11-19T19:30:50+00:00",
-   "ingested": "2026-11-19T19:31:42.977426+00:00",
-   "headline": "NYMEX WTI crude futures settle at $83.21 a barrel, down 5 cents, 0.06%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860510,
-   "ts": "2026-11-19T19:28:51+00:00",
-   "ingested": "2026-11-19T19:30:02.592851+00:00",
-   "headline": "China AI chip license requests reach 3.4 mln units - Mast statement. $NVDA $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860509,
-   "ts": "2026-11-19T19:28:05+00:00",
-   "ingested": "2026-11-19T19:28:22.600959+00:00",
-   "headline": "Mast moves to disclose Nvidia China export control license details. $NVDA $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860508,
-   "ts": "2026-11-19T19:27:54+00:00",
-   "ingested": "2026-11-19T19:28:22.600973+00:00",
-   "headline": "Mast reveals Nvidia and AMD AI chip licenses for China - statement. $NVDA $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860507,
-   "ts": "2026-11-19T19:27:12+00:00",
-   "ingested": "2026-11-19T19:28:22.600986+00:00",
-   "headline": "BoE\u2019s Greene: We need to shore up credibility on inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860506,
-   "ts": "2026-11-19T19:25:46+00:00",
-   "ingested": "2026-11-19T19:26:42.573255+00:00",
-   "headline": "Fed's Barr: AI may increase risk of faster bank runs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860505,
-   "ts": "2026-11-19T19:25:26+00:00",
-   "ingested": "2026-11-19T19:26:42.573267+00:00",
-   "headline": "BoE's Greene: second-round effects will likely occur",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860504,
-   "ts": "2026-11-19T19:22:59+00:00",
-   "ingested": "2026-11-19T19:23:22.580366+00:00",
-   "headline": "Fed's Barr: AI must comply with financial sector rules",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860503,
-   "ts": "2026-11-19T19:22:10+00:00",
-   "ingested": "2026-11-19T19:23:22.580378+00:00",
-   "headline": "Trump: Putin meeting was primarily on Ukraine - NBC",
    "channel": "rss",
    "source": "financialjuice"
   }
