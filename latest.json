@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T13:34:44.121376+00:00",
+ "updated": "2026-11-23T13:43:03.847645+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864430,
+   "ts": "2026-11-23T13:42:47+00:00",
+   "ingested": "2026-11-23T13:43:03.847233+00:00",
+   "headline": "Oregon & Virginia sue SpaceX over AI-generated images - NYT. $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864429,
    "ts": "2026-11-23T13:33:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T20:30:35+00:00",
    "ingested": "2026-11-19T20:31:42.590898+00:00",
    "headline": "Fed's Goolsbee: Inflation has proven to be far more persistent than was thought in 2025, and data center demand and AI-related wealth impact are adding to it.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860591,
-   "ts": "2026-11-19T20:30:17+00:00",
-   "ingested": "2026-11-19T20:31:42.590909+00:00",
-   "headline": "Fed's Goolsbee: What is happening with services inflation is important in understanding whether price pressures stem from demand or things like energy costs.",
    "channel": "rss",
    "source": "financialjuice"
   }
