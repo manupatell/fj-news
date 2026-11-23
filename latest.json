@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T14:01:23.844030+00:00",
+ "updated": "2026-11-23T14:04:43.849477+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864475,
+   "ts": "2026-11-23T14:03:03+00:00",
+   "ingested": "2026-11-23T14:04:43.849079+00:00",
+   "headline": "NVIDIA: Harvey C. Jones to stay as board chair. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864454,
    "ts": "2026-11-23T13:59:57+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T20:59:27+00:00",
    "ingested": "2026-11-19T21:00:48.497243+00:00",
    "headline": "US money-market fund assets fall to $7.976 trln at ICI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860623,
-   "ts": "2026-11-19T20:35:43+00:00",
-   "ingested": "2026-11-19T20:36:48.446068+00:00",
-   "headline": "Iran Foreign Ministry Spokesman on X: US accusations about Tehran developing chemical and biological weapons are intended to create fear and justify military action.",
    "channel": "rss",
    "source": "financialjuice"
   }
