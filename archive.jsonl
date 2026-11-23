@@ -26028,3 +26028,4 @@
 {"guid": 9863991, "ts": "2026-11-23T08:01:38+00:00", "ingested": "2026-11-23T08:02:42.522555+00:00", "headline": "Currency Strength Chart: Strongest: AUD, GBP, EUR, CHF, CAD, NZD, USD, GBP - Weakest", "channel": "rss", "source": "financialjuice"}
 {"guid": 9863996, "ts": "2026-11-23T08:15:00+00:00", "ingested": "2026-11-23T08:16:42.473845+00:00", "headline": "French Services PMI Flash Actual 46.6 (Forecast 47.5, Previous 46.2)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9863998, "ts": "2026-11-23T08:15:01+00:00", "ingested": "2026-11-23T08:16:42.473803+00:00", "headline": "French Manufacturing PMI Flash Actual 47.9 (Forecast 49.8, Previous 49.5)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9863997, "ts": "2026-11-23T08:15:09+00:00", "ingested": "2026-11-23T08:20:32.464500+00:00", "headline": "French Comp Flash PMI Actual 46.2 (Forecast 47.9, Previous 46.6)", "channel": "rss", "source": "financialjuice"}
