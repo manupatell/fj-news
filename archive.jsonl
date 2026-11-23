@@ -26017,3 +26017,6 @@
 {"guid": 9863943, "ts": "2026-11-23T07:23:25+00:00", "ingested": "2026-11-23T07:24:12.445146+00:00", "headline": "Fed Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
 {"guid": 9863944, "ts": "2026-11-23T07:23:43+00:00", "ingested": "2026-11-23T07:24:12.445126+00:00", "headline": "ECB Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
 {"guid": 9863945, "ts": "2026-11-23T07:24:04+00:00", "ingested": "2026-11-23T07:24:22.448237+00:00", "headline": "BoE Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9863946, "ts": "2026-11-23T07:24:19+00:00", "ingested": "2026-11-23T07:25:22.510595+00:00", "headline": "BoC Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}
+{"guid": 9863947, "ts": "2026-11-23T07:24:54+00:00", "ingested": "2026-11-23T07:25:22.510580+00:00", "headline": "UK First Secretary of State Haigh: Want to intervene where markets are failing", "channel": "rss", "source": "financialjuice"}
+{"guid": 9863948, "ts": "2026-11-23T07:24:58+00:00", "ingested": "2026-11-23T07:25:22.510558+00:00", "headline": "BoJ Interest Rate Probabilities", "channel": "rss", "source": "financialjuice"}

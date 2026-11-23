@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-23T07:24:22.448607+00:00",
+ "updated": "2026-11-23T07:25:22.511009+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863948,
+   "ts": "2026-11-23T07:24:58+00:00",
+   "ingested": "2026-11-23T07:25:22.510558+00:00",
+   "headline": "BoJ Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863947,
+   "ts": "2026-11-23T07:24:54+00:00",
+   "ingested": "2026-11-23T07:25:22.510580+00:00",
+   "headline": "UK First Secretary of State Haigh: Want to intervene where markets are failing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863946,
+   "ts": "2026-11-23T07:24:19+00:00",
+   "ingested": "2026-11-23T07:25:22.510595+00:00",
+   "headline": "BoC Interest Rate Probabilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863945,
    "ts": "2026-11-23T07:24:04+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T19:17:17+00:00",
    "ingested": "2026-11-19T19:18:12.580865+00:00",
    "headline": "Taiwan Defence Ministry: 2 Russian TU-95 military aircraft entered taiwan's air defense identification zone) from the south of Taiwan Thursday morning.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860485,
-   "ts": "2026-11-19T19:16:30+00:00",
-   "ingested": "2026-11-19T19:18:12.580878+00:00",
-   "headline": "BoE\u2019s Greene: Question over how restrictive policy has been.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860484,
-   "ts": "2026-11-19T19:15:51+00:00",
-   "ingested": "2026-11-19T19:16:02.618303+00:00",
-   "headline": "Meta aims to sell 10 million wearable devices in the second half of 2026 as it expands its AI hardware lineup- The Information. $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860482,
-   "ts": "2026-11-19T19:15:07+00:00",
-   "ingested": "2026-11-19T19:16:02.618318+00:00",
-   "headline": "Meta has pushed back the wider release of its smartwatch to 2027 - the Information. $META",
    "channel": "rss",
    "source": "financialjuice"
   }
