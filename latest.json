@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T12:16:23.837625+00:00",
+ "updated": "2026-11-23T12:26:23.794938+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864312,
+   "ts": "2026-11-23T12:25:52+00:00",
+   "ingested": "2026-11-23T12:26:23.794481+00:00",
+   "headline": "UK's PM Spokesman Wells: The UK is starting talks with the EU on realistic options for ties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864286,
    "ts": "2026-11-23T12:14:42+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:41:25+00:00",
    "ingested": "2026-11-19T19:41:42.586907+00:00",
    "headline": "House Foreign Affairs Committee: Commerce Dept had 3.4 million applications by May 2026 for advanced chip sales to Chinese firms - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860546,
-   "ts": "2026-11-19T19:40:38+00:00",
-   "ingested": "2026-11-19T19:41:42.586921+00:00",
-   "headline": "Meeks urges Lutnick and Kessler to testify in public hearings",
    "channel": "rss",
    "source": "financialjuice"
   }
