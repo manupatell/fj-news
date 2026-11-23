@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T14:33:03.856265+00:00",
+ "updated": "2026-11-23T14:34:43.857784+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864526,
+   "ts": "2026-11-23T14:33:05+00:00",
+   "ingested": "2026-11-23T14:34:43.857335+00:00",
+   "headline": "NVIDIA is on track to add more than $900 billion to its market value. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864504,
    "ts": "2026-11-23T14:22:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T22:32:18+00:00",
    "ingested": "2026-11-19T22:32:58.528526+00:00",
    "headline": "California AG: California DOJ asking Nvidia if its advanced chips or confidential data may have been sent to China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860730,
-   "ts": "2026-11-19T22:31:16+00:00",
-   "ingested": "2026-11-19T22:32:58.528540+00:00",
-   "headline": "Attorney General Bonta issues investigative subpoena to Nvidia",
    "channel": "rss",
    "source": "financialjuice"
   }
