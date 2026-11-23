@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-23T07:19:42.505417+00:00",
+ "updated": "2026-11-23T07:20:42.444694+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9863937,
+   "ts": "2026-11-23T07:20:31+00:00",
+   "ingested": "2026-11-23T07:20:42.444301+00:00",
+   "headline": "90-Day Correlation Matrix",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863936,
+   "ts": "2026-11-23T07:20:13+00:00",
+   "ingested": "2026-11-23T07:20:42.444320+00:00",
+   "headline": "60-Day Correlation Matrix",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9863935,
+   "ts": "2026-11-23T07:19:56+00:00",
+   "ingested": "2026-11-23T07:20:42.444334+00:00",
+   "headline": "30-Day Correlation Matrix",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9863915,
    "ts": "2026-11-23T06:58:39+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-19T19:08:09+00:00",
    "ingested": "2026-11-19T19:10:12.626012+00:00",
    "headline": "Canada seeks interim US trade arrangement by end of year - CBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860440,
-   "ts": "2026-11-19T18:47:54+00:00",
-   "ingested": "2026-11-19T19:10:12.626029+00:00",
-   "headline": "Nscale's ByteDance deal faces scrutiny under US chip curbs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860430,
-   "ts": "2026-11-19T18:47:22+00:00",
-   "ingested": "2026-11-19T19:10:12.626040+00:00",
-   "headline": "Iran claims tanker hit mine, caught fire in eastern Hormuz - Mehr.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860425,
-   "ts": "2026-11-19T18:39:14+00:00",
-   "ingested": "2026-11-19T19:10:12.626051+00:00",
-   "headline": "US Secretary of State Rubio is weighing a 2028 run more seriously - CNN citing Allies.",
    "channel": "rss",
    "source": "financialjuice"
   }
