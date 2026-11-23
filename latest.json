@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T09:54:43.758185+00:00",
+ "updated": "2026-11-23T09:56:23.775034+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9864142,
+   "ts": "2026-11-23T09:55:35+00:00",
+   "ingested": "2026-11-23T09:56:23.774605+00:00",
+   "headline": "Senator Schiff plans no-AI-bailouts resolution - Semafor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864140,
    "ts": "2026-11-23T09:54:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-19T19:35:54+00:00",
    "ingested": "2026-11-19T19:36:42.582045+00:00",
    "headline": "Barr: easing regulations in a risk-on environment can cause problems",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860534,
-   "ts": "2026-11-19T19:35:50+00:00",
-   "ingested": "2026-11-19T19:36:42.582058+00:00",
-   "headline": "Fed's Barr: AI surge part of risk-on climate",
    "channel": "rss",
    "source": "financialjuice"
   }
