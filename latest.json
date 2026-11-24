@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T08:35:41.515842+00:00",
+ "updated": "2026-11-24T08:37:21.515515+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865723,
+   "ts": "2026-11-24T08:37:09+00:00",
+   "ingested": "2026-11-24T08:37:21.514861+00:00",
+   "headline": "ECB's Simkus: Don't see a risk of over-tightening.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865722,
+   "ts": "2026-11-24T08:36:59+00:00",
+   "ingested": "2026-11-24T08:37:21.514882+00:00",
+   "headline": "ECB's Simkus: More tightening needed in 2027 if inflation persists.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865721,
    "ts": "2026-11-24T08:34:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T13:36:47+00:00",
    "ingested": "2026-11-20T13:37:42.663648+00:00",
    "headline": "USTR Greer: Trump makes us decisions on export controls.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861813,
-   "ts": "2026-11-20T13:36:09+00:00",
-   "ingested": "2026-11-20T13:37:42.663661+00:00",
-   "headline": "USTR Greer: US moves on chips is 'closing a loophole'.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861812,
-   "ts": "2026-11-20T13:36:04+00:00",
-   "ingested": "2026-11-20T13:37:42.663670+00:00",
-   "headline": "USTR Greer sees no basis for China to retaliate on US chip moves",
    "channel": "rss",
    "source": "financialjuice"
   }
