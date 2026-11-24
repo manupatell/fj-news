@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T10:37:21.602707+00:00",
+ "updated": "2026-11-24T10:44:01.548550+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865873,
+   "ts": "2026-11-24T10:43:26+00:00",
+   "ingested": "2026-11-24T10:44:01.548039+00:00",
+   "headline": "Kremlin: Europeans are pushing for four-way Ukraine talks - Tass",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865860,
    "ts": "2026-11-24T10:25:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T14:08:35+00:00",
    "ingested": "2026-11-20T14:10:02.720028+00:00",
    "headline": "SpaceX's subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models. $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861848,
-   "ts": "2026-11-20T13:59:35+00:00",
-   "ingested": "2026-11-20T14:00:42.679879+00:00",
-   "headline": "Effective Fed funds rate 3.88% November 19th vs 3.88% November 18th.",
    "channel": "rss",
    "source": "financialjuice"
   }
