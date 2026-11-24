@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T22:08:05.127247+00:00",
+ "updated": "2026-11-24T22:16:25.140325+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866769,
+   "ts": "2026-11-24T22:15:00+00:00",
+   "ingested": "2026-11-24T22:16:25.139847+00:00",
+   "headline": "Yemen's Houthis threaten to strike Jeddah port and other Saudi Red Sea ports if Hodeidah is attacked: post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866761,
    "ts": "2026-11-24T21:47:21+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:36:18+00:00",
    "ingested": "2026-11-20T21:37:42.302543+00:00",
    "headline": "Iran\u2019s Foreign Minister Araghchi: Exchange of messages via mediators still continues between Iran and the US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862486,
-   "ts": "2026-11-20T21:35:13+00:00",
-   "ingested": "2026-11-20T21:36:02.264331+00:00",
-   "headline": "Iran's Foreign Minister Araqchi tells an Iranian newspaper: Tehran still has hope in diplomacy to end the war with the US.",
    "channel": "rss",
    "source": "financialjuice"
   }
