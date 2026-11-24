@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T20:08:05.104570+00:00",
+ "updated": "2026-11-24T20:13:05.120885+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866659,
+   "ts": "2026-11-24T20:11:24+00:00",
+   "ingested": "2026-11-24T20:13:05.120436+00:00",
+   "headline": "China's Huawei convicted at a US criminal trial in a case stemming from Iran business.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866632,
    "ts": "2026-11-24T19:46:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:15:58+00:00",
    "ingested": "2026-11-20T21:17:42.272444+00:00",
    "headline": "NZD CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862456,
-   "ts": "2026-11-20T21:15:35+00:00",
-   "ingested": "2026-11-20T21:16:02.316324+00:00",
-   "headline": "CAD CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
