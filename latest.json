@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T08:22:21.565103+00:00",
+ "updated": "2026-11-24T08:25:41.515461+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865713,
+   "ts": "2026-11-24T08:25:22+00:00",
+   "ingested": "2026-11-24T08:25:41.514945+00:00",
+   "headline": "UKMTO gets a time-late report of an incident near Khor Fakkan, UAE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865683,
    "ts": "2026-11-24T08:01:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:35:22+00:00",
    "ingested": "2026-11-20T13:36:02.683491+00:00",
    "headline": "UKMTO gets report of incident near Yemen's Mukalla.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861809,
-   "ts": "2026-11-20T13:35:03+00:00",
-   "ingested": "2026-11-20T13:36:02.683501+00:00",
-   "headline": "USTR Greer: There's licensing process for China to obtain chips.",
    "channel": "rss",
    "source": "financialjuice"
   }
