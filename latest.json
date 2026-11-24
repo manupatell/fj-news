@@ -1,7 +1,607 @@
 {
- "updated": "2026-11-24T11:24:01.571072+00:00",
+ "updated": "2026-11-24T17:04:05.115520+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866431,
+   "ts": "2026-11-24T17:03:47+00:00",
+   "ingested": "2026-11-24T17:04:05.113710+00:00",
+   "headline": "Nvidia's Huang to hold all-hands meeting at 12:30 PM PT today. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866392,
+   "ts": "2026-11-24T16:43:56+00:00",
+   "ingested": "2026-11-24T17:04:05.113740+00:00",
+   "headline": "US Attorney General Blanche: If Nvidia was the target of a criminal investigation, that wouldn't be the message. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866390,
+   "ts": "2026-11-24T16:33:18+00:00",
+   "ingested": "2026-11-24T17:04:05.113757+00:00",
+   "headline": "US 52-Week Bill Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866389,
+   "ts": "2026-11-24T16:32:31+00:00",
+   "ingested": "2026-11-24T17:04:05.113775+00:00",
+   "headline": "US 52-Week Bill Bid-to-Cover Actual 3.040 (Forecast -, Previous 3.150)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866388,
+   "ts": "2026-11-24T16:32:17+00:00",
+   "ingested": "2026-11-24T17:04:05.113796+00:00",
+   "headline": "US 52-Week Bill High Yield Actual 4.365% (Forecast -, Previous 4.290%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866373,
+   "ts": "2026-11-24T16:29:13+00:00",
+   "ingested": "2026-11-24T17:04:05.113811+00:00",
+   "headline": "UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866367,
+   "ts": "2026-11-24T16:15:35+00:00",
+   "ingested": "2026-11-24T17:04:05.113838+00:00",
+   "headline": "Fed bids for 52-Week bills total $4.1 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866361,
+   "ts": "2026-11-24T16:08:25+00:00",
+   "ingested": "2026-11-24T17:04:05.113854+00:00",
+   "headline": "Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866360,
+   "ts": "2026-11-24T16:08:09+00:00",
+   "ingested": "2026-11-24T17:04:05.113870+00:00",
+   "headline": "Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866345,
+   "ts": "2026-11-24T16:01:48+00:00",
+   "ingested": "2026-11-24T17:04:05.113885+00:00",
+   "headline": "Trump administration officials debating targeting Iran's leaders - NBC, citing sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866343,
+   "ts": "2026-11-24T16:00:31+00:00",
+   "ingested": "2026-11-24T17:04:05.113904+00:00",
+   "headline": "US Treasury to auction $105 bln 4-week bills on November 25th, to settle on December 1st",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866341,
+   "ts": "2026-11-24T15:52:14+00:00",
+   "ingested": "2026-11-24T17:04:05.113918+00:00",
+   "headline": "Putin: Russia will expand sales market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866340,
+   "ts": "2026-11-24T15:51:58+00:00",
+   "ingested": "2026-11-24T17:04:05.113934+00:00",
+   "headline": "Putin: Attempts to curb Russian energy exports will backfire, especially for Europe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866339,
+   "ts": "2026-11-24T15:51:31+00:00",
+   "ingested": "2026-11-24T17:04:05.113947+00:00",
+   "headline": "Putin: Need to develop new energy supply routes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866338,
+   "ts": "2026-11-24T15:49:30+00:00",
+   "ingested": "2026-11-24T17:04:05.113960+00:00",
+   "headline": "Putin: The Russian fuel market situation remains difficult.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866337,
+   "ts": "2026-11-24T15:49:22+00:00",
+   "ingested": "2026-11-24T17:04:05.113975+00:00",
+   "headline": "Putin: Despite difficult geopolitical situation, Russian companies hold leading positions in global energy markets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866323,
+   "ts": "2026-11-24T15:45:55+00:00",
+   "ingested": "2026-11-24T17:04:05.113992+00:00",
+   "headline": "New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate, according to a person",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866320,
+   "ts": "2026-11-24T15:34:25+00:00",
+   "ingested": "2026-11-24T17:04:05.114009+00:00",
+   "headline": "EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866313,
+   "ts": "2026-11-24T15:23:55+00:00",
+   "ingested": "2026-11-24T17:04:05.114027+00:00",
+   "headline": "Fitch Ratings: AI job disruption could be significant in industries where labour substitution possibilities are high & AI complementarities limited.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866312,
+   "ts": "2026-11-24T15:23:09+00:00",
+   "ingested": "2026-11-24T17:04:05.114045+00:00",
+   "headline": "Fitch Ratings: Faster productivity & AI adoption have not resulted in any falls in aggregate us employment & there has been no surge in layoffs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866310,
+   "ts": "2026-11-24T15:21:27+00:00",
+   "ingested": "2026-11-24T17:04:05.114062+00:00",
+   "headline": "Fitch Ratings: US productivity growth is improving steadily.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866309,
+   "ts": "2026-11-24T15:18:55+00:00",
+   "ingested": "2026-11-24T17:04:05.114075+00:00",
+   "headline": "Fear & Greed Index: 18/100 - Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866272,
+   "ts": "2026-11-24T15:01:53+00:00",
+   "ingested": "2026-11-24T17:04:05.114096+00:00",
+   "headline": "US CB: Consumers still expect higher interest rates over the next 12 months.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866271,
+   "ts": "2026-11-24T15:01:52+00:00",
+   "ingested": "2026-11-24T17:04:05.114118+00:00",
+   "headline": "US CB: Market volatility in the first half of November notwithstanding, more consumers expected stock prices to increase rather than decrease in the next 12 months.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866259,
+   "ts": "2026-11-24T15:01:46+00:00",
+   "ingested": "2026-11-24T17:04:05.114136+00:00",
+   "headline": "US CB: Consumers' average 12-month inflation expectations declined for a second consecutive month in November, but remained elevated at 5.7%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866256,
+   "ts": "2026-11-24T15:00:43+00:00",
+   "ingested": "2026-11-24T17:04:05.114150+00:00",
+   "headline": "ECB's Sleijpen: it's complicated to discuss rate moves in 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866250,
+   "ts": "2026-11-24T15:00:24+00:00",
+   "ingested": "2026-11-24T17:04:05.114165+00:00",
+   "headline": "ECB's Sleijpen: Direction of ECB policy in December seems clear, but uncertain after.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866241,
+   "ts": "2026-11-24T15:00:22+00:00",
+   "ingested": "2026-11-24T17:04:05.114182+00:00",
+   "headline": "Richmond Fed Comp. Index Actual 3 (Forecast -2, Previous -2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866240,
+   "ts": "2026-11-24T15:00:00+00:00",
+   "ingested": "2026-11-24T17:04:05.114196+00:00",
+   "headline": "US CB Consumer Confidence Actual 103.3 (Forecast 92.4, Previous 91.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866239,
+   "ts": "2026-11-24T14:54:31+00:00",
+   "ingested": "2026-11-24T17:04:05.114210+00:00",
+   "headline": "Democrat Rep. Meeks: Closed-door Huang briefing doesn't replace public one. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866238,
+   "ts": "2026-11-24T14:52:20+00:00",
+   "ingested": "2026-11-24T17:04:05.114224+00:00",
+   "headline": "Rep. Meeks calls for Huang to testify publicly to House panel. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866198,
+   "ts": "2026-11-24T14:25:00+00:00",
+   "ingested": "2026-11-24T17:04:05.114243+00:00",
+   "headline": "Chinese foreign minister expresses hope that Britain provides a favourable business environment for Chinese companies - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866197,
+   "ts": "2026-11-24T14:23:10+00:00",
+   "ingested": "2026-11-24T17:04:05.114257+00:00",
+   "headline": "UBS raises target price of Tesla to $430 from $425.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866196,
+   "ts": "2026-11-24T14:20:46+00:00",
+   "ingested": "2026-11-24T17:04:05.114273+00:00",
+   "headline": "Venezuela projects about $160 billion in oil-sector CAPEX through 2036, with $85 billion from partners and $75 bln from PDVSA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866190,
+   "ts": "2026-11-24T14:16:12+00:00",
+   "ingested": "2026-11-24T17:04:05.114286+00:00",
+   "headline": "Standard Chartered on Fed - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866186,
+   "ts": "2026-11-24T14:10:45+00:00",
+   "ingested": "2026-11-24T17:04:05.114297+00:00",
+   "headline": "MUFG on Fed Rate Expectations - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866185,
+   "ts": "2026-11-24T14:06:24+00:00",
+   "ingested": "2026-11-24T17:04:05.114309+00:00",
+   "headline": "Citi's Sentiment View - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866182,
+   "ts": "2026-11-24T14:03:19+00:00",
+   "ingested": "2026-11-24T17:04:05.114324+00:00",
+   "headline": "Venezuela: Oil production will grow at 9.1% annually through 2036, reaching 2.9 million bpd - Government document.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866162,
+   "ts": "2026-11-24T14:01:04+00:00",
+   "ingested": "2026-11-24T17:04:05.114338+00:00",
+   "headline": "US home prices unchanged in September from August - US Regulator.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866154,
+   "ts": "2026-11-24T14:00:13+00:00",
+   "ingested": "2026-11-24T17:04:05.114351+00:00",
+   "headline": "US House Price Index YoY Actual 2.5% (Forecast -, Previous 2.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866153,
+   "ts": "2026-11-24T14:00:01+00:00",
+   "ingested": "2026-11-24T17:04:05.114365+00:00",
+   "headline": "US House Price Index MoM Actual 0% (Forecast 0.2%, Previous 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866152,
+   "ts": "2026-11-24T14:00:00+00:00",
+   "ingested": "2026-11-24T17:04:05.114379+00:00",
+   "headline": "US CaseShiller 20 YoY Actual 2.56% (Forecast 2.71%, Previous 2.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866151,
+   "ts": "2026-11-24T13:59:59+00:00",
+   "ingested": "2026-11-24T17:04:05.114399+00:00",
+   "headline": "Effective Fed funds rate 3.88% November 23rd vs 3.88% November 20th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866150,
+   "ts": "2026-11-24T13:59:18+00:00",
+   "ingested": "2026-11-24T17:04:05.114418+00:00",
+   "headline": "US Sentiment: Big Boy Huang is Back, Profit Taking & Tariff Risk Takes Hold - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866149,
+   "ts": "2026-11-24T13:58:48+00:00",
+   "ingested": "2026-11-24T17:04:05.114432+00:00",
+   "headline": "US to announce tariff hike on China and the EU as soon as today.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866148,
+   "ts": "2026-11-24T13:55:13+00:00",
+   "ingested": "2026-11-24T17:04:05.114445+00:00",
+   "headline": "US Redbook YoY Actual 11.3% (Forecast -, Previous 9.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866100,
+   "ts": "2026-11-24T13:21:37+00:00",
+   "ingested": "2026-11-24T17:04:05.114462+00:00",
+   "headline": "BoE\u2019s Greene: Wage growth of 3.6% would warrant more tightening.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866094,
+   "ts": "2026-11-24T13:15:00+00:00",
+   "ingested": "2026-11-24T17:04:05.114476+00:00",
+   "headline": "US ADP Wkly Employment Change Actual 21k (Forecast -, Previous 23.75k, Revised 23k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866093,
+   "ts": "2026-11-24T13:13:29+00:00",
+   "ingested": "2026-11-24T17:04:05.114490+00:00",
+   "headline": "Oppenheimer cuts target price for Marvell Technology to $325 from $425",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866092,
+   "ts": "2026-11-24T13:12:42+00:00",
+   "ingested": "2026-11-24T17:04:05.114505+00:00",
+   "headline": "BoE's Greene: More of the same grounds for tightening policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866091,
+   "ts": "2026-11-24T13:11:53+00:00",
+   "ingested": "2026-11-24T17:04:05.114518+00:00",
+   "headline": "New tariffs likely be added on top of July tariff action - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866089,
+   "ts": "2026-11-24T13:10:47+00:00",
+   "ingested": "2026-11-24T17:04:05.114532+00:00",
+   "headline": "Higher tariff levies from US to target excess industrial capacity overseas are expected this week - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866088,
+   "ts": "2026-11-24T13:10:14+00:00",
+   "ingested": "2026-11-24T17:04:05.114544+00:00",
+   "headline": "EU, Japan, South Korea likely to face 15% or lower tariffs - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866087,
+   "ts": "2026-11-24T13:10:06+00:00",
+   "ingested": "2026-11-24T17:04:05.114556+00:00",
+   "headline": "US new tariffs likely exclude some industrial goods - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866086,
+   "ts": "2026-11-24T13:09:46+00:00",
+   "ingested": "2026-11-24T17:04:05.114569+00:00",
+   "headline": "US prepares to raise tariffs on China, EU, 14 countries - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866085,
+   "ts": "2026-11-24T13:08:49+00:00",
+   "ingested": "2026-11-24T17:04:05.114584+00:00",
+   "headline": "US prepares to raise tariffs on china and other countries - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866081,
+   "ts": "2026-11-24T13:04:42+00:00",
+   "ingested": "2026-11-24T17:04:05.114600+00:00",
+   "headline": "BoE\u2019s Greene: Will need to adjust policy on the basis of actual evidence",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866080,
+   "ts": "2026-11-24T13:03:27+00:00",
+   "ingested": "2026-11-24T17:04:05.114613+00:00",
+   "headline": "BoE's Greene: Indicators show disinflation process has stalled.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866056,
+   "ts": "2026-11-24T13:00:41+00:00",
+   "ingested": "2026-11-24T17:04:05.114627+00:00",
+   "headline": "Secured overnight financing rate 3.92% November 23rd vs 3.92% November 20th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866049,
+   "ts": "2026-11-24T13:00:01+00:00",
+   "ingested": "2026-11-24T17:04:05.114676+00:00",
+   "headline": "BoE\u2019s Greene: Next year evidence on 2nd-round effects matters",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866048,
+   "ts": "2026-11-24T12:58:17+00:00",
+   "ingested": "2026-11-24T17:04:05.114698+00:00",
+   "headline": "BoE\u2019s Greene: Need to hike to get on top of risk",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866047,
+   "ts": "2026-11-24T12:58:05+00:00",
+   "ingested": "2026-11-24T17:04:05.114717+00:00",
+   "headline": "BoE\u2019s Greene: Hard evidence of significant effects needed for 50 bps",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866046,
+   "ts": "2026-11-24T12:57:57+00:00",
+   "ingested": "2026-11-24T17:04:05.114730+00:00",
+   "headline": "BoE\u2019s Greene: Target-consistent wage growth is around 3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866045,
+   "ts": "2026-11-24T12:50:17+00:00",
+   "ingested": "2026-11-24T17:04:05.114745+00:00",
+   "headline": "BoE\u2019s Greene: Tighter conditions doesn't mean you don't have to act",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866044,
+   "ts": "2026-11-24T12:46:58+00:00",
+   "ingested": "2026-11-24T17:04:05.114758+00:00",
+   "headline": "BoE\u2019s Greene: Turnaround in data or war needed to change view",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866027,
+   "ts": "2026-11-24T12:42:43+00:00",
+   "ingested": "2026-11-24T17:04:05.114772+00:00",
+   "headline": "BoE\u2019s Greene: Indicators point to wage growth stuck at 3.5%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866026,
+   "ts": "2026-11-24T12:41:10+00:00",
+   "ingested": "2026-11-24T17:04:05.114785+00:00",
+   "headline": "BoE\u2019s Greene: Slack has probably peaked in the labor market",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866025,
+   "ts": "2026-11-24T12:40:22+00:00",
+   "ingested": "2026-11-24T17:04:05.114799+00:00",
+   "headline": "BoE\u2019s Greene: We have to make a judgment on 2nd-round effects now",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866024,
+   "ts": "2026-11-24T12:39:54+00:00",
+   "ingested": "2026-11-24T17:04:05.114816+00:00",
+   "headline": "BoE\u2019s Greene: Firms expect wage settlements at 3.6%, too high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866022,
+   "ts": "2026-11-24T12:38:12+00:00",
+   "ingested": "2026-11-24T17:04:05.114830+00:00",
+   "headline": "BoE\u2019s Greene: Not much evidence of 2nd-round effects so far",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866021,
+   "ts": "2026-11-24T12:36:07+00:00",
+   "ingested": "2026-11-24T17:04:05.114847+00:00",
+   "headline": "BoE\u2019s Greene: Monetary policy has role in anchoring inflation expectations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866020,
+   "ts": "2026-11-24T12:35:49+00:00",
+   "ingested": "2026-11-24T17:04:05.114862+00:00",
+   "headline": "BoE\u2019s Greene: Need to think about successive shocks differently",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866004,
+   "ts": "2026-11-24T12:26:13+00:00",
+   "ingested": "2026-11-24T17:04:05.114876+00:00",
+   "headline": "Sudi arabia asks allies for more missile interceptors - Semafor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865961,
+   "ts": "2026-11-24T11:54:40+00:00",
+   "ingested": "2026-11-24T17:04:05.114890+00:00",
+   "headline": "UKMTO: Received a late report of an incident in the Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865933,
+   "ts": "2026-11-24T11:40:54+00:00",
+   "ingested": "2026-11-24T17:04:05.114907+00:00",
+   "headline": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865926,
    "ts": "2026-11-24T11:00:39+00:00",
@@ -3399,606 +3999,6 @@
    "ts": "2026-11-20T18:11:10+00:00",
    "ingested": "2026-11-20T18:12:42.210832+00:00",
    "headline": "US Secretary of State Rubio: President met with Canadian Prime Minister to discuss trade, progress was made",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862220,
-   "ts": "2026-11-20T18:10:42+00:00",
-   "ingested": "2026-11-20T18:11:02.209753+00:00",
-   "headline": "ECB's Moulin: The banking sector is not at risk in France",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862219,
-   "ts": "2026-11-20T18:09:54+00:00",
-   "ingested": "2026-11-20T18:11:02.209770+00:00",
-   "headline": "ECB's Moulin: France is in a very different situation from the Greece crisis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862218,
-   "ts": "2026-11-20T18:08:22+00:00",
-   "ingested": "2026-11-20T18:09:22.209664+00:00",
-   "headline": "ECB's Moulin: Must take measures that reduce spending dynamics",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862217,
-   "ts": "2026-11-20T18:07:11+00:00",
-   "ingested": "2026-11-20T18:07:42.206561+00:00",
-   "headline": "ECB's Moulin: The French must tackle too high debt and deficit",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862216,
-   "ts": "2026-11-20T18:05:33+00:00",
-   "ingested": "2026-11-20T18:06:02.486855+00:00",
-   "headline": "Microsoft to reward those it views as top cloud performers $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862215,
-   "ts": "2026-11-20T18:04:16+00:00",
-   "ingested": "2026-11-20T18:06:02.486870+00:00",
-   "headline": "Fed's Cook: Fed will monitor finances around AI buildout",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862214,
-   "ts": "2026-11-20T18:03:56+00:00",
-   "ingested": "2026-11-20T18:04:22.210913+00:00",
-   "headline": "Fed's Cook: Fed is cautious about how AI build-out is getting financed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862206,
-   "ts": "2026-11-20T18:03:01+00:00",
-   "ingested": "2026-11-20T18:04:22.210928+00:00",
-   "headline": "Fed's Cook: Fed must deal with inflation we see already",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862196,
-   "ts": "2026-11-20T18:02:47+00:00",
-   "ingested": "2026-11-20T18:04:22.210940+00:00",
-   "headline": "Fed's Cook: Will take time for AI to raise productivity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862195,
-   "ts": "2026-11-20T18:01:51+00:00",
-   "ingested": "2026-11-20T18:02:42.282188+00:00",
-   "headline": "Fed's Cook: Optimistic about what AI will do for the economy over time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862194,
-   "ts": "2026-11-20T18:01:21+00:00",
-   "ingested": "2026-11-20T18:02:42.282203+00:00",
-   "headline": "Trump: China agreed to conduct a trilateral on nuclear risk reduction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862193,
-   "ts": "2026-11-20T18:01:02+00:00",
-   "ingested": "2026-11-20T18:02:42.282215+00:00",
-   "headline": "US Baker Hughes Oil Rig Count Actual 469 (Forecast -, Previous 463)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862192,
-   "ts": "2026-11-20T18:00:41+00:00",
-   "ingested": "2026-11-20T18:01:02.211603+00:00",
-   "headline": "Trump: We discussed confronting dangers on the Korean peninsula",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862191,
-   "ts": "2026-11-20T18:00:32+00:00",
-   "ingested": "2026-11-20T18:01:02.211619+00:00",
-   "headline": "US Baker Hughes Total Rig Count Actual 607 (Forecast -, Previous 601)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862183,
-   "ts": "2026-11-20T18:00:08+00:00",
-   "ingested": "2026-11-20T18:01:02.211631+00:00",
-   "headline": "Trump: I discussed Ukraine & Iran with Putin and Xi.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862182,
-   "ts": "2026-11-20T17:59:38+00:00",
-   "ingested": "2026-11-20T18:01:02.211642+00:00",
-   "headline": "Fed's Cook: I believe there's some displacement of jobs due to AI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862181,
-   "ts": "2026-11-20T17:52:06+00:00",
-   "ingested": "2026-11-20T17:52:42.214148+00:00",
-   "headline": "Trump: Putin expressed desire to see war end diplomatically.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862180,
-   "ts": "2026-11-20T17:51:44+00:00",
-   "ingested": "2026-11-20T17:52:42.214164+00:00",
-   "headline": "Trump: Working on making a Canada trade deal that's fair.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862179,
-   "ts": "2026-11-20T17:50:49+00:00",
-   "ingested": "2026-11-20T17:51:02.216706+00:00",
-   "headline": "Trump on Trade: More work remains to be done with Canada.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862178,
-   "ts": "2026-11-20T17:50:15+00:00",
-   "ingested": "2026-11-20T17:51:02.216726+00:00",
-   "headline": "Trump: We're getting close to a mexico trade deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862170,
-   "ts": "2026-11-20T17:41:49+00:00",
-   "ingested": "2026-11-20T17:42:42.221454+00:00",
-   "headline": "Trump on Anthropic: We're going to keep it all in the US. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862169,
-   "ts": "2026-11-20T17:41:38+00:00",
-   "ingested": "2026-11-20T17:42:42.221471+00:00",
-   "headline": "Trump: We just had a successful Anthropic launch. I have a lot of respect for Amodei. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862168,
-   "ts": "2026-11-20T17:38:18+00:00",
-   "ingested": "2026-11-20T17:39:22.207196+00:00",
-   "headline": "Trump: I will put a tax on companies building data centers abroad.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862167,
-   "ts": "2026-11-20T17:37:55+00:00",
-   "ingested": "2026-11-20T17:39:22.207213+00:00",
-   "headline": "Trump: I will not allow companies to build data centers outside the US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862166,
-   "ts": "2026-11-20T17:36:44+00:00",
-   "ingested": "2026-11-20T17:37:42.212900+00:00",
-   "headline": "Trump: I will fight hard for data centers.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862165,
-   "ts": "2026-11-20T17:36:14+00:00",
-   "ingested": "2026-11-20T17:37:42.212917+00:00",
-   "headline": "US Senator Tom Cotton: Commerce secretary and top officials ignored communications about Nvidia chips being diverted to China - WSJ.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862160,
-   "ts": "2026-11-20T17:32:50+00:00",
-   "ingested": "2026-11-20T17:35:40.057791+00:00",
-   "headline": "Microsoft: Potential issue affects new outlook client. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862149,
-   "ts": "2026-11-20T17:32:03+00:00",
-   "ingested": "2026-11-20T17:35:40.057814+00:00",
-   "headline": "Trump: Interest rates are too high because we have a political Fed. I'm not blaming the Fed chairmen, but the Fed is political.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862148,
-   "ts": "2026-11-20T17:30:58+00:00",
-   "ingested": "2026-11-20T17:35:40.057827+00:00",
-   "headline": "Trump: I want to make a real deal with Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862147,
-   "ts": "2026-11-20T17:30:36+00:00",
-   "ingested": "2026-11-20T17:35:40.057838+00:00",
-   "headline": "Trump: Iran wants a deal that is not acceptable to me.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862146,
-   "ts": "2026-11-20T17:30:25+00:00",
-   "ingested": "2026-11-20T17:35:40.057848+00:00",
-   "headline": "Trump: Gas prices depend on how we settle with Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862143,
-   "ts": "2026-11-20T17:27:57+00:00",
-   "ingested": "2026-11-20T17:35:40.057858+00:00",
-   "headline": "Trump: Ten other trade deals coming very soon after Asia trip.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862142,
-   "ts": "2026-11-20T17:21:01+00:00",
-   "ingested": "2026-11-20T17:35:40.057868+00:00",
-   "headline": "Dow on correction course, down more than 10% from record closing high.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862140,
-   "ts": "2026-11-20T17:17:32+00:00",
-   "ingested": "2026-11-20T17:35:40.057877+00:00",
-   "headline": "Fed's Cook Speaks - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862134,
-   "ts": "2026-11-20T17:16:26+00:00",
-   "ingested": "2026-11-20T17:35:40.057886+00:00",
-   "headline": "Fed's Cook: Little evidence al is weighing on job market so far",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862133,
-   "ts": "2026-11-20T17:16:22+00:00",
-   "ingested": "2026-11-20T17:35:40.057896+00:00",
-   "headline": "Fed's Cook: Embedded inflation will require a more aggressive Fed response.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862132,
-   "ts": "2026-11-20T17:16:19+00:00",
-   "ingested": "2026-11-20T17:35:40.057905+00:00",
-   "headline": "Fed's Cook: Tariff impact on inflation has faded.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862131,
-   "ts": "2026-11-20T17:16:12+00:00",
-   "ingested": "2026-11-20T17:35:40.057915+00:00",
-   "headline": "Fed's Cook: Financial conditions are too accommodative right now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862130,
-   "ts": "2026-11-20T17:16:03+00:00",
-   "ingested": "2026-11-20T17:35:40.057925+00:00",
-   "headline": "Fed's Cook: US economic growth is strong, the labor market is healthy and stable.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862129,
-   "ts": "2026-11-20T17:16:02+00:00",
-   "ingested": "2026-11-20T17:35:40.057934+00:00",
-   "headline": "Fed's Cook: Current level of inflation is of great concern.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862128,
-   "ts": "2026-11-20T17:15:52+00:00",
-   "ingested": "2026-11-20T17:35:40.057945+00:00",
-   "headline": "Fed's Cook: Data since September points to need for tighter monetary policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862127,
-   "ts": "2026-11-20T17:15:45+00:00",
-   "ingested": "2026-11-20T17:35:40.057959+00:00",
-   "headline": "Fed's Cook: Holding off on rate hikes increases risk that inflation will embed in economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862126,
-   "ts": "2026-11-20T17:15:37+00:00",
-   "ingested": "2026-11-20T17:35:40.057969+00:00",
-   "headline": "Fed's Cook: High inflation does not give Fed space to be patient",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862125,
-   "ts": "2026-11-20T17:15:26+00:00",
-   "ingested": "2026-11-20T17:35:40.057979+00:00",
-   "headline": "Fed's Cook: September's interest rate hike was not enough to curtail high inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862119,
-   "ts": "2026-11-20T17:11:13+00:00",
-   "ingested": "2026-11-20T17:35:40.057992+00:00",
-   "headline": "-JPMorgan\u2019s dimon vows to claw back \u2018unfair\u2019 UK bank tax - FT. $JPM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862099,
-   "ts": "2026-11-20T16:57:01+00:00",
-   "ingested": "2026-11-20T17:35:40.058001+00:00",
-   "headline": "Russia weighs resuming jet fuel exports - Tass.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862098,
-   "ts": "2026-11-20T16:51:26+00:00",
-   "ingested": "2026-11-20T17:35:40.058011+00:00",
-   "headline": "Trump holds a press conference after meeting with Putin and Xi - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862097,
-   "ts": "2026-11-20T16:50:42+00:00",
-   "ingested": "2026-11-20T17:35:40.058026+00:00",
-   "headline": "The explosion and smoke on Iran's Qeshm Island are due to the disposal of unexploded munitions, Tasnim News cites an official as saying, after reporting a missile attack.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862096,
-   "ts": "2026-11-20T16:48:41+00:00",
-   "ingested": "2026-11-20T17:35:40.058037+00:00",
-   "headline": "S&P 500 falls 10% from its October record to enter a correction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862079,
-   "ts": "2026-11-20T16:42:02+00:00",
-   "ingested": "2026-11-20T17:35:40.058046+00:00",
-   "headline": "Michael Burry: I sold half of my NVIDIA puts. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862078,
-   "ts": "2026-11-20T16:36:58+00:00",
-   "ingested": "2026-11-20T17:35:40.058058+00:00",
-   "headline": "ING\u2019s $500 million data center loan auction stalls on low bids.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862071,
-   "ts": "2026-11-20T16:27:48+00:00",
-   "ingested": "2026-11-20T17:35:40.058069+00:00",
-   "headline": "IRIB News: Explosion of an oil tanker after hitting a mine at the mouth of Bandar Khasab.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862070,
-   "ts": "2026-11-20T16:24:04+00:00",
-   "ingested": "2026-11-20T17:35:40.058080+00:00",
-   "headline": "Pentagon's Michael: Anthropic is still a supply chain risk to the Pentagon. $ANT.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862056,
-   "ts": "2026-11-20T16:04:02+00:00",
-   "ingested": "2026-11-20T17:35:40.058090+00:00",
-   "headline": "Apollo & Goldman Sachs report pricing of $44b SpaceX GPU financing $GS $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862055,
-   "ts": "2026-11-20T16:03:29+00:00",
-   "ingested": "2026-11-20T17:35:40.058101+00:00",
-   "headline": "Missile hits southern Iran's Qeshm Island, no information on possible damage - Tasnim News Agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862050,
-   "ts": "2026-11-20T16:02:36+00:00",
-   "ingested": "2026-11-20T17:35:40.058111+00:00",
-   "headline": "Musk: We aren\u2019t serving open source models",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862004,
-   "ts": "2026-11-20T15:38:48+00:00",
-   "ingested": "2026-11-20T17:35:40.058125+00:00",
-   "headline": "Fars News: An explosion was heard in the sky of Qeshm. Some local sources say that the sound of the explosion may be related to the firing at an enemy aircraft.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862003,
-   "ts": "2026-11-20T15:34:36+00:00",
-   "ingested": "2026-11-20T17:35:40.058134+00:00",
-   "headline": "US Treasury Secretary Bessent interview on CNBC ends.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861999,
-   "ts": "2026-11-20T15:32:47+00:00",
-   "ingested": "2026-11-20T17:35:40.058146+00:00",
-   "headline": "US Treasury Secretary Bessent: An Anthropic founder will make a Trump Accounts gift in the coming weeks. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861996,
-   "ts": "2026-11-20T15:31:12+00:00",
-   "ingested": "2026-11-20T17:35:40.058157+00:00",
-   "headline": "US Treasury Secretary Bessent: We will continue squeezing the IRGC until it's ready for a deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861995,
-   "ts": "2026-11-20T15:30:53+00:00",
-   "ingested": "2026-11-20T17:35:40.058167+00:00",
-   "headline": "US Treasury Secretary Bessent: If the Iranians are after me, then it means they are being squeezed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861994,
-   "ts": "2026-11-20T15:30:33+00:00",
-   "ingested": "2026-11-20T17:35:40.058177+00:00",
-   "headline": "US Treasury Secretary Bessent: Russia and China agree that Iran can't have nuclear weapons.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861986,
-   "ts": "2026-11-20T15:28:47+00:00",
-   "ingested": "2026-11-20T17:35:40.058187+00:00",
-   "headline": "US Treasury Secretary Bessent: The Fed should look forward, not backwards.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861985,
-   "ts": "2026-11-20T15:28:32+00:00",
-   "ingested": "2026-11-20T17:35:40.058197+00:00",
-   "headline": "US Treasury Secretary Bessent: It seems peripatetic for the Fed to want a bigger hike - CNBC Interview.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861984,
-   "ts": "2026-11-20T15:26:03+00:00",
-   "ingested": "2026-11-20T17:35:40.058207+00:00",
-   "headline": "US Treasury Secretary Bessent: Anthropic is of course an AI national champion. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861983,
-   "ts": "2026-11-20T15:25:41+00:00",
-   "ingested": "2026-11-20T17:35:40.058217+00:00",
-   "headline": "US Treasury Secretary Bessent: AI labs have been cooperative with US safeguards.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861982,
-   "ts": "2026-11-20T15:23:38+00:00",
-   "ingested": "2026-11-20T17:35:40.058228+00:00",
-   "headline": "US Treasury Secretary Bessent on Megaspeed: We are going to see that proper chip restrictions are in place, and remote access has been curtailed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861981,
-   "ts": "2026-11-20T15:21:48+00:00",
-   "ingested": "2026-11-20T17:35:40.058240+00:00",
-   "headline": "US Treasury Secretary Bessent: China\u2019s President Xi and Trump to have fourth meeting at the G20 in Florida.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861980,
-   "ts": "2026-11-20T15:20:56+00:00",
-   "ingested": "2026-11-20T17:35:40.058253+00:00",
-   "headline": "US Treasury Secretary Bessent: We have seen a paucity of orders from China for the H200 advanced chip as they try to build out their own chip stock. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861979,
-   "ts": "2026-11-20T15:20:31+00:00",
-   "ingested": "2026-11-20T17:35:40.058263+00:00",
-   "headline": "US Treasury Secretary Bessent: Nvidia H200s are the threshold for China, that continues. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861978,
-   "ts": "2026-11-20T15:19:41+00:00",
-   "ingested": "2026-11-20T17:35:40.058273+00:00",
-   "headline": "US Treasury Secretary Bessent: Nvidia's Huang didn't come up in talks with the Chinese. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861977,
-   "ts": "2026-11-20T15:18:57+00:00",
-   "ingested": "2026-11-20T17:35:40.058283+00:00",
-   "headline": "US Treasury Secretary Bessent: Any AI-based attack you see comes from Chinese models.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861976,
-   "ts": "2026-11-20T15:18:32+00:00",
-   "ingested": "2026-11-20T17:35:40.058296+00:00",
-   "headline": "US Treasury Secretary Bessent: Trump and Xi agreed about the military use of AI, and agreed that humans should be involved in any military decisions AI makes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861974,
-   "ts": "2026-11-20T15:17:34+00:00",
-   "ingested": "2026-11-20T17:35:40.058306+00:00",
-   "headline": "US Treasury Secretary Bessent: Trump's China trip saw robust discussion on trade policy and AI - CNBC Interview.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861935,
-   "ts": "2026-11-20T15:00:12+00:00",
-   "ingested": "2026-11-20T17:35:40.058316+00:00",
-   "headline": "Eurozone Consumer Confidence Flash Actual -16.9 (Forecast -18, Previous -17.9)",
    "channel": "rss",
    "source": "financialjuice"
   }
