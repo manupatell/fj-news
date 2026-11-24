@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T09:02:21.521790+00:00",
+ "updated": "2026-11-24T09:07:21.523423+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865750,
+   "ts": "2026-11-24T09:00:34+00:00",
+   "ingested": "2026-11-24T09:07:21.522926+00:00",
+   "headline": "German IFO Current Conditions Actual 89.4 (Forecast 89.1, Previous 88.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865753,
    "ts": "2026-11-24T09:00:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:43:14+00:00",
    "ingested": "2026-11-20T13:44:22.667431+00:00",
    "headline": "US Sentiment: NVDA & ANT Couldn't Take the Lid off the AI Trade This Week - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861821,
-   "ts": "2026-11-20T13:42:55+00:00",
-   "ingested": "2026-11-20T13:44:22.667444+00:00",
-   "headline": "USTR Greer: 301 investigations coming before year-end",
    "channel": "rss",
    "source": "financialjuice"
   }
