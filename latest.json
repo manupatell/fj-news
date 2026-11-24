@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T11:10:41.559822+00:00",
+ "updated": "2026-11-24T11:12:21.576527+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865910,
+   "ts": "2026-11-24T11:10:33+00:00",
+   "ingested": "2026-11-24T11:12:21.575988+00:00",
+   "headline": "Nvidia: Citigroup raises target price to $240 from $225 $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865894,
    "ts": "2026-11-24T11:00:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T15:00:00+00:00",
    "ingested": "2026-11-20T17:35:40.058348+00:00",
    "headline": "University Michigan Sentiment Final Actual 51.5 (Forecast 51.6, Previous 51.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861931,
-   "ts": "2026-11-20T15:00:00+00:00",
-   "ingested": "2026-11-20T17:35:40.058358+00:00",
-   "headline": "University Michigan 5 Yr Inflation Final Actual 3.3% (Forecast 3.4%, Previous 3.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
