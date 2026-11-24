@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T21:29:45.126927+00:00",
+ "updated": "2026-11-24T21:38:05.105721+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866742,
+   "ts": "2026-11-24T21:37:53+00:00",
+   "ingested": "2026-11-24T21:38:05.105248+00:00",
+   "headline": "US API Crude Stock Change Actual 0.126M (Forecast 0.9M, Previous 5.3M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866706,
    "ts": "2026-11-24T21:08:40+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:21:58+00:00",
    "ingested": "2026-11-20T21:22:42.303571+00:00",
    "headline": "Oracle: OpenAI contract fully funded. $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862477,
-   "ts": "2026-11-20T21:18:42+00:00",
-   "ingested": "2026-11-20T21:19:22.253009+00:00",
-   "headline": "DXY CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
