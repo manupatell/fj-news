@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T20:58:05.106545+00:00",
+ "updated": "2026-11-24T21:08:05.109627+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866704,
+   "ts": "2026-11-24T21:07:19+00:00",
+   "ingested": "2026-11-24T21:08:05.109174+00:00",
+   "headline": "Dell Technologies Q3 Earnings & FY Guidance $DELL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866667,
    "ts": "2026-11-24T20:17:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:17:35+00:00",
    "ingested": "2026-11-20T21:19:22.253034+00:00",
    "headline": "AUD CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862461,
-   "ts": "2026-11-20T21:17:11+00:00",
-   "ingested": "2026-11-20T21:17:42.272409+00:00",
-   "headline": "JPY CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
