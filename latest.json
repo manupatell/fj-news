@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T20:13:05.120885+00:00",
+ "updated": "2026-11-24T20:14:45.106657+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866660,
+   "ts": "2026-11-24T20:14:01+00:00",
+   "ingested": "2026-11-24T20:14:45.106226+00:00",
+   "headline": "China's Huawei convicted at US criminal trial on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866659,
    "ts": "2026-11-24T20:11:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:16:21+00:00",
    "ingested": "2026-11-20T21:17:42.272434+00:00",
    "headline": "CHF CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862457,
-   "ts": "2026-11-20T21:15:58+00:00",
-   "ingested": "2026-11-20T21:17:42.272444+00:00",
-   "headline": "NZD CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
