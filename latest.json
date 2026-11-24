@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T21:08:05.109627+00:00",
+ "updated": "2026-11-24T21:09:45.130234+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866706,
+   "ts": "2026-11-24T21:08:40+00:00",
+   "ingested": "2026-11-24T21:09:45.129589+00:00",
+   "headline": "RBNZ's Silk: New Zealand\u2019s payments system remains reliable.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866705,
+   "ts": "2026-11-24T21:08:34+00:00",
+   "ingested": "2026-11-24T21:09:45.129616+00:00",
+   "headline": "RBNZ Assistant Governor Silk: New Zealand needs to establish a pathway to deliver retail payments capabilities required by the modern economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866704,
    "ts": "2026-11-24T21:07:19+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T21:18:42+00:00",
    "ingested": "2026-11-20T21:19:22.253009+00:00",
    "headline": "DXY CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862476,
-   "ts": "2026-11-20T21:18:14+00:00",
-   "ingested": "2026-11-20T21:19:22.253024+00:00",
-   "headline": "EUR CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862474,
-   "ts": "2026-11-20T21:17:35+00:00",
-   "ingested": "2026-11-20T21:19:22.253034+00:00",
-   "headline": "AUD CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
