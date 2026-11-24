@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T08:00:41.562732+00:00",
+ "updated": "2026-11-24T08:02:21.500879+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865683,
+   "ts": "2026-11-24T08:01:54+00:00",
+   "ingested": "2026-11-24T08:02:21.500441+00:00",
+   "headline": "Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865682,
+   "ts": "2026-11-24T08:01:16+00:00",
+   "ingested": "2026-11-24T08:02:21.500466+00:00",
+   "headline": "Iraqi PM directs federal oil ministry to manage all its oilfields under Kurdish regional security control in Diyala, Kirkuk, Salahuddin, and Nineveh provinces",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865590,
    "ts": "2026-11-24T06:17:32+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T13:35:03+00:00",
    "ingested": "2026-11-20T13:36:02.683501+00:00",
    "headline": "USTR Greer: There's licensing process for China to obtain chips.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861808,
-   "ts": "2026-11-20T13:34:30+00:00",
-   "ingested": "2026-11-20T13:36:02.683509+00:00",
-   "headline": "USTR Greer Speaks On Bloomberg TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861807,
-   "ts": "2026-11-20T13:33:57+00:00",
-   "ingested": "2026-11-20T13:34:22.713807+00:00",
-   "headline": "USTR Greer: Trump and Xi sought to maintain ties, talked rare earths",
    "channel": "rss",
    "source": "financialjuice"
   }
