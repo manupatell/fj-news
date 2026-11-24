@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T18:00:45.058868+00:00",
+ "updated": "2026-11-24T18:02:25.064282+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866507,
+   "ts": "2026-11-24T18:02:06+00:00",
+   "ingested": "2026-11-24T18:02:25.063846+00:00",
+   "headline": "US 5-Year Note High Yield Actual 4.719% (Forecast -, Previous 4.845%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866490,
    "ts": "2026-11-24T18:00:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T18:33:55+00:00",
    "ingested": "2026-11-20T18:34:22.215085+00:00",
    "headline": "Fed's Paulson: She favors raising rates in a deliberate way",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862270,
-   "ts": "2026-11-20T18:32:25+00:00",
-   "ingested": "2026-11-20T18:32:42.241513+00:00",
-   "headline": "Fed's Paulson: Open to considering consecutive rate hikes",
    "channel": "rss",
    "source": "financialjuice"
   }
