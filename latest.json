@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T19:07:25.073287+00:00",
+ "updated": "2026-11-24T19:09:05.064611+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866593,
+   "ts": "2026-11-24T19:08:28+00:00",
+   "ingested": "2026-11-24T19:09:05.064132+00:00",
+   "headline": "BoC's Gov. Macklem: The Housing market is certainly soft, we don't see it leading the recovery.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866592,
+   "ts": "2026-11-24T19:07:36+00:00",
+   "ingested": "2026-11-24T19:09:05.064153+00:00",
+   "headline": "BoC's Gov. Macklem: The overall level of mortgage arrears is not that high.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866591,
    "ts": "2026-11-24T19:06:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T20:35:29+00:00",
    "ingested": "2026-11-20T20:36:02.247407+00:00",
    "headline": "Trump hosts a reception at the White House - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862418,
-   "ts": "2026-11-20T20:34:27+00:00",
-   "ingested": "2026-11-20T20:36:02.247423+00:00",
-   "headline": "Nvidia server suppliers halt southeast Asia shipments - Nikkei. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862406,
-   "ts": "2026-11-20T20:23:48+00:00",
-   "ingested": "2026-11-20T20:24:22.252235+00:00",
-   "headline": "Monday FX Option Expiries",
    "channel": "rss",
    "source": "financialjuice"
   }
