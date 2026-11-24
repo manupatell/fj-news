@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T17:04:05.115520+00:00",
+ "updated": "2026-11-24T17:05:45.045939+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866432,
+   "ts": "2026-11-24T17:04:11+00:00",
+   "ingested": "2026-11-24T17:05:45.045472+00:00",
+   "headline": "Iraq rejects OPEC+ assessment of its oil production capacity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866431,
    "ts": "2026-11-24T17:03:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T18:11:26+00:00",
    "ingested": "2026-11-20T18:12:42.210815+00:00",
    "headline": "ECB's Moulin: France is facing a budget crisis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862222,
-   "ts": "2026-11-20T18:11:10+00:00",
-   "ingested": "2026-11-20T18:12:42.210832+00:00",
-   "headline": "US Secretary of State Rubio: President met with Canadian Prime Minister to discuss trade, progress was made",
    "channel": "rss",
    "source": "financialjuice"
   }
