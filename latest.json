@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T06:17:21.478922+00:00",
+ "updated": "2026-11-24T06:19:01.493099+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865590,
+   "ts": "2026-11-24T06:17:32+00:00",
+   "ingested": "2026-11-24T06:19:01.492682+00:00",
+   "headline": "Top S&P 500 Stock Names Implied Volatility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865576,
    "ts": "2026-11-24T06:15:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:33:57+00:00",
    "ingested": "2026-11-20T13:34:22.713807+00:00",
    "headline": "USTR Greer: Trump and Xi sought to maintain ties, talked rare earths",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861806,
-   "ts": "2026-11-20T13:33:14+00:00",
-   "ingested": "2026-11-20T13:34:22.713819+00:00",
-   "headline": "UK's PM Burnham: Will introduce bill to parliament next week on EU deal",
    "channel": "rss",
    "source": "financialjuice"
   }
