@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T10:25:41.704639+00:00",
+ "updated": "2026-11-24T10:27:21.547714+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865860,
+   "ts": "2026-11-24T10:25:32+00:00",
+   "ingested": "2026-11-24T10:27:21.547212+00:00",
+   "headline": "Linklaters recruits competition lawyer Jenine Hulsmann from Weil",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865859,
    "ts": "2026-11-24T10:25:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:59:35+00:00",
    "ingested": "2026-11-20T14:00:42.679879+00:00",
    "headline": "Effective Fed funds rate 3.88% November 19th vs 3.88% November 18th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861847,
-   "ts": "2026-11-20T13:57:16+00:00",
-   "ingested": "2026-11-20T13:58:42.709575+00:00",
-   "headline": "German Fin. Min. Klingbeil: Financial market regulations are too complicated",
    "channel": "rss",
    "source": "financialjuice"
   }
