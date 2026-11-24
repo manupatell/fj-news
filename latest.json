@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T20:16:25.088168+00:00",
+ "updated": "2026-11-24T20:18:05.148588+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866667,
+   "ts": "2026-11-24T20:17:25+00:00",
+   "ingested": "2026-11-24T20:18:05.148132+00:00",
+   "headline": "Nomura: We see the BOC to hike in December, previous forecast was January.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866661,
    "ts": "2026-11-24T20:15:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:17:11+00:00",
    "ingested": "2026-11-20T21:17:42.272409+00:00",
    "headline": "JPY CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862459,
-   "ts": "2026-11-20T21:16:45+00:00",
-   "ingested": "2026-11-20T21:17:42.272424+00:00",
-   "headline": "GBP CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
