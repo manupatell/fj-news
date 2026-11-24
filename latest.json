@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T08:25:41.515461+00:00",
+ "updated": "2026-11-24T08:35:41.515842+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865721,
+   "ts": "2026-11-24T08:34:57+00:00",
+   "ingested": "2026-11-24T08:35:41.515301+00:00",
+   "headline": "China Commerce Ministry: Urges EU to abide by bilateral consensus and strictly follow WTO rules in probe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865720,
+   "ts": "2026-11-24T08:34:46+00:00",
+   "ingested": "2026-11-24T08:35:41.515322+00:00",
+   "headline": "China Commerce Ministry: Issue temporary EU hybrid vehicle measures.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865713,
    "ts": "2026-11-24T08:25:22+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T13:36:04+00:00",
    "ingested": "2026-11-20T13:37:42.663670+00:00",
    "headline": "USTR Greer sees no basis for China to retaliate on US chip moves",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861811,
-   "ts": "2026-11-20T13:35:31+00:00",
-   "ingested": "2026-11-20T13:36:02.683477+00:00",
-   "headline": "EC Pres. von der Leyen: Welcome burnham's willingness to have EU debate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861810,
-   "ts": "2026-11-20T13:35:22+00:00",
-   "ingested": "2026-11-20T13:36:02.683491+00:00",
-   "headline": "UKMTO gets report of incident near Yemen's Mukalla.",
    "channel": "rss",
    "source": "financialjuice"
   }
