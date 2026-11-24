@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T09:00:41.519010+00:00",
+ "updated": "2026-11-24T09:02:21.521790+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865753,
+   "ts": "2026-11-24T09:00:34+00:00",
+   "ingested": "2026-11-24T09:02:21.521295+00:00",
+   "headline": "German IFO Expectations Actual 91.6 (Forecast 92, Previous 91.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865749,
    "ts": "2026-11-24T09:00:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T13:42:55+00:00",
    "ingested": "2026-11-20T13:44:22.667444+00:00",
    "headline": "USTR Greer: 301 investigations coming before year-end",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861820,
-   "ts": "2026-11-20T13:42:43+00:00",
-   "ingested": "2026-11-20T13:44:22.667454+00:00",
-   "headline": "USTR Greer: China brought up Taiwan in talks this week",
    "channel": "rss",
    "source": "financialjuice"
   }
