@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T10:44:01.548550+00:00",
+ "updated": "2026-11-24T10:50:41.558016+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865892,
+   "ts": "2026-11-24T10:50:28+00:00",
+   "ingested": "2026-11-24T10:50:41.557409+00:00",
+   "headline": "Anthropic and OpenAI staff fear models are too unsafe to release - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865891,
+   "ts": "2026-11-24T10:49:27+00:00",
+   "ingested": "2026-11-24T10:50:41.557431+00:00",
+   "headline": "An Israeli airstrike kills senior Hamas security official in Gaza - Hamas sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9865873,
    "ts": "2026-11-24T10:43:26+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T14:41:50+00:00",
    "ingested": "2026-11-20T17:35:40.058379+00:00",
    "headline": "House Committee calls to remove some China AI models from the Fed system.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861900,
-   "ts": "2026-11-20T14:30:35+00:00",
-   "ingested": "2026-11-20T14:31:02.713804+00:00",
-   "headline": "MOO Imbalance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9861879,
-   "ts": "2026-11-20T14:08:35+00:00",
-   "ingested": "2026-11-20T14:10:02.720028+00:00",
-   "headline": "SpaceX's subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models. $SPCX",
    "channel": "rss",
    "source": "financialjuice"
   }
