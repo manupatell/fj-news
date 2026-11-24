@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T19:32:35.079349+00:00",
+ "updated": "2026-11-24T19:34:15.075235+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866625,
+   "ts": "2026-11-24T19:33:57+00:00",
+   "ingested": "2026-11-24T19:34:15.074748+00:00",
+   "headline": "BoC's Gov. Macklem press conference ends.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866624,
+   "ts": "2026-11-24T19:32:30+00:00",
+   "ingested": "2026-11-24T19:34:15.074768+00:00",
+   "headline": "US Spy Agencies suffer breach of unclassified information - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866623,
    "ts": "2026-11-24T19:32:15+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-20T21:15:13+00:00",
    "ingested": "2026-11-20T21:16:02.316338+00:00",
    "headline": "ZN CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862448,
-   "ts": "2026-11-20T21:14:53+00:00",
-   "ingested": "2026-11-20T21:16:02.316349+00:00",
-   "headline": "ZT CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862447,
-   "ts": "2026-11-20T21:14:12+00:00",
-   "ingested": "2026-11-20T21:16:02.316359+00:00",
-   "headline": "VIX CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
