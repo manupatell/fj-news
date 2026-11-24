@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T19:17:25.087305+00:00",
+ "updated": "2026-11-24T19:22:25.074628+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866602,
+   "ts": "2026-11-24T19:20:59+00:00",
+   "ingested": "2026-11-24T19:22:25.074206+00:00",
+   "headline": "BoC's Gov. Macklem: Having the inflation forecast not going up is better.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866599,
    "ts": "2026-11-24T19:16:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:09:04+00:00",
    "ingested": "2026-11-20T21:09:22.258057+00:00",
    "headline": "US: Targeting key \u201coil trustees\u201d that the Iranian regime relies on.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862440,
-   "ts": "2026-11-20T21:04:56+00:00",
-   "ingested": "2026-11-20T21:06:02.254587+00:00",
-   "headline": "S&P 500, Dow Jones close in correction territory.",
    "channel": "rss",
    "source": "financialjuice"
   }
