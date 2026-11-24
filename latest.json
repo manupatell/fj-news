@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T20:14:45.106657+00:00",
+ "updated": "2026-11-24T20:16:25.088168+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866661,
+   "ts": "2026-11-24T20:15:56+00:00",
+   "ingested": "2026-11-24T20:16:25.087732+00:00",
+   "headline": "IRGC Navy: A fourth oil tanker exploded after striking a sea mine east of the Strait of Hormuz, other vessels turned back amid warnings over unauthorized routes - Press TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866660,
    "ts": "2026-11-24T20:14:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:16:45+00:00",
    "ingested": "2026-11-20T21:17:42.272424+00:00",
    "headline": "GBP CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862458,
-   "ts": "2026-11-20T21:16:21+00:00",
-   "ingested": "2026-11-20T21:17:42.272434+00:00",
-   "headline": "CHF CFTC Positions Week of November 17th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
