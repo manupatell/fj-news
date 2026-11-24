@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T22:16:25.140325+00:00",
+ "updated": "2026-11-24T22:18:05.127026+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866784,
+   "ts": "2026-11-24T22:17:31+00:00",
+   "ingested": "2026-11-24T22:18:05.126559+00:00",
+   "headline": "Houthi-run Saba news agency reports attacks on Yemen's Hodeidah port",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866769,
    "ts": "2026-11-24T22:15:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:40:02+00:00",
    "ingested": "2026-11-20T21:41:02.266185+00:00",
    "headline": "Iran\u2019s Foreign Minister Araghchi: Iran sees no need to change intermediaries in peace talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862487,
-   "ts": "2026-11-20T21:36:18+00:00",
-   "ingested": "2026-11-20T21:37:42.302543+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Exchange of messages via mediators still continues between Iran and the US.",
    "channel": "rss",
    "source": "financialjuice"
   }
