@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T19:22:25.074628+00:00",
+ "updated": "2026-11-24T19:29:05.073270+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866603,
+   "ts": "2026-11-24T19:27:33+00:00",
+   "ingested": "2026-11-24T19:29:05.072836+00:00",
+   "headline": "The US and Saudi Arabia discussed the need for Hezbollah\u2019s disarmament in Lebanon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866602,
    "ts": "2026-11-24T19:20:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T21:10:06+00:00",
    "ingested": "2026-11-20T21:11:02.250610+00:00",
    "headline": "Gold CFTC Positions Week of November 17th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862441,
-   "ts": "2026-11-20T21:09:04+00:00",
-   "ingested": "2026-11-20T21:09:22.258057+00:00",
-   "headline": "US: Targeting key \u201coil trustees\u201d that the Iranian regime relies on.",
    "channel": "rss",
    "source": "financialjuice"
   }
