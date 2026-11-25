@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T13:11:08.971668+00:00",
+ "updated": "2026-11-25T13:12:48.988699+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867748,
+   "ts": "2026-11-25T13:11:05+00:00",
+   "ingested": "2026-11-25T13:12:48.988289+00:00",
+   "headline": "US proposes 20% tariff deal rate on Vietnam.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867747,
    "ts": "2026-11-25T13:10:51+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-21T16:06:37+00:00",
    "ingested": "2026-11-21T16:07:50.601303+00:00",
    "headline": "Finland defence force: strike on Russian ship probably conducted by Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863063,
-   "ts": "2026-11-21T16:03:02+00:00",
-   "ingested": "2026-11-21T16:04:30.644555+00:00",
-   "headline": "Finland border guard: strike on Russian vessel probably conducted by Ukraine",
    "channel": "rss",
    "source": "financialjuice"
   }
