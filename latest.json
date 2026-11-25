@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T01:25:39.366677+00:00",
+ "updated": "2026-11-25T01:30:49.373080+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866951,
+   "ts": "2026-11-25T01:29:27+00:00",
+   "ingested": "2026-11-25T01:30:49.372672+00:00",
+   "headline": "Hong Kong-listed shares of Minimax 0100.hk poised to open 6% lower",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866906,
    "ts": "2026-11-25T00:30:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T22:50:46+00:00",
    "ingested": "2026-11-20T22:51:02.283928+00:00",
    "headline": "Databricks in early discussions to secure funding at $225 billion valuation: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862543,
-   "ts": "2026-11-20T22:26:13+00:00",
-   "ingested": "2026-11-20T22:27:42.322730+00:00",
-   "headline": "Agriculture department hacked: NBC News",
    "channel": "rss",
    "source": "financialjuice"
   }
