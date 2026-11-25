@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T15:16:29.600684+00:00",
+ "updated": "2026-11-25T15:19:49.619337+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868046,
+   "ts": "2026-11-25T15:19:08+00:00",
+   "ingested": "2026-11-25T15:19:49.618669+00:00",
+   "headline": "Crypto Fear and Greed Index: 13/100 = Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868045,
+   "ts": "2026-11-25T15:18:30+00:00",
+   "ingested": "2026-11-25T15:19:49.618683+00:00",
+   "headline": "Fear and Greed Index: 9/100 = Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868032,
    "ts": "2026-11-25T15:14:49+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-23T13:23:02+00:00",
    "ingested": "2026-11-23T13:24:43.817172+00:00",
    "headline": "US Sentiment: Dip Buying After Horrid Week For Equities - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864365,
-   "ts": "2026-11-23T13:01:45+00:00",
-   "ingested": "2026-11-23T13:03:04.116886+00:00",
-   "headline": "Strategy buys 457 bitcoin at an avg. purchase price $64,898, from November 16th to November 22th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864364,
-   "ts": "2026-11-23T13:01:28+00:00",
-   "ingested": "2026-11-23T13:03:04.116906+00:00",
-   "headline": "Strategy buys 457 bitcoin for aggregate purchase price $29.6m.",
    "channel": "rss",
    "source": "financialjuice"
   }
