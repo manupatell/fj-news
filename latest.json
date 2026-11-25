@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-25T13:36:29.560402+00:00",
+ "updated": "2026-11-25T13:38:09.565226+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867819,
+   "ts": "2026-11-25T13:37:08+00:00",
+   "ingested": "2026-11-25T13:38:09.564716+00:00",
+   "headline": "USTR Greer: Trade deals solve a lot of the excess capacity issues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867817,
+   "ts": "2026-11-25T13:36:33+00:00",
+   "ingested": "2026-11-25T13:38:09.564729+00:00",
+   "headline": "USTR Greer: Tariff rates won't go into effect for a couple months.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867818,
+   "ts": "2026-11-25T13:30:47+00:00",
+   "ingested": "2026-11-25T13:38:09.564741+00:00",
+   "headline": "US Core PCE Price Index YoY Actual 3.3% (Forecast 3.2%, Previous 3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867816,
    "ts": "2026-11-25T13:36:17+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-22T00:12:37+00:00",
    "ingested": "2026-11-22T00:12:49.993512+00:00",
    "headline": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863162,
-   "ts": "2026-11-21T22:19:07+00:00",
-   "ingested": "2026-11-21T22:19:29.962919+00:00",
-   "headline": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863160,
-   "ts": "2026-11-21T22:16:48+00:00",
-   "ingested": "2026-11-21T22:17:49.956233+00:00",
-   "headline": "UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863149,
-   "ts": "2026-11-21T21:28:16+00:00",
-   "ingested": "2026-11-21T21:29:09.939442+00:00",
-   "headline": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
    "channel": "rss",
    "source": "financialjuice"
   }
