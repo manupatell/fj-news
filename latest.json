@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T12:01:08.944135+00:00",
+ "updated": "2026-11-25T12:04:28.957319+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867686,
+   "ts": "2026-11-25T12:03:06+00:00",
+   "ingested": "2026-11-25T12:04:28.956802+00:00",
+   "headline": "OpenAI: ChatGPT errors impacting team, business and pro plans",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867673,
    "ts": "2026-11-25T12:00:53+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-21T15:09:22+00:00",
    "ingested": "2026-11-21T15:11:10.583672+00:00",
    "headline": "Trump on Iran: I'm going to broker a lasting deal - Fox News interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863036,
-   "ts": "2026-11-21T15:08:46+00:00",
-   "ingested": "2026-11-21T15:09:30.582192+00:00",
-   "headline": "Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview",
    "channel": "rss",
    "source": "financialjuice"
   }
