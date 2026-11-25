@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T06:29:09.405297+00:00",
+ "updated": "2026-11-25T06:30:49.411440+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867289,
+   "ts": "2026-11-25T06:30:04+00:00",
+   "ingested": "2026-11-25T06:30:49.410984+00:00",
+   "headline": "China's Zhu: US 301 tariffs can be settled via negotiations with China",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867288,
    "ts": "2026-11-25T06:27:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T23:42:01+00:00",
    "ingested": "2026-11-20T23:42:13.288888+00:00",
    "headline": "Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis toward Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862599,
-   "ts": "2026-11-20T23:22:45+00:00",
-   "ingested": "2026-11-20T23:23:13.265132+00:00",
-   "headline": "Saudi Arabia's civil defence: danger has passed in Riyadh",
    "channel": "rss",
    "source": "financialjuice"
   }
