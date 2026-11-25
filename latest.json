@@ -1,7 +1,119 @@
 {
- "updated": "2026-11-25T13:29:28.968020+00:00",
+ "updated": "2026-11-25T13:31:08.971907+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867789,
+   "ts": "2026-11-25T13:30:26+00:00",
+   "ingested": "2026-11-25T13:31:08.971328+00:00",
+   "headline": "US PCE Price Index YoY Actual 3.8% (Forecast 3.8%, Previous 3.6% ,Revision 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867790,
+   "ts": "2026-11-25T13:30:25+00:00",
+   "ingested": "2026-11-25T13:31:08.971343+00:00",
+   "headline": "US Core PCE Price Index MoM Actual 0.3% (Forecast 0.3%, Previous 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867788,
+   "ts": "2026-11-25T13:30:25+00:00",
+   "ingested": "2026-11-25T13:31:08.971353+00:00",
+   "headline": "US PCE Prices Prelim Actual 2.1% (Forecast -, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867787,
+   "ts": "2026-11-25T13:30:25+00:00",
+   "ingested": "2026-11-25T13:31:08.971362+00:00",
+   "headline": "US PCE Price Index MoM Actual 0.3% (Forecast 0.3%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867784,
+   "ts": "2026-11-25T13:30:22+00:00",
+   "ingested": "2026-11-25T13:31:08.971371+00:00",
+   "headline": "US Personal Income MoM Actual 0.7% (Forecast 0.4%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867783,
+   "ts": "2026-11-25T13:30:22+00:00",
+   "ingested": "2026-11-25T13:31:08.971381+00:00",
+   "headline": "US GDP QoQ 2nd Estimate Actual 4.3% (Forecast 3.5%, Previous 3.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867778,
+   "ts": "2026-11-25T13:30:17+00:00",
+   "ingested": "2026-11-25T13:31:08.971389+00:00",
+   "headline": "US Core Durable Goods Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867777,
+   "ts": "2026-11-25T13:30:17+00:00",
+   "ingested": "2026-11-25T13:31:08.971398+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.697M (Forecast 1.74M, Previous 1.763M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867779,
+   "ts": "2026-11-25T13:30:17+00:00",
+   "ingested": "2026-11-25T13:31:08.971407+00:00",
+   "headline": "US Initial Jobless Claims Actual 189k (Forecast 200k, Previous 203k ,Revision 202k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867776,
+   "ts": "2026-11-25T13:30:16+00:00",
+   "ingested": "2026-11-25T13:31:08.971416+00:00",
+   "headline": "US Durable Goods Actual 0.2% (Forecast 0.7%, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867786,
+   "ts": "2026-11-25T13:30:11+00:00",
+   "ingested": "2026-11-25T13:31:08.971425+00:00",
+   "headline": "US Core PCE Price Index YoY Actual 3.1% (Forecast 3.2%, Previous 3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867782,
+   "ts": "2026-11-25T13:30:08+00:00",
+   "ingested": "2026-11-25T13:31:08.971433+00:00",
+   "headline": "US GDP Price Index Actual 2.3% (Forecast 2.3%, Previous 2.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867781,
+   "ts": "2026-11-25T13:30:06+00:00",
+   "ingested": "2026-11-25T13:31:08.971442+00:00",
+   "headline": "US Real Personal Consumption MoM Actual 0% (Forecast 0.1%, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867780,
+   "ts": "2026-11-25T13:30:05+00:00",
+   "ingested": "2026-11-25T13:31:08.971450+00:00",
+   "headline": "US Core PCE Prices Prelim Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867775,
    "ts": "2026-11-25T13:18:16+00:00",
@@ -3887,118 +3999,6 @@
    "ts": "2026-11-21T20:50:14+00:00",
    "ingested": "2026-11-21T20:50:49.935173+00:00",
    "headline": "Saudi civil defense: danger has passed in Mecca region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863142,
-   "ts": "2026-11-21T20:45:51+00:00",
-   "ingested": "2026-11-21T20:47:29.927939+00:00",
-   "headline": "Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863140,
-   "ts": "2026-11-21T20:43:33+00:00",
-   "ingested": "2026-11-21T20:44:09.926121+00:00",
-   "headline": "Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863139,
-   "ts": "2026-11-21T20:41:51+00:00",
-   "ingested": "2026-11-21T20:42:29.933001+00:00",
-   "headline": "Saudi civil defense issues warning of potential threat in Mecca region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863138,
-   "ts": "2026-11-21T20:36:31+00:00",
-   "ingested": "2026-11-21T20:37:29.932434+00:00",
-   "headline": "Bahrain's interior ministry raises another warning on potential threat - post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863137,
-   "ts": "2026-11-21T20:35:23+00:00",
-   "ingested": "2026-11-21T20:35:49.922675+00:00",
-   "headline": "Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863130,
-   "ts": "2026-11-21T20:12:29+00:00",
-   "ingested": "2026-11-21T20:14:09.928939+00:00",
-   "headline": "Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863129,
-   "ts": "2026-11-21T20:02:24+00:00",
-   "ingested": "2026-11-21T20:04:09.910888+00:00",
-   "headline": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863125,
-   "ts": "2026-11-21T19:47:20+00:00",
-   "ingested": "2026-11-21T19:48:59.945436+00:00",
-   "headline": "Iran\u2019s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863123,
-   "ts": "2026-11-21T19:32:56+00:00",
-   "ingested": "2026-11-21T19:48:59.945455+00:00",
-   "headline": "Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863118,
-   "ts": "2026-11-21T19:21:49+00:00",
-   "ingested": "2026-11-21T19:48:59.945469+00:00",
-   "headline": "Bahrain civil defence working to contain fire: interior ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863117,
-   "ts": "2026-11-21T19:21:18+00:00",
-   "ingested": "2026-11-21T19:48:59.945506+00:00",
-   "headline": "Bahrain interior ministry: preliminary information points to material damage, no casualties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863116,
-   "ts": "2026-11-21T19:20:57+00:00",
-   "ingested": "2026-11-21T19:48:59.945521+00:00",
-   "headline": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863108,
-   "ts": "2026-11-21T18:42:23+00:00",
-   "ingested": "2026-11-21T19:48:59.945530+00:00",
-   "headline": "Finland border guard: one Russian rescue ship involved in rescue efforts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863107,
-   "ts": "2026-11-21T18:40:02+00:00",
-   "ingested": "2026-11-21T19:48:59.945539+00:00",
-   "headline": "Finland border guard: vessel remains ablaze with visible flames",
    "channel": "rss",
    "source": "financialjuice"
   }
