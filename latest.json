@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T14:48:09.610143+00:00",
+ "updated": "2026-11-25T14:49:49.600116+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867994,
+   "ts": "2026-11-25T14:48:48+00:00",
+   "ingested": "2026-11-25T14:49:49.599618+00:00",
+   "headline": "WH Sr. Adviser Hassett on tariff proposals: The point is to level the playing field.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867993,
+   "ts": "2026-11-25T14:48:25+00:00",
+   "ingested": "2026-11-25T14:49:49.599631+00:00",
+   "headline": "BoE's Mann: Larger moves have a bigger impact on price strategies.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867992,
    "ts": "2026-11-25T14:47:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-23T09:27:34+00:00",
    "ingested": "2026-11-23T09:51:13.834083+00:00",
    "headline": "Europe Sentiment: The Calm After the Selloff - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864092,
-   "ts": "2026-11-23T09:22:33+00:00",
-   "ingested": "2026-11-23T09:51:13.834098+00:00",
-   "headline": "TSMC's Hou: Not seeing order adjustment from clients.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864091,
-   "ts": "2026-11-23T09:22:08+00:00",
-   "ingested": "2026-11-23T09:51:13.834116+00:00",
-   "headline": "TSMC's Hou: Trend of AI remains unchanged.",
    "channel": "rss",
    "source": "financialjuice"
   }
