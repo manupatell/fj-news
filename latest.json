@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T14:36:29.590398+00:00",
+ "updated": "2026-11-25T14:38:09.587222+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867977,
+   "ts": "2026-11-25T14:36:33+00:00",
+   "ingested": "2026-11-25T14:38:09.586790+00:00",
+   "headline": "BoE's Lombardelli: The economy is stronger than we expected.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867976,
    "ts": "2026-11-25T14:36:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T08:30:00+00:00",
    "ingested": "2026-11-23T09:51:13.834212+00:00",
    "headline": "German Manufacturing PMI Flash Actual 55 (Forecast 54.2, Previous 54.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863997,
-   "ts": "2026-11-23T08:15:09+00:00",
-   "ingested": "2026-11-23T08:20:32.464500+00:00",
-   "headline": "French Comp Flash PMI Actual 46.2 (Forecast 47.9, Previous 46.6)",
    "channel": "rss",
    "source": "financialjuice"
   }
