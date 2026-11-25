@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-25T14:23:09.588633+00:00",
+ "updated": "2026-11-25T14:24:49.577530+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867921,
+   "ts": "2026-11-25T14:24:36+00:00",
+   "ingested": "2026-11-25T14:24:49.577047+00:00",
+   "headline": "Iran's Army: An oil tanker hit a naval mine and caught fire in the Strait of Hormuz. The tanker hit a mine east of Hormuz hours ago - Fars.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867920,
+   "ts": "2026-11-25T14:24:11+00:00",
+   "ingested": "2026-11-25T14:24:49.577061+00:00",
+   "headline": "BoE's Dhingra: Loss of purchasing power half a point of GDP.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867919,
+   "ts": "2026-11-25T14:23:28+00:00",
+   "ingested": "2026-11-25T14:24:49.577070+00:00",
+   "headline": "BoE's Dhingra: Need to see stronger pricing power to keep rates high.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867918,
    "ts": "2026-11-25T14:21:52+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-23T07:20:13+00:00",
    "ingested": "2026-11-23T07:20:42.444320+00:00",
    "headline": "60-Day Correlation Matrix",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863935,
-   "ts": "2026-11-23T07:19:56+00:00",
-   "ingested": "2026-11-23T07:20:42.444334+00:00",
-   "headline": "30-Day Correlation Matrix",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863915,
-   "ts": "2026-11-23T06:58:39+00:00",
-   "ingested": "2026-11-23T06:59:32.440146+00:00",
-   "headline": "French Finance Minister Lescure: Government's 2027 economic growth forecast of 1% is at risk of being downgraded",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863792,
-   "ts": "2026-11-23T05:00:56+00:00",
-   "ingested": "2026-11-23T05:01:12.398938+00:00",
-   "headline": "Al Moammar: contract for provision of Microsoft IT services",
    "channel": "rss",
    "source": "financialjuice"
   }
