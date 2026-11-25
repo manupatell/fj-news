@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-25T15:01:29.606523+00:00",
+ "updated": "2026-11-25T15:03:09.620520+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868015,
+   "ts": "2026-11-25T15:02:00+00:00",
+   "ingested": "2026-11-25T15:03:09.620105+00:00",
+   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.640 (Forecast -, Previous 2.550)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868014,
+   "ts": "2026-11-25T15:02:00+00:00",
+   "ingested": "2026-11-25T15:03:09.620119+00:00",
+   "headline": "US 4-Week Bill High Yield Actual 4.115% (Forecast -, Previous 4.050%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868011,
+   "ts": "2026-11-25T15:01:31+00:00",
+   "ingested": "2026-11-25T15:03:09.620133+00:00",
+   "headline": "BoE's Deputy Governor Lombardelli: Latest wage data is mixed, slowdown in services price inflation may have stalled",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868008,
    "ts": "2026-11-25T15:01:10+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-23T11:46:36+00:00",
    "ingested": "2026-11-23T11:48:03.807726+00:00",
    "headline": "PBOC's Pan meets EU central bank officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864217,
-   "ts": "2026-11-23T11:16:07+00:00",
-   "ingested": "2026-11-23T11:16:23.779121+00:00",
-   "headline": "BofA Global Research sees euro area GDP growth at 0.8%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864216,
-   "ts": "2026-11-23T11:15:55+00:00",
-   "ingested": "2026-11-23T11:16:23.779142+00:00",
-   "headline": "BofA Global Research projects US GDP growth at 2.3%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864215,
-   "ts": "2026-11-23T11:15:39+00:00",
-   "ingested": "2026-11-23T11:16:23.779159+00:00",
-   "headline": "BofA Global Research expects global economic growth at 3.4% in 2027",
    "channel": "rss",
    "source": "financialjuice"
   }
