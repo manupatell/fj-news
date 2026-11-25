@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-25T14:49:49.600116+00:00",
+ "updated": "2026-11-25T14:51:29.595091+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867997,
+   "ts": "2026-11-25T14:51:09+00:00",
+   "ingested": "2026-11-25T14:51:29.594584+00:00",
+   "headline": "WH Sr. Adviser Hassett's interview on Fox Business ends.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867996,
+   "ts": "2026-11-25T14:50:11+00:00",
+   "ingested": "2026-11-25T14:51:29.594598+00:00",
+   "headline": "WH Sr. Adviser Hassett: I expect more 4% quarters and more GDP upward revisions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867995,
+   "ts": "2026-11-25T14:49:43+00:00",
+   "ingested": "2026-11-25T14:51:29.594608+00:00",
+   "headline": "WH Sr. Adviser Hassett: We expect Warsh, and the Fed will be data-driven.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867994,
    "ts": "2026-11-25T14:48:48+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-23T09:30:00+00:00",
    "ingested": "2026-11-23T09:51:13.834032+00:00",
    "headline": "UK Manufacturing PMI Flash Actual 52.7 (Forecast 53, Previous 52.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864095,
-   "ts": "2026-11-23T09:30:00+00:00",
-   "ingested": "2026-11-23T09:51:13.834051+00:00",
-   "headline": "UK Composite PMI Flash Actual 52.3 (Forecast 52.8, Previous 52.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864094,
-   "ts": "2026-11-23T09:30:00+00:00",
-   "ingested": "2026-11-23T09:51:13.834067+00:00",
-   "headline": "UK Services PMI Flash Actual 52 (Forecast 53, Previous 52.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864093,
-   "ts": "2026-11-23T09:27:34+00:00",
-   "ingested": "2026-11-23T09:51:13.834083+00:00",
-   "headline": "Europe Sentiment: The Calm After the Selloff - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
