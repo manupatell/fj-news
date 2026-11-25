@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-24T22:43:05.172736+00:00",
+ "updated": "2026-11-25T01:25:39.366677+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9866906,
+   "ts": "2026-11-25T00:30:01+00:00",
+   "ingested": "2026-11-25T01:25:39.365860+00:00",
+   "headline": "Australian CPI YoY NSA Actual 4.9% (Forecast 4.7%, Previous 4.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866905,
+   "ts": "2026-11-25T00:30:01+00:00",
+   "ingested": "2026-11-25T01:25:39.365898+00:00",
+   "headline": "Australian Construction Work Done QoQ Actual 0.9% (Forecast 0.7%, Previous -2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866904,
+   "ts": "2026-11-25T00:30:00+00:00",
+   "ingested": "2026-11-25T01:25:39.365929+00:00",
+   "headline": "Australian CPI Trimmed Mean YoY Actual 3.8% (Forecast 3.6%, Previous 3.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9866879,
+   "ts": "2026-11-24T23:50:01+00:00",
+   "ingested": "2026-11-25T01:25:39.365957+00:00",
+   "headline": "Japanese Service PPI Actual 4.2% (Forecast 3.6%, Previous 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9866802,
    "ts": "2026-11-24T22:34:12+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-20T22:26:13+00:00",
    "ingested": "2026-11-20T22:27:42.322730+00:00",
    "headline": "Agriculture department hacked: NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862507,
-   "ts": "2026-11-20T21:48:46+00:00",
-   "ingested": "2026-11-20T21:49:22.264893+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: We need \u2018confidence-building\u2019 steps that US won\u2019t resume strikes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862506,
-   "ts": "2026-11-20T21:48:31+00:00",
-   "ingested": "2026-11-20T21:49:22.264909+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Two-day Hormuz plan is still on the table.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862504,
-   "ts": "2026-11-20T21:47:25+00:00",
-   "ingested": "2026-11-20T21:47:42.268277+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Iran's red lines include enriched uranium not leaving the country, but I believe a fair solution can be reached.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862493,
-   "ts": "2026-11-20T21:46:28+00:00",
-   "ingested": "2026-11-20T21:47:42.268295+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Iran's first demand is for Trump to explicitly state that he wants an agreement.",
    "channel": "rss",
    "source": "financialjuice"
   }
