@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-25T13:01:08.980764+00:00",
+ "updated": "2026-11-25T13:11:08.971668+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867747,
+   "ts": "2026-11-25T13:10:51+00:00",
+   "ingested": "2026-11-25T13:11:08.971204+00:00",
+   "headline": "US proposes at least 20% tariff on China after trade probe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867746,
+   "ts": "2026-11-25T13:10:21+00:00",
+   "ingested": "2026-11-25T13:11:08.971221+00:00",
+   "headline": "Senior US Official: Has concluded investigations into structural excess capacity and production and determined that action is warranted against 14 of our largest trading partners",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867745,
+   "ts": "2026-11-25T13:09:17+00:00",
+   "ingested": "2026-11-25T13:11:08.971232+00:00",
+   "headline": "US proposes up to a 20% tariff on the EU after a trade probe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867732,
    "ts": "2026-11-25T13:00:10+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-21T16:03:02+00:00",
    "ingested": "2026-11-21T16:04:30.644555+00:00",
    "headline": "Finland border guard: strike on Russian vessel probably conducted by Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863058,
-   "ts": "2026-11-21T16:00:37+00:00",
-   "ingested": "2026-11-21T16:01:10.599051+00:00",
-   "headline": "Not difficult to reopen Strait of Hormuz if US agrees to Iran's reasonable conditions consistent with international law: Iranian foreign minister cited by Tasnim News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863055,
-   "ts": "2026-11-21T15:31:28+00:00",
-   "ingested": "2026-11-21T15:32:50.587452+00:00",
-   "headline": "Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863052,
-   "ts": "2026-11-21T15:21:46+00:00",
-   "ingested": "2026-11-21T15:22:50.586005+00:00",
-   "headline": "France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement",
    "channel": "rss",
    "source": "financialjuice"
   }
