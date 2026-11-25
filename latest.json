@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T15:13:09.607767+00:00",
+ "updated": "2026-11-25T15:14:49.616381+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868031,
+   "ts": "2026-11-25T15:13:08+00:00",
+   "ingested": "2026-11-25T15:14:49.615734+00:00",
+   "headline": "WH Sr. Adviser Hassett: If the US is going to win the AI battle, Nvidia will be the reason. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868030,
    "ts": "2026-11-25T15:12:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T12:59:51+00:00",
    "ingested": "2026-11-23T13:01:23.860584+00:00",
    "headline": "Secured overnight financing rate 3.92% November 20th vs 3.91% November 19th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864358,
-   "ts": "2026-11-23T12:51:08+00:00",
-   "ingested": "2026-11-23T12:51:23.800818+00:00",
-   "headline": "Iran: In talks with Azerbaijan on gas transit - Tansim",
    "channel": "rss",
    "source": "financialjuice"
   }
