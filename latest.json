@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T20:57:26.353485+00:00",
+ "updated": "2026-11-25T21:02:56.377280+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868393,
+   "ts": "2026-11-25T21:02:18+00:00",
+   "ingested": "2026-11-25T21:02:56.376772+00:00",
+   "headline": "Several loud booms were heard in Riyadh - Witness.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868382,
+   "ts": "2026-11-25T21:01:08+00:00",
+   "ingested": "2026-11-25T21:02:56.376793+00:00",
+   "headline": "Neuralink: Received FDA ok for a trial on a brain implant",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868357,
    "ts": "2026-11-25T20:26:31+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-23T15:20:55+00:00",
    "ingested": "2026-11-23T15:21:23.869021+00:00",
    "headline": "Trump: Spoke to Huang last night. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864608,
-   "ts": "2026-11-23T15:20:42+00:00",
-   "ingested": "2026-11-23T15:21:23.869037+00:00",
-   "headline": "Trump on Nvidia: Was a rocket ship going in wrong direction. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864607,
-   "ts": "2026-11-23T15:18:49+00:00",
-   "ingested": "2026-11-23T15:19:43.864395+00:00",
-   "headline": "Trump draws line between smuggling of advanced vs old chips.",
    "channel": "rss",
    "source": "financialjuice"
   }
