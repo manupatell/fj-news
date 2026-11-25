@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T21:12:16.354758+00:00",
+ "updated": "2026-11-25T21:15:46.310983+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868400,
+   "ts": "2026-11-25T21:14:05+00:00",
+   "ingested": "2026-11-25T21:15:46.310478+00:00",
+   "headline": "Toronto-Dominion Bank expects Bank of Canada to hike in December.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868399,
    "ts": "2026-11-25T21:10:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T15:28:01+00:00",
    "ingested": "2026-11-23T15:29:43.860653+00:00",
    "headline": "Trump: I asked Xi, \"Why don't you slow down on nuclear weapons?\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864616,
-   "ts": "2026-11-23T15:24:46+00:00",
-   "ingested": "2026-11-23T15:26:23.901869+00:00",
-   "headline": "Trump: US VP Vance was involved in the NVIDIA decision. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
