@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T13:44:49.571460+00:00",
+ "updated": "2026-11-25T13:46:29.575389+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867831,
+   "ts": "2026-11-25T13:44:50+00:00",
+   "ingested": "2026-11-25T13:46:29.574943+00:00",
+   "headline": "USTR Greer, on Canada: Canada needs to be realistic about limited prospects for economic integration with Europe",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867829,
    "ts": "2026-11-25T13:43:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-22T15:41:28+00:00",
    "ingested": "2026-11-22T15:41:50.825726+00:00",
    "headline": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863474,
-   "ts": "2026-11-22T15:41:28+00:00",
-   "ingested": "2026-11-22T15:41:50.825738+00:00",
-   "headline": "US Treasury Secretary Bessent: we need to find where the buck stops",
    "channel": "rss",
    "source": "financialjuice"
   }
