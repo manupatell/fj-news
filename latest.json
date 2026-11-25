@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-25T13:14:28.979968+00:00",
+ "updated": "2026-11-25T13:16:09.015785+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867761,
+   "ts": "2026-11-25T13:15:40+00:00",
+   "ingested": "2026-11-25T13:16:09.015254+00:00",
+   "headline": "US proposes 15% tariff net of MFN on Switzerland after probe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867760,
+   "ts": "2026-11-25T13:15:32+00:00",
+   "ingested": "2026-11-25T13:16:09.015268+00:00",
+   "headline": "Senior US Official: US proposes new tariffs following investigations into structural excess capacity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867753,
+   "ts": "2026-11-25T13:15:22+00:00",
+   "ingested": "2026-11-25T13:16:09.015280+00:00",
+   "headline": "Russia's Novak on oil production capacity assessment by OPEC: We plan to complete it by the end of the year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867750,
+   "ts": "2026-11-25T13:14:31+00:00",
+   "ingested": "2026-11-25T13:16:09.015288+00:00",
+   "headline": "The US proposes 15% net of MFN tariffs on Japan after probe",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867749,
    "ts": "2026-11-25T13:13:35+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-21T18:34:25+00:00",
    "ingested": "2026-11-21T19:48:59.945559+00:00",
    "headline": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863100,
-   "ts": "2026-11-21T18:11:23+00:00",
-   "ingested": "2026-11-21T18:12:50.631036+00:00",
-   "headline": "Bahrain's interior ministry: warning of possible threat",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863095,
-   "ts": "2026-11-21T17:45:53+00:00",
-   "ingested": "2026-11-21T17:46:10.747788+00:00",
-   "headline": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863076,
-   "ts": "2026-11-21T16:53:56+00:00",
-   "ingested": "2026-11-21T16:54:30.618978+00:00",
-   "headline": "IAEA on Ukraine: one transmission line remains offline",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863075,
-   "ts": "2026-11-21T16:52:58+00:00",
-   "ingested": "2026-11-21T16:54:30.619000+00:00",
-   "headline": "IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity",
    "channel": "rss",
    "source": "financialjuice"
   }
