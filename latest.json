@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-25T07:04:09.415040+00:00",
+ "updated": "2026-11-25T10:14:18.947218+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867512,
+   "ts": "2026-11-25T09:54:35+00:00",
+   "ingested": "2026-11-25T10:14:18.946588+00:00",
+   "headline": "Credit \u00c1gricole: FX Risks - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867511,
+   "ts": "2026-11-25T09:52:34+00:00",
+   "ingested": "2026-11-25T10:14:18.946603+00:00",
+   "headline": "RBC: Oil - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867491,
+   "ts": "2026-11-25T09:33:38+00:00",
+   "ingested": "2026-11-25T10:14:18.946613+00:00",
+   "headline": "South Korea seeks to expand stock stabilization fund - Chosun",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867465,
+   "ts": "2026-11-25T09:24:37+00:00",
+   "ingested": "2026-11-25T10:14:18.946623+00:00",
+   "headline": "Europe Sentiment: Tariffs Back In The Spotlight? - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867443,
+   "ts": "2026-11-25T09:00:00+00:00",
+   "ingested": "2026-11-25T10:14:18.946632+00:00",
+   "headline": "Swiss ZEW Expectations Actual 2.3 (Forecast -, Previous -15.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867422,
+   "ts": "2026-11-25T08:36:51+00:00",
+   "ingested": "2026-11-25T10:14:18.946641+00:00",
+   "headline": "Naftogaz: Russia hit gas production facility in Poltava region.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867388,
+   "ts": "2026-11-25T08:02:26+00:00",
+   "ingested": "2026-11-25T10:14:18.946650+00:00",
+   "headline": "Currency Strength Chart: Strongest: CHF, JPY, USD, CAD, EUR, GBP, NZD, AUD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867367,
+   "ts": "2026-11-25T07:45:00+00:00",
+   "ingested": "2026-11-25T10:14:18.946658+00:00",
+   "headline": "French Consumer Confidence Actual 82 (Forecast 81, Previous 80)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867337,
+   "ts": "2026-11-25T07:13:58+00:00",
+   "ingested": "2026-11-25T10:14:18.946670+00:00",
+   "headline": "China's foreign ministry, on US planned tariffs announcement: The so-called overcapacity does not really exist",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867331,
    "ts": "2026-11-25T07:01:17+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-11-21T10:56:47+00:00",
    "ingested": "2026-11-21T12:39:30.615749+00:00",
    "headline": "Iran navy: oil tanker catches fire after striking naval mine east of Strait of Hormuz - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862931,
-   "ts": "2026-11-21T10:40:05+00:00",
-   "ingested": "2026-11-21T10:41:27.604700+00:00",
-   "headline": "France calls latest EU budget proposal \"very disappointing,\" not foundation for agreement \u2013 French presidency office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862922,
-   "ts": "2026-11-21T10:06:12+00:00",
-   "ingested": "2026-11-21T10:06:27.586448+00:00",
-   "headline": "Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862911,
-   "ts": "2026-11-21T08:47:32+00:00",
-   "ingested": "2026-11-21T08:48:07.566039+00:00",
-   "headline": "EU's Von der Leyen: if Russia aims to undermine support for Ukraine, it will have the opposite effect; our determination will strengthen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862909,
-   "ts": "2026-11-21T08:47:05+00:00",
-   "ingested": "2026-11-21T08:48:07.566053+00:00",
-   "headline": "EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862908,
-   "ts": "2026-11-21T08:46:45+00:00",
-   "ingested": "2026-11-21T08:48:07.566064+00:00",
-   "headline": "EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862907,
-   "ts": "2026-11-21T08:45:51+00:00",
-   "ingested": "2026-11-21T08:46:27.558634+00:00",
-   "headline": "EU's Von der Leyen: we stand in full solidarity with Denmark",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862906,
-   "ts": "2026-11-21T08:45:37+00:00",
-   "ingested": "2026-11-21T08:46:27.558648+00:00",
-   "headline": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862897,
-   "ts": "2026-11-21T08:16:47+00:00",
-   "ingested": "2026-11-21T08:18:07.573016+00:00",
-   "headline": "Ukmto reports incident 17 nm east of Oman's Khasab",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862893,
-   "ts": "2026-11-21T07:42:26+00:00",
-   "ingested": "2026-11-21T07:43:07.549227+00:00",
-   "headline": "UKMTO: no injuries reported, environmental impact unclear",
    "channel": "rss",
    "source": "financialjuice"
   }
