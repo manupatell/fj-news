@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T14:38:09.587222+00:00",
+ "updated": "2026-11-25T14:43:09.582299+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867978,
+   "ts": "2026-11-25T14:42:06+00:00",
+   "ingested": "2026-11-25T14:43:09.581813+00:00",
+   "headline": "BoE's Dhingra: I'm surprised by how little pass-through there has been of higher energy prices compared to 2022.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867977,
    "ts": "2026-11-25T14:36:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T08:30:00+00:00",
    "ingested": "2026-11-23T09:51:13.834199+00:00",
    "headline": "German Service PMI Flash Actual 54 (Forecast 52.3, Previous 52.5)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864015,
-   "ts": "2026-11-23T08:30:00+00:00",
-   "ingested": "2026-11-23T09:51:13.834212+00:00",
-   "headline": "German Manufacturing PMI Flash Actual 55 (Forecast 54.2, Previous 54.2)",
    "channel": "rss",
    "source": "financialjuice"
   }
