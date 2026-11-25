@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T06:10:49.396295+00:00",
+ "updated": "2026-11-25T06:17:29.403019+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867271,
+   "ts": "2026-11-25T06:16:53+00:00",
+   "ingested": "2026-11-25T06:17:29.402604+00:00",
+   "headline": "China's Zhu: China is able to run a looser fiscal policy next year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867244,
    "ts": "2026-11-25T06:00:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-20T23:14:18+00:00",
    "ingested": "2026-11-20T23:21:33.317383+00:00",
    "headline": "Huge boom heard in Riyadh: source witness",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862586,
-   "ts": "2026-11-20T23:10:40+00:00",
-   "ingested": "2026-11-20T23:11:02.317850+00:00",
-   "headline": "Saudi civil defence issues another warning of potential risk in Riyadh",
    "channel": "rss",
    "source": "financialjuice"
   }
