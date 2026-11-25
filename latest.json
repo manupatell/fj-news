@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-25T13:46:29.575389+00:00",
+ "updated": "2026-11-25T13:48:09.575986+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867856,
+   "ts": "2026-11-25T13:46:55+00:00",
+   "ingested": "2026-11-25T13:48:09.575436+00:00",
+   "headline": "USTR Greer on NVIDIA: We have to make sure that company remains on top.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867854,
+   "ts": "2026-11-25T13:46:50+00:00",
+   "ingested": "2026-11-25T13:48:09.575449+00:00",
+   "headline": "USTR Greer on NVIDIA: The company is structurally important -CNBC Interview. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867846,
+   "ts": "2026-11-25T13:46:35+00:00",
+   "ingested": "2026-11-25T13:48:09.575459+00:00",
+   "headline": "USTR Greer on chips and export controls: Administration closing some loopholes - CNBC interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867831,
    "ts": "2026-11-25T13:44:50+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-22T17:17:23+00:00",
    "ingested": "2026-11-22T17:18:30.845589+00:00",
    "headline": "Commercial vessel flying Maltese flag hit by suicide drone boat off Libya's Benghazi: two Libyan military sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863491,
-   "ts": "2026-11-22T16:35:42+00:00",
-   "ingested": "2026-11-22T16:36:50.842676+00:00",
-   "headline": "Yemen's Houthis: attack on Rabigh oil refinery on Saudi Arabia's western Red Sea coast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863476,
-   "ts": "2026-11-22T15:59:00+00:00",
-   "ingested": "2026-11-22T16:00:10.858287+00:00",
-   "headline": "Ukmto reports incident involving tanker and military forces in Gulf of Oman",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863475,
-   "ts": "2026-11-22T15:41:28+00:00",
-   "ingested": "2026-11-22T15:41:50.825726+00:00",
-   "headline": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
    "channel": "rss",
    "source": "financialjuice"
   }
