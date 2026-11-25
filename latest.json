@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T13:17:48.982409+00:00",
+ "updated": "2026-11-25T13:19:28.972566+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867775,
+   "ts": "2026-11-25T13:18:16+00:00",
+   "ingested": "2026-11-25T13:19:28.972162+00:00",
+   "headline": "US proposes at least a 15% 'deal rate' tariff on the EU.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867774,
    "ts": "2026-11-25T13:17:15+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-21T18:40:02+00:00",
    "ingested": "2026-11-21T19:48:59.945539+00:00",
    "headline": "Finland border guard: vessel remains ablaze with visible flames",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863106,
-   "ts": "2026-11-21T18:38:31+00:00",
-   "ingested": "2026-11-21T19:48:59.945548+00:00",
-   "headline": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
    "channel": "rss",
    "source": "financialjuice"
   }
