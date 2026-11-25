@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T13:43:09.601430+00:00",
+ "updated": "2026-11-25T13:44:49.571460+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867829,
+   "ts": "2026-11-25T13:43:15+00:00",
+   "ingested": "2026-11-25T13:44:49.571071+00:00",
+   "headline": "USTR Greer: The US met with Canadians last week on trade",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867828,
+   "ts": "2026-11-25T13:43:09+00:00",
+   "ingested": "2026-11-25T13:44:49.571085+00:00",
+   "headline": "USTR Greer: Autos, steel, and aluminum are sticking points with Canada.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867827,
    "ts": "2026-11-25T13:42:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-22T15:41:28+00:00",
    "ingested": "2026-11-22T15:41:50.825738+00:00",
    "headline": "US Treasury Secretary Bessent: we need to find where the buck stops",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863473,
-   "ts": "2026-11-22T15:41:04+00:00",
-   "ingested": "2026-11-22T15:41:50.825748+00:00",
-   "headline": "US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863472,
-   "ts": "2026-11-22T15:41:04+00:00",
-   "ingested": "2026-11-22T15:41:50.825757+00:00",
-   "headline": "US Treasury Secretary Bessent: what level of Nvidia business we need to see",
    "channel": "rss",
    "source": "financialjuice"
   }
