@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T13:58:09.567803+00:00",
+ "updated": "2026-11-25T14:01:29.594811+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867860,
+   "ts": "2026-11-25T13:59:52+00:00",
+   "ingested": "2026-11-25T14:01:29.594432+00:00",
+   "headline": "Effective Fed Funds Rate 3.88% November 24 vs 3.88% November 23",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867859,
    "ts": "2026-11-25T13:56:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-22T21:45:10+00:00",
    "ingested": "2026-11-22T21:50:20.453624+00:00",
    "headline": "New Zealand Retail Sales QoQ Actual 2.2% (Forecast 0.5%, Previous -0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863557,
-   "ts": "2026-11-22T21:45:09+00:00",
-   "ingested": "2026-11-22T21:50:20.453646+00:00",
-   "headline": "New Zealand Retail Sales YoY Actual 3.5% (Forecast -, Previous 3.3%)",
    "channel": "rss",
    "source": "financialjuice"
   }
