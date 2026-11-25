@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T13:48:09.575986+00:00",
+ "updated": "2026-11-25T13:49:49.579575+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867858,
+   "ts": "2026-11-25T13:49:23+00:00",
+   "ingested": "2026-11-25T13:49:49.579076+00:00",
+   "headline": "USTR Greer: I agree with the US' actions on megaspeed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867857,
+   "ts": "2026-11-25T13:48:12+00:00",
+   "ingested": "2026-11-25T13:49:49.579091+00:00",
+   "headline": "USTR Greer, on export controls: We have to balance the economy and national security - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867856,
    "ts": "2026-11-25T13:46:55+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-22T17:18:51+00:00",
    "ingested": "2026-11-22T17:20:10.898667+00:00",
    "headline": "More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863505,
-   "ts": "2026-11-22T17:17:54+00:00",
-   "ingested": "2026-11-22T17:18:30.845576+00:00",
-   "headline": "Week Ahead Sentiment: Anthropic's IPO & Nvidia News Continues to Weigh on Sentiment - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863504,
-   "ts": "2026-11-22T17:17:23+00:00",
-   "ingested": "2026-11-22T17:18:30.845589+00:00",
-   "headline": "Commercial vessel flying Maltese flag hit by suicide drone boat off Libya's Benghazi: two Libyan military sources",
    "channel": "rss",
    "source": "financialjuice"
   }
