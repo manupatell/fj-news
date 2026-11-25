@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T14:29:49.612180+00:00",
+ "updated": "2026-11-25T14:31:29.589120+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867932,
+   "ts": "2026-11-25T14:29:59+00:00",
+   "ingested": "2026-11-25T14:31:29.588657+00:00",
+   "headline": "EU Commission Spokesperson: Expect any measure from the US to respect in full 15% all-inclusive ceiling on EU goods, including when combined with existing duties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867931,
+   "ts": "2026-11-25T14:29:50+00:00",
+   "ingested": "2026-11-25T14:31:29.588670+00:00",
+   "headline": "BoE Gov. Bailey: Energy futures curve offers a very rosy view of price trends.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867930,
    "ts": "2026-11-25T14:29:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-23T07:24:58+00:00",
    "ingested": "2026-11-23T07:25:22.510558+00:00",
    "headline": "BoJ Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863947,
-   "ts": "2026-11-23T07:24:54+00:00",
-   "ingested": "2026-11-23T07:25:22.510580+00:00",
-   "headline": "UK First Secretary of State Haigh: Want to intervene where markets are failing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863946,
-   "ts": "2026-11-23T07:24:19+00:00",
-   "ingested": "2026-11-23T07:25:22.510595+00:00",
-   "headline": "BoC Interest Rate Probabilities",
    "channel": "rss",
    "source": "financialjuice"
   }
