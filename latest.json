@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T13:31:08.971907+00:00",
+ "updated": "2026-11-25T13:36:29.560402+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867816,
+   "ts": "2026-11-25T13:36:17+00:00",
+   "ingested": "2026-11-25T13:36:29.559944+00:00",
+   "headline": "USTR Greer: Tariff rates will hew toward deal rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867789,
    "ts": "2026-11-25T13:30:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-21T21:28:16+00:00",
    "ingested": "2026-11-21T21:29:09.939442+00:00",
    "headline": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863144,
-   "ts": "2026-11-21T20:50:14+00:00",
-   "ingested": "2026-11-21T20:50:49.935173+00:00",
-   "headline": "Saudi civil defense: danger has passed in Mecca region",
    "channel": "rss",
    "source": "financialjuice"
   }
