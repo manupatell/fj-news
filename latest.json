@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T13:49:49.579575+00:00",
+ "updated": "2026-11-25T13:58:09.567803+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867859,
+   "ts": "2026-11-25T13:56:19+00:00",
+   "ingested": "2026-11-25T13:58:09.567404+00:00",
+   "headline": "UBS cuts target price for Applied Materials to $575 from $640",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867858,
    "ts": "2026-11-25T13:49:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-22T21:45:09+00:00",
    "ingested": "2026-11-22T21:50:20.453646+00:00",
    "headline": "New Zealand Retail Sales YoY Actual 3.5% (Forecast -, Previous 3.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863506,
-   "ts": "2026-11-22T17:18:51+00:00",
-   "ingested": "2026-11-22T17:20:10.898667+00:00",
-   "headline": "More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say",
    "channel": "rss",
    "source": "financialjuice"
   }
