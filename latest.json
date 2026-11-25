@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-25T11:02:48.968269+00:00",
+ "updated": "2026-11-25T11:04:28.958833+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867592,
+   "ts": "2026-11-25T11:03:49+00:00",
+   "ingested": "2026-11-25T11:04:28.958198+00:00",
+   "headline": "ECB's Kocher: Demand not driving prices at the moment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867591,
+   "ts": "2026-11-25T11:03:38+00:00",
+   "ingested": "2026-11-25T11:04:28.958211+00:00",
+   "headline": "ECB's Kocher: Economy is resilient, but it's still fragile",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867590,
+   "ts": "2026-11-25T11:03:27+00:00",
+   "ingested": "2026-11-25T11:04:28.958222+00:00",
+   "headline": "ECB's Kocher: ECB should err on the prudent side and not act too late",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867589,
+   "ts": "2026-11-25T11:03:09+00:00",
+   "ingested": "2026-11-25T11:04:28.958231+00:00",
+   "headline": "ECB's Kocher: Market pricing doesn't seem completely unreasonable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867588,
+   "ts": "2026-11-25T11:03:00+00:00",
+   "ingested": "2026-11-25T11:04:28.958240+00:00",
+   "headline": "ECB's Kocher: ECB likely to revise inflation outlook up in December",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867586,
    "ts": "2026-11-25T11:02:26+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-21T13:28:51+00:00",
    "ingested": "2026-11-21T13:29:30.546767+00:00",
    "headline": "No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863000,
-   "ts": "2026-11-21T13:28:29+00:00",
-   "ingested": "2026-11-21T13:29:30.546790+00:00",
-   "headline": "Iran\u2019s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862988,
-   "ts": "2026-11-21T13:05:31+00:00",
-   "ingested": "2026-11-21T13:06:10.599568+00:00",
-   "headline": "Saudi civil defense: danger has passed in Jazan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862980,
-   "ts": "2026-11-21T12:59:50+00:00",
-   "ingested": "2026-11-21T13:01:10.615090+00:00",
-   "headline": "Saudi civil defense issues warning of possible threat for Jazan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862973,
-   "ts": "2026-11-21T12:18:34+00:00",
-   "ingested": "2026-11-21T12:39:30.615645+00:00",
-   "headline": "White House reduces special status allowing staffers to remain in private sector - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9862959,
-   "ts": "2026-11-21T11:56:29+00:00",
-   "ingested": "2026-11-21T12:39:30.615668+00:00",
-   "headline": "Zelenskiy: China summit was very unsuccessful for Russia",
    "channel": "rss",
    "source": "financialjuice"
   }
