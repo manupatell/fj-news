@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T14:31:29.589120+00:00",
+ "updated": "2026-11-25T14:33:09.583563+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9867969,
+   "ts": "2026-11-25T14:32:47+00:00",
+   "ingested": "2026-11-25T14:33:09.583184+00:00",
+   "headline": "BoE Gov. Bailey: There's no substantial inflation pass-through.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9867967,
+   "ts": "2026-11-25T14:32:14+00:00",
+   "ingested": "2026-11-25T14:33:09.583197+00:00",
+   "headline": "Deutsche Bank's View on AUD - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9867932,
    "ts": "2026-11-25T14:29:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-23T07:25:46+00:00",
    "ingested": "2026-11-23T07:26:02.460005+00:00",
    "headline": "RBNZ Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863949,
-   "ts": "2026-11-23T07:25:17+00:00",
-   "ingested": "2026-11-23T07:25:32.442098+00:00",
-   "headline": "RBA Interest Rate Probabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9863948,
-   "ts": "2026-11-23T07:24:58+00:00",
-   "ingested": "2026-11-23T07:25:22.510558+00:00",
-   "headline": "BoJ Interest Rate Probabilities",
    "channel": "rss",
    "source": "financialjuice"
   }
