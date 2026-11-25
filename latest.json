@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T15:31:29.633320+00:00",
+ "updated": "2026-11-25T15:36:29.600743+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868069,
+   "ts": "2026-11-25T15:35:44+00:00",
+   "ingested": "2026-11-25T15:36:29.600264+00:00",
+   "headline": "BoE's Mann: Resilience suggests policy has not been restrictive.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868051,
    "ts": "2026-11-25T15:30:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T13:43:22+00:00",
    "ingested": "2026-11-23T13:44:43.894989+00:00",
    "headline": "Goldman Sachs' Financial Conditions Index - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864430,
-   "ts": "2026-11-23T13:42:47+00:00",
-   "ingested": "2026-11-23T13:43:03.847233+00:00",
-   "headline": "Oregon & Virginia sue SpaceX over AI-generated images - NYT. $SPCX",
    "channel": "rss",
    "source": "financialjuice"
   }
