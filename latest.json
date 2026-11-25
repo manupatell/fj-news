@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T22:28:06.330870+00:00",
+ "updated": "2026-11-25T22:33:06.343192+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868490,
+   "ts": "2026-11-25T22:32:27+00:00",
+   "ingested": "2026-11-25T22:33:06.342712+00:00",
+   "headline": "Saudi-led coalition: two drones shot down over kingdom's eastern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868455,
    "ts": "2026-11-25T22:06:26+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T15:29:02+00:00",
    "ingested": "2026-11-23T15:29:43.860612+00:00",
    "headline": "Trump: If Huang was angry enough, he could've worked for China. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864618,
-   "ts": "2026-11-23T15:28:55+00:00",
-   "ingested": "2026-11-23T15:29:43.860636+00:00",
-   "headline": "Trump: We could have seen China paying Huang to flip sides. We wouldn't want China to poach Huang. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
