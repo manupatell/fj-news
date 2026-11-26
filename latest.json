@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T13:50:45.758719+00:00",
+ "updated": "2026-11-26T13:55:45.747366+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869475,
+   "ts": "2026-11-26T13:55:27+00:00",
+   "ingested": "2026-11-26T13:55:45.746916+00:00",
+   "headline": "Deutsche Bank: Early in the cycle it was a rotation that then turned Into a rout - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869474,
    "ts": "2026-11-26T13:49:36+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T21:58:00+00:00",
    "ingested": "2026-11-23T21:58:49.929945+00:00",
    "headline": "Meta Platforms \u2013 SEC Filing $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865100,
-   "ts": "2026-11-23T21:56:05+00:00",
-   "ingested": "2026-11-23T21:56:59.906791+00:00",
-   "headline": "ANZ Bank brings forward first RBA rate cut forecast to June 2027.",
    "channel": "rss",
    "source": "financialjuice"
   }
