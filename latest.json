@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T16:20:45.799864+00:00",
+ "updated": "2026-11-26T16:22:25.793828+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869632,
+   "ts": "2026-11-26T16:21:13+00:00",
+   "ingested": "2026-11-26T16:22:25.793384+00:00",
+   "headline": "SAP weighs cutting at least 10,000 positions in AI restructuring",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869631,
    "ts": "2026-11-26T16:19:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T08:34:46+00:00",
    "ingested": "2026-11-24T08:35:41.515322+00:00",
    "headline": "China Commerce Ministry: Issue temporary EU hybrid vehicle measures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865713,
-   "ts": "2026-11-24T08:25:22+00:00",
-   "ingested": "2026-11-24T08:25:41.514945+00:00",
-   "headline": "UKMTO gets a time-late report of an incident near Khor Fakkan, UAE",
    "channel": "rss",
    "source": "financialjuice"
   }
