@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T00:46:26.386034+00:00",
+ "updated": "2026-11-26T00:51:26.408085+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868605,
+   "ts": "2026-11-26T00:50:03+00:00",
+   "ingested": "2026-11-26T00:51:26.407614+00:00",
+   "headline": "Bank of Korea Base Rate Actual 3.25% (Forecast 3.25%, Previous 3.00%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868586,
    "ts": "2026-11-26T00:30:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T15:40:51+00:00",
    "ingested": "2026-11-23T21:54:48.347025+00:00",
    "headline": "Bernstein raises Nvidia to Outperform from Market Perform. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864645,
-   "ts": "2026-11-23T15:40:15+00:00",
-   "ingested": "2026-11-23T21:54:48.347038+00:00",
-   "headline": "UK's PM Burnham: We should build new and more constructive relations with the EU.",
    "channel": "rss",
    "source": "financialjuice"
   }
