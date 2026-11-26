@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T21:53:02.365214+00:00",
+ "updated": "2026-11-26T21:56:22.359051+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869799,
+   "ts": "2026-11-26T21:56:10+00:00",
+   "ingested": "2026-11-26T21:56:22.358641+00:00",
+   "headline": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869778,
    "ts": "2026-11-26T21:01:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T09:00:34+00:00",
    "ingested": "2026-11-24T09:07:21.522926+00:00",
    "headline": "German IFO Current Conditions Actual 89.4 (Forecast 89.1, Previous 88.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865753,
-   "ts": "2026-11-24T09:00:34+00:00",
-   "ingested": "2026-11-24T09:02:21.521295+00:00",
-   "headline": "German IFO Expectations Actual 91.6 (Forecast 92, Previous 91.6)",
    "channel": "rss",
    "source": "financialjuice"
   }
