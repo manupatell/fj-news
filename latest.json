@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T13:10:45.851772+00:00",
+ "updated": "2026-11-26T13:17:25.730878+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869427,
+   "ts": "2026-11-26T13:16:13+00:00",
+   "ingested": "2026-11-26T13:17:25.730405+00:00",
+   "headline": "The UK and EU haven't agreed on a penalty fee to leave the new deal - Official.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869412,
    "ts": "2026-11-26T13:00:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T21:35:30+00:00",
    "ingested": "2026-11-23T21:54:48.346261+00:00",
    "headline": "Fed's Williams: What has driven inflation up recently has been unusual factors.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865082,
-   "ts": "2026-11-23T21:34:48+00:00",
-   "ingested": "2026-11-23T21:54:48.346272+00:00",
-   "headline": "Fed's Williams: The economy has been resilient in the face of many large challenges.",
    "channel": "rss",
    "source": "financialjuice"
   }
