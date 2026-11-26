@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T13:30:45.830288+00:00",
+ "updated": "2026-11-26T13:40:45.752311+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869462,
+   "ts": "2026-11-26T13:40:14+00:00",
+   "ingested": "2026-11-26T13:40:45.751792+00:00",
+   "headline": "OPEC+ likely to roll over oil output targets for at least Q1 2027 at Sunday\u2019s meeting - Two Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869439,
    "ts": "2026-11-26T13:29:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T21:40:04+00:00",
    "ingested": "2026-11-23T21:54:48.346234+00:00",
    "headline": "Fed's Williams: Companies want to hire, but they are being cautious",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865084,
-   "ts": "2026-11-23T21:36:07+00:00",
-   "ingested": "2026-11-23T21:54:48.346248+00:00",
-   "headline": "Fed's Williams: 2027 will be a year of lower inflation",
    "channel": "rss",
    "source": "financialjuice"
   }
