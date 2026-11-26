@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T21:56:22.359051+00:00",
+ "updated": "2026-11-26T21:58:02.402223+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869800,
+   "ts": "2026-11-26T21:56:45+00:00",
+   "ingested": "2026-11-26T21:58:02.401814+00:00",
+   "headline": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869799,
    "ts": "2026-11-26T21:56:10+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T09:22:51+00:00",
    "ingested": "2026-11-24T09:24:01.545569+00:00",
    "headline": "JP Morgan cuts target price of $Meta to $775 from $940.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865750,
-   "ts": "2026-11-24T09:00:34+00:00",
-   "ingested": "2026-11-24T09:07:21.522926+00:00",
-   "headline": "German IFO Current Conditions Actual 89.4 (Forecast 89.1, Previous 88.8)",
    "channel": "rss",
    "source": "financialjuice"
   }
