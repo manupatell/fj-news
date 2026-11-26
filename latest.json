@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T00:31:26.375262+00:00",
+ "updated": "2026-11-26T00:36:26.376330+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868586,
+   "ts": "2026-11-26T00:30:16+00:00",
+   "ingested": "2026-11-26T00:36:26.375839+00:00",
+   "headline": "Australian Building Capex Actual 1.7% (Forecast -, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868585,
    "ts": "2026-11-26T00:30:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T15:40:15+00:00",
    "ingested": "2026-11-23T21:54:48.347038+00:00",
    "headline": "UK's PM Burnham: We should build new and more constructive relations with the EU.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864644,
-   "ts": "2026-11-23T15:39:00+00:00",
-   "ingested": "2026-11-23T21:54:48.347048+00:00",
-   "headline": "UK's PM Burnham: There is a clear consensus among Britons wanting closer EU ties.",
    "channel": "rss",
    "source": "financialjuice"
   }
