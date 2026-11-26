@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T00:23:06.370388+00:00",
+ "updated": "2026-11-26T00:31:26.375262+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868585,
+   "ts": "2026-11-26T00:30:01+00:00",
+   "ingested": "2026-11-26T00:31:26.374799+00:00",
+   "headline": "Australian Capital Expenditure QoQ Actual 12.2% (Forecast 4.3%, Previous -3.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868507,
    "ts": "2026-11-25T22:59:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T15:39:00+00:00",
    "ingested": "2026-11-23T21:54:48.347048+00:00",
    "headline": "UK's PM Burnham: There is a clear consensus among Britons wanting closer EU ties.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864634,
-   "ts": "2026-11-23T15:32:08+00:00",
-   "ingested": "2026-11-23T21:54:48.347057+00:00",
-   "headline": "Trump: Huang is already thinking three chips into the future. $NVDA",
    "channel": "rss",
    "source": "financialjuice"
   }
