@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T07:32:41.856273+00:00",
+ "updated": "2026-11-26T07:37:41.868992+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869028,
+   "ts": "2026-11-26T07:32:37+00:00",
+   "ingested": "2026-11-26T07:37:41.868506+00:00",
+   "headline": "Swiss Non-Farm Payrolls Actual 5.684M (Forecast -, Previous 5.698M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869016,
    "ts": "2026-11-26T07:31:09+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T16:35:47+00:00",
    "ingested": "2026-11-23T21:54:48.346827+00:00",
    "headline": "UK's PM Burnham: Not proposing at this moment to rerun the EU referendum",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864714,
-   "ts": "2026-11-23T16:24:44+00:00",
-   "ingested": "2026-11-23T21:54:48.346837+00:00",
-   "headline": "UK PM Burnham: Unthinkable to take UK back into EU without referendum",
    "channel": "rss",
    "source": "financialjuice"
   }
