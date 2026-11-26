@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T20:53:02.360185+00:00",
+ "updated": "2026-11-26T20:58:02.343840+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869775,
+   "ts": "2026-11-26T20:57:20+00:00",
+   "ingested": "2026-11-26T20:58:02.343420+00:00",
+   "headline": "Germany\u2019s Chancellor Merz: The elections next year may makes the EU budget talks harder.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869752,
    "ts": "2026-11-26T19:41:49+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T09:00:12+00:00",
    "ingested": "2026-11-24T09:00:41.518496+00:00",
    "headline": "German IFO Business Climate Actual 90.6 (Forecast 90.5, Previous 90.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865748,
-   "ts": "2026-11-24T08:49:18+00:00",
-   "ingested": "2026-11-24T08:50:41.515141+00:00",
-   "headline": "Iran must tighten Hormuz management until conditions met - Tasnim",
    "channel": "rss",
    "source": "financialjuice"
   }
