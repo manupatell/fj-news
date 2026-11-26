@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T11:32:15.806374+00:00",
+ "updated": "2026-11-26T11:35:45.704608+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869316,
+   "ts": "2026-11-26T11:35:11+00:00",
+   "ingested": "2026-11-26T11:35:45.704138+00:00",
+   "headline": "BoE Gov. Bailey: We cannot forget about the risks of quantum computing that are coming down the track while we focus on AI risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869303,
    "ts": "2026-11-26T11:31:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T20:30:24+00:00",
    "ingested": "2026-11-23T21:54:48.346463+00:00",
    "headline": "The US is set to add Singaporean chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864977,
-   "ts": "2026-11-23T20:08:44+00:00",
-   "ingested": "2026-11-23T21:54:48.346476+00:00",
-   "headline": "US Treasury: Foreign Investor Demand Mixed Across Latest Note and Bond Auctions",
    "channel": "rss",
    "source": "financialjuice"
   }
