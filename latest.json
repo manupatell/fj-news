@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-26T12:34:05.720445+00:00",
+ "updated": "2026-11-26T12:35:45.736654+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869394,
+   "ts": "2026-11-26T12:34:45+00:00",
+   "ingested": "2026-11-26T12:35:45.736119+00:00",
+   "headline": "ECB officials saw no clear signs of second-round effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869393,
+   "ts": "2026-11-26T12:34:20+00:00",
+   "ingested": "2026-11-26T12:35:45.736134+00:00",
+   "headline": "ECB officials had concerns that the 2% target may only be hit after 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869392,
    "ts": "2026-11-26T12:32:45+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-23T21:02:56+00:00",
    "ingested": "2026-11-23T21:54:48.346324+00:00",
    "headline": "Three Tankers involved in illegal activities explode in the Strait of Hormuz due to naval mines - IRIB News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865026,
-   "ts": "2026-11-23T21:01:36+00:00",
-   "ingested": "2026-11-23T21:54:48.346333+00:00",
-   "headline": "Fed's Williams: Outlook for energy prices remains uncertain",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865025,
-   "ts": "2026-11-23T21:01:30+00:00",
-   "ingested": "2026-11-23T21:54:48.346343+00:00",
-   "headline": "Fed's Williams: I do not see inflation pressures broadening much.",
    "channel": "rss",
    "source": "financialjuice"
   }
