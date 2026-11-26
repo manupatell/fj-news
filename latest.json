@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T06:26:01.869790+00:00",
+ "updated": "2026-11-26T06:31:01.842828+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868939,
+   "ts": "2026-11-26T06:25:02+00:00",
+   "ingested": "2026-11-26T06:31:01.842406+00:00",
+   "headline": "Japanese Leading Indicator Change Rev. Actual -1.5 (Forecast -, Previous -1.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868930,
    "ts": "2026-11-26T06:14:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T15:50:16+00:00",
    "ingested": "2026-11-23T21:54:48.346948+00:00",
    "headline": "Nvidia gets bullish fresh pick designation at Baird. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864666,
-   "ts": "2026-11-23T15:47:43+00:00",
-   "ingested": "2026-11-23T21:54:48.346957+00:00",
-   "headline": "UK holding informal exchange of ideas with EU on future ties.",
    "channel": "rss",
    "source": "financialjuice"
   }
