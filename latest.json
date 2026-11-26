@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T16:15:45.783276+00:00",
+ "updated": "2026-11-26T16:20:45.799864+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869631,
+   "ts": "2026-11-26T16:19:37+00:00",
+   "ingested": "2026-11-26T16:20:45.799411+00:00",
+   "headline": "Al-Hadath reported that the US is working to arrange a meeting between Trump and Israel's Eisenkot, which would address the Iranian issue and understandings with Netanyahu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869619,
    "ts": "2026-11-26T16:14:37+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T08:25:22+00:00",
    "ingested": "2026-11-24T08:25:41.514945+00:00",
    "headline": "UKMTO gets a time-late report of an incident near Khor Fakkan, UAE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865683,
-   "ts": "2026-11-24T08:01:54+00:00",
-   "ingested": "2026-11-24T08:02:21.500441+00:00",
-   "headline": "Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest",
    "channel": "rss",
    "source": "financialjuice"
   }
