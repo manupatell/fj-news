@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T11:50:45.733877+00:00",
+ "updated": "2026-11-26T12:00:45.709838+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869334,
+   "ts": "2026-11-26T11:59:45+00:00",
+   "ingested": "2026-11-26T12:00:45.709416+00:00",
+   "headline": "UKMTO gets report of incident November 25th, 18nm from Khasab, Oman",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869333,
    "ts": "2026-11-26T11:49:05+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T21:00:25+00:00",
    "ingested": "2026-11-23T21:54:48.346438+00:00",
    "headline": "Fed's Williams: The Fed must act to lower inflation back to 2%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865014,
-   "ts": "2026-11-23T20:55:17+00:00",
-   "ingested": "2026-11-23T21:54:48.346447+00:00",
-   "headline": "The US and Qatar pledge to strengthen defense and security partnership",
    "channel": "rss",
    "source": "financialjuice"
   }
