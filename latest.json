@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T07:56:01.896599+00:00",
+ "updated": "2026-11-26T08:02:41.872683+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869050,
+   "ts": "2026-11-26T08:01:14+00:00",
+   "ingested": "2026-11-26T08:02:41.872235+00:00",
+   "headline": "Currency Strength Chart: Strongest: AUD, JPY, USD, EUR, CAD, GBP, NZD, CHF - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869030,
    "ts": "2026-11-26T07:45:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T16:42:22+00:00",
    "ingested": "2026-11-23T21:54:48.346792+00:00",
    "headline": "US 3-Month Bill High Yield Actual 4.18% (Forecast -, Previous 4.155%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864726,
-   "ts": "2026-11-23T16:42:15+00:00",
-   "ingested": "2026-11-23T21:54:48.346802+00:00",
-   "headline": "US 3-Month Bill Bid-to-Cover Actual 2.74 (Forecast -, Previous 2.760)",
    "channel": "rss",
    "source": "financialjuice"
   }
