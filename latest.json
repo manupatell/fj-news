@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-26T14:59:05.769693+00:00",
+ "updated": "2026-11-26T15:00:45.769301+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869557,
+   "ts": "2026-11-26T14:59:33+00:00",
+   "ingested": "2026-11-26T15:00:45.768834+00:00",
+   "headline": "Iraq's Oil Minister: Talks underway with OPEC to raise Iraq's oil production ceiling",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869556,
+   "ts": "2026-11-26T14:59:02+00:00",
+   "ingested": "2026-11-26T15:00:45.768853+00:00",
+   "headline": "Russian Foreign Ministry: Moscow hopes that Putin's meeting with the Japanese PM will contribute to improving relations between the countries.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869555,
    "ts": "2026-11-26T14:58:24+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T06:07:53+00:00",
    "ingested": "2026-11-24T06:14:01.484041+00:00",
    "headline": "Japanese Chain Store Sales YoY Actual 1% (Forecast -, Previous 1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865234,
-   "ts": "2026-11-24T00:30:00+00:00",
-   "ingested": "2026-11-24T00:30:29.953792+00:00",
-   "headline": "Japanese Composite PMI Flash Actual 51.5 (Forecast -, Previous 52.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865233,
-   "ts": "2026-11-24T00:30:00+00:00",
-   "ingested": "2026-11-24T00:30:29.953808+00:00",
-   "headline": "Japanese Mfg PMI Flash Actual 53.7 (Forecast -, Previous 53.3)",
    "channel": "rss",
    "source": "financialjuice"
   }
