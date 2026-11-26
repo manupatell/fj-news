@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T22:08:02.379668+00:00",
+ "updated": "2026-11-26T22:11:22.367093+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869809,
+   "ts": "2026-11-26T22:10:29+00:00",
+   "ingested": "2026-11-26T22:11:22.366690+00:00",
+   "headline": "Saudi Arabia issues warning of potential threat in Abha city",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869800,
    "ts": "2026-11-26T21:56:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T09:29:25+00:00",
    "ingested": "2026-11-24T09:30:41.545703+00:00",
    "headline": "Europe Sentiment: The Return - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865793,
-   "ts": "2026-11-24T09:22:51+00:00",
-   "ingested": "2026-11-24T09:24:01.545569+00:00",
-   "headline": "JP Morgan cuts target price of $Meta to $775 from $940.",
    "channel": "rss",
    "source": "financialjuice"
   }
