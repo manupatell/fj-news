@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T07:11:01.852083+00:00",
+ "updated": "2026-11-26T07:19:21.900617+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869009,
+   "ts": "2026-11-26T07:17:45+00:00",
+   "ingested": "2026-11-26T07:19:21.900153+00:00",
+   "headline": "China and the US keep close contact on extending the trade truce - MofCom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868990,
    "ts": "2026-11-26T07:10:04+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T16:15:29+00:00",
    "ingested": "2026-11-23T21:54:48.346869+00:00",
    "headline": "Musk shared data showing that the company lagged competitors - NYT. $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864691,
-   "ts": "2026-11-23T16:14:39+00:00",
-   "ingested": "2026-11-23T21:54:48.346878+00:00",
-   "headline": "Musk told staff SpaceX is falling behind on AI development - NYT. $SPCX",
    "channel": "rss",
    "source": "financialjuice"
   }
