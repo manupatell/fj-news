@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-26T06:06:01.852053+00:00",
+ "updated": "2026-11-26T06:16:01.836080+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9868930,
+   "ts": "2026-11-26T06:14:22+00:00",
+   "ingested": "2026-11-26T06:16:01.835589+00:00",
+   "headline": "Atlas Cloud still warns customers to consider sensitive data sent to Minimax as compromised",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868929,
+   "ts": "2026-11-26T06:14:22+00:00",
+   "ingested": "2026-11-26T06:16:01.835606+00:00",
+   "headline": "Researcher identifies unusual activity in Moscow region involving links sent to minimax",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868928,
+   "ts": "2026-11-26T06:14:22+00:00",
+   "ingested": "2026-11-26T06:16:01.835619+00:00",
+   "headline": "Secret link sent to Minimax later accessed on devices in Beijing, Shanghai: researcher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9868927,
+   "ts": "2026-11-26T06:14:21+00:00",
+   "ingested": "2026-11-26T06:16:01.835629+00:00",
+   "headline": "Minimax says it disabled security feature controlling link access",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9868877,
    "ts": "2026-11-26T05:05:15+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-23T15:47:43+00:00",
    "ingested": "2026-11-23T21:54:48.346957+00:00",
    "headline": "UK holding informal exchange of ideas with EU on future ties.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864653,
-   "ts": "2026-11-23T15:46:22+00:00",
-   "ingested": "2026-11-23T21:54:48.346968+00:00",
-   "headline": "UK PM Burnham: EU deal worth up to 0.5% of the British economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864651,
-   "ts": "2026-11-23T15:44:13+00:00",
-   "ingested": "2026-11-23T21:54:48.346977+00:00",
-   "headline": "UK PM Burnham: EU and UK to avoid policy harming each other's industries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864650,
-   "ts": "2026-11-23T15:44:03+00:00",
-   "ingested": "2026-11-23T21:54:48.346986+00:00",
-   "headline": "Trump praises Anthropic's Amodei. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9864649,
-   "ts": "2026-11-23T15:43:39+00:00",
-   "ingested": "2026-11-23T21:54:48.346995+00:00",
-   "headline": "Trump: DoJ will intervene if AI firms move too fast.",
    "channel": "rss",
    "source": "financialjuice"
   }
