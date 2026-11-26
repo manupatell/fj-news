@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-26T17:10:45.798270+00:00",
+ "updated": "2026-11-26T20:33:02.417141+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869752,
+   "ts": "2026-11-26T19:41:49+00:00",
+   "ingested": "2026-11-26T20:33:02.416622+00:00",
+   "headline": "France\u2019s President Macron: The EU budget talks are going to resume in the 2H 2027 if no deal is reached this year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869751,
+   "ts": "2026-11-26T19:33:48+00:00",
+   "ingested": "2026-11-26T20:33:02.416641+00:00",
+   "headline": "France\u2019s President Macron: I won't sign an unbalanced deal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869747,
+   "ts": "2026-11-26T19:25:31+00:00",
+   "ingested": "2026-11-26T20:33:02.416656+00:00",
+   "headline": "France\u2019s President Macron: France wants the EU digital tax to take effect in 2028, along with the EU budget.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869746,
+   "ts": "2026-11-26T19:22:48+00:00",
+   "ingested": "2026-11-26T20:33:02.416668+00:00",
+   "headline": "France\u2019s President Macron: EU budget cuts would be a strategic mistake.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869722,
+   "ts": "2026-11-26T18:40:26+00:00",
+   "ingested": "2026-11-26T20:33:02.416679+00:00",
+   "headline": "Nissan poised to import cars from China to Japan for first time - Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869717,
+   "ts": "2026-11-26T18:17:29+00:00",
+   "ingested": "2026-11-26T20:33:02.416692+00:00",
+   "headline": "Brent Crude futures settle at $96.57/bbl, up $1.96, 2.07%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869703,
+   "ts": "2026-11-26T18:01:13+00:00",
+   "ingested": "2026-11-26T20:33:02.416702+00:00",
+   "headline": "Saudi Energy Ministry: Some Jazan refinery operations temporarily halted after attack.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869702,
+   "ts": "2026-11-26T18:01:01+00:00",
+   "ingested": "2026-11-26T20:33:02.416711+00:00",
+   "headline": "Saudi Energy Ministry: Fire at Jazan refinery brought under control after attack",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869632,
    "ts": "2026-11-26T16:21:13+00:00",
@@ -3935,70 +3999,6 @@
    "ts": "2026-11-24T08:49:18+00:00",
    "ingested": "2026-11-24T08:50:41.515141+00:00",
    "headline": "Iran must tighten Hormuz management until conditions met - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865734,
-   "ts": "2026-11-24T08:46:14+00:00",
-   "ingested": "2026-11-24T08:47:21.517374+00:00",
-   "headline": "China Suspends export control on some dual-use items to US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865726,
-   "ts": "2026-11-24T08:42:50+00:00",
-   "ingested": "2026-11-24T08:44:01.550527+00:00",
-   "headline": "Japan eyes easing FX special account rules for tax cut - Kyodo.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865725,
-   "ts": "2026-11-24T08:37:36+00:00",
-   "ingested": "2026-11-24T08:39:01.529813+00:00",
-   "headline": "ECB's Simkus: Recent euro weakness is another inflationary factor.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865724,
-   "ts": "2026-11-24T08:37:25+00:00",
-   "ingested": "2026-11-24T08:39:01.529834+00:00",
-   "headline": "ECB's Simkus: ECB should act preemptively, sooner rather than later.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865723,
-   "ts": "2026-11-24T08:37:09+00:00",
-   "ingested": "2026-11-24T08:37:21.514861+00:00",
-   "headline": "ECB's Simkus: Don't see a risk of over-tightening.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865722,
-   "ts": "2026-11-24T08:36:59+00:00",
-   "ingested": "2026-11-24T08:37:21.514882+00:00",
-   "headline": "ECB's Simkus: More tightening needed in 2027 if inflation persists.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865721,
-   "ts": "2026-11-24T08:34:57+00:00",
-   "ingested": "2026-11-24T08:35:41.515301+00:00",
-   "headline": "China Commerce Ministry: Urges EU to abide by bilateral consensus and strictly follow WTO rules in probe.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865720,
-   "ts": "2026-11-24T08:34:46+00:00",
-   "ingested": "2026-11-24T08:35:41.515322+00:00",
-   "headline": "China Commerce Ministry: Issue temporary EU hybrid vehicle measures.",
    "channel": "rss",
    "source": "financialjuice"
   }
