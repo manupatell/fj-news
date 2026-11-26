@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-26T23:41:22.389742+00:00",
+ "updated": "2026-11-26T23:51:22.392522+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869847,
+   "ts": "2026-11-26T23:50:28+00:00",
+   "ingested": "2026-11-26T23:51:22.392075+00:00",
+   "headline": "Foreign Investment Japanese Bonds Actual 208.5B (Forecast -, Previous 650.1B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869846,
+   "ts": "2026-11-26T23:50:28+00:00",
+   "ingested": "2026-11-26T23:51:22.392091+00:00",
+   "headline": "Japanese Foreign Stock Investment Actual -350.8B (Forecast -, Previous 363.1B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869845,
+   "ts": "2026-11-26T23:50:16+00:00",
+   "ingested": "2026-11-26T23:51:22.392102+00:00",
+   "headline": "Foreign Investment Japanese Stocks Actual -571.6B (Forecast -, Previous -224.1B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9869844,
+   "ts": "2026-11-26T23:50:16+00:00",
+   "ingested": "2026-11-26T23:51:22.392113+00:00",
+   "headline": "Japanese Foreign Bond Investment Actual 423.5B (Forecast -, Previous -440.7B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869830,
    "ts": "2026-11-26T23:30:02+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-24T10:50:28+00:00",
    "ingested": "2026-11-24T10:50:41.557409+00:00",
    "headline": "Anthropic and OpenAI staff fear models are too unsafe to release - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865891,
-   "ts": "2026-11-24T10:49:27+00:00",
-   "ingested": "2026-11-24T10:50:41.557431+00:00",
-   "headline": "An Israeli airstrike kills senior Hamas security official in Gaza - Hamas sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865873,
-   "ts": "2026-11-24T10:43:26+00:00",
-   "ingested": "2026-11-24T10:44:01.548039+00:00",
-   "headline": "Kremlin: Europeans are pushing for four-way Ukraine talks - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865860,
-   "ts": "2026-11-24T10:25:32+00:00",
-   "ingested": "2026-11-24T10:27:21.547212+00:00",
-   "headline": "Linklaters recruits competition lawyer Jenine Hulsmann from Weil",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865859,
-   "ts": "2026-11-24T10:25:16+00:00",
-   "ingested": "2026-11-24T10:25:41.704093+00:00",
-   "headline": "ECB: banks borrowed \u20ac21.0 million at marginal rate",
    "channel": "rss",
    "source": "financialjuice"
   }
