@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T14:47:25.814639+00:00",
+ "updated": "2026-11-26T14:49:05.765157+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869552,
+   "ts": "2026-11-26T14:47:18+00:00",
+   "ingested": "2026-11-26T14:49:05.764718+00:00",
+   "headline": "Saudi-Led Coalition: Jazan refinery attacked by Yemen's Houthis.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869476,
    "ts": "2026-11-26T13:56:54+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-23T22:30:56+00:00",
    "ingested": "2026-11-23T22:32:09.911729+00:00",
    "headline": "Saudi-led coalition: drone launched by Yemen's Houthis towards southern region intercepted, destroyed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865102,
-   "ts": "2026-11-23T21:59:41+00:00",
-   "ingested": "2026-11-23T22:00:29.905581+00:00",
-   "headline": "Qatari Prime Minister and Qatari Envoy met today with Vance - Axios.",
    "channel": "rss",
    "source": "financialjuice"
   }
