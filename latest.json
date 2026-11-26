@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T15:30:45.824936+00:00",
+ "updated": "2026-11-26T15:34:05.781312+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869596,
+   "ts": "2026-11-26T15:33:10+00:00",
+   "ingested": "2026-11-26T15:34:05.780807+00:00",
+   "headline": "Angola to cut January crude exports to lowest since at least 2008",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869557,
    "ts": "2026-11-26T14:59:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T06:15:53+00:00",
    "ingested": "2026-11-24T06:17:21.478474+00:00",
    "headline": "Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865572,
-   "ts": "2026-11-24T06:07:53+00:00",
-   "ingested": "2026-11-24T06:14:01.484041+00:00",
-   "headline": "Japanese Chain Store Sales YoY Actual 1% (Forecast -, Previous 1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
