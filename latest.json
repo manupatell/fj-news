@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T16:07:25.853434+00:00",
+ "updated": "2026-11-26T16:15:45.783276+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9869619,
+   "ts": "2026-11-26T16:14:37+00:00",
+   "ingested": "2026-11-26T16:15:45.782806+00:00",
+   "headline": "Iran Armed Forces spokesperson: Iran has carried out no military or offensive operations in the region, denies Kuwaiti army claims of attack on vital facility - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9869618,
    "ts": "2026-11-26T16:05:39+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T08:01:54+00:00",
    "ingested": "2026-11-24T08:02:21.500441+00:00",
    "headline": "Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865682,
-   "ts": "2026-11-24T08:01:16+00:00",
-   "ingested": "2026-11-24T08:02:21.500466+00:00",
-   "headline": "Iraqi PM directs federal oil ministry to manage all its oilfields under Kurdish regional security control in Diyala, Kirkuk, Salahuddin, and Nineveh provinces",
    "channel": "rss",
    "source": "financialjuice"
   }
