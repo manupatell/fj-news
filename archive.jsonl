@@ -26770,3 +26770,4 @@
 {"guid": 9870236, "ts": "2026-11-27T07:45:22+00:00", "ingested": "2026-11-27T07:47:29.476151+00:00", "headline": "French Non-Farm Payrolls Revised Actual 0.0% (Forecast -, Previous -0.1%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9870241, "ts": "2026-11-27T07:46:26+00:00", "ingested": "2026-11-27T07:47:29.476140+00:00", "headline": "French CPI YoY NSA Prelim Actual 2.9% (Forecast 3.4%, Previous 3.4%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9870242, "ts": "2026-11-27T07:46:27+00:00", "ingested": "2026-11-27T07:47:29.476125+00:00", "headline": "French CPI MoM NSA Prelim Actual -0.7% (Forecast -0.2%, Previous 0.4%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9870253, "ts": "2026-11-27T07:49:11+00:00", "ingested": "2026-11-27T07:54:09.448758+00:00", "headline": "French HICP MoM Prelim  Actual -0.7% (Forecast -0.4%, Previous 0.4%)", "channel": "rss", "source": "financialjuice"}
