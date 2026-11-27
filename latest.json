@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-27T05:30:49.425902+00:00",
+ "updated": "2026-11-27T05:34:09.424053+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870115,
+   "ts": "2026-11-27T05:32:33+00:00",
+   "ingested": "2026-11-27T05:34:09.423589+00:00",
+   "headline": "Shares of Minimax 0100.hk rise over 17%, Z.AL 2513.hk up more than 15%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870114,
+   "ts": "2026-11-27T05:32:33+00:00",
+   "ingested": "2026-11-27T05:34:09.423605+00:00",
+   "headline": "Hong Kong shares of Hua Hong Grace Semiconductor 1347.hk rise over 18%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870113,
+   "ts": "2026-11-27T05:32:33+00:00",
+   "ingested": "2026-11-27T05:34:09.423616+00:00",
+   "headline": "Shares of Shanghai iLuvatar CoreX Semiconductor 9903.HK rise 23%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870100,
    "ts": "2026-11-27T05:30:15+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-11-24T11:40:54+00:00",
    "ingested": "2026-11-24T17:04:05.114907+00:00",
    "headline": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865926,
-   "ts": "2026-11-24T11:00:39+00:00",
-   "ingested": "2026-11-24T11:20:41.628087+00:00",
-   "headline": "ECB's Kaasik: Latest data show rates must be raised to curb inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865925,
-   "ts": "2026-11-24T11:00:18+00:00",
-   "ingested": "2026-11-24T11:20:41.628109+00:00",
-   "headline": "ECB's Kaasik: Reasonable that markets expect rates to rise",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865927,
-   "ts": "2026-11-24T11:00:03+00:00",
-   "ingested": "2026-11-24T11:20:41.628125+00:00",
-   "headline": "ECB's Kaasik: Inflation may spread beyond energy; wages are key",
    "channel": "rss",
    "source": "financialjuice"
   }
