@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T18:19:04.135368+00:00",
+ "updated": "2026-11-27T18:24:04.139604+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870926,
+   "ts": "2026-11-27T18:23:15+00:00",
+   "ingested": "2026-11-27T18:24:04.139061+00:00",
+   "headline": "OpenAI countersues Apple for stealing trade secrets - FT. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870925,
    "ts": "2026-11-27T18:18:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T17:25:34+00:00",
    "ingested": "2026-11-24T17:27:25.044373+00:00",
    "headline": "BoC Summary: Monetary policy can temporarily influence housing demand but cannot address supply constraints.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866432,
-   "ts": "2026-11-24T17:04:11+00:00",
-   "ingested": "2026-11-24T17:05:45.045472+00:00",
-   "headline": "Iraq rejects OPEC+ assessment of its oil production capacity",
    "channel": "rss",
    "source": "financialjuice"
   }
