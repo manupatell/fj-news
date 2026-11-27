@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T15:59:04.103392+00:00",
+ "updated": "2026-11-27T16:05:44.109011+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870806,
+   "ts": "2026-11-27T16:00:20+00:00",
+   "ingested": "2026-11-27T16:05:44.108501+00:00",
+   "headline": "Canadian Budget Balance Actual -5.14B (Forecast -, Previous -0.22B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870768,
    "ts": "2026-11-27T15:27:13+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:08:25+00:00",
    "ingested": "2026-11-24T17:04:05.113854+00:00",
    "headline": "Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866360,
-   "ts": "2026-11-24T16:08:09+00:00",
-   "ingested": "2026-11-24T17:04:05.113870+00:00",
-   "headline": "Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
