@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T16:17:24.124478+00:00",
+ "updated": "2026-11-27T16:19:04.107309+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870827,
+   "ts": "2026-11-27T16:18:19+00:00",
+   "ingested": "2026-11-27T16:19:04.106774+00:00",
+   "headline": "US CENTCOM: The vessel had departed an Iranian port and tried to run blockade.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870814,
    "ts": "2026-11-27T16:16:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:32:17+00:00",
    "ingested": "2026-11-24T17:04:05.113796+00:00",
    "headline": "US 52-Week Bill High Yield Actual 4.365% (Forecast -, Previous 4.290%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866373,
-   "ts": "2026-11-24T16:29:13+00:00",
-   "ingested": "2026-11-24T17:04:05.113811+00:00",
-   "headline": "UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd",
    "channel": "rss",
    "source": "financialjuice"
   }
