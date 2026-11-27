@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-27T07:54:09.449167+00:00",
+ "updated": "2026-11-27T08:00:49.450208+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870258,
+   "ts": "2026-11-27T08:00:07+00:00",
+   "ingested": "2026-11-27T08:00:49.449733+00:00",
+   "headline": "Spanish Retail Sales SA YoY Actual -1% (Forecast -, Previous -1.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870257,
+   "ts": "2026-11-27T08:00:00+00:00",
+   "ingested": "2026-11-27T08:00:49.449749+00:00",
+   "headline": "Spanish HICP YoY Flash  Actual 4.1% (Forecast 4.7%, Previous 4.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870256,
+   "ts": "2026-11-27T08:00:00+00:00",
+   "ingested": "2026-11-27T08:00:49.449760+00:00",
+   "headline": "Spanish CPI YoY Flash Actual 4.1% (Forecast 4.7%, Previous 4.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870255,
+   "ts": "2026-11-27T08:00:00+00:00",
+   "ingested": "2026-11-27T08:00:49.449770+00:00",
+   "headline": "Spanish HICP MoM Flash  Actual -0.7% (Forecast -0.2%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870254,
+   "ts": "2026-11-27T08:00:00+00:00",
+   "ingested": "2026-11-27T08:00:49.449780+00:00",
+   "headline": "Spanish CPI MoM Flash Actual -0.6% (Forecast 0%, Previous 0.60%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870253,
    "ts": "2026-11-27T07:49:11+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-11-24T13:03:27+00:00",
    "ingested": "2026-11-24T17:04:05.114613+00:00",
    "headline": "BoE's Greene: Indicators show disinflation process has stalled.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866056,
-   "ts": "2026-11-24T13:00:41+00:00",
-   "ingested": "2026-11-24T17:04:05.114627+00:00",
-   "headline": "Secured overnight financing rate 3.92% November 23rd vs 3.92% November 20th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866049,
-   "ts": "2026-11-24T13:00:01+00:00",
-   "ingested": "2026-11-24T17:04:05.114676+00:00",
-   "headline": "BoE\u2019s Greene: Next year evidence on 2nd-round effects matters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866048,
-   "ts": "2026-11-24T12:58:17+00:00",
-   "ingested": "2026-11-24T17:04:05.114698+00:00",
-   "headline": "BoE\u2019s Greene: Need to hike to get on top of risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866047,
-   "ts": "2026-11-24T12:58:05+00:00",
-   "ingested": "2026-11-24T17:04:05.114717+00:00",
-   "headline": "BoE\u2019s Greene: Hard evidence of significant effects needed for 50 bps",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866046,
-   "ts": "2026-11-24T12:57:57+00:00",
-   "ingested": "2026-11-24T17:04:05.114730+00:00",
-   "headline": "BoE\u2019s Greene: Target-consistent wage growth is around 3%",
    "channel": "rss",
    "source": "financialjuice"
   }
