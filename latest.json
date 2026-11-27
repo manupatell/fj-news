@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-27T13:49:04.048988+00:00",
+ "updated": "2026-11-27T13:52:24.067560+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870663,
+   "ts": "2026-11-27T13:52:08+00:00",
+   "ingested": "2026-11-27T13:52:24.066960+00:00",
+   "headline": "Barclays: Inflows into equity fund have gained momentum as markets sold off recently - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870662,
+   "ts": "2026-11-27T13:50:50+00:00",
+   "ingested": "2026-11-27T13:52:24.066979+00:00",
+   "headline": "German budget passes with \u20ac210 billion in new borrowing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870661,
    "ts": "2026-11-27T13:47:46+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T15:23:09+00:00",
    "ingested": "2026-11-24T17:04:05.114045+00:00",
    "headline": "Fitch Ratings: Faster productivity & AI adoption have not resulted in any falls in aggregate us employment & there has been no surge in layoffs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866310,
-   "ts": "2026-11-24T15:21:27+00:00",
-   "ingested": "2026-11-24T17:04:05.114062+00:00",
-   "headline": "Fitch Ratings: US productivity growth is improving steadily.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866309,
-   "ts": "2026-11-24T15:18:55+00:00",
-   "ingested": "2026-11-24T17:04:05.114075+00:00",
-   "headline": "Fear & Greed Index: 18/100 - Extreme Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
