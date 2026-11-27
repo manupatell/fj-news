@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-27T13:59:04.053135+00:00",
+ "updated": "2026-11-27T14:00:44.059700+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870666,
+   "ts": "2026-11-27T14:00:22+00:00",
+   "ingested": "2026-11-27T14:00:44.059118+00:00",
+   "headline": "MUFG: JPY NEER Move During AI Sell-Off Has Been Marginal - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870665,
+   "ts": "2026-11-27T13:59:54+00:00",
+   "ingested": "2026-11-27T14:00:44.059141+00:00",
+   "headline": "Effective Fed funds rate 3.88% November 25th vs 3.88% November 24th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870664,
    "ts": "2026-11-27T13:57:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T15:45:55+00:00",
    "ingested": "2026-11-24T17:04:05.113992+00:00",
    "headline": "New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate, according to a person",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866320,
-   "ts": "2026-11-24T15:34:25+00:00",
-   "ingested": "2026-11-24T17:04:05.114009+00:00",
-   "headline": "EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866313,
-   "ts": "2026-11-24T15:23:55+00:00",
-   "ingested": "2026-11-24T17:04:05.114027+00:00",
-   "headline": "Fitch Ratings: AI job disruption could be significant in industries where labour substitution possibilities are high & AI complementarities limited.",
    "channel": "rss",
    "source": "financialjuice"
   }
