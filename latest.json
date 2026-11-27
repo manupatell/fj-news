@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T05:54:09.455543+00:00",
+ "updated": "2026-11-27T06:00:49.423494+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870135,
+   "ts": "2026-11-27T06:00:23+00:00",
+   "ingested": "2026-11-27T06:00:49.423057+00:00",
+   "headline": "Russia prolongs aviation fuel export ban until March 31: IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870115,
    "ts": "2026-11-27T05:32:33+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T11:54:40+00:00",
    "ingested": "2026-11-24T17:04:05.114890+00:00",
    "headline": "UKMTO: Received a late report of an incident in the Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9865933,
-   "ts": "2026-11-24T11:40:54+00:00",
-   "ingested": "2026-11-24T17:04:05.114907+00:00",
-   "headline": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
    "channel": "rss",
    "source": "financialjuice"
   }
