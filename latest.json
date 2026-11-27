@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T12:57:14.097552+00:00",
+ "updated": "2026-11-27T13:00:44.046687+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870586,
+   "ts": "2026-11-27T12:59:34+00:00",
+   "ingested": "2026-11-27T13:00:44.046102+00:00",
+   "headline": "Secured overnight financing rate 3.95% November 25th vs 3.94% November 24th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870585,
    "ts": "2026-11-27T12:49:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T14:52:20+00:00",
    "ingested": "2026-11-24T17:04:05.114224+00:00",
    "headline": "Rep. Meeks calls for Huang to testify publicly to House panel. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866198,
-   "ts": "2026-11-24T14:25:00+00:00",
-   "ingested": "2026-11-24T17:04:05.114243+00:00",
-   "headline": "Chinese foreign minister expresses hope that Britain provides a favourable business environment for Chinese companies - Xinhua",
    "channel": "rss",
    "source": "financialjuice"
   }
