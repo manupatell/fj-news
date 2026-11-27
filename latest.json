@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T16:55:44.127793+00:00",
+ "updated": "2026-11-27T16:59:04.111682+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870850,
+   "ts": "2026-11-27T16:57:29+00:00",
+   "ingested": "2026-11-27T16:59:04.111128+00:00",
+   "headline": "US Military: military aircraft launched precision munitions that struck the stern of Palau-flagged M/V Pacific Archer.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870842,
    "ts": "2026-11-27T16:44:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:33:18+00:00",
    "ingested": "2026-11-24T17:04:05.113757+00:00",
    "headline": "US 52-Week Bill Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866389,
-   "ts": "2026-11-24T16:32:31+00:00",
-   "ingested": "2026-11-24T17:04:05.113775+00:00",
-   "headline": "US 52-Week Bill Bid-to-Cover Actual 3.040 (Forecast -, Previous 3.150)",
    "channel": "rss",
    "source": "financialjuice"
   }
