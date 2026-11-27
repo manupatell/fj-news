@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T13:52:24.067560+00:00",
+ "updated": "2026-11-27T13:59:04.053135+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870664,
+   "ts": "2026-11-27T13:57:59+00:00",
+   "ingested": "2026-11-27T13:59:04.052572+00:00",
+   "headline": "US Sentiment: Risk-On Back, Still a Ways to Go to Pre Huang Affair Levels - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870663,
    "ts": "2026-11-27T13:52:08+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T15:23:55+00:00",
    "ingested": "2026-11-24T17:04:05.114027+00:00",
    "headline": "Fitch Ratings: AI job disruption could be significant in industries where labour substitution possibilities are high & AI complementarities limited.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866312,
-   "ts": "2026-11-24T15:23:09+00:00",
-   "ingested": "2026-11-24T17:04:05.114045+00:00",
-   "headline": "Fitch Ratings: Faster productivity & AI adoption have not resulted in any falls in aggregate us employment & there has been no surge in layoffs.",
    "channel": "rss",
    "source": "financialjuice"
   }
