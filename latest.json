@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T16:39:04.112031+00:00",
+ "updated": "2026-11-27T16:45:44.121932+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870842,
+   "ts": "2026-11-27T16:44:22+00:00",
+   "ingested": "2026-11-27T16:45:44.121408+00:00",
+   "headline": "Russia's Foreign Ministry: Russia reserves the right to take retaliatory measures against Latvia - RIA News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870827,
    "ts": "2026-11-27T16:18:19+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:32:31+00:00",
    "ingested": "2026-11-24T17:04:05.113775+00:00",
    "headline": "US 52-Week Bill Bid-to-Cover Actual 3.040 (Forecast -, Previous 3.150)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866388,
-   "ts": "2026-11-24T16:32:17+00:00",
-   "ingested": "2026-11-24T17:04:05.113796+00:00",
-   "headline": "US 52-Week Bill High Yield Actual 4.365% (Forecast -, Previous 4.290%)",
    "channel": "rss",
    "source": "financialjuice"
   }
