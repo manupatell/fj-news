@@ -26777,3 +26777,5 @@
 {"guid": 9870257, "ts": "2026-11-27T08:00:00+00:00", "ingested": "2026-11-27T08:00:49.449749+00:00", "headline": "Spanish HICP YoY Flash  Actual 4.1% (Forecast 4.7%, Previous 4.9%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9870258, "ts": "2026-11-27T08:00:07+00:00", "ingested": "2026-11-27T08:00:49.449733+00:00", "headline": "Spanish Retail Sales SA YoY Actual -1% (Forecast -, Previous -1.4%)", "channel": "rss", "source": "financialjuice"}
 {"guid": 9870260, "ts": "2026-11-27T08:01:08+00:00", "ingested": "2026-11-27T08:02:29.464955+00:00", "headline": "Currency Strength Chart: Strongest: AUD, NZD, GBP, CAD, EUR, USD, CHF, GBP - Weakest", "channel": "rss", "source": "financialjuice"}
+{"guid": 9870321, "ts": "2026-11-27T08:55:00+00:00", "ingested": "2026-11-27T08:55:49.469199+00:00", "headline": "German Unemployment Rate Actual 6.4% (Forecast 6.4%, Previous 6.4%)", "channel": "rss", "source": "financialjuice"}
+{"guid": 9870322, "ts": "2026-11-27T08:55:01+00:00", "ingested": "2026-11-27T08:55:49.469184+00:00", "headline": "German Unemployment Change SA Actual 9k (Forecast 4.5k, Previous 4k)", "channel": "rss", "source": "financialjuice"}

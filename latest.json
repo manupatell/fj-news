@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-27T08:52:29.467161+00:00",
+ "updated": "2026-11-27T08:55:49.469619+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870322,
+   "ts": "2026-11-27T08:55:01+00:00",
+   "ingested": "2026-11-27T08:55:49.469184+00:00",
+   "headline": "German Unemployment Change SA Actual 9k (Forecast 4.5k, Previous 4k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9870321,
+   "ts": "2026-11-27T08:55:00+00:00",
+   "ingested": "2026-11-27T08:55:49.469199+00:00",
+   "headline": "German Unemployment Rate Actual 6.4% (Forecast 6.4%, Previous 6.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870260,
    "ts": "2026-11-27T08:01:08+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T13:09:46+00:00",
    "ingested": "2026-11-24T17:04:05.114569+00:00",
    "headline": "US prepares to raise tariffs on China, EU, 14 countries - WSJ.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866085,
-   "ts": "2026-11-24T13:08:49+00:00",
-   "ingested": "2026-11-24T17:04:05.114584+00:00",
-   "headline": "US prepares to raise tariffs on china and other countries - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866081,
-   "ts": "2026-11-24T13:04:42+00:00",
-   "ingested": "2026-11-24T17:04:05.114600+00:00",
-   "headline": "BoE\u2019s Greene: Will need to adjust policy on the basis of actual evidence",
    "channel": "rss",
    "source": "financialjuice"
   }
