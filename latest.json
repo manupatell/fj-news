@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T22:14:09.608626+00:00",
+ "updated": "2026-11-27T22:20:49.609641+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871066,
+   "ts": "2026-11-27T22:19:23+00:00",
+   "ingested": "2026-11-27T22:20:49.609005+00:00",
+   "headline": "Saudi civil defense: danger over in eastern province",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871064,
    "ts": "2026-11-27T22:13:32+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T18:00:18+00:00",
    "ingested": "2026-11-24T18:00:45.058438+00:00",
    "headline": "Treasury WI 5 Yr yield 4.716% before $70 billion auction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866489,
-   "ts": "2026-11-24T17:58:45+00:00",
-   "ingested": "2026-11-24T17:59:05.051521+00:00",
-   "headline": "Israeli Defense Minister Katz: Iran believed to be working to develop a dirty bomb. They are moving from enrichment to nuclear weapons - Israel I24 News Reporter on X",
    "channel": "rss",
    "source": "financialjuice"
   }
