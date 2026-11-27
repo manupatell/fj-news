@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T14:57:24.081769+00:00",
+ "updated": "2026-11-27T15:02:24.112446+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870730,
+   "ts": "2026-11-27T15:01:10+00:00",
+   "ingested": "2026-11-27T15:02:24.111890+00:00",
+   "headline": "Iran's IRGC Aerospace Force Commander Mousavi: The enemy should expect action in the air and at sea.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870684,
    "ts": "2026-11-27T14:07:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T15:49:30+00:00",
    "ingested": "2026-11-24T17:04:05.113960+00:00",
    "headline": "Putin: The Russian fuel market situation remains difficult.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866337,
-   "ts": "2026-11-24T15:49:22+00:00",
-   "ingested": "2026-11-24T17:04:05.113975+00:00",
-   "headline": "Putin: Despite difficult geopolitical situation, Russian companies hold leading positions in global energy markets.",
    "channel": "rss",
    "source": "financialjuice"
   }
