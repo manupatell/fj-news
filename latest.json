@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T16:09:04.099081+00:00",
+ "updated": "2026-11-27T16:17:24.124478+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870814,
+   "ts": "2026-11-27T16:16:16+00:00",
+   "ingested": "2026-11-27T16:17:24.123940+00:00",
+   "headline": "US forces disabled commercial vessel in Gulf of Oman on Nov. 26th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870811,
    "ts": "2026-11-27T16:07:47+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:29:13+00:00",
    "ingested": "2026-11-24T17:04:05.113811+00:00",
    "headline": "UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866367,
-   "ts": "2026-11-24T16:15:35+00:00",
-   "ingested": "2026-11-24T17:04:05.113838+00:00",
-   "headline": "Fed bids for 52-Week bills total $4.1 bln",
    "channel": "rss",
    "source": "financialjuice"
   }
