@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T08:00:49.450208+00:00",
+ "updated": "2026-11-27T08:02:29.465382+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870260,
+   "ts": "2026-11-27T08:01:08+00:00",
+   "ingested": "2026-11-27T08:02:29.464955+00:00",
+   "headline": "Currency Strength Chart: Strongest: AUD, NZD, GBP, CAD, EUR, USD, CHF, GBP - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870258,
    "ts": "2026-11-27T08:00:07+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T13:04:42+00:00",
    "ingested": "2026-11-24T17:04:05.114600+00:00",
    "headline": "BoE\u2019s Greene: Will need to adjust policy on the basis of actual evidence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866080,
-   "ts": "2026-11-24T13:03:27+00:00",
-   "ingested": "2026-11-24T17:04:05.114613+00:00",
-   "headline": "BoE's Greene: Indicators show disinflation process has stalled.",
    "channel": "rss",
    "source": "financialjuice"
   }
