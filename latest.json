@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T15:14:04.081304+00:00",
+ "updated": "2026-11-27T15:19:04.081443+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870765,
+   "ts": "2026-11-27T15:17:46+00:00",
+   "ingested": "2026-11-27T15:19:04.080918+00:00",
+   "headline": "Crypto Fear & Greed Index: 12/100 - Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870748,
    "ts": "2026-11-27T15:03:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:00:31+00:00",
    "ingested": "2026-11-24T17:04:05.113904+00:00",
    "headline": "US Treasury to auction $105 bln 4-week bills on November 25th, to settle on December 1st",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866341,
-   "ts": "2026-11-24T15:52:14+00:00",
-   "ingested": "2026-11-24T17:04:05.113918+00:00",
-   "headline": "Putin: Russia will expand sales market.",
    "channel": "rss",
    "source": "financialjuice"
   }
