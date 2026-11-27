@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T22:09:09.603147+00:00",
+ "updated": "2026-11-27T22:10:49.619330+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871062,
+   "ts": "2026-11-27T22:09:34+00:00",
+   "ingested": "2026-11-27T22:10:49.618711+00:00",
+   "headline": "Saudi civil defense issues warning over possible threat in Al Kharj",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871061,
    "ts": "2026-11-27T22:08:22+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T17:45:58+00:00",
    "ingested": "2026-11-24T17:47:25.185877+00:00",
    "headline": "Fed bids for 5-year notes total $7.2 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866470,
-   "ts": "2026-11-24T17:33:23+00:00",
-   "ingested": "2026-11-24T17:34:05.039777+00:00",
-   "headline": "BoC December rate hike chances rise to 80% from 65% after Macklem remarks, swap market data shows.",
    "channel": "rss",
    "source": "financialjuice"
   }
