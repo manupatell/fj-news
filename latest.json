@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T16:05:44.109011+00:00",
+ "updated": "2026-11-27T16:09:04.099081+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9870811,
+   "ts": "2026-11-27T16:07:47+00:00",
+   "ingested": "2026-11-27T16:09:04.098556+00:00",
+   "headline": "Russian Foreign Ministry: Latvia has made its airspace available for transit of Ukrainian drones intended for carrying out attacks against Russian targets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9870806,
    "ts": "2026-11-27T16:00:20+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T16:15:35+00:00",
    "ingested": "2026-11-24T17:04:05.113838+00:00",
    "headline": "Fed bids for 52-Week bills total $4.1 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866361,
-   "ts": "2026-11-24T16:08:25+00:00",
-   "ingested": "2026-11-24T17:04:05.113854+00:00",
-   "headline": "Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
