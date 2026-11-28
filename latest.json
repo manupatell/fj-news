@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-28T18:06:10.143012+00:00",
+ "updated": "2026-11-28T20:29:41.287061+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871501,
+   "ts": "2026-11-28T19:41:58+00:00",
+   "ingested": "2026-11-28T20:29:41.286471+00:00",
+   "headline": "Yemen's Houthis: attacked two power plants in southern Saudi Arabia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9871500,
+   "ts": "2026-11-28T19:41:58+00:00",
+   "ingested": "2026-11-28T20:29:41.286492+00:00",
+   "headline": "Saudi-led coalition: two missiles launched by Yemen's Houthis towards southern region intercepted and destroyed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9871499,
+   "ts": "2026-11-28T19:41:20+00:00",
+   "ingested": "2026-11-28T20:29:41.286504+00:00",
+   "headline": "Yemen's Houthis say they struck Saudi Arabia's Jazan refinery",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9871498,
+   "ts": "2026-11-28T19:40:53+00:00",
+   "ingested": "2026-11-28T20:29:41.286514+00:00",
+   "headline": "Yemen's Houthis report attack on Riyadh airport",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871447,
    "ts": "2026-11-28T15:37:23+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-11-24T19:08:28+00:00",
    "ingested": "2026-11-24T19:09:05.064132+00:00",
    "headline": "BoC's Gov. Macklem: The Housing market is certainly soft, we don't see it leading the recovery.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866592,
-   "ts": "2026-11-24T19:07:36+00:00",
-   "ingested": "2026-11-24T19:09:05.064153+00:00",
-   "headline": "BoC's Gov. Macklem: The overall level of mortgage arrears is not that high.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866591,
-   "ts": "2026-11-24T19:06:31+00:00",
-   "ingested": "2026-11-24T19:07:25.072866+00:00",
-   "headline": "BoC's Gov. Macklem: Mortgage delinquencies have now normalized.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866589,
-   "ts": "2026-11-24T19:04:56+00:00",
-   "ingested": "2026-11-24T19:05:45.079490+00:00",
-   "headline": "BoC's Gov. Macklem: If inflation expectations stay well anchored, we may still need to respond.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866588,
-   "ts": "2026-11-24T19:03:46+00:00",
-   "ingested": "2026-11-24T19:04:05.066000+00:00",
-   "headline": "BoC's Gov. Macklem: The BoC's message is that if a supply shock is temporary, it still makes sense to see through it.",
    "channel": "rss",
    "source": "financialjuice"
   }
