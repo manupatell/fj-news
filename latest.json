@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-28T14:07:50.085163+00:00",
+ "updated": "2026-11-28T14:11:10.075659+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871419,
+   "ts": "2026-11-28T14:10:34+00:00",
+   "ingested": "2026-11-28T14:11:10.075210+00:00",
+   "headline": "Saudi-led coalition: falling shrapnel results in no civilian casualties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9871418,
+   "ts": "2026-11-28T14:10:20+00:00",
+   "ingested": "2026-11-28T14:11:10.075232+00:00",
+   "headline": "Saudi-led coalition: intercepted and neutralized ballistic missile fired by Houthis toward Al-Shugaiq",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871417,
    "ts": "2026-11-28T14:06:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T19:01:27+00:00",
    "ingested": "2026-11-24T19:02:25.084695+00:00",
    "headline": "New Zealand Treasury to offer NZ$700 mln bonds in December.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866568,
-   "ts": "2026-11-24T18:51:36+00:00",
-   "ingested": "2026-11-24T18:52:25.106744+00:00",
-   "headline": "WATCH LIVE: Trump Turkey Pardoning 2 PM ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866541,
-   "ts": "2026-11-24T18:21:59+00:00",
-   "ingested": "2026-11-24T18:22:25.080465+00:00",
-   "headline": "BoC's Gov. Macklem: We're expecting a solid Q3.",
    "channel": "rss",
    "source": "financialjuice"
   }
