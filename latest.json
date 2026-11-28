@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T21:24:41.221944+00:00",
+ "updated": "2026-11-28T21:28:01.224513+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871510,
+   "ts": "2026-11-28T21:27:13+00:00",
+   "ingested": "2026-11-28T21:28:01.224021+00:00",
+   "headline": "Iran\u2019s army reports tanker fire after hitting mine on unauthorized route near Strait of Hormuz - Iranian news agency ISNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871506,
    "ts": "2026-11-28T21:03:16+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T19:14:49+00:00",
    "ingested": "2026-11-24T19:15:45.087700+00:00",
    "headline": "BoC's Gov. Macklem: If energy prices come down faster, inflation should too, and there should be less reason to raise rates.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866594,
-   "ts": "2026-11-24T19:11:47+00:00",
-   "ingested": "2026-11-24T19:12:25.072707+00:00",
-   "headline": "BoC's Gov. Macklem: Oil prices have come down from October.",
    "channel": "rss",
    "source": "financialjuice"
   }
