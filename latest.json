@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-28T07:50:47.897328+00:00",
+ "updated": "2026-11-28T07:52:27.913372+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871313,
+   "ts": "2026-11-28T07:51:18+00:00",
+   "ingested": "2026-11-28T07:52:27.912879+00:00",
+   "headline": "UKMTO: unauthorized individuals are controlling the vessel",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9871312,
+   "ts": "2026-11-28T07:50:59+00:00",
+   "ingested": "2026-11-28T07:52:27.912895+00:00",
+   "headline": "Ukmto: master of cargo ship reports being boarded by armed unauthorized individuals",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871311,
    "ts": "2026-11-28T07:50:34+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T18:18:33+00:00",
    "ingested": "2026-11-24T18:19:05.051921+00:00",
    "headline": "BoC Governor Macklem: Rate hikes get companies to think twice about passing all costs through.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866534,
-   "ts": "2026-11-24T18:17:34+00:00",
-   "ingested": "2026-11-24T18:19:05.051946+00:00",
-   "headline": "BoC Governor Macklem: There is a build-up of cost pressures, history shows they usually take eight to nine months to show up in prices",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866513,
-   "ts": "2026-11-24T18:10:15+00:00",
-   "ingested": "2026-11-24T18:10:45.054918+00:00",
-   "headline": "BoC's Gov. Macklem: Of course we care about employment.",
    "channel": "rss",
    "source": "financialjuice"
   }
