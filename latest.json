@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T13:59:30.108242+00:00",
+ "updated": "2026-11-28T14:06:10.089168+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871416,
+   "ts": "2026-11-28T14:05:48+00:00",
+   "ingested": "2026-11-28T14:06:10.088760+00:00",
+   "headline": "UKMTO: armed individuals who boarded cargo ship off Yemen have left vessel, crew unharmed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871412,
    "ts": "2026-11-28T13:59:17+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T18:21:04+00:00",
    "ingested": "2026-11-24T18:22:25.080486+00:00",
    "headline": "BoC Governor Macklem: Markets overfocus on one or two indicators",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866539,
-   "ts": "2026-11-24T18:20:56+00:00",
-   "ingested": "2026-11-24T18:22:25.080503+00:00",
-   "headline": "Iran's Rezaee: Iran remains firmly determined to break the US blockade",
    "channel": "rss",
    "source": "financialjuice"
   }
