@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T08:12:27.902304+00:00",
+ "updated": "2026-11-28T08:15:47.906321+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871314,
+   "ts": "2026-11-28T08:14:00+00:00",
+   "ingested": "2026-11-28T08:15:47.905848+00:00",
+   "headline": "Saudi civil defense issues warning over potential hazard in Jazan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871313,
    "ts": "2026-11-28T07:51:18+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T18:19:24+00:00",
    "ingested": "2026-11-24T18:20:45.077507+00:00",
    "headline": "BoC Governor Macklem: Already seeing some pass through.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866535,
-   "ts": "2026-11-24T18:18:33+00:00",
-   "ingested": "2026-11-24T18:19:05.051921+00:00",
-   "headline": "BoC Governor Macklem: Rate hikes get companies to think twice about passing all costs through.",
    "channel": "rss",
    "source": "financialjuice"
   }
