@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T15:32:50.104840+00:00",
+ "updated": "2026-11-28T15:37:50.160648+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871447,
+   "ts": "2026-11-28T15:37:23+00:00",
+   "ingested": "2026-11-28T15:37:50.160209+00:00",
+   "headline": "Ukrainian military strikes Russian oil refinery in Rostov, other facilities in Samara and Bashkortostan: defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871420,
    "ts": "2026-11-28T14:11:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T19:03:46+00:00",
    "ingested": "2026-11-24T19:04:05.066000+00:00",
    "headline": "BoC's Gov. Macklem: The BoC's message is that if a supply shock is temporary, it still makes sense to see through it.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866576,
-   "ts": "2026-11-24T19:01:34+00:00",
-   "ingested": "2026-11-24T19:02:25.084673+00:00",
-   "headline": "CIBC expects the Bank of Canada to hike in December.",
    "channel": "rss",
    "source": "financialjuice"
   }
