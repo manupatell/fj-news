@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T20:59:41.210763+00:00",
+ "updated": "2026-11-28T21:04:41.212099+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871506,
+   "ts": "2026-11-28T21:03:16+00:00",
+   "ingested": "2026-11-28T21:04:41.211622+00:00",
+   "headline": "Iran employed Elon Musk\u2019s Starlink to support attacks against U.S.: Washington Post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871501,
    "ts": "2026-11-28T19:41:58+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-11-24T19:11:47+00:00",
    "ingested": "2026-11-24T19:12:25.072707+00:00",
    "headline": "BoC's Gov. Macklem: Oil prices have come down from October.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866593,
-   "ts": "2026-11-24T19:08:28+00:00",
-   "ingested": "2026-11-24T19:09:05.064132+00:00",
-   "headline": "BoC's Gov. Macklem: The Housing market is certainly soft, we don't see it leading the recovery.",
    "channel": "rss",
    "source": "financialjuice"
   }
