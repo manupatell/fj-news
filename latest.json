@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-28T09:22:27.905441+00:00",
+ "updated": "2026-11-28T12:27:40.132754+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9871361,
+   "ts": "2026-11-28T11:19:45+00:00",
+   "ingested": "2026-11-28T12:27:40.131916+00:00",
+   "headline": "Adviser to Iran's supreme leader warns Iraq against becoming \u2018Trump\u2019s tool\u2019 after border crossings closed - post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9871333,
+   "ts": "2026-11-28T09:26:38+00:00",
+   "ingested": "2026-11-28T12:27:40.131968+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys ballistic missile launched by Yemen's Houthis at southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9871314,
    "ts": "2026-11-28T08:14:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-11-24T18:19:58+00:00",
    "ingested": "2026-11-24T18:20:45.077466+00:00",
    "headline": "BoC Governor Macklem: Economy doesn't need as much support.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866537,
-   "ts": "2026-11-24T18:19:48+00:00",
-   "ingested": "2026-11-24T18:20:45.077489+00:00",
-   "headline": "BoC Governor Macklem: There is no risk-free strategy when it comes to rates.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9866536,
-   "ts": "2026-11-24T18:19:24+00:00",
-   "ingested": "2026-11-24T18:20:45.077507+00:00",
-   "headline": "BoC Governor Macklem: Already seeing some pass through.",
    "channel": "rss",
    "source": "financialjuice"
   }
